@@ -1,0 +1,1828 @@
+(LID, 1); (1, Timestamp, 2021-04-10 04:01:27, 10);
+
+(LID, 2); (95, Timestamp, 2021-04-10 04:04:49, 10);
+
+(LID, 3); (96, Timestamp, 2021-04-10 04:04:49, 10);
+
+(LID, 4); (97, Timestamp, 2021-04-10 01:21:27, 9); (97, Timestamp, 2021-04-10 01:24:49, 10);
+
+(LID, 5); (98, Timestamp, 2021-04-10 01:21:27, 9); (98, Timestamp, 2021-04-10 01:24:49, 10);
+
+(LID, 12586); (21, App Name, DuckDuckGo, 10);
+
+(LID, 12587); (27, App Name, DuckDuckGo, 10);
+
+(LID, 12588); (41, App Name, DuckDuckGo, 10);
+
+(LID, 12589); (77, App Name, DuckDuckGo, 10);
+
+(LID, 12590); (127, App Name, DuckDuckGo, 10);
+
+(LID, 12591); (132, App Name, DuckDuckGo, 10);
+
+(LID, 12592); (160, App Name, DuckDuckGo, 10);
+
+(LID, 12593); (170, App Name, DuckDuckGo, 10);
+
+(LID, 12594); (202, App Name, DuckDuckGo, 10);
+
+(LID, 12595); (208, App Name, DuckDuckGo, 10);
+
+(LID, 12596); (245, Username, gskinner, 10); (245, App Name, DuckDuckGo, 10);
+
+(LID, 12597); (275, App Name, DuckDuckGo, 10);
+
+(LID, 12598); (291, App Name, DuckDuckGo, 10);
+
+(LID, 12600); (345, App Name, DuckDuckGo, 10);
+
+(LID, 12601); (400, App Name, DuckDuckGo, 10);
+
+(LID, 12602); (408, Search keyword, Michael Browitt, 9); (408, App Name, DuckDuckGo, 10);
+
+(LID, 12603); (425, App Name, DuckDuckGo, 10);
+
+(LID, 12604); (438, App Name, DuckDuckGo, 10);
+
+(LID, 12605); (442, App Name, DuckDuckGo, 10);
+
+(LID, 12606); (445, App Name, DuckDuckGo, 10);
+
+(LID, 12607); (447, App Name, DuckDuckGo, 10);
+
+(LID, 12608); (535, App Name, DuckDuckGo, 10);
+
+(LID, 12609); (547, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 12610); (550, Search keyword, Ziff Davis, 8); (550, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 12611); (556, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 12612); (563, App Name, DuckDuckGo, 10);
+
+(LID, 12613); (582, App Name, DuckDuckGo, 10);
+
+(LID, 12614); (604, App Name, DuckDuckGo, 10);
+
+(LID, 12615); (627, App Name, DuckDuckGo, 10);
+
+(LID, 12616); (629, App Name, DuckDuckGo, 10);
+
+(LID, 12617); (666, Username, Janrain, 10); (666, App Name, DuckDuckGo, 10);
+
+(LID, 12618); (672, Username, Sajari, 10); (672, App Name, DuckDuckGo, 10);
+
+(LID, 12619); (674, Username, Benhauer, 10); (674, App Name, DuckDuckGo, 10);
+
+(LID, 12620); (698, Username, AdButler, 10); (698, App Name, DuckDuckGo, 10);
+
+(LID, 12621); (705, App Name, DuckDuckGo, 10);
+
+(LID, 12622); (713, App Name, DuckDuckGo, 10);
+
+(LID, 12623); (730, Username, Sooqr, 10); (730, App Name, DuckDuckGo, 10);
+
+(LID, 12624); (746, Username, ARNOLDO MONDADORI EDITORE, 10); (746, App Name, DuckDuckGo, 10);
+
+(LID, 12625); (779, Username, Throtle, 10); (779, App Name, DuckDuckGo, 10);
+
+(LID, 12626); (792, Username, Telaria, 10); (792, App Name, DuckDuckGo, 10);
+
+(LID, 12627); (817, Username, Usabilla, 10); (817, App Name, DuckDuckGo, 10);
+
+(LID, 12628); (830, Username, Vidyard, 10); (830, App Name, DuckDuckGo, 10);
+
+(LID, 12629); (843, Username, Weborama, 10); (843, App Name, DuckDuckGo, 10);
+
+(LID, 12630); (852, App Name, DuckDuckGo, 10);
+
+(LID, 12631); (861, Username, Wirtualna Polska, 10); (861, App Name, DuckDuckGo, 10);
+
+(LID, 12632); (865, Username, Kenshoo TLD, 10); (865, App Name, DuckDuckGo, 10);
+
+(LID, 12633); (868, Username, WGCZ, 10); (868, App Name, DuckDuckGo, 10);
+
+(LID, 12634); (869, Username, Ysance, 10); (869, App Name, DuckDuckGo, 10);
+
+(LID, 12635); (893, Username, Guuru, 10); (893, App Name, DuckDuckGo, 10);
+
+(LID, 12636); (899, App Name, DuckDuckGo, 10);
+
+(LID, 12637); (906, Username, Rijksoverheid, 10); (906, App Name, DuckDuckGo, 10);
+
+(LID, 12638); (16, App Name, DuckDuckGo, 10);
+
+(LID, 12639); (21, App Name, DuckDuckGo, 10);
+
+(LID, 12640); (34, Username, Doggybites bvba, 7); (34, App Name, DuckDuckGo, 10);
+
+(LID, 12641); (284, Username, dimelo, 10); (284, App Name, DuckDuckGo, 10);
+
+(LID, 12642); (453, Username, JustAnswer, 10); (453, App Name, DuckDuckGo, 10);
+
+(LID, 12643); (540, Username, WENGO SAS, 10); (540, Human Name, WENGO SAS, 7); (540, App Name, DuckDuckGo, 10);
+
+(LID, 12644); (570, Username, ONEALL SARL, 8); (570, Human Name, ONEALL SARL, 7); (570, App Name, DuckDuckGo, 10);
+
+(LID, 12645); (716, App Name, DuckDuckGo, 10);
+
+(LID, 12646); (718, App Name, DuckDuckGo, 10);
+
+(LID, 12647); (762, Username, Styria medijski servisi d.o.o., 10); (762, App Name, DuckDuckGo, 10);
+
+(LID, 12648); (867, Username, Adeprimo AB, 10); (867, App Name, DuckDuckGo, 10);
+
+(LID, 12650); (916, App Name, DuckDuckGo, 10);
+
+(LID, 12719); (392, App Name, Google Photos, 10); (392, Timestamp, 2021-07-20 03:44:32, 10);
+
+(LID, 12720); (195, App Name, Gmail, 10);
+
+(LID, 12884); (2022, App Name, Gmail, 10); (2022, Timestamp, 2021-07-02 14:27:27, 10);
+
+(LID, 12885); (1, App Name, Google Play Services, 10);
+
+(LID, 12886); (1, App Name, Google Play Services, 10);
+
+(LID, 13114); (107, App Name, Twitter, 10);
+
+(LID, 13115); (114, App Name, Twitter, 10);
+
+(LID, 13116); (127, App Name, Twitter, 10);
+
+(LID, 13117); (132, App Name, Twitter, 10);
+
+(LID, 13118); (145, App Name, Twitter, 10);
+
+(LID, 13119); (202, App Name, Twitter, 10);
+
+(LID, 13120); (223, App Name, Twitter, 10);
+
+(LID, 13121); (250, App Name, Twitter, 10);
+
+(LID, 13122); (275, App Name, Twitter, 10);
+
+(LID, 13123); (301, App Name, Twitter, 10);
+
+(LID, 13124); (309, App Name, Twitter, 10);
+
+(LID, 13125); (320, App Name, Twitter, 10);
+
+(LID, 13126); (323, App Name, Twitter, 10);
+
+(LID, 13127); (331, App Name, Twitter, 10);
+
+(LID, 13128); (343, App Name, Twitter, 10);
+
+(LID, 13129); (371, App Name, Twitter, 10);
+
+(LID, 13130); (390, App Name, Twitter, 10);
+
+(LID, 13131); (404, App Name, Twitter, 10);
+
+(LID, 13132); (1, App Name, Twitter, 10); (1, Search keyword, HeatherMahalik, 9); (1, Timestamp, 2021-06-10 15:40:46, 10);
+
+(LID, 13133); (2, Timestamp, 2021-04-04 04:15:23, 10); (2, Search keyword, marsha mellos, 9); (2, App Name, Twitter, 10);
+
+(LID, 13134); (3, App Name, Twitter, 10); (3, Timestamp, 2021-04-04 04:15:43, 10); (3, Search keyword, TheNewMyself, 9);
+
+(LID, 13135); (4, App Name, Twitter, 10); (4, Search keyword, PaulScurvy, 9); (4, Timestamp, 2021-04-04 04:15:54, 10);
+
+(LID, 13136); (5, App Name, Twitter, 10); (5, Timestamp, 2021-04-04 04:16:13, 10); (5, Search keyword, mattforensic, 9);
+
+(LID, 13333); (552, App Name, Twitter, 10); (552, Human Name, Pieter Wuille, 8);
+
+(LID, 13334); (556, App Name, Twitter, 10); (556, Search keyword, karissa kindy, 8);
+
+(LID, 13335); (557, Search keyword, karissa, 8); (557, App Name, Twitter, 10);
+
+(LID, 13336); (575, Search keyword, phill moore, 8); (575, App Name, Twitter, 10);
+
+(LID, 13337); (578, App Name, Twitter, 10); (578, Search keyword, nathan, 8);
+
+(LID, 13338); (579, Username, nathanryan, 9); (579, Search keyword, @nathanryan, 8); (579, App Name, Twitter, 10);
+
+(LID, 13339); (580, Search keyword, nathanryan, 8); (580, App Name, Twitter, 10);
+
+(LID, 13340); (581, Search keyword, brianmoran, 8); (581, App Name, Twitter, 10); (581, Human Name, Brian Moran, 8);
+
+(LID, 13341); (582, Search keyword, brian moran, 8); (582, App Name, Twitter, 10);
+
+(LID, 13342); (584, Search keyword, moran, 7); (584, App Name, Twitter, 10);
+
+(LID, 13343); (585, Search keyword, brian, 7); (585, App Name, Twitter, 10);
+
+(LID, 13344); (586, Human Name, Brian Moran, 8); (586, App Name, Twitter, 10); (586, Search keyword, brianjmoran, 8);
+
+(LID, 13345); (587, Search keyword, adam, 7); (587, App Name, Twitter, 10);
+
+(LID, 13346); (591, Search keyword, adamorth, 8); (591, Human Name, Adam Orth, 8); (591, App Name, Twitter, 10);
+
+(LID, 13347); (592, Search keyword, adam orth, 8); (592, App Name, Twitter, 10);
+
+(LID, 13348); (595, Search keyword, christine barnum, 8); (595, App Name, Twitter, 10);
+
+(LID, 13349); (597, Search keyword, christine, 7); (597, App Name, Twitter, 10);
+
+(LID, 13350); (598, Search keyword, lina, 7); (598, App Name, Twitter, 10);
+
+(LID, 13351); (603, Human Name, Candie, 7); (603, Search keyword, candie, 7); (603, App Name, Twitter, 10);
+
+(LID, 13352); (606, Human Name, Candie, 7); (606, Search keyword, candie, 7); (606, App Name, Twitter, 10);
+
+(LID, 13353); (608, Human Name, Candie, 7); (608, Search keyword, candie, 7); (608, App Name, Twitter, 10);
+
+(LID, 13354); (616, Search keyword, hiromichi, 7); (616, Human Name, Hiromichi, 7); (616, App Name, Twitter, 10);
+
+(LID, 13355); (617, Search keyword, hiromichi mizuno, 8); (617, App Name, Twitter, 10);
+
+(LID, 13356); (619, Search keyword, hiromizuno, 8); (619, Human Name, Hiro Mizuno, 7); (619, App Name, Twitter, 10);
+
+(LID, 13357); (620, Search keyword, hiro mizuno, 8); (620, App Name, Twitter, 10);
+
+(LID, 13358); (628, Search keyword, jake, 7); (628, App Name, Twitter, 10);
+
+(LID, 13359); (629, Human Name, Jake Williams, 8); (629, App Name, Twitter, 10); (629, Search keyword, jakewilliams, 8);
+
+(LID, 13360); (631, App Name, Twitter, 10); (631, Search keyword, williams, 7);
+
+(LID, 13361); (632, Search keyword, jake williams, 8); (632, App Name, Twitter, 10);
+
+(LID, 13362); (637, Search keyword, ashlee, 8); (637, App Name, Twitter, 10);
+
+(LID, 13363); (638, App Name, Twitter, 10); (638, Search keyword, ashlee vance, 9);
+
+(LID, 13364); (639, Search keyword, vijay boyapati, 9); (639, App Name, Twitter, 10);
+
+(LID, 13365); (646, Search keyword, vijay, 7); (646, App Name, Twitter, 10);
+
+(LID, 13366); (647, Search keyword, kevin, 7); (647, App Name, Twitter, 10);
+
+(LID, 13367); (649, Search keyword, kevinripa, 7); (649, App Name, Twitter, 10);
+
+(LID, 13368); (651, Search keyword, kevin ripa, 7); (651, App Name, Twitter, 10);
+
+(LID, 13369); (652, App Name, Twitter, 10); (652, Search keyword, ryan, 7);
+
+(LID, 13370); (656, Search keyword, ryan shea, 7); (656, App Name, Twitter, 10);
+
+(LID, 13371); (657, Search keyword, ryaneshea, 7); (657, App Name, Twitter, 10);
+
+(LID, 13372); (661, App Name, Twitter, 10);
+
+(LID, 13373); (663, Search keyword, doge coin, 6); (663, Message, the doge coin guy, 7); (663, App Name, Twitter, 10);
+
+(LID, 13374); (667, App Name, Twitter, 10);
+
+(LID, 13375); (670, App Name, Twitter, 10);
+
+(LID, 13376); (671, App Name, Twitter, 10);
+
+(LID, 13377); (672, App Name, Twitter, 10);
+
+(LID, 13378); (674, App Name, Twitter, 10);
+
+(LID, 13379); (678, App Name, Twitter, 10);
+
+(LID, 13380); (680, App Name, Twitter, 10);
+
+(LID, 13381); (682, App Name, Twitter, 10);
+
+(LID, 13382); (688, App Name, Twitter, 10);
+
+(LID, 13383); (690, App Name, Twitter, 10);
+
+(LID, 18863); (4, App Name, WhatsApp, 10);
+
+(LID, 18864); (5, App Name, WhatsApp, 10);
+
+(LID, 18865); (7, App Name, WhatsApp, 10);
+
+(LID, 18866); (8, App Name, WhatsApp, 10);
+
+(LID, 18867); (12, Human Name, Inyou, 7); (12, App Name, WhatsApp, 10);
+
+(LID, 18868); (14, App Name, WhatsApp, 10);
+
+(LID, 18869); (15, App Name, WhatsApp, 10);
+
+(LID, 18870); (16, App Name, WhatsApp, 10);
+
+(LID, 18871); (19, App Name, WhatsApp, 10);
+
+(LID, 18872); (25, App Name, WhatsApp, 10);
+
+(LID, 18873); (27, App Name, WhatsApp, 10);
+
+(LID, 18874); (31, App Name, WhatsApp, 10);
+
+(LID, 18875); (35, App Name, WhatsApp, 10);
+
+(LID, 19145); (44898, Timestamp, 2019-01-22, 10); (44898, Search keyword, 2019-01-22, 10);
+
+(LID, 19164); (50884, App Name, Google Maps, 10); (50884, App Name, Google Play Services, 10);
+
+(LID, 19166); (51530, App Name, Google Play Services, 10); (51530, App Name, Google Contacts, 10);
+
+(LID, 19171); (54384, Timestamp, 2019-01-22, 10);
+
+(LID, 19190); (58616, App Name, Google Lighter, 8); (58616, App Name, Google Play Services, 10);
+
+(LID, 19199); (53278, App Name, All Cars, 10);
+
+(LID, 19200); (53279, App Name, All Cars, 10);
+
+(LID, 19201); (53280, App Name, All Cars, 10);
+
+(LID, 19202); (53281, App Name, All Cars, 10);
+
+(LID, 19203); (53282, App Name, All Cars, 10);
+
+(LID, 19204); (53283, App Name, All Cars, 10);
+
+(LID, 19205); (53284, App Name, All Cars, 10);
+
+(LID, 19206); (53285, App Name, All Cars, 10);
+
+(LID, 19207); (53286, App Name, All Cars, 10);
+
+(LID, 19208); (53287, App Name, All Cars, 10);
+
+(LID, 19209); (53288, App Name, All Cars, 10);
+
+(LID, 19210); (53289, App Name, All Cars, 10);
+
+(LID, 74658); (1, Timestamp, 2021-06-04 00:42:53, 10);
+
+(LID, 74692); (3, Timestamp, 2020-06-07 01:00:38, 10); (3, Timestamp, 2021-06-19 01:16:17, 10);
+
+(LID, 74693); (1, App Name, Snapchat, 10);
+
+(LID, 74694); (2, Timestamp, 2021-06-19 01:10:58, 10); (2, Timestamp, 2018-10-29 18:23:37, 10);
+
+(LID, 74695); (3, Timestamp, 2020-06-07 01:00:38, 10); (3, Timestamp, 2021-06-19 01:16:17, 10);
+
+(LID, 74697); (4, Search keyword, Cryptocurrency News & Discussion, 9);
+
+(LID, 74698); (5, Search keyword, Fortnite: Battle Royale, 9);
+
+(LID, 74813); (571, App Name, Snapchat, 10);
+
+(LID, 74814); (572, App Name, Snapchat, 10);
+
+(LID, 74815); (573, Timestamp, 2021-04-10 15:40:04, 10);
+
+(LID, 74817); (576, Address, United States, 9);
+
+(LID, 74819); (3, App Name, Snapchat, 10);
+
+(LID, 74820); (19, Search keyword, good morning, 9);
+
+(LID, 74976); (20, App Name, Snapchat, 10);
+
+(LID, 74977); (22, App Name, Snapchat, 10);
+
+(LID, 74978); (23, App Name, Snapchat, 10);
+
+(LID, 74979); (24, App Name, Snapchat, 10);
+
+(LID, 74980); (25, App Name, Snapchat, 10);
+
+(LID, 74981); (28, App Name, Snapchat, 10);
+
+(LID, 74982); (29, App Name, Snapchat, 10);
+
+(LID, 74983); (31, App Name, Snapchat, 10);
+
+(LID, 74984); (34, App Name, Snapchat, 10);
+
+(LID, 74985); (35, App Name, Snapchat, 10);
+
+(LID, 77638); (1423, App Name, Snapchat, 10);
+
+(LID, 77639); (1424, App Name, Snapchat, 10);
+
+(LID, 77640); (1426, App Name, Snapchat, 10);
+
+(LID, 77641); (1427, App Name, Snapchat, 10);
+
+(LID, 77642); (1428, App Name, Snapchat, 10);
+
+(LID, 77643); (1429, App Name, Snapchat, 10);
+
+(LID, 77644); (1432, App Name, Snapchat, 10);
+
+(LID, 77645); (1434, App Name, Snapchat, 10);
+
+(LID, 77646); (1435, App Name, Snapchat, 10);
+
+(LID, 77647); (1436, App Name, Snapchat, 10);
+
+(LID, 77648); (2, App Name, Snapchat, 10);
+
+(LID, 77649); (8, App Name, Snapchat, 10);
+
+(LID, 77650); (9, App Name, Snapchat, 10);
+
+(LID, 77651); (10, App Name, Snapchat, 10);
+
+(LID, 77652); (11, App Name, Snapchat, 10);
+
+(LID, 77653); (13, App Name, Snapchat, 10);
+
+(LID, 77701); (19, App Name, Snapchat, 10);
+
+(LID, 77702); (20, Timestamp, 2021-07-14 18:40:15, 10); (20, Timestamp, 2021-07-13 21:53:13, 10); (20, App Name, Snapchat, 10);
+
+(LID, 77703); (1, Timestamp, 2021-07-14 18:40:15, 10); (1, Search keyword, The top trending game of 2020, 9);
+
+(LID, 77704); (2, Timestamp, 2021-07-14 18:40:15, 10); (2, Search keyword, The top trending game of 2020, 9);
+
+(LID, 77705); (3, Timestamp, 2021-07-14 18:40:15, 10); (3, Search keyword, The top trending game of 2020, 9);
+
+(LID, 77768); (213, Timestamp, 2021-07-15 17:00:15, 10); (213, Human Name, Whistle Worthy, 5);
+
+(LID, 77769); (214, Timestamp, 2021-07-14 18:40:15, 10); (214, Timestamp, 2021-07-09 17:51:50, 10);
+
+(LID, 77770); (335, Timestamp, 2021-07-14 18:40:15, 10); (335, Timestamp, 2021-07-09 00:35:08, 10);
+
+(LID, 77813); (773, Timestamp, 2021-07-14 18:40:15, 10);
+
+(LID, 77961); (1, Timestamp, 2022-03-12 21:11:47, 10); (1, App Name, Facebook Services, 10);
+
+(LID, 77962); (2, Timestamp, 2022-03-12 21:11:47, 10);
+
+(LID, 77963); (3, Timestamp, 2022-03-12 21:11:47, 10);
+
+(LID, 77964); (4, Timestamp, 2022-03-12 21:11:47, 10);
+
+(LID, 77965); (5, Address, Raines Property Management, Myrtle Beach, South Carolina, United States, 9); (5, Timestamp, 2021-07-28 03:06:33, 9);
+
+(LID, 77966); (6, Timestamp, 2021-05-16 04:26:51, 10);
+
+(LID, 77967); (7, Address, Boston, Massachusetts, United States, 10); (7, Timestamp, 2021-07-09 18:52:48, 9); (7, App Name, Google Chrome, 10);
+
+(LID, 77968); (8, Timestamp, 2021-07-09 18:52:39, 9); (8, Address, Blacksburg, Virginia, United States, 9); (8, App Name, Google Chrome, 10);
+
+(LID, 77969); (9, Timestamp, 2021-07-14 18:40:15, 9); (9, Address, ZIP Code 24060, Blacksburg, Virginia, United States, 8); (9, App Name, Google Chrome, 10);
+
+(LID, 77970); (10, Search keyword, Minneapolis Catering, 9); (10, Address, Minneapolis, Minnesota, United States, 8); (10, Timestamp, 2021-04-16 03:37:36, 9); (10, Search keyword, Mintahoe Catering & Events, 9);
+
+(LID, 77971); (11, Address, Minneapolis, MN, USA, 8); (11, Search keyword, Minneapolis Catering Mintahoe Catering & Events, 9); (11, Timestamp, 2021-03-11 22:47:46, 10); (11, App Name, Google Chrome, 10);
+
+(LID, 77972); (12, Address, Minneapolis, MN, USA, 8); (12, Search keyword, Minneapolis Catering Mintahoe Catering & Events, 9); (12, Timestamp, 2021-03-11 22:47:46, 10); (12, App Name, Google Chrome, 10);
+
+(LID, 77973); (13, Timestamp, 2021-03-11 22:47:46, 10); (13, Search keyword, Minneapolis Catering Mintahoe Catering & Events, 9); (13, Address, Minneapolis, MN, USA, 8); (13, App Name, Google Chrome, 10);
+
+(LID, 77974); (14, Timestamp, 2021-03-11 22:47:46, 10); (14, Search keyword, Minneapolis Catering Mintahoe Catering & Events, 9); (14, Address, Minneapolis, MN, USA, 8); (14, App Name, Google Chrome, 10);
+
+(LID, 77975); (15, Timestamp, 2021-04-20 15:43:26, 10); (15, Address, Beavercreek Commons, Beavercreek, OH, USA, 8);
+
+(LID, 77976); (16, Address, Beavercreek Commons, Beavercreek, OH, USA, 9); (16, Timestamp, 2021-04-20 13:48:58, 10);
+
+(LID, 77977); (17, Timestamp, 2021-04-20 14:17:41, 10); (17, Address, Beavercreek Commons, Beavercreek, OH, USA, 9);
+
+(LID, 77978); (18, Timestamp, 2021-06-07 12:34:48, 10);
+
+(LID, 77979); (19, Timestamp, 2021-06-07 12:38:34, 10); (19, Address, Monroe, Ohio, 9);
+
+(LID, 77980); (20, Timestamp, 2021-06-10 14:47:58, 10);
+
+(LID, 77981); (21, Search keyword, T-Mobile TRAVEL | Save on accommodations and rental cars, 8); (21, Timestamp, 2021-07-31 04:56:04, 9); (21, App Name, Google Chrome, 10);
+
+(LID, 77982); (22, App Name, Google Chrome, 10); (22, Timestamp, 2021-06-01 00:00:00, 8); (22, App Name, T-Mobile Travel, 9); (22, Timestamp, 2021-07-31 04:55:00, 9); (22, Address, Myrtle Beach, South Carolina, United States, 10); (22, Timestamp, 2021-06-03 00:00:00, 8);
+
+(LID, 77983); (23, App Name, Google Chrome, 10); (23, Timestamp, 2021-06-01 00:00:00, 8); (23, App Name, T-Mobile Travel, 9); (23, Timestamp, 2021-07-31 04:55:41, 9); (23, Address, Myrtle Beach, South Carolina, United States, 10); (23, Timestamp, 2021-06-03 00:00:00, 8);
+
+(LID, 77984); (24, App Name, Google Chrome, 10); (24, Timestamp, 2021-06-01 00:00:00, 8); (24, App Name, T-Mobile Travel, 9); (24, Address, Myrtle Beach, South Carolina, United States, 10); (24, Timestamp, 2021-06-03 00:00:00, 8); (24, Timestamp, 2021-07-31 04:56:32, 9);
+
+(LID, 77985); (25, Timestamp, 2021-06-05 00:00:00, 8); (25, Timestamp, 2021-07-31 04:59:37, 9); (25, Timestamp, 2021-06-09 00:00:00, 8); (25, App Name, Google Chrome, 10); (25, App Name, T-Mobile Travel, 9); (25, Address, Myrtle Beach, South Carolina, United States, 10);
+
+(LID, 77986); (26, Timestamp, 2021-06-05 00:00:00, 9); (26, Timestamp, 2021-06-09 00:00:00, 9); (26, App Name, Google Chrome, 10); (26, Timestamp, 2021-12-06 00:06:15, 10);
+
+(LID, 77987); (27, Timestamp, 2021-06-05 00:00:00, 9); (27, Timestamp, 2021-12-05 20:12:55, 10); (27, Timestamp, 2021-06-09 00:00:00, 9); (27, App Name, Google Chrome, 10);
+
+(LID, 77988); (28, Timestamp, 2021-06-05 00:00:00, 9); (28, Address, Myrtle Beach Boardwalk and Promenade, Myrtle Beach, South Carolina, USA, 10); (28, Timestamp, 2021-06-09 00:00:00, 9); (28, Timestamp, 2021-12-05 20:12:54, 10); (28, App Name, Google Chrome, 10);
+
+(LID, 77989); (29, Timestamp, 2021-06-05 00:00:00, 9); (29, Address, Myrtle Beach Boardwalk and Promenade, Myrtle Beach, South Carolina, USA, 10); (29, Timestamp, 2021-06-09 00:00:00, 9); (29, Timestamp, 2021-12-05 20:12:54, 10); (29, App Name, Google Chrome, 10);
+
+(LID, 77990); (30, Timestamp, 2021-06-05 00:00:00, 9); (30, Address, Myrtle Beach Boardwalk and Promenade, Myrtle Beach, South Carolina, USA, 10); (30, Timestamp, 2021-06-09 00:00:00, 9); (30, App Name, Google Chrome, 10); (30, Timestamp, 2021-12-05 20:12:53, 10);
+
+(LID, 77991); (31, Timestamp, 2021-12-05 20:12:52, 10); (31, Timestamp, 2021-06-05 00:00:00, 9); (31, Address, Myrtle Beach Boardwalk and Promenade, Myrtle Beach, South Carolina, USA, 10); (31, Timestamp, 2021-06-09 00:00:00, 9); (31, App Name, Google Chrome, 10);
+
+(LID, 77992); (32, Timestamp, 2021-06-05 00:00:00, 9); (32, Address, Myrtle Beach Boardwalk and Promenade, Myrtle Beach, South Carolina, USA, 10); (32, Timestamp, 2021-06-09 00:00:00, 9); (32, Timestamp, 2021-12-05 20:12:43, 10); (32, App Name, Google Chrome, 10);
+
+(LID, 77993); (33, Timestamp, 2021-06-05 00:00:00, 9); (33, Timestamp, 2021-12-05 20:12:56, 10); (33, Timestamp, 2021-06-09 00:00:00, 9); (33, App Name, Google Chrome, 10);
+
+(LID, 77994); (34, Timestamp, 2021-06-11 10:05:06, 10); (34, App Name, Google Chrome, 10);
+
+(LID, 77995); (35, Timestamp, 2022-06-11 10:05:19, 10);
+
+(LID, 77996); (36, Timestamp, 2021-10-30 20:22:38, 10);
+
+(LID, 77997); (37, Timestamp, 2022-06-11 10:07:02, 10);
+
+(LID, 77998); (38, Timestamp, 2022-06-11 10:08:07, 10);
+
+(LID, 77999); (39, Timestamp, 2021-07-09 18:48:18, 10); (39, App Name, Google Chrome, 10);
+
+(LID, 78000); (40, Timestamp, 2021-07-09 18:48:18, 10); (40, App Name, Google Chrome, 10);
+
+(LID, 78014); (54, Timestamp, 2022-03-12 21:10:38, 10); (54, App Name, Google Chrome, 10);
+
+(LID, 78015); (55, Timestamp, 2022-03-12 21:10:38, 10);
+
+(LID, 78016); (56, Timestamp, 2022-03-12 21:10:38, 10);
+
+(LID, 78017); (57, Timestamp, 2022-03-12 21:10:38, 10);
+
+(LID, 78018); (58, Timestamp, 2022-03-12 21:10:38, 10);
+
+(LID, 78019); (59, Timestamp, 2022-03-12 21:12:06, 10);
+
+(LID, 78020); (60, Timestamp, 2021-12-11 20:55:01, 10); (60, App Name, Google Chrome, 10);
+
+(LID, 78021); (61, Address, Simple Cell Shop, 8); (61, Timestamp, 2021-12-11 20:55:01, 10); (61, App Name, Google Chrome, 10);
+
+(LID, 78022); (62, Timestamp, 2022-03-12 21:12:10, 10);
+
+(LID, 78023); (63, Timestamp, 2022-03-12 21:12:17, 10);
+
+(LID, 78024); (64, Timestamp, 2022-03-12 21:12:20, 10);
+
+(LID, 78025); (65, Timestamp, 2022-03-06 15:07:30, 10); (65, App Name, Google Chrome, 10);
+
+(LID, 78026); (66, Timestamp, 2022-03-06 15:07:33, 10); (66, App Name, Google Chrome, 10);
+
+(LID, 78027); (67, Timestamp, 2021-12-19 14:22:32, 10); (67, App Name, Google Chrome, 10);
+
+(LID, 78028); (68, Timestamp, 2022-03-12 21:10:03, 10); (68, App Name, Google Chrome, 10);
+
+(LID, 78029); (69, Timestamp, 2021-12-28 11:26:42, 10); (69, App Name, Google Chrome, 10);
+
+(LID, 78030); (70, Timestamp, 2021-12-28 11:45:12, 10); (70, App Name, Google Chrome, 10);
+
+(LID, 78031); (71, Timestamp, 2021-12-28 11:26:53, 10); (71, App Name, Google Chrome, 10);
+
+(LID, 78032); (72, Timestamp, 2021-12-28 11:26:55, 10); (72, App Name, Google Chrome, 10);
+
+(LID, 78034); (74, Timestamp, 2021-12-30 17:50:23, 10); (74, App Name, Google Chrome, 10);
+
+(LID, 78035); (75, Timestamp, 2021-12-30 17:50:23, 10); (75, App Name, Google Chrome, 10);
+
+(LID, 78036); (76, Timestamp, 2021-01-06 07:13:04, 10); (76, App Name, Google Chrome, 10);
+
+(LID, 78037); (77, Timestamp, 2021-01-06 07:13:42, 10); (77, App Name, Google Chrome, 10);
+
+(LID, 78038); (78, Timestamp, 2021-01-06 07:13:33, 10); (78, App Name, Google Chrome, 10);
+
+(LID, 78039); (79, Timestamp, 2022-06-27 14:13:14, 10); (79, App Name, Google Chrome, 10);
+
+(LID, 78040); (80, Timestamp, 2021-01-08 17:47:28, 10); (80, App Name, Google Chrome, 9);
+
+(LID, 78041); (81, Timestamp, 2021-01-08 17:47:29, 10); (81, App Name, Google Chrome, 9);
+
+(LID, 78042); (82, Timestamp, 2021-01-08 17:47:29, 10); (82, App Name, Google Chrome, 10);
+
+(LID, 78043); (83, Timestamp, 2021-01-08 17:47:29, 10); (83, App Name, Google Chrome, 10);
+
+(LID, 78044); (84, Timestamp, 2021-01-08 17:48:45, 10); (84, App Name, Google Chrome, 10);
+
+(LID, 78045); (85, Timestamp, 2021-01-08 17:48:01, 10); (85, App Name, Google Chrome, 10);
+
+(LID, 78046); (86, Timestamp, 2021-01-09 17:40:38, 10); (86, App Name, Twitter, 9); (86, App Name, Google Chrome, 10);
+
+(LID, 78047); (87, Timestamp, 2021-01-09 17:40:39, 10); (87, App Name, Google Chrome, 9);
+
+(LID, 78048); (88, Timestamp, 2021-01-09 17:40:39, 10); (88, App Name, Google Chrome, 9);
+
+(LID, 78049); (89, Timestamp, 2012-01-19 16:04:03, 7); (89, App Name, Google Chrome, 10);
+
+(LID, 78050); (90, Address, Southern Dodge Chrysler Jeep Ram FIAT - Norfolk Airport, 9); (90, Search keyword, Pre-Owned 2017 Honda CR-V EX-L 4D Sport Utility in Norfolk, 9); (90, Timestamp, 2022-01-22 19:42:04, 10); (90, App Name, Google Chrome, 10);
+
+(LID, 78051); (91, Timestamp, 2021-07-14 14:21:29, 10); (91, Search keyword, Pre-Owned 2017 Honda CR-V EX-L 4D Sport Utility, 9); (91, Address, Norfolk, Virginia, USA, 8); (91, App Name, Google Chrome, 10);
+
+(LID, 78052); (92, Timestamp, 2021-07-14 14:21:29, 10); (92, Search keyword, Pre-Owned 2017 Honda CR-V EX-L 4D Sport Utility, 9); (92, Address, Norfolk, Virginia, USA, 8); (92, App Name, Google Chrome, 10);
+
+(LID, 78053); (93, Timestamp, 2021-07-14 14:39:28, 10); (93, Search keyword, CARFAX Vehicle History Report 2017 HONDA CR-V EXL, 9); (93, App Name, Google Chrome, 10);
+
+(LID, 78054); (94, Timestamp, 2021-07-14 14:39:28, 10); (94, Search keyword, CARFAX Vehicle History Report 2017 HONDA CR-V EXL, 9); (94, App Name, Google Chrome, 10);
+
+(LID, 78055); (95, Timestamp, 2021-07-14 17:32:52, 10); (95, App Name, Google Chrome, 10);
+
+(LID, 78056); (96, Timestamp, 2021-07-14 17:32:52, 10); (96, App Name, CARFAX, 9); (96, App Name, Google Chrome, 10);
+
+(LID, 78057); (97, App Name, CARFAX, 9); (97, Timestamp, 2021-07-14 17:34:05, 10); (97, App Name, Google Chrome, 10);
+
+(LID, 78058); (98, Timestamp, 2021-07-14 17:39:31, 10); (98, App Name, CARFAX, 9); (98, App Name, Google Chrome, 10);
+
+(LID, 78059); (99, Timestamp, 2021-07-14 17:39:31, 10); (99, App Name, CARFAX, 9); (99, App Name, Google Chrome, 10);
+
+(LID, 78060); (100, Timestamp, 2021-07-14 17:39:31, 10); (100, App Name, Google Chrome, 10);
+
+(LID, 78061); (101, Search keyword, Log into Facebook | Facebook, 9); (101, Address, United States, 7); (101, Timestamp, 2021-01-26 04:39:13, 10); (101, App Name, Carfax, 9); (101, App Name, Google Chrome, 10);
+
+(LID, 78062); (102, Search keyword, Sign in - Google Accounts, 9); (102, Search keyword, authorize, 9); (102, Address, United States, 7); (102, App Name, Carfax, 10); (102, Timestamp, 2021-01-26 04:40:02, 10); (102, App Name, Google Chrome, 10);
+
+(LID, 78063); (103, Search keyword, Sign in - Google Accounts, 9); (103, Address, United States, 7); (103, App Name, Carfax, 9); (103, Timestamp, 2021-01-26 04:40:02, 10); (103, App Name, Google Chrome, 10);
+
+(LID, 78064); (104, Search keyword, Sign in - Google Accounts, 8); (104, Address, United States, 7); (104, App Name, Carfax, 9); (104, Timestamp, 2021-01-26 04:40:03, 10); (104, App Name, Google Chrome, 10);
+
+(LID, 78065); (105, Timestamp, 2022-06-15 12:57:05, 10); (105, App Name, Google Chrome, 10);
+
+(LID, 78134); (174, Timestamp, 2021-07-05 18:44:53, 10); (174, App Name, Google Chrome, 10);
+
+(LID, 78135); (175, Timestamp, 2021-07-05 18:44:54, 10); (175, App Name, Google Chrome, 10);
+
+(LID, 78136); (176, Timestamp, 2021-07-05 18:44:54, 10); (176, App Name, Google Chrome, 10);
+
+(LID, 78137); (177, Timestamp, 2021-07-05 18:44:54, 10); (177, App Name, Google Chrome, 10);
+
+(LID, 78138); (178, Timestamp, 2021-07-05 18:45:04, 10); (178, App Name, Google Chrome, 10);
+
+(LID, 78139); (179, Timestamp, 2021-07-05 18:45:04, 10); (179, App Name, Google Chrome, 10);
+
+(LID, 78140); (180, Timestamp, 2021-07-05 18:45:05, 10); (180, App Name, Google Chrome, 10);
+
+(LID, 78141); (181, Timestamp, 2021-07-05 18:45:05, 10); (181, App Name, Google Chrome, 10);
+
+(LID, 78142); (182, Timestamp, 2021-07-05 18:45:05, 10); (182, App Name, Google Chrome, 10);
+
+(LID, 78143); (183, Timestamp, 2021-07-05 18:45:05, 10); (183, App Name, Google Chrome, 10);
+
+(LID, 78144); (184, Timestamp, 2021-07-05 18:45:06, 10); (184, App Name, Google Chrome, 10);
+
+(LID, 78145); (185, Timestamp, 2021-07-05 18:45:06, 10); (185, App Name, Google Chrome, 10);
+
+(LID, 78146); (186, Timestamp, 2021-07-05 18:45:06, 10); (186, App Name, Google Chrome, 10);
+
+(LID, 78147); (187, Timestamp, 2021-07-05 18:45:07, 10); (187, App Name, Google Chrome, 10);
+
+(LID, 78148); (188, Timestamp, 2021-07-05 18:45:07, 10); (188, App Name, Google Chrome, 10);
+
+(LID, 78149); (189, Timestamp, 2021-07-05 18:45:07, 10); (189, App Name, Google Chrome, 10);
+
+(LID, 78150); (190, Timestamp, 2021-07-05 18:45:08, 10); (190, App Name, Google Chrome, 10);
+
+(LID, 78151); (191, Timestamp, 2021-07-05 18:45:08, 10); (191, App Name, Google Chrome, 10);
+
+(LID, 78152); (192, Timestamp, 2021-07-05 18:45:08, 10); (192, App Name, Google Chrome, 10);
+
+(LID, 78153); (193, Timestamp, 2021-07-05 18:45:11, 10); (193, App Name, Google Chrome, 10);
+
+(LID, 78154); (194, Timestamp, 2021-07-05 18:45:11, 10); (194, App Name, Google Chrome, 10);
+
+(LID, 78155); (195, Timestamp, 2021-07-05 18:48:10, 10); (195, App Name, Google Chrome, 10);
+
+(LID, 78156); (196, Timestamp, 2021-07-14 18:52:46, 9); (196, App Name, Google Chrome, 10);
+
+(LID, 78157); (197, Timestamp, 2021-07-14 18:52:46, 9);
+
+(LID, 78160); (200, Timestamp, 2021-07-14 18:52:46, 9); (200, App Name, Google Chrome, 10);
+
+(LID, 78161); (201, Timestamp, 2021-07-05 18:48:12, 10); (201, App Name, Google Chrome, 10);
+
+(LID, 78162); (202, Timestamp, 2021-07-05 18:48:12, 10);
+
+(LID, 78163); (203, Timestamp, 2021-07-05 18:48:12, 10);
+
+(LID, 78164); (204, Timestamp, 2021-07-05 18:52:05, 10);
+
+(LID, 78165); (205, Timestamp, 2021-07-05 18:51:45, 10);
+
+(LID, 78166); (206, Timestamp, 2021-07-05 18:48:15, 10);
+
+(LID, 78167); (207, Search keyword, OBD2 Scanner & WiFi Car Code Reader – Clears Check Engine Lights Instantly – Diagnose 3000 Car Codes - Wireless Car Diagnostic Scanner – Auto Scanner for 1996+ Vehicles (iOS & Android Devices Only); 9); (207, Timestamp, 2022-01-12 10:54:53, 9); (207, App Name, Google Chrome, 10);
+
+(LID, 78168); (208, Search keyword, OBD2 Scanner & WiFi Car Code Reader – Clears Check Engine Lights Instantly – Diagnose 3000 Car Codes - Wireless Car Diagnostic Scanner – Auto Scanner for 1996+ Vehicles (iOS & Android Devices Only); 9); (208, Timestamp, 2022-01-12 10:29:05, 9); (208, App Name, Google Chrome, 10);
+
+(LID, 78169); (209, Timestamp, 2022-01-12 10:55:11, 9);
+
+(LID, 78170); (210, Timestamp, 2021-07-08 04:02:39, 10);
+
+(LID, 78171); (211, Timestamp, 2022-01-12 13:30:18, 9); (211, App Name, Google Chrome, 10);
+
+(LID, 78172); (212, Timestamp, 2021-07-08 03:42:39, 10); (212, App Name, Google Chrome, 10);
+
+(LID, 78173); (213, Timestamp, 2021-07-08 03:42:45, 10); (213, App Name, Google Chrome, 10);
+
+(LID, 78174); (214, Timestamp, 2021-07-08 03:42:46, 10);
+
+(LID, 78175); (215, Timestamp, 2021-07-08 03:42:50, 10);
+
+(LID, 78176); (216, Timestamp, 2021-07-08 03:42:48, 10);
+
+(LID, 78177); (217, Timestamp, 2021-07-08 03:42:48, 10);
+
+(LID, 78178); (218, Timestamp, 2021-07-08 03:42:48, 10);
+
+(LID, 78179); (219, Timestamp, 2021-07-08 03:42:49, 10);
+
+(LID, 78180); (220, Timestamp, 2021-07-08 03:42:50, 10);
+
+(LID, 78181); (221, Timestamp, 2021-07-08 03:42:53, 10);
+
+(LID, 78182); (222, Timestamp, 2021-07-08 03:42:56, 10);
+
+(LID, 78183); (223, Timestamp, 2021-07-08 03:42:59, 10);
+
+(LID, 78184); (224, Timestamp, 2021-07-08 03:43:01, 10);
+
+(LID, 78185); (225, Timestamp, 2021-07-08 03:43:03, 10);
+
+(LID, 78186); (226, Timestamp, 2021-07-15 13:16:12, 10);
+
+(LID, 78187); (227, Timestamp, 2021-07-15 13:16:20, 10);
+
+(LID, 78188); (228, Timestamp, 2021-07-15 13:16:24, 10);
+
+(LID, 78189); (229, Timestamp, 2021-07-15 13:16:28, 10);
+
+(LID, 78190); (230, Timestamp, 2021-07-15 13:16:33, 10);
+
+(LID, 78191); (231, Timestamp, 2021-07-15 13:16:37, 10);
+
+(LID, 78192); (232, Timestamp, 2021-07-08 03:42:54, 10);
+
+(LID, 78193); (233, Timestamp, 2021-07-08 03:44:34, 10);
+
+(LID, 78194); (234, Search keyword, Bourbon, 9); (234, Search keyword, Original Single Barrel, 9); (234, Timestamp, 2021-07-09 18:49:23, 10); (234, Search keyword, Blantons Whiskey, 9);
+
+(LID, 78195); (235, Search keyword, Bourbon, 9); (235, Search keyword, Original Single Barrel, 9); (235, Timestamp, 2021-07-09 18:35:45, 10); (235, Search keyword, Blantons Whiskey, 9);
+
+(LID, 78196); (236, Timestamp, 2021-07-09 18:34:01, 10); (236, Search keyword, Bourbon, 9); (236, Search keyword, Original Single Barrel, 9); (236, App Name, Instacart, 10); (236, Search keyword, Blantons Whiskey, 9);
+
+(LID, 78197); (237, Search keyword, Bourbon, 9); (237, Search keyword, Original Single Barrel, 9); (237, Address, Blacksburg, VA 24060, USA, 8); (237, App Name, Instacart, 10); (237, Timestamp, 2021-07-09 18:37:00, 10); (237, Search keyword, Blantons Whiskey, 9);
+
+(LID, 78198); (238, Timestamp, 2024-03-15 14:23:01, 10);
+
+(LID, 78199); (239, Address, Maryland, USA, 8); (239, Search keyword, 9 Money Moves Every Marylander Needs to Make This Week, 9); (239, Timestamp, 2021-01-09 03:19:47, 10);
+
+(LID, 78200); (240, Timestamp, 2024-03-15 14:28:53, 10);
+
+(LID, 78201); (241, Timestamp, 2024-03-15 14:30:49, 10);
+
+(LID, 78202); (242, Timestamp, 2021-01-09 19:02:59, 10); (242, App Name, Google Chrome, 10);
+
+(LID, 78203); (243, Timestamp, 2021-01-09 19:35:54, 10);
+
+(LID, 78204); (244, Search keyword, Your Shopping Cart, 10); (244, Timestamp, 2024-03-15 14:33:12, 10);
+
+(LID, 78205); (245, Timestamp, 2024-03-15 14:33:10, 10);
+
+(LID, 78206); (246, Address, Chester Springs, PA, 8); (246, App Name, Google Chrome, 10);
+
+(LID, 78207); (247, Timestamp, 2021-07-16 06:59:34, 10);
+
+(LID, 78209); (249, Timestamp, 2021-07-15 13:45:54, 10);
+
+(LID, 78210); (250, Timestamp, 2021-07-15 13:32:44, 10);
+
+(LID, 78211); (251, Timestamp, 2021-01-08 23:37:13, 9);
+
+(LID, 78214); (254, Timestamp, 1643-01-20 00:23:59, 10);
+
+(LID, 78215); (255, Timestamp, 1643-01-20 00:23:59, 10);
+
+(LID, 78216); (256, Timestamp, 1643-01-20 00:24:00, 10);
+
+(LID, 78217); (257, Timestamp, 1643-01-20 00:24:00, 10);
+
+(LID, 78218); (258, Timestamp, 1643-01-20 00:24:00, 10);
+
+(LID, 78219); (259, Timestamp, 1643-01-20 00:24:00, 10);
+
+(LID, 78220); (260, Timestamp, 1643-01-20 00:24:00, 10);
+
+(LID, 78243); (283, Timestamp, 2023-09-15 10:30:50, 10);
+
+(LID, 78244); (284, Timestamp, 2023-09-15 10:30:50, 10);
+
+(LID, 78245); (285, Timestamp, 2023-09-15 10:30:50, 10);
+
+(LID, 78246); (286, Timestamp, 2023-09-15 10:30:51, 10);
+
+(LID, 78247); (287, Timestamp, 2023-09-15 10:30:51, 10);
+
+(LID, 78248); (288, Timestamp, 2023-09-15 10:30:52, 10);
+
+(LID, 78250); (290, Timestamp, 2021-07-05 15:10:22, 10); (290, Search keyword, modernliquors.com, 8);
+
+(LID, 78251); (291, Timestamp, 2021-07-05 15:22:04, 10); (291, Search keyword, modernliquors.com, 8);
+
+(LID, 78253); (76, Timestamp, 2021-07-19 16:28:00, 10); (76, Timestamp, 2017-07-19 08:16:38, 10);
+
+(LID, 78254); (960, Timestamp, 2021-07-19 16:28:00, 10); (960, Timestamp, 2012-11-30 08:40:13, 10);
+
+(LID, 78255); (702, App Name, Twitter, 10);
+
+(LID, 78256); (865, Timestamp, 2021-07-20 22:28:00, 10); (865, App Name, Twitter, 10);
+
+(LID, 78257); (4, Phone Number, +1-805-637-7243, 10);
+
+(LID, 78258); (5, Phone Number, +1-973-520-3731, 10);
+
+(LID, 78259); (6, Phone Number, +972-52-950-2149, 10);
+
+(LID, 78260); (12, Timestamp, 2021-06-22 17:36:54, 10); (12, Phone Number, +1-973-520-3731, 10);
+
+(LID, 78261); (13, Phone Number, +972-52-950-2149, 10); (13, Timestamp, 2021-06-22 17:36:54, 10); (13, Timestamp, 2021-06-22 06:32:11, 10); (13, Phone Number, +1-973-520-3731, 10);
+
+(LID, 78263); (15, Phone Number, +972-52-950-2149, 10); (15, Timestamp, 2021-06-22 17:36:54, 10); (15, Timestamp, 2021-06-22 06:32:11, 10); (15, Phone Number, +1-973-520-3731, 10);
+
+(LID, 78264); (11, Timestamp, 2021-04-12 03:56:04, 10); (11, Address, Blacksburg, Virginia, United States, 9);
+
+(LID, 78265); (12, Address, Ripley, West Virginia, United States, 9); (12, Timestamp, 2021-04-15 10:27:52, 10); (12, Longitude, -81.9676, 10);
+
+(LID, 78266); (13, Address, Ripley, West Virginia, United States, 9); (13, Timestamp, 2021-04-15 10:27:37, 10); (13, Longitude, -81.9672, 10);
+
+(LID, 78267); (14, Address, Christiansburg, Virginia, United States, 9); (14, Timestamp, 2021-05-15 23:44:00, 10);
+
+(LID, 78268); (15, Address, Christiansburg, Virginia, United States, 9); (15, Timestamp, 2021-05-15 23:43:56, 10);
+
+(LID, 78269); (16, Address, Christiansburg, Virginia, United States, 9); (16, App Name, Google Photos, 10); (16, Timestamp, 2021-05-15 23:43:53, 10);
+
+(LID, 78270); (17, Address, Christiansburg, Virginia, United States, 9); (17, App Name, Google Photos, 10); (17, Timestamp, 2021-05-15 23:43:51, 10);
+
+(LID, 78271); (18, Address, Christiansburg, Virginia, United States, 9); (18, Timestamp, 2021-05-15 23:53:32, 10); (18, App Name, Google Photos, 10);
+
+(LID, 78272); (26, Address, Blacksburg, Virginia, United States, 9); (26, Timestamp, 2021-05-20 00:33:05, 10); (26, App Name, Google Photos, 10);
+
+(LID, 78273); (27, App Name, Google Photos, 10); (27, Address, Myrtle Beach, South Carolina, United States, 9); (27, Timestamp, 2021-06-07 01:41:09, 10); (27, Timestamp, 2021-06-06 21:21:09, 10);
+
+(LID, 78274); (28, Timestamp, 2021-06-07 01:41:07, 10); (28, Address, Myrtle Beach, South Carolina, United States, 9); (28, App Name, Google Photos, 10);
+
+(LID, 78275); (29, Timestamp, 2021-06-07 01:40:55, 10); (29, App Name, Google Photos, 10); (29, Address, Myrtle Beach, South Carolina, United States, 9);
+
+(LID, 78276); (102, Address, Priority Lexus Newport News, 12831 Jefferson Ave, Newport News, VA 23608-3017, 10); (102, Timestamp, 2021-05-01 00:00:00, 9); (102, Timestamp, 2021-05-14 00:00:00, 10); (102, App Name, CARFAX, 10); (102, Phone Number, 7572107243, 10); (102, Timestamp, 2016-11-30 00:00:00, 9); (102, Address, Newport News, VA, 10); (102, App Name, snapshots, 7);
+
+(LID, 78282); (213, Timestamp, 2021-07-20 01:48:00, 10); (213, App Name, Twitter, 10);
+
+(LID, 78283); (214, Timestamp, 2021-07-20 01:48:00, 10);
+
+(LID, 78284); (215, Timestamp, 2021-07-20 01:48:00, 10); (215, Timestamp, 2015-08-18 12:18:54, 10);
+
+(LID, 78286); (217, Timestamp, 2021-07-20 01:48:00, 10); (217, App Name, Twitter, 10);
+
+(LID, 78287); (218, Timestamp, 2021-07-20 01:48:00, 10); (218, App Name, Twitter, 10);
+
+(LID, 78288); (219, Timestamp, 2021-07-20 01:48:00, 10); (219, App Name, Twitter, 10);
+
+(LID, 78289); (220, Timestamp, 2021-07-20 01:48:00, 10); (220, App Name, Twitter, 10);
+
+(LID, 78290); (221, Timestamp, 2021-07-20 01:48:00, 10); (221, App Name, Twitter, 10); (221, Timestamp, 2014-05-05 19:29:17, 10);
+
+(LID, 78291); (222, Timestamp, 2021-07-20 01:48:00, 10); (222, App Name, Twitter, 10);
+
+(LID, 78292); (223, Timestamp, 2021-07-20 01:48:00, 10); (223, App Name, Twitter, 10);
+
+(LID, 78293); (224, Timestamp, 2021-07-20 01:48:00, 10); (224, App Name, Twitter, 10);
+
+(LID, 78294); (225, Timestamp, 2021-07-20 01:48:00, 10); (225, Timestamp, 2017-08-02 14:36:42, 10);
+
+(LID, 78295); (226, Timestamp, 2021-07-20 01:48:00, 10);
+
+(LID, 78296); (227, Timestamp, 2021-07-20 01:48:00, 10); (227, Address, Manhattan, NY, USA, 9);
+
+(LID, 78297); (298, Address, Detroit, MI, USA, 9); (298, Timestamp, 2021-07-20 01:48:00, 10);
+
+(LID, 78298); (299, Timestamp, 2021-07-20 01:48:00, 10); (299, Address, Arch 477 Batemans Row, EC2, London, UK, 9);
+
+(LID, 78299); (300, Timestamp, 2021-07-20 01:48:00, 10); (300, Address, London, UK, 9);
+
+(LID, 78300); (301, Timestamp, 2009-09-26 18:22:32, 10); (301, Timestamp, 2021-07-20 01:48:00, 10); (301, Address, Augusta, GA, USA, 9);
+
+(LID, 78301); (302, Timestamp, 2021-07-20 01:48:00, 10); (302, Address, Los Angeles, CA, USA, 9);
+
+(LID, 78302); (303, Address, Chicago, IL, USA, 9); (303, Timestamp, 2021-07-20 01:48:00, 10);
+
+(LID, 78303); (304, Timestamp, 2021-07-20 01:48:00, 10); (304, Address, Los Angeles, CA, USA, 9);
+
+(LID, 78304); (305, Timestamp, 2021-07-20 01:48:00, 10);
+
+(LID, 78305); (306, Timestamp, 2021-07-20 01:48:00, 10); (306, Address, Beaverton, OR, USA, 9);
+
+(LID, 78306); (307, Timestamp, 2021-07-21 16:59:55, 10); (307, Address, USA, 7); (307, Timestamp, 2020-11-08 22:39:47, 10);
+
+(LID, 78307); (308, Timestamp, 2021-07-19 16:48:00, 10);
+
+(LID, 78308); (309, Timestamp, 2021-07-19 16:48:00, 10);
+
+(LID, 78309); (310, Timestamp, 2021-07-19 16:48:00, 10);
+
+(LID, 78310); (311, App Name, Twitter, 10); (311, Timestamp, 2021-07-19 16:48:00, 10);
+
+(LID, 78311); (312, Timestamp, 2021-07-19 16:48:00, 10); (312, App Name, Twitter, 10);
+
+(LID, 78312); (313, Timestamp, 2021-07-19 16:48:00, 10); (313, Username, CellebriteES, 10); (313, App Name, Twitter, 10);
+
+(LID, 78313); (314, App Name, Twitter, 10); (314, Timestamp, 2021-07-19 16:48:00, 10);
+
+(LID, 78314); (315, Longitude, -86.643836, 9); (315, Latitude, 36.12802, 9); (315, App Name, Twitter, 10); (315, Timestamp, 2021-07-19 16:48:00, 10); (315, Address, Wagoner Road, Nashville, TN 37214, United States of America, 8);
+
+(LID, 78315); (316, App Name, Twitter, 10); (316, Timestamp, 2021-07-19 16:48:00, 10);
+
+(LID, 78316); (317, App Name, Twitter, 10); (317, Timestamp, 2021-07-19 16:48:00, 10); (317, Address, Kansas City, USA, 8);
+
+(LID, 78317); (318, Timestamp, 2021-07-19 16:48:00, 10); (318, App Name, Twitter, 10);
+
+(LID, 78318); (319, App Name, Twitter, 10); (319, Timestamp, 2021-07-19 16:48:00, 10); (319, Timestamp, 2020-06-26 17:07:01, 10);
+
+(LID, 78319); (320, Timestamp, 2021-07-19 16:48:00, 10); (320, App Name, Twitter, 10);
+
+(LID, 78320); (321, Address, California, USA, 7); (321, App Name, Twitter, 10); (321, Timestamp, 2021-07-19 16:48:00, 10);
+
+(LID, 78321); (322, Address, San Francisco, CA, USA, 9); (322, App Name, Twitter, 10); (322, Timestamp, 2021-07-19 16:48:00, 10); (322, Address, Bend, OR, USA, 8);
+
+(LID, 78322); (323, Timestamp, 2021-07-19 16:48:00, 10); (323, App Name, Twitter, 10);
+
+(LID, 78323); (324, Timestamp, 2021-07-19 16:48:00, 10); (324, App Name, Twitter, 10);
+
+(LID, 78324); (325, Timestamp, 2021-07-19 16:48:00, 10); (325, App Name, Twitter, 10);
+
+(LID, 78325); (326, App Name, Twitter, 10); (326, Address, Melbourne, Aus/LA, 9); (326, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78326); (327, Timestamp, 2018-04-07 19:02:50, 10); (327, App Name, Twitter, 10); (327, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78327); (409, App Name, Twitter, 10); (409, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78328); (410, Human Name, LinkForest.io, 5); (410, App Name, Twitter, 10); (410, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78329); (411, App Name, Twitter, 10); (411, Timestamp, 2008-02-23 15:29:56, 10); (411, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78330); (412, App Name, Twitter, 10); (412, Address, MauiNoKaOi~LasVegas, 8); (412, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78331); (413, Human Name, Karla, 6); (413, Username, Karla93582000, 10); (413, App Name, Twitter, 10); (413, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78332); (414, Latitude, 37.363229, 10); (414, Longitude, -79.190603, 10); (414, App Name, Twitter, 10); (414, Human Name, ChrisGastardi, 7); (414, Address, Lynchburg Expressway, Lynchburg, VA 24506, United States of America, USA, 9); (414, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78333); (415, Timestamp, 2017-06-29 22:18:07, 10); (415, App Name, Twitter, 10); (415, Timestamp, 2021-07-20 18:08:00, 10);
+
+(LID, 78334); (416, App Name, Twitter, 10); (416, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78335); (417, App Name, Twitter, 10); (417, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78336); (418, Timestamp, 2017-01-23 17:18:32, 10); (418, App Name, Twitter, 10); (418, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78337); (419, App Name, Twitter, 10); (419, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78338); (420, App Name, Twitter, 10); (420, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78339); (421, Human Name, Jim, 7); (421, App Name, Twitter, 10); (421, Timestamp, 2021-07-20 18:08:00, 10);
+
+(LID, 78340); (422, Human Name, KevinSmith, 9); (422, Address, L.A. Mind? N.J., 3); (422, App Name, Twitter, 10); (422, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78341); (423, Timestamp, 2021-07-19 22:48:00, 10); (423, App Name, Twitter, 10);
+
+(LID, 78342); (424, Timestamp, 2021-07-19 22:48:00, 10); (424, App Name, Twitter, 10);
+
+(LID, 78343); (425, App Name, Twitter, 10); (425, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78344); (426, App Name, Twitter, 10); (426, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78345); (427, App Name, Twitter, 10); (427, Human Name, thaconnecter, 3); (427, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78346); (428, Human Name, じょがりん, 8); (428, App Name, Twitter, 10); (428, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78347); (429, Timestamp, 2021-07-19 22:48:00, 10); (429, App Name, Twitter, 10);
+
+(LID, 78348); (430, App Name, Twitter, 10); (430, Timestamp, 2021-07-19 22:48:01, 10);
+
+(LID, 78349); (431, App Name, Twitter, 10); (431, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78350); (432, App Name, Twitter, 10); (432, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78351); (433, App Name, Twitter, 10); (433, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78352); (434, Address, NC, 7); (434, App Name, Twitter, 10); (434, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78353); (435, App Name, Twitter, 10); (435, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78354); (436, Address, London, 9); (436, Human Name, CGP Grey, 9); (436, App Name, Twitter, 10); (436, Timestamp, 2021-07-19 18:47:58, 10);
+
+(LID, 78355); (437, App Name, Twitter, 10); (437, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78356); (438, App Name, Twitter, 10); (438, Timestamp, 2021-07-19 22:48:00, 10);
+
+(LID, 78357); (1, App Name, Twitter, 10); (1, Search keyword, Heather Mahalik, 9); (1, Search keyword, HeatherMahalik, 10); (1, Timestamp, 2021-06-10 00:40:46, 10);
+
+(LID, 78358); (2, Search keyword, marsha mellos, 10); (2, App Name, Twitter, 10); (2, Timestamp, 2021-04-04 22:35:23, 10);
+
+(LID, 78359); (3, Search keyword, Ronen Engler, 9); (3, App Name, Twitter, 10); (3, Search keyword, TheNewMyself, 10); (3, Timestamp, 2021-04-04 22:35:43, 10);
+
+(LID, 78360); (4, Timestamp, 2021-04-04 22:35:54, 10); (4, App Name, Twitter, 10); (4, Search keyword, PaulScurvy, 10); (4, Search keyword, Paul Scurvy, 9);
+
+(LID, 78361); (5, App Name, Twitter, 10); (5, Search keyword, Matt Goeckel, 9); (5, Timestamp, 2021-04-04 22:36:13, 10); (5, Search keyword, mattforensic, 10);
+
+(LID, 78362); (19, Address, US, 7); (19, App Name, Snapchat, 10); (19, Timestamp, 1990-01-31, 10);
+
+(LID, 78363); (1, App Name, Instagram, 10); (1, Address, Vienna Inn, 9); (1, Timestamp, 2021-07-20 20:31:32, 10); (1, Username, 46770300793, 10);
+
+(LID, 78364); (2, Timestamp, 2021-07-20 20:31:40, 10); (2, App Name, Instagram, 10);
+
+(LID, 78365); (3, App Name, Instagram, 10); (3, Timestamp, 2021-07-20 20:43:38, 10);
+
+(LID, 78366); (4, App Name, Instagram, 10); (4, Timestamp, 2021-07-21 03:34:40, 10);
+
+(LID, 78367); (5, App Name, Instagram, 10); (5, Timestamp, 2021-07-21 04:34:45, 10);
+
+(LID, 78368); (6, App Name, Instagram, 10); (6, Timestamp, 2021-07-21 14:40:08, 10);
+
+(LID, 78369); (7, Timestamp, 2021-07-21 23:39:08, 10); (7, App Name, Instagram, 10);
+
+(LID, 78370); (8, App Name, Instagram, 10); (8, Timestamp, 2021-07-21 23:40:17, 10);
+
+(LID, 78371); (9, Timestamp, 2021-07-21 23:40:34, 10); (9, App Name, Instagram, 10);
+
+(LID, 78372); (10, App Name, Instagram, 10); (10, Timestamp, 2021-07-22 03:16:36, 10);
+
+(LID, 78373); (1, App Name, Flatfish Privacy Hider, 10);
+
+(LID, 78374); (2, App Name, Flatfish Privacy Hider, 10);
+
+(LID, 78375); (3, App Name, Flatfish Privacy Hider, 10);
+
+(LID, 78376); (4, App Name, Flatfish Privacy Hider, 10); (4, App Name, Android Rocker Voice Changer, 9);
+
+(LID, 78377); (2, App Name, Google Drive, 10); (2, Timestamp, 2021-06-21 06:15:03, 10);
+
+(LID, 78378); (3, App Name, Google Drive, 10); (3, Timestamp, 2021-06-21 06:15:03, 10);
+
+(LID, 78379); (5, App Name, Google Drive, 10); (5, Timestamp, 2021-06-21 06:15:04, 10);
+
+(LID, 78380); (6, App Name, Google Drive, 10); (6, Timestamp, 2021-06-21 06:15:05, 10);
+
+(LID, 78381); (7, App Name, Google Drive, 10); (7, Timestamp, 2021-06-21 06:15:06, 10);
+
+(LID, 78382); (8, App Name, Google Drive, 10); (8, Timestamp, 2021-06-21 06:15:47, 10);
+
+(LID, 78383); (11, App Name, Google Drive, 10); (11, Timestamp, 2021-06-21 06:15:47, 10);
+
+(LID, 78384); (12, App Name, Google Drive, 10); (12, Timestamp, 2021-06-21 06:15:47, 10);
+
+(LID, 78385); (13, App Name, Google Drive, 10); (13, Timestamp, 2021-06-21 06:15:47, 10);
+
+(LID, 78386); (14, App Name, Google Drive, 10); (14, Timestamp, 2021-06-21 14:17:10, 10);
+
+(LID, 78387); (16, App Name, Google Drive, 10); (16, Timestamp, 2021-06-21 14:17:10, 10);
+
+(LID, 78388); (18, App Name, Google Drive, 10); (18, Timestamp, 2021-06-21 14:17:12, 10);
+
+(LID, 78389); (19, App Name, Google Drive, 10); (19, Timestamp, 2021-06-21 14:17:12, 10);
+
+(LID, 78390); (20, App Name, Google Drive, 10); (20, Timestamp, 2021-06-21 14:18:05, 10);
+
+(LID, 78391); (23, App Name, Google Drive, 10); (23, Timestamp, 2021-06-21 14:18:06, 10);
+
+(LID, 78392); (24, App Name, Google Drive, 10); (24, Timestamp, 2021-06-21 14:18:07, 10);
+
+(LID, 78393); (25, App Name, Google Drive, 10); (25, Timestamp, 2021-06-21 14:18:07, 10);
+
+(LID, 78394); (26, App Name, Google Drive, 10); (26, Timestamp, 2021-06-21 16:59:02, 10);
+
+(LID, 78395); (28, App Name, Google Drive, 10); (28, Timestamp, 2021-06-21 16:59:02, 10);
+
+(LID, 78396); (30, App Name, Google Drive, 10); (30, Timestamp, 2021-06-21 16:59:03, 10);
+
+(LID, 78397); (31, App Name, Google Drive, 10); (31, Timestamp, 2021-06-21 16:59:03, 10);
+
+(LID, 78398); (32, App Name, Google Drive, 10); (32, Timestamp, 2021-06-21 18:55:27, 10);
+
+(LID, 78399); (34, App Name, Google Drive, 10); (34, Timestamp, 2021-06-22 05:45:46, 10);
+
+(LID, 78400); (35, App Name, Google Drive, 10); (35, Timestamp, 2021-06-22 05:45:46, 10);
+
+(LID, 78401); (37, App Name, Google Drive, 10); (37, Timestamp, 2021-06-22 05:45:47, 10);
+
+(LID, 78402); (38, App Name, Google Drive, 10); (38, Timestamp, 2021-06-22 05:45:47, 10);
+
+(LID, 78403); (39, App Name, Google Drive, 10); (39, Timestamp, 2021-06-22 05:45:47, 10);
+
+(LID, 78404); (40, App Name, Google Drive, 10); (40, Timestamp, 2021-06-22 11:27:06, 10);
+
+(LID, 78405); (42, App Name, Google Drive, 10); (42, Timestamp, 2021-06-22 11:27:07, 10);
+
+(LID, 78406); (43, App Name, Google Drive, 10); (43, Timestamp, 2021-06-22 11:27:07, 10);
+
+(LID, 78407); (45, App Name, Google Drive, 10); (45, Timestamp, 2021-06-22 11:27:10, 10);
+
+(LID, 78408); (47, App Name, Google Drive, 10); (47, Timestamp, 2021-06-22 15:29:05, 10);
+
+(LID, 78409); (48, App Name, Google Drive, 10); (48, Timestamp, 2021-06-22 15:29:05, 10);
+
+(LID, 78410); (50, App Name, Google Drive, 10); (50, Timestamp, 2021-06-22 15:29:06, 10);
+
+(LID, 78411); (51, App Name, Google Drive, 10); (51, Timestamp, 2021-06-22 15:29:06, 10);
+
+(LID, 78412); (52, App Name, Google Drive, 10); (52, Timestamp, 2021-06-22 16:50:40, 10);
+
+(LID, 78413); (54, App Name, Google Drive, 10); (54, Timestamp, 2021-06-22 16:50:40, 10);
+
+(LID, 78416); (3, Timestamp, 2021-04-15 19:42:55, 10); (3, Timestamp, 2021-01-21 03:55:40, 10); (3, App Name, Google Play Services, 10);
+
+(LID, 78417); (4, App Name, Google Play Services, 10); (4, Timestamp, 2021-04-04 19:09:11, 10);
+
+(LID, 78418); (5, Timestamp, 2021-01-21 03:55:47, 10); (5, App Name, Google Play Services, 10);
+
+(LID, 78419); (6, App Name, Google Play Services, 10);
+
+(LID, 78420); (7, Timestamp, 2021-04-15 21:31:10, 10); (7, App Name, Google Play Services, 10); (7, App Name, Knox Manage, 8); (7, Timestamp, 2021-07-22 03:33:38, 10); (7, Timestamp, 2021-07-22 03:47:22, 10);
+
+(LID, 78421); (8, App Name, Samsung Quick Share, 8); (8, Timestamp, 2021-04-04 19:09:17, 10); (8, App Name, Google Play Services, 10);
+
+(LID, 78422); (9, App Name, Google Play Services, 10); (9, Timestamp, 2021-06-02 18:37:10, 10); (9, Timestamp, 2021-04-04 19:09:23, 10); (9, Timestamp, 2021-04-15 20:03:32, 10);
+
+(LID, 78423); (10, App Name, Samsung Blockchain Wallet, 8); (10, App Name, Google Play Services, 10); (10, Timestamp, 2021-04-04 19:09:31, 10);
+
+(LID, 78424); (11, Timestamp, 2021-07-09 06:45:16, 10); (11, App Name, Google Play Services, 10); (11, App Name, Samsung Game Launcher, 8);
+
+(LID, 78425); (12, Timestamp, 2021-07-15 19:58:56, 10); (12, Timestamp, 2021-07-15 19:58:58, 10); (12, App Name, Google Play Services, 10); (12, Timestamp, 2021-07-15 23:03:20, 10);
+
+(LID, 78426); (13, App Name, Google Play Services, 10);
+
+(LID, 78427); (14, Timestamp, 2021-04-04 19:09:28, 10); (14, Timestamp, 2021-05-05 11:30:14, 10); (14, App Name, Google Play Services, 10); (14, Timestamp, 2021-04-15 20:52:21, 10);
+
+(LID, 78428); (15, Timestamp, 2021-04-15 18:57:12, 10); (15, App Name, Google Play Services, 10); (15, Timestamp, 2021-06-21 22:42:36, 10); (15, Timestamp, 2021-04-04 19:09:35, 10); (15, App Name, Samsung KGClient, 8);
+
+(LID, 78429); (16, App Name, Google Play Services, 10); (16, Timestamp, 2021-05-24 20:01:27, 10); (16, Timestamp, 2021-05-24 18:21:27, 10); (16, Timestamp, 2021-04-15 21:40:13, 10);
+
+(LID, 78430); (17, Timestamp, 2021-04-04 19:09:42, 10); (17, App Name, Galaxy Store, 8); (17, App Name, Google Play Services, 10); (17, Timestamp, 2021-04-04 19:09:39, 10);
+
+(LID, 78431); (18, Timestamp, 2021-04-04 19:09:41, 10); (18, Timestamp, 2021-06-21 22:42:37, 10); (18, App Name, Google Play Services, 10);
+
+(LID, 78432); (19, Timestamp, 2021-07-20 19:44:33, 10); (19, App Name, Google Play Services, 10); (19, Timestamp, 2020-10-28 16:56:05, 10); (19, Timestamp, 2021-04-04 19:09:59, 10);
+
+(LID, 78433); (20, App Name, Google Play Services, 10);
+
+(LID, 78434); (21, App Name, Samsung Free, 8); (21, Timestamp, 2021-07-14 19:58:01, 10); (21, App Name, Google Play Services, 10); (21, Timestamp, 2021-07-14 19:58:11, 10); (21, Timestamp, 2021-07-12 19:48:21, 10);
+
+(LID, 78435); (22, Timestamp, 2021-04-04 19:10:56, 10); (22, Timestamp, 2021-05-05 11:30:14, 10); (22, App Name, Google Play Services, 10); (22, Timestamp, 2021-04-15 23:09:53, 10); (22, App Name, Samsung Billing, 8);
+
+(LID, 78436); (23, App Name, Google Quick Search Box, 10); (23, Timestamp, 2021-07-09 06:45:19, 10); (23, Timestamp, 2020-12-03 00:25:29, 10); (23, App Name, Google Play Services, 10); (23, Timestamp, 2021-07-09 06:45:17, 10);
+
+(LID, 78437); (24, App Name, Google Play Services, 10); (24, Timestamp, 2021-04-04 19:23:01, 10); (24, Timestamp, 2021-04-04 19:23:12, 10);
+
+(LID, 78438); (25, Timestamp, 2021-04-11 00:44:52, 10); (25, Timestamp, 2021-04-11 00:44:44, 10); (25, App Name, Google Play Services, 10);
+
+(LID, 78439); (26, Timestamp, 2021-04-04 19:25:26, 10); (26, App Name, Google Play Services, 10); (26, Timestamp, 2021-04-15 19:31:43, 10); (26, Timestamp, 2021-06-14 02:20:44, 10);
+
+(LID, 78440); (27, App Name, Google Play Services, 10);
+
+(LID, 78441); (28, App Name, Google Play Services, 10); (28, Timestamp, 2021-04-15 20:33:31, 10); (28, Timestamp, 2021-07-03 22:17:48, 10); (28, Timestamp, 2021-07-03 22:17:45, 10);
+
+(LID, 78442); (29, Timestamp, 2021-04-15 18:16:01, 10); (29, App Name, Google Play Services, 10); (29, Timestamp, 2021-07-01 06:00:58, 10); (29, Timestamp, 2021-07-21 16:03:12, 10);
+
+(LID, 78443); (30, App Name, Google Play Services, 10); (30, Timestamp, 2021-04-15 22:00:34, 10); (30, Timestamp, 2021-06-03 06:24:02, 10);
+
+(LID, 78444); (31, Timestamp, 2020-07-06 16:36:52, 10); (31, App Name, Google Play Services, 10); (31, Timestamp, 2021-07-20 21:15:22, 10); (31, Timestamp, 2021-07-20 21:15:21, 10);
+
+(LID, 78445); (32, Timestamp, 2021-07-22 19:37:36, 10); (32, Timestamp, 2021-07-22 09:48:24, 10); (32, App Name, Google Play Services, 10); (32, Timestamp, 2021-07-22 19:58:58, 10); (32, Timestamp, 2021-06-04 06:38:57, 10);
+
+(LID, 78446); (33, App Name, Google Play Services, 10); (33, Timestamp, 2021-04-15 21:59:39, 10); (33, Timestamp, 2021-07-17 19:26:01, 10);
+
+(LID, 78447); (34, App Name, Google Play Services, 10); (34, Timestamp, 2021-07-20 21:15:22, 10); (34, Timestamp, 2020-09-09 01:23:24, 10);
+
+(LID, 78448); (35, App Name, Google Play Services, 10); (35, Timestamp, 2021-07-21 16:03:11, 10); (35, Timestamp, 2021-04-15 19:44:59, 10);
+
+(LID, 78449); (36, Timestamp, 2021-04-10 17:31:19, 10); (36, App Name, Google Play Services, 10); (36, Timestamp, 2021-04-10 18:05:15, 10); (36, App Name, SSL Capture, 8);
+
+(LID, 78450); (37, App Name, Google Play Services, 10);
+
+(LID, 78451); (38, App Name, Google Play Services, 10); (38, Timestamp, 2021-04-15 21:14:43, 10); (38, Timestamp, 2021-07-08 04:38:13, 10);
+
+(LID, 78452); (39, Timestamp, 2021-06-25 20:44:45, 10); (39, Timestamp, 2021-04-15 22:06:17, 10); (39, App Name, Google Play Services, 10); (39, Timestamp, 2021-06-25 20:44:52, 10);
+
+(LID, 78453); (40, Timestamp, 2021-06-02 02:38:39, 10); (40, App Name, Google Play Services, 10); (40, Timestamp, 2021-04-15 21:58:08, 10); (40, Timestamp, 2021-06-02 02:44:51, 10);
+
+(LID, 78454); (41, App Name, Google Play Services, 10); (41, Timestamp, 2021-06-06 07:49:11, 10); (41, Timestamp, 2021-04-15 22:01:43, 10); (41, Timestamp, 2021-06-06 07:48:54, 10);
+
+(LID, 78455); (42, Timestamp, 2021-07-03 02:02:57, 10); (42, App Name, Google Play Services, 10); (42, Timestamp, 2021-04-15 20:12:53, 10); (42, Timestamp, 2021-07-10 17:13:09, 10); (42, Timestamp, 2021-07-10 18:11:02, 10);
+
+(LID, 78456); (43, Timestamp, 2021-06-26 03:21:54, 10); (43, Timestamp, 2021-07-22 06:00:52, 10); (43, App Name, Google Play Services, 10); (43, Timestamp, 2021-07-22 05:25:36, 10); (43, Timestamp, 2020-10-13 21:06:18, 10);
+
+(LID, 78457); (44, Timestamp, 2021-07-05 19:03:52, 10); (44, Timestamp, 2021-03-14 11:08:00, 10); (44, App Name, Google Play Services, 10); (44, Timestamp, 2021-07-05 19:12:34, 10);
+
+(LID, 78458); (45, Timestamp, 2021-07-08 04:36:57, 10); (45, App Name, Google Play Services, 10); (45, Timestamp, 2021-07-08 04:36:17, 10); (45, Timestamp, 2021-04-22 10:23:23, 10); (45, App Name, Flatfish Calendar, 8);
+
+(LID, 78459); (46, Timestamp, 2021-07-05 19:20:37, 10); (46, Timestamp, 2021-04-15 20:23:22, 10); (46, App Name, Google Play Services, 10); (46, Timestamp, 2021-07-05 19:20:51, 10);
+
+(LID, 78460); (47, Timestamp, 2021-06-08 13:44:46, 10); (47, App Name, Google Play Services, 10); (47, Timestamp, 2021-07-02 04:28:21, 10); (47, Timestamp, 2021-07-02 04:28:08, 10); (47, App Name, NFS No Limits, 8);
+
+(LID, 78461); (48, App Name, Google Play Services, 10); (48, Timestamp, 2021-04-15 18:31:27, 10); (48, Timestamp, 2021-07-20 18:43:36, 10); (48, Timestamp, 2021-07-20 18:43:20, 10);
+
+(LID, 78462); (49, Timestamp, 2021-07-02 04:45:15, 10); (49, App Name, Google Play Services, 10); (49, Timestamp, 2021-07-02 04:40:50, 10); (49, Timestamp, 2021-04-15 19:14:59, 10);
+
+(LID, 78463); (50, Timestamp, 2021-07-05 19:03:41, 10); (50, App Name, Google Play Services, 10); (50, Timestamp, 2021-07-05 19:20:51, 10); (50, Timestamp, 2021-04-15 21:28:30, 10);
+
+(LID, 78464); (51, Timestamp, 2021-07-05 18:56:39, 10); (51, App Name, Google Play Services, 10); (51, Timestamp, 2021-07-05 18:56:26, 10); (51, Timestamp, 2021-04-15 21:26:01, 10);
+
+(LID, 78465); (52, Timestamp, 2021-07-05 18:56:39, 10); (52, Timestamp, 2021-07-05 18:56:42, 10); (52, App Name, Google Play Services, 10); (52, Timestamp, 2021-05-26 16:02:28, 10);
+
+(LID, 78466); (53, Timestamp, 2021-07-09 19:56:13, 10); (53, Timestamp, 2021-07-09 22:30:02, 10); (53, App Name, Google Play Services, 10); (53, Timestamp, 2021-04-15 20:16:02, 10);
+
+(LID, 78467); (54, App Name, Google Play Services, 10); (54, Timestamp, 2020-06-16 00:27:37, 10); (54, Timestamp, 2021-07-08 04:27:25, 10); (54, Timestamp, 2021-07-08 04:27:12, 10);
+
+(LID, 78468); (1, App Name, Instagram, 10); (1, Timestamp, 2021-07-15 06:31:48, 10); (1, Timestamp, 2021-07-15 06:30:56, 10);
+
+(LID, 78469); (2, Timestamp, 2021-07-20 06:34:33, 10); (2, App Name, Instagram, 10); (2, Timestamp, 2021-07-20 06:35:11, 10);
+
+(LID, 78470); (3, App Name, Instagram, 10); (3, Timestamp, 2021-07-20 04:29:17, 10); (3, Timestamp, 2021-07-20 04:29:06, 10);
+
+(LID, 78471); (4, App Name, Instagram, 10); (4, Timestamp, 2021-07-20 04:29:17, 10); (4, Timestamp, 2021-07-20 04:30:33, 10);
+
+(LID, 78472); (5, Timestamp, 2021-07-20 04:31:48, 10); (5, App Name, Instagram, 10); (5, Timestamp, 2021-07-20 04:30:53, 10);
+
+(LID, 78473); (6, Timestamp, 2021-07-20 04:31:48, 10); (6, App Name, Instagram, 10); (6, Timestamp, 2021-07-20 04:31:53, 10);
+
+(LID, 78474); (7, Timestamp, 2021-07-20 10:34:27, 10); (7, App Name, Instagram, 10); (7, Timestamp, 2021-07-20 10:34:28, 10);
+
+(LID, 78475); (8, App Name, Instagram, 10); (8, Timestamp, 2021-07-20 10:34:42, 10); (8, Timestamp, 2021-07-20 10:34:28, 10);
+
+(LID, 78476); (9, App Name, Instagram, 10); (9, Timestamp, 2021-07-20 10:34:42, 10); (9, Timestamp, 2021-07-20 10:34:48, 10);
+
+(LID, 78477); (10, App Name, Instagram, 10); (10, Timestamp, 2021-07-21 13:20:03, 10);
+
+(LID, 78478); (11, Timestamp, 2021-07-21 00:00:09, 10); (11, App Name, Instagram, 10); (11, Timestamp, 2021-07-21 00:00:03, 10);
+
+(LID, 78479); (12, Timestamp, 2021-07-21 00:00:09, 10); (12, App Name, Instagram, 10); (12, Timestamp, 2021-07-21 00:00:12, 10);
+
+(LID, 78480); (13, App Name, Instagram, 10); (13, Timestamp, 2021-07-21 17:35:57, 10);
+
+(LID, 78481); (14, App Name, Instagram, 10); (14, Timestamp, 2021-07-21 18:19:53, 10);
+
+(LID, 78482); (15, App Name, Instagram, 10); (15, Timestamp, 2021-07-21 18:20:22, 10); (15, Timestamp, 2021-07-21 18:19:54, 10);
+
+(LID, 78483); (16, Timestamp, 2021-07-21 18:40:23, 10); (16, App Name, Instagram, 10); (16, Timestamp, 2021-07-21 18:40:22, 10);
+
+(LID, 78484); (17, App Name, Instagram, 10); (17, Timestamp, 2021-07-21 22:16:26, 10);
+
+(LID, 78485); (18, Timestamp, 2021-07-21 22:16:43, 10); (18, App Name, Instagram, 10); (18, Timestamp, 2021-07-21 22:16:26, 10);
+
+(LID, 78486); (19, Timestamp, 2021-07-21 22:16:43, 10); (19, Timestamp, 2021-07-21 22:16:44, 10); (19, App Name, Instagram, 10);
+
+(LID, 78487); (20, App Name, Instagram, 10); (20, Timestamp, 2021-07-22 15:29:15, 10); (20, Timestamp, 2021-07-22 15:29:17, 10);
+
+(LID, 78488); (21, App Name, Instagram, 10); (21, Timestamp, 2021-07-22 15:29:37, 10); (21, Timestamp, 2021-07-22 15:29:17, 10);
+
+(LID, 78489); (22, App Name, Instagram, 10); (22, Timestamp, 2021-07-22 15:29:37, 10); (22, Timestamp, 2021-07-22 15:29:52, 10);
+
+(LID, 78490); (23, Timestamp, 2021-07-22 16:06:37, 10); (23, App Name, Instagram, 10); (23, Timestamp, 2021-07-22 16:06:35, 10);
+
+(LID, 78491); (1, App Name, Snapchat, 10);
+
+(LID, 78493); (3, App Name, Snapchat, 10);
+
+(LID, 78494); (4, App Name, Snapchat, 10);
+
+(LID, 78495); (5, App Name, Snapchat, 10);
+
+(LID, 78496); (6, App Name, Snapchat, 10);
+
+(LID, 78497); (7, App Name, Snapchat, 10);
+
+(LID, 78498); (8, App Name, Snapchat, 10);
+
+(LID, 78499); (9, App Name, Snapchat, 10);
+
+(LID, 78500); (10, App Name, Snapchat, 10);
+
+(LID, 78501); (11, App Name, Snapchat, 10);
+
+(LID, 78502); (12, App Name, Snapchat, 10);
+
+(LID, 78503); (13, App Name, Snapchat, 10);
+
+(LID, 78504); (14, App Name, Snapchat, 10);
+
+(LID, 78505); (15, App Name, Snapchat, 10);
+
+(LID, 78506); (16, App Name, Snapchat, 10);
+
+(LID, 78507); (17, App Name, Snapchat, 10);
+
+(LID, 78508); (18, App Name, Snapchat, 10);
+
+(LID, 78509); (19, App Name, Snapchat, 10);
+
+(LID, 78510); (20, App Name, Snapchat, 10);
+
+(LID, 78511); (21, App Name, Snapchat, 10);
+
+(LID, 78512); (22, App Name, Snapchat, 10);
+
+(LID, 78513); (23, App Name, Snapchat, 10);
+
+(LID, 78514); (24, App Name, Snapchat, 10);
+
+(LID, 78515); (25, App Name, Snapchat, 10);
+
+(LID, 78516); (26, App Name, Snapchat, 10);
+
+(LID, 78517); (27, App Name, Snapchat, 10);
+
+(LID, 78518); (28, App Name, Snapchat, 10);
+
+(LID, 78519); (29, App Name, Snapchat, 10);
+
+(LID, 78520); (30, App Name, Snapchat, 10);
+
+(LID, 78521); (31, App Name, Snapchat, 10);
+
+(LID, 78522); (32, App Name, Snapchat, 10);
+
+(LID, 78523); (33, App Name, Snapchat, 10);
+
+(LID, 78524); (34, App Name, Snapchat, 10);
+
+(LID, 78525); (35, App Name, Snapchat, 10);
+
+(LID, 78526); (36, App Name, Snapchat, 10);
+
+(LID, 78527); (37, App Name, Snapchat, 10);
+
+(LID, 78528); (38, App Name, Snapchat, 10);
+
+(LID, 78529); (39, App Name, Snapchat, 10);
+
+(LID, 78530); (40, App Name, Snapchat, 10);
+
+(LID, 78531); (41, App Name, Snapchat, 10);
+
+(LID, 78532); (42, App Name, Snapchat, 10);
+
+(LID, 78533); (43, App Name, Snapchat, 10);
+
+(LID, 78534); (44, App Name, Snapchat, 10);
+
+(LID, 78535); (45, App Name, Snapchat, 10);
+
+(LID, 78536); (46, App Name, Snapchat, 10);
+
+(LID, 78537); (47, App Name, Snapchat, 10);
+
+(LID, 78538); (48, App Name, Snapchat, 10);
+
+(LID, 78539); (49, Human Name, Felipe Ignacio, 8); (49, App Name, Snapchat, 10);
+
+(LID, 78540); (50, App Name, Snapchat, 10);
+
+(LID, 78541); (51, App Name, Snapchat, 10);
+
+(LID, 78542); (52, App Name, Snapchat, 10);
+
+(LID, 78543); (53, App Name, Snapchat, 10);
+
+(LID, 78544); (54, App Name, Snapchat, 10);
+
+(LID, 78545); (55, App Name, Snapchat, 10);
+
+(LID, 78546); (56, App Name, Snapchat, 10);
+
+(LID, 78547); (57, App Name, Snapchat, 10);
+
+(LID, 78548); (58, App Name, Snapchat, 10);
+
+(LID, 78549); (59, App Name, Snapchat, 10);
+
+(LID, 78550); (60, App Name, Snapchat, 10);
+
+(LID, 78551); (61, App Name, Snapchat, 10);
+
+(LID, 78552); (62, App Name, Snapchat, 10);
+
+(LID, 78553); (63, App Name, Snapchat, 10);
+
+(LID, 78554); (64, App Name, Snapchat, 10);
+
+(LID, 78555); (65, App Name, Snapchat, 10);
+
+(LID, 78556); (66, App Name, Snapchat, 10);
+
+(LID, 78557); (67, App Name, Snapchat, 10);
+
+(LID, 78558); (68, App Name, Snapchat, 10);
+
+(LID, 78559); (69, App Name, Snapchat, 10);
+
+(LID, 78560); (70, App Name, Snapchat, 10);
+
+(LID, 78561); (71, App Name, Snapchat, 10);
+
+(LID, 78562); (72, App Name, Snapchat, 10);
+
+(LID, 78563); (73, App Name, Snapchat, 10); (73, Human Name, Michelle Gon, 7);
+
+(LID, 78564); (74, Human Name, Katelynn Guye, 7); (74, App Name, Snapchat, 10);
+
+(LID, 78565); (75, Human Name, Cleo, 7); (75, App Name, Snapchat, 10);
+
+(LID, 78566); (76, Human Name, Maddox Von, 7); (76, App Name, Snapchat, 10);
+
+(LID, 78567); (77, App Name, Snapchat, 10);
+
+(LID, 78568); (78, Human Name, Jaylen Lacy, 8); (78, App Name, Snapchat, 10);
+
+(LID, 78569); (79, App Name, Snapchat, 10);
+
+(LID, 78570); (80, App Name, Snapchat, 10); (80, Human Name, H Musse, 7);
+
+(LID, 78571); (81, Human Name, Ty Simmons, 8); (81, App Name, Snapchat, 10);
+
+(LID, 78572); (82, App Name, Snapchat, 10);
+
+(LID, 78573); (83, Human Name, Cesar A, 7); (83, App Name, Snapchat, 10);
+
+(LID, 78574); (84, Human Name, Diana A, 8); (84, App Name, Snapchat, 10);
+
+(LID, 78575); (85, App Name, Snapchat, 10);
+
+(LID, 78576); (86, Human Name, Laylani, 8); (86, App Name, Snapchat, 10);
+
+(LID, 78577); (87, Human Name, Jenessa Amari, 7); (87, App Name, Snapchat, 10);
+
+(LID, 78578); (88, Human Name, Ally, 7); (88, App Name, Snapchat, 10);
+
+(LID, 78579); (89, App Name, Snapchat, 10);
+
+(LID, 78580); (90, Human Name, Aundre Harmon, 8); (90, App Name, Snapchat, 10);
+
+(LID, 78581); (91, Human Name, E. Carnell, 7); (91, App Name, Snapchat, 10);
+
+(LID, 78582); (92, App Name, Snapchat, 10); (92, Human Name, Owen Morin, 8);
+
+(LID, 78583); (93, App Name, Snapchat, 10);
+
+(LID, 78584); (94, App Name, Snapchat, 10);
+
+(LID, 78585); (95, App Name, Snapchat, 10);
+
+(LID, 78586); (96, App Name, Snapchat, 10);
+
+(LID, 78587); (97, App Name, Snapchat, 10);
+
+(LID, 78588); (98, App Name, Snapchat, 10);
+
+(LID, 78589); (99, App Name, Snapchat, 10);
+
+(LID, 78590); (1, Search keyword, crying, 10); (1, Timestamp, 2021-06-17 04:31:41, 10); (1, App Name, Twitter, 10);
+
+(LID, 78591); (2, Search keyword, sad, 10); (2, Timestamp, 2021-06-17 04:32:14, 10); (2, App Name, Twitter, 10);
+
+(LID, 78592); (3, Search keyword, i will be there, 10); (3, Timestamp, 2021-06-30 04:36:39, 10); (3, App Name, Twitter, 10);
+
+(LID, 78593); (4, Search keyword, i will be there too, 10); (4, Timestamp, 2021-06-30 04:35:25, 10); (4, App Name, Twitter, 10);
+
+(LID, 78595); (1, App Name, Waze, 10); (1, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78596); (2, App Name, Waze, 10); (2, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78597); (3, App Name, Waze, 10); (3, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78598); (4, App Name, Waze, 10); (4, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78599); (5, App Name, Waze, 10); (5, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78600); (6, App Name, Waze, 10); (6, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78601); (7, App Name, Waze, 10); (7, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78602); (8, App Name, Waze, 10); (8, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78603); (9, App Name, Waze, 10); (9, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78604); (10, App Name, Waze, 10); (10, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78605); (11, App Name, Waze, 10); (11, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78606); (12, App Name, Waze, 10); (12, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78607); (13, App Name, Waze, 10); (13, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78608); (14, App Name, Waze, 10); (14, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78609); (15, App Name, Waze, 10); (15, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78610); (16, App Name, Waze, 10); (16, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78611); (17, App Name, Waze, 10); (17, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78612); (18, App Name, Waze, 10); (18, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78613); (19, App Name, Waze, 10); (19, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78614); (20, App Name, Waze, 10); (20, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78615); (21, App Name, Waze, 10); (21, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78616); (22, App Name, Waze, 10); (22, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78617); (23, App Name, Waze, 10); (23, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78618); (24, App Name, Waze, 10); (24, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78619); (25, App Name, Waze, 10); (25, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78620); (26, App Name, Waze, 10); (26, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78621); (27, App Name, Waze, 10); (27, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78622); (28, App Name, Waze, 10); (28, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78623); (29, App Name, Waze, 10); (29, Message, in, 5); (29, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78624); (30, App Name, Waze, 10); (30, Timestamp, 2021-07-03 19:20:55, 10); (30, Message, to, 5);
+
+(LID, 78625); (31, App Name, Waze, 10); (31, Timestamp, 2021-07-03 19:20:55, 10); (31, Message, on, 5);
+
+(LID, 78626); (32, App Name, Waze, 10); (32, Timestamp, 2021-07-03 19:20:55, 10); (32, Message, meters, 5);
+
+(LID, 78627); (33, App Name, Waze, 10); (33, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78628); (34, App Name, Waze, 10); (34, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78629); (35, App Name, Waze, 10); (35, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78630); (36, App Name, Waze, 10); (36, Timestamp, 2021-07-03 19:20:55, 10); (36, Message, within, 5);
+
+(LID, 78631); (37, App Name, Waze, 10); (37, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78632); (38, App Name, Waze, 10); (38, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78633); (39, App Name, Waze, 10); (39, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78634); (40, App Name, Waze, 10); (40, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78635); (41, App Name, Waze, 10); (41, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78636); (42, App Name, Waze, 10); (42, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78637); (43, App Name, Waze, 10); (43, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78638); (44, App Name, Waze, 10); (44, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78639); (45, App Name, Waze, 10); (45, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78640); (46, App Name, Waze, 10); (46, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78641); (47, App Name, Waze, 10); (47, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78642); (48, App Name, Waze, 10); (48, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78643); (49, App Name, Waze, 10); (49, Message, at, 5); (49, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78644); (50, App Name, Waze, 10); (50, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78645); (51, App Name, Waze, 10); (51, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78646); (52, App Name, Waze, 10); (52, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78647); (53, App Name, Waze, 10); (53, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78648); (54, App Name, Waze, 10); (54, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78649); (55, App Name, Waze, 10); (55, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78650); (56, App Name, Waze, 10); (56, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78651); (57, App Name, Waze, 10); (57, Message, miles, 5); (57, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78652); (58, App Name, Waze, 10); (58, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78653); (59, App Name, Waze, 10); (59, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78654); (60, App Name, Waze, 10); (60, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78655); (61, App Name, Waze, 10); (61, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78656); (62, App Name, Waze, 10); (62, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78657); (63, App Name, Waze, 10); (63, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78658); (64, App Name, Waze, 10); (64, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78659); (65, App Name, Waze, 10); (65, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78660); (66, App Name, Waze, 10); (66, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78661); (67, App Name, Waze, 10); (67, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78662); (68, App Name, Waze, 10); (68, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78663); (69, App Name, Waze, 10); (69, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78664); (70, App Name, Waze, 10); (70, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78665); (71, App Name, Waze, 10); (71, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78666); (72, App Name, Waze, 10); (72, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78667); (73, App Name, Waze, 10); (73, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78668); (74, App Name, Waze, 10); (74, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78669); (75, App Name, Waze, 10); (75, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78670); (76, App Name, Waze, 10); (76, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78671); (77, App Name, Waze, 10); (77, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78672); (78, App Name, Waze, 10); (78, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78673); (79, App Name, Waze, 10); (79, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78674); (80, App Name, Waze, 10); (80, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78675); (81, App Name, Waze, 10); (81, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78676); (82, App Name, Waze, 10); (82, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78677); (83, App Name, Waze, 10); (83, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78678); (84, App Name, Waze, 10); (84, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78679); (85, App Name, Waze, 10); (85, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78680); (86, App Name, Waze, 10); (86, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78681); (87, App Name, Waze, 10); (87, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78682); (88, App Name, Waze, 10); (88, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78683); (89, App Name, Waze, 10); (89, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78684); (90, App Name, Waze, 10); (90, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78685); (91, App Name, Waze, 10); (91, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78686); (92, App Name, Waze, 10); (92, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78687); (93, App Name, Waze, 10); (93, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78688); (94, App Name, Waze, 10); (94, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78689); (95, App Name, Waze, 10); (95, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78690); (96, App Name, Waze, 10); (96, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78691); (97, App Name, Waze, 10); (97, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78692); (98, App Name, Waze, 10); (98, Timestamp, 2021-07-02 18:40:55, 10);
+
+(LID, 78693); (99, App Name, Waze, 10); (99, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78694); (100, App Name, Waze, 10); (100, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78695); (101, App Name, Waze, 10); (101, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78696); (102, App Name, Waze, 10); (102, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78697); (103, App Name, Waze, 10); (103, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78698); (104, App Name, Waze, 10); (104, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78699); (105, App Name, Waze, 10); (105, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78700); (106, App Name, Waze, 10); (106, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78701); (107, App Name, Waze, 10); (107, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78702); (108, App Name, Waze, 10); (108, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78703); (109, App Name, Waze, 10); (109, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78704); (110, App Name, Waze, 10); (110, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78705); (111, App Name, Waze, 10); (111, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78706); (112, App Name, Waze, 10); (112, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78707); (113, App Name, Waze, 10); (113, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78708); (114, App Name, Waze, 10); (114, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78709); (115, App Name, Waze, 10); (115, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78710); (116, App Name, Waze, 10); (116, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78711); (117, App Name, Waze, 10); (117, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78712); (118, App Name, Waze, 10); (118, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78713); (119, App Name, Waze, 10); (119, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78714); (120, App Name, Waze, 10); (120, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78715); (121, App Name, Waze, 10); (121, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78716); (122, App Name, Waze, 10); (122, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78717); (1, App Name, TikTok, 10);
+
+(LID, 78718); (2, App Name, TikTok, 10);
+
+(LID, 78719); (3, App Name, TikTok, 10);
+
+(LID, 78720); (4, App Name, TikTok, 10);
+
+(LID, 78721); (5, App Name, TikTok, 10);
+
+(LID, 78722); (6, App Name, TikTok, 10);
+
+(LID, 78723); (7, App Name, TikTok, 10);
+
+(LID, 78724); (8, App Name, TikTok, 10);
+
+(LID, 78725); (9, App Name, TikTok, 10);
+
+(LID, 78726); (10, App Name, TikTok, 10);
+
+(LID, 78727); (11, App Name, TikTok, 10);
+
+(LID, 78728); (12, App Name, TikTok, 10);
+
+(LID, 78729); (13, App Name, TikTok, 10);
+
+(LID, 78730); (14, App Name, TikTok, 10);
+
+(LID, 78731); (15, App Name, TikTok, 10);
+
+(LID, 78732); (16, App Name, TikTok, 10);
+
+(LID, 78733); (17, App Name, TikTok, 10);
+
+(LID, 78734); (18, App Name, TikTok, 10);
+
+(LID, 78735); (19, App Name, TikTok, 10);
+
+(LID, 78736); (20, App Name, TikTok, 10);
+
+(LID, 78737); (21, App Name, TikTok, 10);
+
+(LID, 78738); (22, App Name, TikTok, 10);
+
+(LID, 78739); (23, App Name, TikTok, 10);
+
+(LID, 78740); (24, App Name, TikTok, 10);
+
+(LID, 78741); (25, App Name, TikTok, 10);
+
+(LID, 78742); (26, App Name, TikTok, 10);
+
+(LID, 78743); (27, App Name, TikTok, 10);
+
+(LID, 78744); (28, App Name, TikTok, 10);
+
+(LID, 78745); (1411, App Name, Snapchat, 10);
+
+(LID, 78746); (1412, App Name, Snapchat, 10);
+
+(LID, 78747); (1413, App Name, Snapchat, 10);
+
+(LID, 78748); (1414, App Name, Snapchat, 10);
+
+(LID, 78749); (1415, App Name, Snapchat, 10);
+
+(LID, 78750); (1416, App Name, Snapchat, 10);
+
+(LID, 78751); (1417, App Name, Snapchat, 10);
+
+(LID, 78752); (1418, App Name, Snapchat, 10);
+
+(LID, 78753); (1419, Human Name, Valentina, 7); (1419, App Name, Snapchat, 10);
+
+(LID, 78754); (1420, App Name, Snapchat, 10);
+
+(LID, 78755); (1421, Human Name, Rajan, 7); (1421, App Name, Snapchat, 10);
+
+(LID, 78756); (1422, App Name, Snapchat, 10);
+
+(LID, 78757); (1423, App Name, Snapchat, 10);
+
+(LID, 78758); (1424, App Name, Snapchat, 10);
+
+(LID, 78759); (1425, Human Name, Duarte, 7); (1425, App Name, Snapchat, 10);
+
+(LID, 78760); (1426, Human Name, Pawel, 8); (1426, App Name, Snapchat, 10);
+
+(LID, 78761); (1427, App Name, Snapchat, 10);
+
+(LID, 78762); (1428, App Name, Snapchat, 10);
+
+(LID, 78763); (1429, App Name, Snapchat, 10);
+
+(LID, 78764); (1430, Human Name, Sameer Khan, 8); (1430, App Name, Snapchat, 10);
+
+(LID, 78765); (1431, Human Name, Vanessa Grace, 8); (1431, App Name, Snapchat, 10);
+
+(LID, 78766); (1432, Human Name, Abdimalik, 8); (1432, App Name, Snapchat, 10);
+
+(LID, 78767); (1433, App Name, Snapchat, 10);
+
+(LID, 78768); (1434, Human Name, Eredrick, 7); (1434, App Name, Snapchat, 10);
+
+(LID, 78769); (1435, Human Name, Jenny, 8); (1435, App Name, Snapchat, 10);
+
+(LID, 78770); (1436, App Name, Snapchat, 10);
+
+(LID, 78771); (1437, Human Name, Ayan, 8); (1437, App Name, Snapchat, 10);
+

@@ -1,0 +1,1186 @@
+(LID, 2); (95, App Name, Tuesdays, 8);
+
+(LID, 3); (96, App Name, Tuesdays, 8);
+
+(LID, 4); (97, App Name, Tuesdays, 8);
+
+(LID, 5); (98, App Name, Tuesdays, 8);
+
+(LID, 12617); (666, App Name, Janrain, 10);
+
+(LID, 12618); (672, App Name, Sajari, 10);
+
+(LID, 12619); (674, App Name, Benhauer, 10);
+
+(LID, 12620); (698, App Name, AdButler, 10);
+
+(LID, 12623); (730, App Name, Sooqr, 10);
+
+(LID, 12624); (746, App Name, Arnoldo Mondadori Editore, 10);
+
+(LID, 12625); (779, App Name, Throtle, 10);
+
+(LID, 12626); (792, App Name, Telaria, 10);
+
+(LID, 12627); (817, App Name, Usabilla, 10);
+
+(LID, 12628); (830, App Name, Vidyard, 10);
+
+(LID, 12629); (843, App Name, Weborama, 10);
+
+(LID, 12631); (861, App Name, Wirtualna Polska, 10);
+
+(LID, 12632); (865, App Name, Kenshoo, 9);
+
+(LID, 12633); (868, App Name, WGCZ, 9);
+
+(LID, 12634); (869, App Name, Ysance, 10);
+
+(LID, 12635); (893, App Name, Guuru, 10);
+
+(LID, 12640); (34, Human Name, Doggybites bvba, 8);
+
+(LID, 12641); (284, App Name, Dimelo Chat, 10);
+
+(LID, 12642); (453, App Name, JustAnswer, 10);
+
+(LID, 12643); (540, App Name, MyBestPro, 10);
+
+(LID, 12644); (570, App Name, OneAll, 10);
+
+(LID, 12647); (762, App Name, Styria, 10);
+
+(LID, 12648); (867, App Name, Tulo, 10);
+
+(LID, 13114); (107, Search keyword, Gardening, 9); (107, Search keyword, Outdoors, 9);
+
+(LID, 13115); (114, Search keyword, Tech professional, 8);
+
+(LID, 13116); (127, Search keyword, Football player, 8);
+
+(LID, 13117); (132, Search keyword, Actor, 9);
+
+(LID, 13118); (145, Search keyword, Pop musician, 9);
+
+(LID, 13119); (202, Search keyword, Business leader, 9);
+
+(LID, 13120); (223, Search keyword, Beauty, 9); (223, Search keyword, Skin care, 9);
+
+(LID, 13121); (250, App Name, Twitch, 10); (250, Search keyword, Brand, 8);
+
+(LID, 13122); (275, Search keyword, Food, 9); (275, Search keyword, Chefs, 9);
+
+(LID, 13123); (301, Search keyword, Zodiac sign, 7); (301, Search keyword, Cancer, 7);
+
+(LID, 13124); (309, Search keyword, Business personality, 9);
+
+(LID, 13125); (320, Search keyword, Rapper, 9);
+
+(LID, 13126); (323, Search keyword, Digital creator, 9);
+
+(LID, 13127); (331, Search keyword, Soccer player, 9);
+
+(LID, 13128); (343, Search keyword, Beauty, 9); (343, Search keyword, All about beauty, 8);
+
+(LID, 13129); (371, Search keyword, Podcast host, 9);
+
+(LID, 13130); (390, Search keyword, Actor, 9);
+
+(LID, 13131); (404, Search keyword, Digital creator, 9);
+
+(LID, 13133); (2, Username, marsha mellos, 7);
+
+(LID, 13334); (556, Username, karissa kindy, 7);
+
+(LID, 13335); (557, Username, karissa, 7);
+
+(LID, 13336); (575, Username, phill moore, 7);
+
+(LID, 13338); (579, Username, @nathanryan, 10);
+
+(LID, 13341); (582, Username, brian moran, 7);
+
+(LID, 13347); (592, Username, adam orth, 7);
+
+(LID, 13348); (595, Username, christine barnum, 7);
+
+(LID, 13351); (603, Username, candieðŸ‘½, 5);
+
+(LID, 13352); (606, Username, candie, 7);
+
+(LID, 13353); (608, Username, candie ðŸ‘½, 5);
+
+(LID, 13354); (616, Username, hiromichi, 7);
+
+(LID, 13372); (661, Human Name, Guy, 6);
+
+(LID, 13373); (663, Username, the doge coin guy, 6);
+
+(LID, 19145); (44898, Timestamp, 2019-01-22 00:00:00, 9);
+
+(LID, 19164); (50884, App Name, Google Lighter/Maps, 9);
+
+(LID, 19166); (51530, App Name, Google People, 9);
+
+(LID, 19171); (54384, Timestamp, 2019-01-22 00:00:00, 9);
+
+(LID, 19183); (56948, Search keyword, lens, 7);
+
+(LID, 19190); (58616, App Name, Google Lighter/GMS, 8);
+
+(LID, 19199); (53278, Message, Manual, 6); (53278, Message, Diesel, 6); (53278, Message, Rear wheel drive, 6); (53278, Message, 1 generation, 6); (53278, Message, Sedan, 6); (53278, Message, 2.4 MT (107 hp), 6);
+
+(LID, 19200); (53279, Message, Automatic, 6); (53279, Message, Gasoline, 6); (53279, Message, 2.0 AT (143 hp), 6); (53279, Message, 1 generation, 6); (53279, Message, Sedan, 6); (53279, Message, Front wheel drive, 6);
+
+(LID, 19201); (53280, Message, Gasoline, 6); (53280, Message, Manual, 6); (53280, Message, 1 generation, 6); (53280, Message, 2.0 MT (143 hp), 6); (53280, Message, Sedan, 6); (53280, Message, Front wheel drive, 6);
+
+(LID, 19202); (53281, Message, Automatic, 6); (53281, Message, Gasoline, 6); (53281, Message, 1 generation, 6); (53281, Message, Turbo, 6); (53281, Message, Sedan, 6); (53281, Message, 2.3 T5 AT (225 hp), 6); (53281, Message, Front wheel drive, 6);
+
+(LID, 19203); (53282, Message, 2.3 T5 MT (225 hp), 6); (53282, Message, Gasoline, 6); (53282, Message, Manual, 6); (53282, Message, 1 generation, 6); (53282, Message, Turbo, 6); (53282, Message, Sedan, 6); (53282, Message, Front wheel drive, 6);
+
+(LID, 19204); (53283, Message, 2.5 AT (140 hp), 6); (53283, Message, Gasoline, 6); (53283, Message, Front wheel drive, 6); (53283, Message, 1 generation, 6); (53283, Message, Sedan, 6); (53283, Message, Automatic, 6);
+
+(LID, 19205); (53284, Message, Gasoline, 6); (53284, Message, Front wheel drive, 6); (53284, Message, 1 generation, 6); (53284, Message, 2.5 AT (170 hp), 6); (53284, Message, Sedan, 6); (53284, Message, Automatic, 6);
+
+(LID, 19206); (53285, Message, 2.5 MT (140 hp), 6); (53285, Message, Gasoline, 6); (53285, Message, Manual, 6); (53285, Message, 1 generation, 6); (53285, Message, Sedan, 6); (53285, Message, Front wheel drive, 6);
+
+(LID, 19207); (53286, Message, Gasoline, 6); (53286, Message, Front wheel drive, 6); (53286, Message, Manual, 6); (53286, Message, 1 generation, 6); (53286, Message, 2.5 MT (170 hp), 6); (53286, Message, Sedan, 6);
+
+(LID, 19208); (53287, Message, Gasoline, 6); (53287, Message, 2.0 AT (143 hp), 6); (53287, Message, Front wheel drive, 6); (53287, Message, 1 generation, 6); (53287, Message, Wagon, 6); (53287, Message, Automatic, 6);
+
+(LID, 19209); (53288, Message, Gasoline, 6); (53288, Message, Manual, 6); (53288, Message, 1 generation, 6); (53288, Message, 2.0 MT (143 hp), 6); (53288, Message, Wagon, 6); (53288, Message, Front wheel drive, 6);
+
+(LID, 19210); (53289, Message, Gasoline, 6); (53289, Message, Front wheel drive, 6); (53289, Message, 1 generation, 6); (53289, Message, Turbo, 6); (53289, Message, Wagon, 6); (53289, Message, 2.3 T5 AT (225 hp), 6); (53289, Message, Automatic, 6);
+
+(LID, 74692); (3, Message, Images or stories of people losing their job, a scholarship/admission, or another kind of opportunity due to their actions online or in person., 9); (3, Message, Images of people losing job/school/other opportunities in life, because of their actions online, or in the real world., 9); (3, Search keyword, byebyejob, 9);
+
+(LID, 74693); (1, Human Name, deleted, 6);
+
+(LID, 74694); (2, Message, Hol' up Rules: 1. Don't be a jerk 2. No reposts especially recent ones. 3. Please do not post things that will get your account suspended. This includes most loli and depictions of minors in a sexual way, excessive violence, gore, and gratuitous use of slurs or hate speech. Posts like this not only get your account suspended but it also puts the sub at risk of being quarantined. Sorry, your shitpost isn't important enough to ruin this pristine sanctuary of immaculate content. 1. Posts must be on-topic. Content must contain some element that is confusing or causes a double-take. 1. No bigotry. Please refrain from posting content or making comments that are derogatory or perpetuate negative stereotypes. 1. In the event that all of the mods are drunk, asleep, or just generally apathetic and your rule-breaking post reaches the front page before we notice, we will waive rules 2 and 4 unless it still really sucks for some reason., 9); (2, Timestamp, 2018-10-29 00:43:37, 10); (2, Search keyword, HolUp, 9); (2, Message, holup is a special moment in every adolescent's life, 9);
+
+(LID, 74695); (3, Message, Images or stories of people losing their job, a scholarship/admission, or another kind of opportunity due to their actions online or in person., 9); (3, Message, r/byebyejob Rules: 1. Posts Must Be on Topic Posts must be about someone who lost either a job/job opportunity or an admission/scholarship to a school or university. Titles should briefly describe the event (crosspost titles/news titles in photos are okay). Try to keep comments relevant. 2. Be Civil Keep it clean. Poking fun and disagreement is okay, but anything aggravating, especially intentionally, is not allowed. Sitewide rules concerning discrimination and inciting violence fall under this rule. Feeding trolls constitutes incivility; see rule 6. Due to a large increase in toxicity over recent weeks, measures to maintain civility will be actively enforced. 3. Action Needs to Have Been Taken One or more involved parties have to have been fired, lost some offer or benefit, suspended, etc. for the post to qualify. Don't upload posts where the person involved might face consequences, and especially don't upload posts petitioning for somebody to be fired when no action has been taken already. Please make sure to indicate the action taken in the title of your post, and provide sources through a comment if needed; OP's responsibility to provide proof, not the viewers'. 4. No Doxxing Absolutely no revealing personal information or soliciting such information in order to harass, intimidate, or contact anyone depicted in a post. Users who violate this rule egregiously or who do so in an attempt to cause harm may be banned. 5. Censor Identifying Information This goes hand in hand with doxxing. Make sure to blur or censor out identifying information about a person. Public figures whose actions or statements are public information do not have to be censored. 6. Don't Feed The Trolls If you see a troll, report them and move on. Replying rarely does any good, escalating the situation is worse. Generally, violating this rule will only earn you a polite reminder. That being said, deliberately escalating a situation violates civility rules, and will be met with sanctions varying based on history, frequency, and severity. Responding to a troll doesn't exempt you from following the rules. 7. Post fake news at your own peril You're responsible for ensuring that what you post is the truth. This includes sensationalism; misconstruing a linked article for clicks is misleading. Whether it's deliberate or simply carelessness, posting something that is clearly and verifiably false WILL result in sanctions. Do your due diligence to avoid accidentally leading several thousands of people into believing falsehoods. Don't say we didn't warn you. 8. No High-Volume Reposting To keep the subreddit focused and to prevent clutter, reposting a popular instance is not allowed. If your post contains new information that falls within the scope of the subreddit, please indicate this in your title. This especially applies to high-profile instances. To a lesser extent, please don't dig up something random from decades ago either. Posts here should be current and relevant., 8); (3, Search keyword, byebyejob, 9); (3, Message, Images of people losing job/school/other opportunities in life, because of their actions online, or in the real world., 9);
+
+(LID, 74697); (4, Message, Cryptocurrency News & Discussion, 7);
+
+(LID, 74698); (5, Message, Fortnite: Battle Royale, 7);
+
+(LID, 74699); (6, Message, Funkygoose, 7);
+
+(LID, 74813); (571, App Name, Bitmoji, 10);
+
+(LID, 74814); (572, App Name, Bitmoji, 10);
+
+(LID, 74819); (3, App Name, CoreData, 9);
+
+(LID, 74820); (19, Message, good morning, 10);
+
+(LID, 74821); (21, Message, good night, 10);
+
+(LID, 77582); (1335, Human Name, Hazel, 9);
+
+(LID, 77640); (1426, Message, Sthlm Dunder ❄️🌳🔫🔪, 9);
+
+(LID, 77648); (2, Username, my_story_ads79sdf, 9); (2, App Name, My Story, 10);
+
+(LID, 77703); (1, Message, The top trending game of 2020, 10); (1, Timestamp, 2021-07-14 04:20:15, 9);
+
+(LID, 77704); (2, Message, The top trending game of 2020, 10); (2, Timestamp, 2021-07-14 04:20:15, 9);
+
+(LID, 77705); (3, Message, The top trending game of 2020, 10); (3, Timestamp, 2021-07-14 04:20:15, 9);
+
+(LID, 77768); (213, Timestamp, 2021-07-13 14:01:14, 10); (213, Search keyword, Whistle Stories, 9); (213, Timestamp, 2021-07-13 14:00:33, 10); (213, Search keyword, Whistle Worthy, 5);
+
+(LID, 77769); (214, Address, USA, 5); (214, Message, She Was Shot In The Stomach At 21..., 9);
+
+(LID, 77770); (335, Timestamp, 2021-07-10 13:15:08, 10); (335, Timestamp, 2021-07-10 13:34:05, 10); (335, Address, USA, 5); (335, Message, The Grip, 9); (335, Search keyword, The Grip, 9);
+
+(LID, 77813); (773, Search keyword, Odd Balls, 5);
+
+(LID, 77961); (1, Timestamp, 2021-06-14 02:52:07, 9); (1, App Name, Google, 9); (1, App Name, Google Chrome, 10);
+
+(LID, 77962); (2, Timestamp, 2021-05-17 22:40:48, 9);
+
+(LID, 77963); (3, Timestamp, 2021-05-17 22:40:48, 9);
+
+(LID, 77964); (4, Timestamp, 2021-05-17 22:40:48, 9);
+
+(LID, 77965); (5, Timestamp, 2021-05-17 22:40:48, 9);
+
+(LID, 77966); (6, Timestamp, 2021-05-17 22:40:48, 9);
+
+(LID, 77967); (7, Timestamp, 2021-04-14 22:57:55, 9); (7, App Name, Rent.com, 9); (7, Address, Boston, Massachusetts, USA, 9);
+
+(LID, 77968); (8, App Name, Rent.com, 9); (8, Address, Blacksburg, Virginia, USA, 8); (8, Timestamp, 2021-04-14 22:57:54, 9);
+
+(LID, 77969); (9, App Name, Rent.com, 9); (9, Address, Blacksburg, Virginia, USA, 8); (9, Timestamp, 2021-04-14 22:57:54, 9);
+
+(LID, 77970); (10, Timestamp, 2021-04-16 18:14:26, 10); (10, Message, Minneapolis Catering | Mintahoe Catering & Events, 7);
+
+(LID, 77971); (11, Address, Minneapolis, Minnesota, USA, 8); (11, App Name, Google Ads, 8); (11, App Name, Mintahoe Catering & Events, 8); (11, Timestamp, 2021-04-16 01:47:36, 9); (11, Search keyword, Minneapolis Catering | Mintahoe Catering & Events, 9);
+
+(LID, 77972); (12, Address, Minneapolis, Minnesota, USA, 8); (12, Timestamp, 2021-04-13 22:07:47, 9); (12, Search keyword, Minneapolis Catering | Mintahoe Catering & Events, 9);
+
+(LID, 77973); (13, Address, Minneapolis, Minnesota, USA, 8); (13, Timestamp, 2021-04-13 22:07:47, 9); (13, Search keyword, Minneapolis Catering | Mintahoe Catering & Events, 9);
+
+(LID, 77974); (14, Address, Minneapolis, Minnesota, USA, 8); (14, Timestamp, 2021-04-13 22:07:47, 9); (14, Search keyword, Minneapolis Catering | Mintahoe Catering & Events, 9);
+
+(LID, 77975); (15, Address, Beavercreek Commons, North Carolina, USA, 8); (15, Timestamp, 2021-04-14 22:57:54, 9);
+
+(LID, 77976); (16, Address, Beavercreek Commons, North Carolina, USA, 8); (16, Timestamp, 2021-04-14 22:57:42, 9);
+
+(LID, 77977); (17, Timestamp, 2021-04-14 22:57:48, 9); (17, Address, Beavercreek Commons, North Carolina, USA, 8);
+
+(LID, 77978); (18, Timestamp, 2021-04-14 22:57:48, 9);
+
+(LID, 77979); (19, Address, Monroe, Ohio, USA, 9); (19, Timestamp, 2021-04-14 22:57:51, 9);
+
+(LID, 77980); (20, Timestamp, 2021-05-17 22:39:48, 9);
+
+(LID, 77981); (21, Timestamp, 2021-05-18 04:29:22, 9); (21, Search keyword, T-Mobile TRAVEL | Save on accommodations and rental cars., 9);
+
+(LID, 77982); (22, App Name, T-Mobile Hotels, 9); (22, Address, Myrtle Beach, South Carolina, USA, 10); (22, Timestamp, 2021-05-18 04:28:01, 9);
+
+(LID, 77983); (23, App Name, T-Mobile Hotels, 9); (23, Timestamp, 2021-05-18 04:28:03, 9); (23, Address, Myrtle Beach, South Carolina, USA, 10);
+
+(LID, 77984); (24, Timestamp, 2021-05-18 04:28:04, 9); (24, App Name, T-Mobile Hotels, 9); (24, Address, Myrtle Beach, South Carolina, USA, 10);
+
+(LID, 77985); (25, App Name, T-Mobile Hotels, 9); (25, Timestamp, 2021-05-18 04:28:24, 9); (25, Address, Myrtle Beach, South Carolina, USA, 10);
+
+(LID, 77986); (26, Timestamp, 2021-06-13 11:32:55, 9);
+
+(LID, 77987); (27, Timestamp, 2021-06-13 11:32:56, 9);
+
+(LID, 77988); (28, Timestamp, 2021-06-13 11:32:54, 9); (28, Address, Myrtle Beach Boardwalk and Promenade, South Carolina, USA, 10);
+
+(LID, 77989); (29, Timestamp, 2021-06-13 11:32:55, 9); (29, Address, Myrtle Beach Boardwalk and Promenade, South Carolina, USA, 10);
+
+(LID, 77990); (30, Timestamp, 2021-06-13 11:32:53, 9); (30, Address, Myrtle Beach Boardwalk and Promenade, South Carolina, USA, 10);
+
+(LID, 77991); (31, Timestamp, 2021-06-13 11:32:52, 9); (31, Address, Myrtle Beach Boardwalk and Promenade, South Carolina, USA, 10);
+
+(LID, 77992); (32, Timestamp, 2021-06-13 11:32:43, 9); (32, Address, Myrtle Beach Boardwalk and Promenade, South Carolina, USA, 10);
+
+(LID, 77993); (33, Timestamp, 2021-06-13 11:32:55, 9);
+
+(LID, 77994); (34, Timestamp, 2021-06-14 02:52:06, 9); (34, App Name, Google, 9);
+
+(LID, 77995); (35, Timestamp, 2021-06-14 03:12:59, 9); (35, App Name, Google, 9);
+
+(LID, 77996); (36, Timestamp, 2021-06-14 02:56:03, 9);
+
+(LID, 77997); (37, Timestamp, 2021-06-14 03:14:58, 9); (37, App Name, Google, 9);
+
+(LID, 77998); (38, Timestamp, 2021-06-14 03:06:07, 9); (38, App Name, Google, 9);
+
+(LID, 77999); (39, App Name, Google Ads, 8); (39, Timestamp, 2021-06-14 03:07:41, 9);
+
+(LID, 78000); (40, App Name, Amazon, 10); (40, Timestamp, 2021-06-14 03:07:41, 9);
+
+(LID, 78014); (54, App Name, Google Google Chrome, 10); (54, App Name, Google, 9); (54, Timestamp, 2021-06-14 03:07:32, 9);
+
+(LID, 78015); (55, Timestamp, 2021-06-14 03:07:33, 9); (55, App Name, Google, 9);
+
+(LID, 78016); (56, Timestamp, 2021-06-14 03:07:33, 9); (56, App Name, Google, 9);
+
+(LID, 78017); (57, Timestamp, 2021-06-14 03:07:34, 9); (57, App Name, Google, 9);
+
+(LID, 78018); (58, Timestamp, 2021-06-14 03:07:35, 9); (58, App Name, Google, 9);
+
+(LID, 78019); (59, Timestamp, 2021-06-14 03:07:39, 9); (59, App Name, Google, 9);
+
+(LID, 78020); (60, App Name, Google Ads, 8); (60, Timestamp, 2021-06-14 03:07:46, 9);
+
+(LID, 78021); (61, Timestamp, 2021-06-14 03:07:46, 9); (61, App Name, Simple Cell Shop, 8);
+
+(LID, 78022); (62, Timestamp, 2021-06-14 03:07:39, 9); (62, App Name, Google, 9);
+
+(LID, 78023); (63, Timestamp, 2021-06-14 03:07:40, 9); (63, App Name, Google, 9);
+
+(LID, 78024); (64, Timestamp, 2021-06-14 03:07:40, 9); (64, App Name, Google, 9);
+
+(LID, 78025); (65, App Name, Google Google Chrome, 10); (65, App Name, Google, 9); (65, Timestamp, 2021-06-14 03:07:50, 9);
+
+(LID, 78026); (66, App Name, Google Google Chrome, 10); (66, Timestamp, 2021-06-14 03:08:31, 9); (66, App Name, Google, 9);
+
+(LID, 78027); (67, Timestamp, 2021-06-15 07:42:32, 9);
+
+(LID, 78028); (68, Timestamp, 2021-06-16 10:56:43, 9); (68, App Name, Google Google Chrome, 10); (68, App Name, Google, 9);
+
+(LID, 78029); (69, App Name, Google Google Chrome, 10); (69, Timestamp, 2021-06-16 10:57:33, 9); (69, App Name, Google, 9);
+
+(LID, 78030); (70, App Name, OrderItalianosPizzaMenu, 8); (70, Timestamp, 2021-06-16 11:13:32, 9);
+
+(LID, 78031); (71, Timestamp, 2021-06-16 10:58:23, 9);
+
+(LID, 78032); (72, Timestamp, 2021-06-16 10:58:35, 9);
+
+(LID, 78034); (74, App Name, Google Google Chrome, 10); (74, App Name, Google, 9); (74, Timestamp, 2021-06-16 18:46:03, 9);
+
+(LID, 78035); (75, App Name, Google Google Chrome, 10); (75, App Name, Google, 9); (75, Timestamp, 2021-06-16 18:46:03, 9);
+
+(LID, 78036); (76, App Name, Google Google Chrome, 9); (76, Timestamp, 2021-06-19 11:39:44, 9);
+
+(LID, 78037); (77, Timestamp, 2021-06-19 11:44:55, 9); (77, App Name, Google Google Chrome, 9);
+
+(LID, 78038); (78, App Name, Google Google Chrome, 10); (78, Timestamp, 2020-06-21 00:00:00, 9);
+
+(LID, 78039); (79, App Name, Google Google Chrome, 10); (79, Timestamp, 2021-06-20 19:13:14, 9);
+
+(LID, 78042); (82, App Name, Google Google Chrome, 9);
+
+(LID, 78043); (83, App Name, Google Google Chrome, 9);
+
+(LID, 78044); (84, App Name, Google Google Chrome, 9);
+
+(LID, 78045); (85, Timestamp, 2021-06-16 23:21:01, 9);
+
+(LID, 78046); (86, Timestamp, 2021-06-17 01:37:22, 9); (86, Search keyword, Corroboration. That Is All. – The Binary Hick, 8);
+
+(LID, 78047); (87, Timestamp, 2021-06-17 01:37:23, 9); (87, Search keyword, Corroboration. That Is All. – The Binary Hick, 8);
+
+(LID, 78048); (88, Timestamp, 2021-06-17 01:37:23, 9); (88, Search keyword, Corroboration. That Is All. – The Binary Hick, 8);
+
+(LID, 78049); (89, Timestamp, 2021-06-17 01:37:23, 9);
+
+(LID, 78050); (90, Search keyword, Pre-Owned 2017 Honda CR-V EX-L 4D Sport Utility in Norfolk #FP2776A | Southern Dodge Chrysler Jeep Ram FIAT - Norfolk Airport, 8); (90, App Name, CarGurus, 8); (90, Timestamp, 2021-06-18 20:38:19, 9);
+
+(LID, 78051); (91, Geographic Address, Southern Dodge Chrysler Jeep Ram FIAT - Norfolk Airport, 8); (91, Timestamp, 1643-01-19 18:38:18, 10); (91, App Name, cargurus, 10);
+
+(LID, 78052); (92, Search keyword, cargurus listings, 8); (92, Timestamp, 2421-07-05 18:23:09, 10);
+
+(LID, 78053); (93, App Name, CARFAX, 9); (93, Search keyword, Vehicle History Report for this 2017 HONDA CR-V EXL, 9); (93, Timestamp, 2421-07-05 18:23:19, 10);
+
+(LID, 78054); (94, App Name, CARFAX, 9); (94, Search keyword, Vehicle History Report for this 2017 HONDA CR-V EXL, 9); (94, Timestamp, 2421-07-05 18:23:19, 10);
+
+(LID, 78055); (95, Timestamp, 2421-07-05 18:39:07, 10); (95, App Name, Google, 8);
+
+(LID, 78056); (96, Timestamp, 2021-07-09 18:38:59, 10); (96, Search keyword, sign in, 8);
+
+(LID, 78057); (97, Timestamp, 2021-07-09 18:39:47, 10); (97, Search keyword, sign in, 8);
+
+(LID, 78058); (98, Search keyword, log into Facebook, 9); (98, Timestamp, 2021-07-09 18:40:32, 10);
+
+(LID, 78059); (99, Search keyword, log into Facebook, 9); (99, Timestamp, 2021-07-09 18:40:32, 10);
+
+(LID, 78060); (100, Search keyword, log into Facebook, 9); (100, Timestamp, 2021-07-09 18:40:32, 10);
+
+(LID, 78061); (101, Search keyword, log into Facebook, 9); (101, Timestamp, 2021-07-09 18:41:35, 10);
+
+(LID, 78062); (102, App Name, Google, 10); (102, Search keyword, sign in, 9); (102, Timestamp, 2021-07-09 18:40:24, 10);
+
+(LID, 78063); (103, App Name, Google, 10); (103, Search keyword, sign in, 9); (103, Timestamp, 2021-07-09 18:40:24, 10);
+
+(LID, 78064); (104, Timestamp, 2021-07-09 18:40:31, 10); (104, App Name, Google, 10);
+
+(LID, 78065); (105, Timestamp, 2021-07-04 12:30:47, 9); (105, App Name, Google Google Chrome, 9);
+
+(LID, 78134); (174, App Name, Google Search, 10); (174, Timestamp, 1643-01-19 18:40:29, 10);
+
+(LID, 78135); (175, App Name, Google Search, 10); (175, Timestamp, 1643-01-19 18:40:29, 10);
+
+(LID, 78136); (176, App Name, Google Search, 10); (176, Timestamp, 1643-01-19 18:40:29, 10);
+
+(LID, 78137); (177, App Name, Google Search, 10); (177, Timestamp, 1643-01-19 18:40:29, 10);
+
+(LID, 78138); (178, App Name, Google Search, 10); (178, Timestamp, 1643-01-19 18:40:30, 10);
+
+(LID, 78139); (179, App Name, Google Search, 10); (179, Timestamp, 1643-01-19 18:40:30, 10);
+
+(LID, 78140); (180, App Name, Google Search, 10); (180, Timestamp, 1643-01-19 18:40:30, 10);
+
+(LID, 78141); (181, App Name, Google Search, 10); (181, Timestamp, 1643-01-19 18:40:30, 10);
+
+(LID, 78142); (182, App Name, Google Search, 10); (182, Timestamp, 1643-01-19 18:40:30, 10);
+
+(LID, 78143); (183, App Name, Google Search, 10); (183, Timestamp, 1643-01-19 18:40:30, 10);
+
+(LID, 78144); (184, App Name, Google Search, 10); (184, Timestamp, 1643-01-19 18:40:30, 10);
+
+(LID, 78145); (185, App Name, Google Search, 10); (185, Timestamp, 1643-01-19 18:40:30, 10);
+
+(LID, 78146); (186, App Name, Google Search, 10); (186, Timestamp, 1643-01-19 18:40:30, 10);
+
+(LID, 78147); (187, App Name, Google Search, 10); (187, Timestamp, 1643-01-19 18:40:30, 10);
+
+(LID, 78148); (188, Timestamp, 2021-07-04 17:12:55, 10); (188, App Name, Google Search, 10);
+
+(LID, 78149); (189, App Name, Google Search, 10); (189, Timestamp, 2021-07-04 17:13:27, 10);
+
+(LID, 78150); (190, Timestamp, 2021-07-04 17:13:28, 10); (190, App Name, Google Search, 10);
+
+(LID, 78151); (191, App Name, Google Search, 10); (191, Timestamp, 2021-07-04 17:13:30, 10);
+
+(LID, 78152); (192, App Name, Google Search, 10); (192, Timestamp, 2021-07-04 17:13:32, 10);
+
+(LID, 78153); (193, App Name, Google Search, 10); (193, Timestamp, 2021-07-04 17:13:34, 10);
+
+(LID, 78154); (194, App Name, Google Search, 10); (194, Timestamp, 2021-07-04 17:13:36, 10);
+
+(LID, 78155); (195, Timestamp, 2021-07-04 17:14:50, 10); (195, App Name, Google Search, 10);
+
+(LID, 78156); (196, Timestamp, 2021-07-04 17:24:26, 10); (196, App Name, Google Ads, 10);
+
+(LID, 78157); (197, App Name, Walmart, 10); (197, Timestamp, 2021-07-05 18:46:06, 10);
+
+(LID, 78158); (198, Timestamp, 2021-07-05 18:45:14, 10); (198, App Name, Walmart, 10);
+
+(LID, 78159); (199, App Name, Walmart, 10); (199, Timestamp, 2021-07-05 18:46:06, 10);
+
+(LID, 78160); (200, App Name, Walmart, 10); (200, Timestamp, 2021-07-05 18:46:06, 10);
+
+(LID, 78161); (201, App Name, Google Search, 10); (201, Timestamp, 1643-01-19 18:40:49, 10);
+
+(LID, 78162); (202, Timestamp, 2421-07-05 18:48:12, 9);
+
+(LID, 78163); (203, Timestamp, 2421-07-05 18:48:12, 9);
+
+(LID, 78164); (204, Timestamp, 2421-07-05 18:52:05, 9);
+
+(LID, 78165); (205, Timestamp, 2421-07-05 18:51:45, 9);
+
+(LID, 78166); (206, Search keyword, obd2 scanner wifi car code reader, 10); (206, Timestamp, 2421-07-05 18:48:15, 9);
+
+(LID, 78167); (207, Search keyword, OBD2 Scanner & WiFi Car Code Reader – Clears Check Engine Lights Instantly – Diagnose 3000 Car Codes - Wireless Car Diagnostic Scanner – Auto Scanner for 1996+ Vehicles (iOS & Android Devices Only); 9); (207, App Name, Google Chrome, 10); (207, Timestamp, 2421-07-05 18:51:33, 9);
+
+(LID, 78168); (208, Search keyword, OBD2 Scanner & WiFi Car Code Reader – Clears Check Engine Lights Instantly – Diagnose 3000 Car Codes - Wireless Car Diagnostic Scanner – Auto Scanner for 1996+ Vehicles (iOS & Android Devices Only); 9); (208, App Name, Google Chrome, 10); (208, Timestamp, 2421-07-05 18:49:16, 9);
+
+(LID, 78169); (209, Timestamp, 2421-07-05 18:51:51, 9);
+
+(LID, 78170); (210, Timestamp, 2421-07-08 04:02:39, 9);
+
+(LID, 78171); (211, Timestamp, 2021-07-05 19:08:38, 10); (211, App Name, Edmunds, 9);
+
+(LID, 78172); (212, Timestamp, 2021-07-05 18:33:51, 10); (212, App Name, Google Search, 10);
+
+(LID, 78173); (213, App Name, Google Search, 10); (213, Timestamp, 2021-07-05 18:43:22, 10);
+
+(LID, 78174); (214, Timestamp, 2421-07-08 03:42:46, 9);
+
+(LID, 78175); (215, Timestamp, 2421-07-08 03:42:46, 9);
+
+(LID, 78176); (216, Timestamp, 2421-07-08 03:42:48, 9);
+
+(LID, 78177); (217, Timestamp, 2421-07-08 03:42:48, 9);
+
+(LID, 78178); (218, Timestamp, 2421-07-08 03:42:48, 9);
+
+(LID, 78179); (219, Timestamp, 2421-07-08 03:42:49, 9);
+
+(LID, 78180); (220, Timestamp, 2421-07-08 03:42:50, 9);
+
+(LID, 78181); (221, Timestamp, 2421-07-08 03:42:50, 9);
+
+(LID, 78182); (222, Timestamp, 2421-07-08 03:42:50, 9);
+
+(LID, 78183); (223, Timestamp, 2421-07-08 03:42:51, 9);
+
+(LID, 78184); (224, Timestamp, 2421-07-08 03:42:51, 9);
+
+(LID, 78185); (225, Timestamp, 2421-07-08 03:42:51, 9);
+
+(LID, 78186); (226, Timestamp, 2421-07-08 03:56:13, 9);
+
+(LID, 78187); (227, Timestamp, 2421-07-08 03:56:13, 9);
+
+(LID, 78188); (228, Timestamp, 2421-07-08 03:42:52, 9);
+
+(LID, 78189); (229, Timestamp, 2421-07-08 03:42:53, 9);
+
+(LID, 78190); (230, Timestamp, 2421-07-08 03:42:53, 9);
+
+(LID, 78191); (231, Timestamp, 2421-07-08 03:42:53, 9);
+
+(LID, 78192); (232, Timestamp, 2421-07-08 03:42:54, 9);
+
+(LID, 78193); (233, Timestamp, 2421-07-08 03:44:34, 9);
+
+(LID, 78194); (234, Timestamp, 2421-07-08 03:42:56, 9); (234, Search keyword, blantons whiskey, bourbon, original single barrel, 10);
+
+(LID, 78195); (235, Timestamp, 2421-07-08 03:43:26, 9); (235, Search keyword, blantons whiskey, bourbon, original single barrel, 10);
+
+(LID, 78196); (236, Timestamp, 2421-07-08 03:43:25, 9); (236, Search keyword, blantons whiskey, bourbon, original single barrel, 10);
+
+(LID, 78197); (237, Search keyword, blantons whiskey, bourbon, original single barrel, 10); (237, Timestamp, 2421-07-08 03:43:13, 9);
+
+(LID, 78198); (238, Timestamp, 2421-07-08 03:58:11, 9);
+
+(LID, 78199); (239, Timestamp, 2421-07-08 04:01:07, 9);
+
+(LID, 78200); (240, Timestamp, 2421-07-08 04:02:57, 9);
+
+(LID, 78201); (241, Timestamp, 2421-07-08 04:16:39, 9);
+
+(LID, 78202); (242, App Name, Google Ads, 9); (242, Timestamp, 2421-07-08 04:02:57, 9);
+
+(LID, 78203); (243, Timestamp, 2421-07-08 04:06:14, 9);
+
+(LID, 78204); (244, Timestamp, 2421-07-08 04:04:31, 9);
+
+(LID, 78205); (245, Timestamp, 2421-07-08 04:04:29, 9);
+
+(LID, 78206); (246, Address, Chester Springs, Pennsylvania, USA, 9);
+
+(LID, 78207); (247, Timestamp, 2421-07-08 04:06:14, 9);
+
+(LID, 78208); (248, Timestamp, 2421-07-08 04:06:14, 9);
+
+(LID, 78209); (249, Timestamp, 2421-07-08 03:58:25, 9);
+
+(LID, 78210); (250, Timestamp, 2421-07-08 03:57:35, 9);
+
+(LID, 78211); (251, Timestamp, 2023-06-25 14:32:50, 10);
+
+(LID, 78214); (254, Timestamp, 2022-01-19 23:59:55, 9);
+
+(LID, 78215); (255, Timestamp, 2421-07-08 03:59:59, 9);
+
+(LID, 78216); (256, Timestamp, 2421-07-08 04:00:00, 9);
+
+(LID, 78217); (257, Timestamp, 2421-07-08 04:00:00, 9);
+
+(LID, 78218); (258, Timestamp, 2421-07-08 04:00:00, 9);
+
+(LID, 78219); (259, Timestamp, 2421-07-08 04:00:01, 9);
+
+(LID, 78220); (260, Timestamp, 2421-07-08 04:00:01, 9);
+
+(LID, 78243); (283, Timestamp, 2021-06-18 05:08:30, 10);
+
+(LID, 78244); (284, Timestamp, 2021-06-18 05:08:33, 10);
+
+(LID, 78245); (285, Timestamp, 2021-06-18 05:08:36, 10);
+
+(LID, 78246); (286, Timestamp, 2021-06-18 05:08:39, 10);
+
+(LID, 78247); (287, Timestamp, 2021-06-18 05:08:42, 10);
+
+(LID, 78248); (288, Timestamp, 2021-06-18 05:08:45, 10);
+
+(LID, 78250); (290, Timestamp, 2023-09-15 10:31:12, 10);
+
+(LID, 78251); (291, Timestamp, 2023-09-15 10:31:25, 10);
+
+(LID, 78253); (76, Address, New York, USA, 6); (76, Timestamp, 2021-07-10 01:34:40, 9); (76, Message, SThY PhD dropout / $crypto-trading dog 🐕 Started mining #bitcoin in 2011. #blockchain #DeFi investor / market commentator. $SOV bull, 8); (76, Search keyword, a-dogs-tale-9fd6d826b9dc, 7); (76, Address, Anchorage, Alaska, USA, 6); (76, Address, Seattle, Washington, USA, 6);
+
+(LID, 78254); (960, Address, San Francisco, California, USA, 6); (960, Search keyword, wT2A44V4ma, 7); (960, Address, New York, USA, 6); (960, Timestamp, 2021-01-30 23:08:20, 9); (960, Message, YT | Twitch Partner | Tiktok Verified @KontrolFreek @SteelSeries @GFuelEnergy @DrinkCTRL @GamerAdvantage, 8); (960, App Name, YouTube, 10); (960, Search keyword, JGODGaming, 9); (960, Timestamp, 2012-12-01 02:40:13, 9); (960, Human Name, James, 9);
+
+(LID, 78255); (702, Timestamp, 2021-07-20 00:08:00, 10);
+
+(LID, 78256); (865, Timestamp, 2021-07-20 00:08:00, 10); (865, Human Name, filb filb, 6);
+
+(LID, 78257); (4, Username, 18056377243@s.whatsapp.net, 10); (4, Phone Number, +18056377243, 9);
+
+(LID, 78258); (5, Phone Number, +19735203731, 9); (5, Username, 19735203731@s.whatsapp.net, 10);
+
+(LID, 78259); (6, Phone Number, +972529502149, 9); (6, Username, 972529502149@s.whatsapp.net, 10);
+
+(LID, 78260); (12, Username, 19735203731@s.whatsapp.net, 10);
+
+(LID, 78261); (13, Username, 19735203731@s.whatsapp.net, 10); (13, Username, 972529502149@s.whatsapp.net, 10);
+
+(LID, 78263); (15, Username, 19735203731@s.whatsapp.net, 10); (15, Username, 972529502149@s.whatsapp.net, 10);
+
+(LID, 78264); (11, Address, 802 Claytor Square, Blacksburg, VA 24061, USA of America, 9); (11, Timestamp, 2021-04-12 18:44:57, 9);
+
+(LID, 78265); (12, Address, 6001 Meade Road, Fort Belvoir, Fairfax County, VA 22060, USA of America, 9); (12, Longitude, -77.14589, 9);
+
+(LID, 78266); (13, Address, Doerr Road, Fort Belvoir, Fairfax County, VA 22060, USA of America, 9); (13, Longitude, -77.14589, 9);
+
+(LID, 78267); (14, Address, Bald Knob Trail, Mountain Lake, Giles County, VA 24094, USA of America, 9);
+
+(LID, 78268); (15, Address, Bald Knob Trail, Mountain Lake, Giles County, VA 24094, USA of America, 9);
+
+(LID, 78269); (16, Address, Blacksburg, Virginia, USA, 8);
+
+(LID, 78270); (17, Address, Blacksburg, Virginia, USA, 8);
+
+(LID, 78271); (18, Address, Blacksburg, Virginia, USA, 8);
+
+(LID, 78272); (26, Address, Christiansburg, Virginia, USA, 8);
+
+(LID, 78273); (27, Address, Myrtle Beach, South Carolina, USA, 8);
+
+(LID, 78274); (28, Address, Myrtle Beach, South Carolina, USA, 8);
+
+(LID, 78275); (29, Address, Myrtle Beach, South Carolina, USA, 8);
+
+(LID, 78276); (102, Search keyword, https://www.carfax.com/vehicle/58ABK1GG1HU038552, 9); (102, Longitude, -76.52387, 10); (102, Latitude, 37.14249, 10); (102, Message, No Accidents Reported, 10); (102, Message, Service History, 10); (102, Search keyword, http://www.Prioritylexusnewportnews.com, 9); (102, Phone Number, +17572107243, 9); (102, Message, Vehicle serviced • Maintenance inspection completed • Brake fluid flushed/changed • Battery replaced • Air filter replaced • Cabin air filter replaced/cleaned • Oil and filter changed • Serpentine belt replaced • Drive belt(s) replaced., 9); (102, Message, Personal Vehicle, 10); (102, Human Name, Priority Lexus Newport News, 9); (102, Message, 1-Owner Vehicle, 10); (102, Geographic Address, Newport News, VA, USA, 10);
+
+(LID, 78283); (214, Email, tfct21@citadeldispatch.com, 9); (214, Human Name, ODELL, 8); (214, Address, OpenSats, 6); (214, Message, DMS ASKING FOR MONEY ARE SCAMS, 10); (214, Address, Citadel Dispatch, 6);
+
+(LID, 78284); (215, Human Name, World of Engineering, 9); (215, Address, world-of-engineering.org, 6); (215, Message, Engineering for the win! 🧠🛠️🎯 Daily engineering history facts, quizzes, TILs, memes and many others. As an Amazon Associate we earn from qualifying purchases., 9); (215, Search keyword, world-of-engineering, 9);
+
+(LID, 78286); (217, Address, Dallas, TX, 9);
+
+(LID, 78287); (218, Address, Malta, 9);
+
+(LID, 78288); (219, Address, San Francisco, 10);
+
+(LID, 78290); (221, Message, Blackbelt, Memory 4N6 nerd, malwareRE noob, poorly rated chess player., 9); (221, Timestamp, 2014-05-04 00:09:17, 10);
+
+(LID, 78292); (223, Address, Tokyo, 10);
+
+(LID, 78294); (225, Human Name, Universal Curiosity, 9); (225, Email, info@proandromeda.com, 10); (225, Message, Science | Space Exploration | Engineering, 9);
+
+(LID, 78296); (227, Address, Manhattan, NY, 10); (227, Human Name, Chaincode Labs, 8);
+
+(LID, 78297); (298, Address, Detroit, MI, 10);
+
+(LID, 78298); (299, Address, Arch 477 Batemans Row, EC2, 10); (299, Human Name, 1948 London, 7);
+
+(LID, 78299); (300, Address, London, 10);
+
+(LID, 78300); (301, Address, Augusta, GA, 10); (301, Message, CTO @breachquest and @renditionsec. GSE #150. I do adversary emulation, IR, and malware. @hacknotcrime | @TribeOfHackers contributor, 9); (301, Timestamp, 2009-09-25 18:15:52, 10);
+
+(LID, 78301); (302, Address, Los Angeles, CA, 10);
+
+(LID, 78302); (303, Address, Chicago, IL, 10);
+
+(LID, 78303); (304, Address, Los Angeles, CA, 10);
+
+(LID, 78304); (305, Message, Status 💚, 8); (305, Human Name, PICK, 3);
+
+(LID, 78305); (306, Human Name, Nike Service, 8); (306, Address, Beaverton, Oregon, 10);
+
+(LID, 78306); (307, Human Name, TheDogeCoinMilitia, 6); (307, Address, USA of America, 6); (307, Search keyword, dogedrip.co, 7); (307, Message, Straight shooter unwilling to fluff pillows. Forever UNITED in #DOGE. 🐈 Collectible Coins. DOGE Tips 🐈, 9);
+
+(LID, 78307); (308, Human Name, Nike Chile, 9);
+
+(LID, 78308); (309, Message, Around the block, 8);
+
+(LID, 78309); (310, Timestamp, 2012-10-24 21:56:00, 10); (310, Message, Founder & CTO @ Magnet Forensics. Passionate about creating solutions that help people seek justice and protect the innocent. Opinions are my own., 9); (310, Search keyword, magnetforensics.com, 8);
+
+(LID, 78310); (311, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78311); (313, Username, CellebriteES, 10); (313, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78313); (314, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78314); (315, Timestamp, 2021-07-20 18:48:00, 10); (315, Address, Nashville, Tennessee, USA, 9);
+
+(LID, 78315); (316, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78316); (317, Address, Kansas City, 9); (317, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78317); (318, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78318); (319, Timestamp, 2021-07-20 18:48:00, 10); (319, Timestamp, 2020-06-25 01:00:21, 10);
+
+(LID, 78319); (320, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78320); (321, Address, California, 9); (321, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78321); (322, Address, San Francisco, CA, 9); (322, Timestamp, 2021-07-20 18:48:00, 10); (322, Address, Bend, OR, 9);
+
+(LID, 78322); (323, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78323); (324, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78324); (325, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78325); (326, Address, Los Angeles, USA, 9); (326, Timestamp, 2021-07-20 18:48:00, 10); (326, Address, Melbourne, Australia, 9);
+
+(LID, 78326); (327, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78327); (409, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78328); (410, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78329); (411, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78330); (412, Address, Las Vegas, Nevada, USA, 8); (412, Timestamp, 2021-07-20 18:48:00, 10); (412, Address, Maui, Hawaii, USA, 8);
+
+(LID, 78331); (412, Human Name, Shane Victorino, 10); (412, Address, Las Vegas, Nevada, USA, 8); (412, Username, ShaneVictorino, 10); (412, Timestamp, 2021-07-20 18:48:00, 10); (412, Address, Maui, Hawaii, USA, 8);
+
+(LID, 78332); (414, Address, Lynchburg, Virginia, USA, 9); (414, Timestamp, 2021-07-20 18:48:00, 10); (414, Human Name, Chris Gastardi, 9);
+
+(LID, 78333); (415, Human Name, Harlanoscopy, 6); (415, Timestamp, 2017-06-30 20:38:07, 10); (415, Address, Planet Earth, 6);
+
+(LID, 78334); (416, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78335); (417, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78336); (418, Timestamp, 2021-07-20 18:48:00, 10); (418, Timestamp, 2017-01-21 00:18:32, 10);
+
+(LID, 78337); (419, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78338); (420, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78339); (421, Human Name, Jim.btc, 6);
+
+(LID, 78340); (422, Timestamp, 2021-07-20 18:48:00, 10); (422, Address, New Jersey, 7); (422, Human Name, Kevin Smith, 10); (422, Address, Los Angeles, CA, 7);
+
+(LID, 78341); (423, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78342); (424, Human Name, dgreer64, 6); (424, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78343); (425, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78344); (426, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78345); (427, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78346); (428, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78347); (429, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78348); (430, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78349); (431, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78350); (432, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78351); (433, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78352); (434, Address, North Carolina, USA, 9); (434, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78353); (435, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78354); (436, Address, London, UK, 9); (436, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78355); (437, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78356); (438, Timestamp, 2021-07-20 18:48:00, 10);
+
+(LID, 78357); (1, Username, HeatherMahalik, 10); (1, Timestamp, 2021-06-10 15:00:46, 10);
+
+(LID, 78358); (2, Username, marsha mellos, 10); (2, Timestamp, 2021-04-04 03:55:23, 10);
+
+(LID, 78359); (3, Timestamp, 2021-04-04 03:55:43, 10);
+
+(LID, 78360); (4, Timestamp, 2021-04-04 03:55:54, 10);
+
+(LID, 78361); (5, Timestamp, 2021-04-04 03:56:13, 10);
+
+(LID, 78362); (19, Timestamp, 1990-01-31 00:00:00, 10);
+
+(LID, 78363); (1, Phone Number, +46770300793, 9);
+
+(LID, 78364); (2, Phone Number, +46770300793, 9);
+
+(LID, 78365); (3, Phone Number, +46770300793, 9);
+
+(LID, 78366); (4, Phone Number, +46770300793, 9);
+
+(LID, 78367); (5, Phone Number, +46770300793, 9);
+
+(LID, 78368); (6, Phone Number, +46770300793, 9);
+
+(LID, 78369); (7, Phone Number, +46770300793, 9);
+
+(LID, 78370); (8, Phone Number, +46770300793, 9);
+
+(LID, 78371); (9, Phone Number, +46770300793, 9);
+
+(LID, 78372); (10, Phone Number, +46770300793, 9);
+
+(LID, 78374); (2, App Name, Samsung Gallery, 10);
+
+(LID, 78376); (4, App Name, Voice Changer, 10);
+
+(LID, 78377); (2, App Name, Google Docs, 10); (2, Timestamp, 2021-06-22 04:15:03, 10);
+
+(LID, 78378); (3, App Name, Google Docs, 10); (3, Timestamp, 2021-06-22 04:15:03, 10);
+
+(LID, 78379); (5, Timestamp, 2021-06-22 04:15:04, 10); (5, App Name, Google Docs, 10);
+
+(LID, 78380); (6, Timestamp, 2021-06-22 04:15:05, 10); (6, App Name, Google Docs, 10);
+
+(LID, 78381); (7, App Name, Google Docs, 10); (7, Timestamp, 2021-06-22 04:15:06, 10);
+
+(LID, 78382); (8, Timestamp, 2021-06-22 04:15:47, 10); (8, App Name, Google Docs, 10);
+
+(LID, 78383); (11, Timestamp, 2021-06-22 04:15:47, 10); (11, App Name, Google Docs, 10);
+
+(LID, 78384); (12, Timestamp, 2021-06-22 04:15:47, 10); (12, App Name, Google Docs, 10);
+
+(LID, 78385); (13, Timestamp, 2021-06-22 04:15:47, 10); (13, App Name, Google Docs, 10);
+
+(LID, 78386); (14, Timestamp, 2021-06-22 17:37:10, 10); (14, App Name, Google Docs, 10);
+
+(LID, 78387); (16, Timestamp, 2021-06-22 17:37:10, 10); (16, App Name, Google Docs, 10);
+
+(LID, 78388); (18, Timestamp, 2021-06-22 17:37:12, 10); (18, App Name, Google Docs, 10);
+
+(LID, 78389); (19, Timestamp, 2021-06-22 17:37:12, 10); (19, App Name, Google Docs, 10);
+
+(LID, 78390); (20, App Name, Google Docs, 10); (20, Timestamp, 2021-06-22 17:38:05, 10);
+
+(LID, 78391); (23, Timestamp, 2021-06-22 17:38:06, 10); (23, App Name, Google Docs, 10);
+
+(LID, 78392); (24, Timestamp, 2021-06-22 17:38:07, 10); (24, App Name, Google Docs, 10);
+
+(LID, 78393); (25, Timestamp, 2021-06-22 17:38:07, 10); (25, App Name, Google Docs, 10);
+
+(LID, 78394); (26, Timestamp, 2021-06-22 21:39:02, 10); (26, App Name, Google Docs, 10);
+
+(LID, 78395); (28, Timestamp, 2021-06-22 21:39:02, 10); (28, App Name, Google Docs, 10);
+
+(LID, 78396); (30, App Name, Google Docs, 10); (30, Timestamp, 2021-06-22 21:39:03, 10);
+
+(LID, 78397); (31, App Name, Google Docs, 10); (31, Timestamp, 2021-06-22 21:39:03, 10);
+
+(LID, 78398); (32, Timestamp, 2021-06-23 17:35:27, 10); (32, App Name, Google Docs, 10);
+
+(LID, 78399); (34, App Name, Google Docs, 10); (34, Timestamp, 2021-06-23 17:25:46, 10);
+
+(LID, 78400); (35, App Name, Google Docs, 10); (35, Timestamp, 2021-06-23 17:25:46, 10);
+
+(LID, 78401); (37, App Name, Google Docs, 10); (37, Timestamp, 2021-06-23 17:25:47, 10);
+
+(LID, 78402); (38, App Name, Google Docs, 10); (38, Timestamp, 2021-06-23 17:25:47, 10);
+
+(LID, 78403); (39, App Name, Google Docs, 10); (39, Timestamp, 2021-06-23 17:25:47, 10);
+
+(LID, 78404); (40, Timestamp, 2021-06-23 23:07:06, 10); (40, App Name, Google Docs, 10);
+
+(LID, 78405); (42, Timestamp, 2021-06-23 23:07:07, 10); (42, App Name, Google Docs, 10);
+
+(LID, 78406); (43, Timestamp, 2021-06-23 23:07:07, 10); (43, App Name, Google Docs, 10);
+
+(LID, 78407); (45, Timestamp, 2021-06-23 23:07:10, 10); (45, App Name, Google Docs, 10);
+
+(LID, 78408); (47, Timestamp, 2021-06-24 02:49:05, 10); (47, App Name, Google Docs, 10);
+
+(LID, 78409); (48, Timestamp, 2021-06-24 02:49:05, 10); (48, App Name, Google Docs, 10);
+
+(LID, 78410); (50, Timestamp, 2021-06-24 02:49:06, 10); (50, App Name, Google Docs, 10);
+
+(LID, 78411); (51, Timestamp, 2021-06-24 02:49:06, 10); (51, App Name, Google Docs, 10);
+
+(LID, 78412); (52, App Name, Google Docs, 10); (52, Timestamp, 2021-06-24 04:30:40, 10);
+
+(LID, 78413); (54, App Name, Google Docs, 10); (54, Timestamp, 2021-06-24 04:30:40, 10);
+
+(LID, 78416); (3, Timestamp, 2021-06-22 23:22:36, 9);
+
+(LID, 78417); (4, Timestamp, 2021-04-03 01:29:41, 9); (4, Timestamp, 2021-04-03 01:29:11, 10);
+
+(LID, 78418); (5, Timestamp, 2021-04-03 01:29:36, 9);
+
+(LID, 78420); (7, App Name, WSSyncMLDM, 9);
+
+(LID, 78421); (8, App Name, Samsung Simple Sharing, 9); (8, Timestamp, 2021-04-03 01:29:34, 9); (8, Timestamp, 2021-04-03 01:29:17, 10);
+
+(LID, 78422); (9, Timestamp, 2021-05-27 06:57:10, 9); (9, Timestamp, 2021-04-03 01:29:23, 10);
+
+(LID, 78423); (10, Timestamp, 2021-04-03 01:29:31, 10); (10, Timestamp, 2021-04-03 01:29:39, 9); (10, App Name, Samsung Cold Wallet Service, 9);
+
+(LID, 78424); (11, App Name, Samsung Game Home, 9); (11, Timestamp, 2021-07-09 21:25:16, 10); (11, Timestamp, 2021-07-09 21:25:20, 9);
+
+(LID, 78425); (12, Timestamp, 2021-07-22 00:38:56, 10); (12, Timestamp, 2021-07-01 19:04:39, 9);
+
+(LID, 78427); (14, Timestamp, 2021-04-03 01:29:28, 10);
+
+(LID, 78428); (15, App Name, Samsung KG Client, 9); (15, Timestamp, 2021-04-03 01:29:35, 10); (15, Timestamp, 2021-06-22 23:22:36, 9);
+
+(LID, 78429); (16, Timestamp, 2021-05-24 00:21:27, 10); (16, Timestamp, 2021-05-24 02:41:27, 9);
+
+(LID, 78430); (17, App Name, Samsung Galaxy Store, 10); (17, Timestamp, 2021-04-03 01:29:42, 9); (17, Timestamp, 2021-04-03 01:29:39, 10);
+
+(LID, 78431); (18, Timestamp, 2021-06-22 23:22:37, 9); (18, Timestamp, 2021-04-03 01:29:41, 10);
+
+(LID, 78432); (19, Timestamp, 2021-04-03 19:09:59, 10);
+
+(LID, 78433); (20, Timestamp, 1970-01-01 00:00:00, 10);
+
+(LID, 78434); (21, App Name, Samsung Daily/Free, 10);
+
+(LID, 78435); (22, App Name, Samsung Billing App, 10); (22, Timestamp, 2021-04-03 19:10:56, 10);
+
+(LID, 78436); (23, App Name, Google App, 10);
+
+(LID, 78437); (24, Timestamp, 2021-04-03 19:23:01, 10); (24, Timestamp, 2021-04-03 19:23:12, 10);
+
+(LID, 78439); (26, Timestamp, 2021-04-03 19:25:26, 10);
+
+(LID, 78440); (27, Timestamp, 1970-01-01 00:00:00, 10);
+
+(LID, 78441); (28, Timestamp, 2021-07-02 21:17:48, 10); (28, Timestamp, 2021-07-02 21:17:45, 10);
+
+(LID, 78443); (30, Timestamp, 2021-05-27 06:24:02, 10);
+
+(LID, 78449); (36, App Name, Packet Capture, 10);
+
+(LID, 78450); (37, Timestamp, 1970-01-01 00:00:00, 10);
+
+(LID, 78457); (44, Timestamp, 2021-07-06 20:03:52, 10);
+
+(LID, 78458); (45, App Name, Privacy Dashboard, 10);
+
+(LID, 78459); (46, Timestamp, 2021-07-06 19:20:37, 10);
+
+(LID, 78460); (47, App Name, Need for Speed: No Limits, 10);
+
+(LID, 78462); (49, Timestamp, 2021-07-02 22:25:15, 10);
+
+(LID, 78470); (3, Timestamp, 2021-07-21 08:49:06, 10); (3, Timestamp, 2021-07-21 08:49:17, 10);
+
+(LID, 78471); (4, Timestamp, 2021-07-21 08:49:17, 10); (4, Timestamp, 2021-07-21 08:50:33, 10);
+
+(LID, 78472); (5, Timestamp, 2021-07-21 08:51:48, 10); (5, Timestamp, 2021-07-21 08:50:53, 10);
+
+(LID, 78473); (6, Timestamp, 2021-07-21 08:51:53, 10); (6, Timestamp, 2021-07-21 08:51:48, 10);
+
+(LID, 78474); (7, Timestamp, 2021-07-21 14:34:28, 10); (7, Timestamp, 2021-07-21 14:34:27, 10);
+
+(LID, 78475); (8, Timestamp, 2021-07-21 14:34:42, 10); (8, Timestamp, 2021-07-21 14:34:28, 10);
+
+(LID, 78476); (9, Timestamp, 2021-07-21 14:34:42, 10); (9, Timestamp, 2021-07-21 14:34:48, 10);
+
+(LID, 78478); (11, Timestamp, 2021-07-21 17:20:09, 10); (11, Timestamp, 2021-07-21 17:20:03, 10);
+
+(LID, 78479); (12, Timestamp, 2021-07-21 17:20:12, 10); (12, Timestamp, 2021-07-21 17:20:09, 10);
+
+(LID, 78590); (1, Message, crying, 9);
+
+(LID, 78591); (2, Message, sad, 9);
+
+(LID, 78592); (3, Message, i will be there, 9); (3, Timestamp, 2021-07-01 02:56:39, 10);
+
+(LID, 78593); (4, Timestamp, 2021-07-01 02:55:25, 10); (4, Message, i will be there too, 9);
+
+(LID, 78595); (1, Timestamp, 2021-07-02 18:40:55, 10); (1, Timestamp, 2021-07-02 18:40:54, 9); (1, Human Name, Jane, 8);
+
+(LID, 78596); (2, Timestamp, 2021-07-02 18:40:55, 10); (2, Timestamp, 2021-07-02 18:40:54, 9); (2, Human Name, Jane, 8);
+
+(LID, 78597); (3, Timestamp, 2021-07-02 18:40:55, 10); (3, Timestamp, 2021-07-02 18:40:54, 9); (3, Human Name, Jane, 8);
+
+(LID, 78598); (4, Timestamp, 2021-07-02 18:40:55, 10); (4, Timestamp, 2021-07-02 18:40:54, 9); (4, Human Name, Jane, 8);
+
+(LID, 78599); (5, Timestamp, 2021-07-02 18:40:55, 10); (5, Timestamp, 2021-07-02 18:42:36, 9); (5, Human Name, Jane, 8);
+
+(LID, 78600); (6, Timestamp, 2021-07-02 18:40:55, 10); (6, Timestamp, 2021-07-02 18:42:38, 9); (6, Human Name, Jane, 8);
+
+(LID, 78601); (7, Timestamp, 2021-07-02 18:42:39, 9); (7, Timestamp, 2021-07-02 18:40:55, 10); (7, Human Name, Jane, 8);
+
+(LID, 78602); (8, Timestamp, 2021-07-02 18:42:39, 9); (8, Timestamp, 2021-07-02 18:40:55, 10); (8, Human Name, Jane, 8);
+
+(LID, 78603); (9, Timestamp, 2021-07-02 18:40:56, 9); (9, Timestamp, 2021-07-02 18:40:55, 10); (9, Human Name, Jane, 8);
+
+(LID, 78604); (10, Timestamp, 2021-07-02 18:40:58, 9); (10, Timestamp, 2021-07-02 18:40:55, 10); (10, Human Name, Jane, 8);
+
+(LID, 78605); (11, Timestamp, 2021-07-02 18:40:59, 9); (11, Timestamp, 2021-07-02 18:40:55, 10); (11, Human Name, Jane, 8);
+
+(LID, 78606); (12, Timestamp, 2021-07-02 18:40:59, 9); (12, Timestamp, 2021-07-02 18:40:55, 10); (12, Human Name, Jane, 8);
+
+(LID, 78607); (13, Timestamp, 2021-07-02 18:42:11, 9); (13, Timestamp, 2021-07-02 18:40:55, 10); (13, Human Name, Jane, 8);
+
+(LID, 78608); (14, Timestamp, 2021-07-02 18:42:13, 9); (14, Timestamp, 2021-07-02 18:40:55, 10); (14, Human Name, Jane, 8);
+
+(LID, 78609); (15, Timestamp, 2021-07-02 18:42:13, 9); (15, Timestamp, 2021-07-02 18:40:55, 10); (15, Human Name, Jane, 8);
+
+(LID, 78610); (16, Timestamp, 2021-07-02 18:42:14, 9); (16, Timestamp, 2021-07-02 18:40:55, 10); (16, Human Name, Jane, 8);
+
+(LID, 78611); (17, Timestamp, 2021-07-02 18:41:11, 9); (17, Timestamp, 2021-07-02 18:40:55, 10); (17, Human Name, Jane, 8);
+
+(LID, 78612); (18, Timestamp, 2021-07-02 18:41:12, 9); (18, Timestamp, 2021-07-02 18:40:55, 10); (18, Human Name, Jane, 8);
+
+(LID, 78613); (19, Timestamp, 2021-07-02 18:41:13, 9); (19, Timestamp, 2021-07-02 18:40:55, 10); (19, Human Name, Jane, 8);
+
+(LID, 78614); (20, Timestamp, 2021-07-02 18:41:13, 9); (20, Timestamp, 2021-07-02 18:40:55, 10); (20, Human Name, Jane, 8);
+
+(LID, 78615); (21, Timestamp, 2021-07-02 18:42:59, 9); (21, Timestamp, 2021-07-02 18:40:55, 10); (21, Human Name, Jane, 8);
+
+(LID, 78616); (22, Timestamp, 2021-07-02 18:40:55, 10); (22, Timestamp, 2021-07-02 18:43:01, 9); (22, Human Name, Jane, 8);
+
+(LID, 78617); (23, Timestamp, 2021-07-02 18:40:55, 10); (23, Timestamp, 2021-07-02 18:43:01, 9); (23, Human Name, Jane, 8);
+
+(LID, 78618); (24, Timestamp, 2021-07-02 18:43:02, 9); (24, Timestamp, 2021-07-02 18:40:55, 10); (24, Human Name, Jane, 8);
+
+(LID, 78619); (25, Timestamp, 2021-07-02 18:40:55, 10); (25, Timestamp, 2021-07-02 18:40:42, 9); (25, Human Name, Jane, 8);
+
+(LID, 78620); (26, Timestamp, 2021-07-02 18:40:55, 10); (26, Timestamp, 2021-07-02 18:40:42, 9); (26, Human Name, Jane, 8);
+
+(LID, 78621); (27, Timestamp, 2021-07-02 18:40:55, 10); (27, Timestamp, 2021-07-02 18:40:44, 9); (27, Human Name, Jane, 8);
+
+(LID, 78622); (28, Timestamp, 2021-07-02 18:40:44, 9); (28, Timestamp, 2021-07-02 18:40:55, 10); (28, Human Name, Jane, 8);
+
+(LID, 78623); (29, Timestamp, 2021-07-02 18:40:55, 10); (29, Human Name, Jane, 8);
+
+(LID, 78624); (30, Timestamp, 2021-07-02 18:40:55, 10); (30, Human Name, Jane, 8);
+
+(LID, 78625); (31, Timestamp, 2021-07-02 18:40:55, 10); (31, Human Name, Jane, 8);
+
+(LID, 78626); (32, Timestamp, 2021-07-02 18:40:55, 10); (32, Human Name, Jane, 8);
+
+(LID, 78627); (33, Timestamp, 2021-07-02 18:42:35, 9); (33, Timestamp, 2021-07-02 18:40:55, 10); (33, Human Name, Jane, 8);
+
+(LID, 78628); (34, Timestamp, 2021-07-02 18:42:37, 9); (34, Timestamp, 2021-07-02 18:40:55, 10); (34, Human Name, Jane, 8);
+
+(LID, 78629); (35, Timestamp, 2021-07-02 18:40:55, 10); (35, Timestamp, 2021-07-02 18:42:38, 9); (35, Human Name, Jane, 8);
+
+(LID, 78630); (36, Timestamp, 2021-07-02 18:42:39, 9); (36, Timestamp, 2021-07-02 18:40:55, 10); (36, Human Name, Jane, 8);
+
+(LID, 78631); (37, Timestamp, 2021-07-02 17:43:11, 9); (37, Timestamp, 2021-07-02 18:40:55, 10); (37, Human Name, Jane, 8);
+
+(LID, 78632); (38, Timestamp, 2021-07-02 17:43:14, 9); (38, Timestamp, 2021-07-02 18:40:55, 10); (38, Human Name, Jane, 8);
+
+(LID, 78633); (39, Timestamp, 2021-07-02 18:40:55, 10); (39, Timestamp, 2021-07-02 17:43:15, 9); (39, Human Name, Jane, 8);
+
+(LID, 78634); (40, Timestamp, 2021-07-02 17:43:16, 9); (40, Timestamp, 2021-07-02 18:40:55, 10); (40, Human Name, Jane, 8);
+
+(LID, 78635); (41, Timestamp, 2021-07-02 18:15:22, 9); (41, Timestamp, 2021-07-02 18:40:55, 10); (41, Human Name, Jane, 8);
+
+(LID, 78636); (42, Timestamp, 2021-07-02 18:40:55, 10); (42, Timestamp, 2021-07-02 18:15:26, 9); (42, Human Name, Jane, 8);
+
+(LID, 78637); (43, Timestamp, 2021-07-02 18:15:27, 9); (43, Timestamp, 2021-07-02 18:40:55, 10); (43, Human Name, Jane, 8);
+
+(LID, 78638); (44, Timestamp, 2021-07-02 18:15:28, 9); (44, Timestamp, 2021-07-02 18:40:55, 10); (44, Human Name, Jane, 8);
+
+(LID, 78639); (45, Timestamp, 2021-07-02 18:43:41, 9); (45, Timestamp, 2021-07-02 18:40:55, 10); (45, Human Name, Jane, 8);
+
+(LID, 78640); (46, Timestamp, 2021-07-02 18:43:42, 9); (46, Timestamp, 2021-07-02 18:40:55, 10); (46, Human Name, Jane, 8);
+
+(LID, 78641); (47, Timestamp, 2021-07-02 18:43:43, 9); (47, Timestamp, 2021-07-02 18:40:55, 10); (47, Human Name, Jane, 8);
+
+(LID, 78642); (48, Timestamp, 2021-07-02 18:40:55, 10); (48, Timestamp, 2021-07-02 18:43:43, 9); (48, Human Name, Jane, 8);
+
+(LID, 78643); (49, Timestamp, 2021-07-02 18:40:55, 10); (49, Human Name, Jane, 8);
+
+(LID, 78644); (50, Timestamp, 2021-07-02 18:42:35, 9); (50, Timestamp, 2021-07-02 18:40:55, 10); (50, Human Name, Jane, 8);
+
+(LID, 78645); (51, Timestamp, 2021-07-02 18:42:35, 9); (51, Timestamp, 2021-07-02 18:40:55, 10); (51, Human Name, Jane, 8);
+
+(LID, 78646); (52, Timestamp, 2021-07-02 18:42:35, 9); (52, Timestamp, 2021-07-02 18:40:55, 10); (52, Human Name, Jane, 8);
+
+(LID, 78647); (53, Timestamp, 2021-07-02 18:48:29, 9); (53, Timestamp, 2021-07-02 18:40:55, 10); (53, Human Name, Jane, 8);
+
+(LID, 78648); (54, Timestamp, 2021-07-02 18:40:55, 10); (54, Timestamp, 2021-07-02 18:48:33, 9); (54, Human Name, Jane, 8);
+
+(LID, 78649); (55, Timestamp, 2021-07-02 18:48:34, 9); (55, Timestamp, 2021-07-02 18:40:55, 10); (55, Human Name, Jane, 8);
+
+(LID, 78650); (56, Timestamp, 2021-07-02 18:40:55, 10); (56, Timestamp, 2021-07-02 18:48:35, 9); (56, Human Name, Jane, 8);
+
+(LID, 78651); (57, Timestamp, 2021-07-02 18:40:55, 10); (57, Human Name, Jane, 8);
+
+(LID, 78652); (58, Timestamp, 2021-07-02 18:40:55, 10); (58, Human Name, Jane, 8);
+
+(LID, 78653); (59, Timestamp, 2021-07-02 18:40:55, 10); (59, Human Name, Jane, 8);
+
+(LID, 78654); (60, Timestamp, 2021-07-02 18:40:55, 10); (60, Human Name, Jane, 8);
+
+(LID, 78655); (61, Timestamp, 2021-07-02 18:40:55, 10); (61, Human Name, Jane, 8);
+
+(LID, 78656); (62, Timestamp, 2021-07-02 18:40:55, 10); (62, Human Name, Jane, 8);
+
+(LID, 78657); (63, Timestamp, 2021-07-02 18:40:55, 10); (63, Human Name, Jane, 8);
+
+(LID, 78658); (64, Timestamp, 2021-07-02 18:40:55, 10); (64, Human Name, Jane, 8);
+
+(LID, 78659); (65, Timestamp, 2021-07-02 18:40:55, 10); (65, Human Name, Jane, 8);
+
+(LID, 78660); (66, Timestamp, 2021-07-02 18:40:55, 10); (66, Human Name, Jane, 8);
+
+(LID, 78661); (67, Timestamp, 2021-07-02 18:40:55, 10); (67, Human Name, Jane, 8);
+
+(LID, 78662); (68, Timestamp, 2021-07-02 18:40:55, 10); (68, Human Name, Jane, 8);
+
+(LID, 78663); (69, Timestamp, 2021-07-02 18:40:56, 10); (69, Human Name, Jane, 8);
+
+(LID, 78664); (70, Timestamp, 2021-07-02 18:40:56, 10); (70, Human Name, Jane, 8);
+
+(LID, 78665); (71, Timestamp, 2021-07-02 18:40:56, 10); (71, Human Name, Jane, 8);
+
+(LID, 78666); (72, Timestamp, 2021-07-02 18:40:56, 10); (72, Human Name, Jane, 8);
+
+(LID, 78667); (73, Timestamp, 2021-07-02 18:40:56, 10); (73, Human Name, Jane, 8);
+
+(LID, 78668); (74, Timestamp, 2021-07-02 18:40:56, 10); (74, Human Name, Jane, 8);
+
+(LID, 78669); (75, Timestamp, 2021-07-02 18:40:56, 10); (75, Human Name, Jane, 8);
+
+(LID, 78670); (76, Timestamp, 2021-07-02 18:40:56, 10); (76, Human Name, Jane, 8);
+
+(LID, 78671); (77, Timestamp, 2021-07-02 18:40:56, 10); (77, Human Name, Jane, 8);
+
+(LID, 78672); (78, Timestamp, 2021-07-02 18:40:56, 10); (78, Human Name, Jane, 8);
+
+(LID, 78673); (79, Timestamp, 2021-07-02 18:40:56, 10); (79, Human Name, Jane, 8);
+
+(LID, 78674); (80, Timestamp, 2021-07-02 18:40:56, 10); (80, Human Name, Jane, 8);
+
+(LID, 78675); (81, Timestamp, 2021-07-02 18:40:56, 10); (81, Human Name, Jane, 8);
+
+(LID, 78676); (82, Timestamp, 2021-07-02 18:40:56, 10); (82, Human Name, Jane, 8);
+
+(LID, 78677); (83, Timestamp, 2021-07-02 18:40:56, 10); (83, Human Name, Jane, 8);
+
+(LID, 78678); (84, Timestamp, 2021-07-02 18:40:56, 10); (84, Human Name, Jane, 8);
+
+(LID, 78679); (85, Timestamp, 2021-07-02 18:40:56, 10); (85, Human Name, Jane, 8);
+
+(LID, 78680); (86, Timestamp, 2021-07-02 18:40:56, 10); (86, Human Name, Jane, 8);
+
+(LID, 78681); (87, Timestamp, 2021-07-02 18:40:56, 10); (87, Human Name, Jane, 8);
+
+(LID, 78682); (88, Timestamp, 2021-07-02 18:40:56, 10); (88, Human Name, Jane, 8);
+
+(LID, 78683); (89, Timestamp, 2021-07-02 18:50:56, 9); (89, Human Name, Jane, 8);
+
+(LID, 78684); (90, Timestamp, 2021-07-02 18:51:00, 9); (90, Human Name, Jane, 8);
+
+(LID, 78685); (91, Timestamp, 2021-07-02 18:51:01, 9); (91, Human Name, Jane, 8);
+
+(LID, 78686); (92, Timestamp, 2021-07-02 18:51:01, 9); (92, Human Name, Jane, 8);
+
+(LID, 78687); (93, Timestamp, 2021-07-02 18:51:02, 9); (93, Human Name, Jane, 8);
+
+(LID, 78688); (94, Timestamp, 2021-07-02 18:51:05, 9); (94, Human Name, Jane, 8);
+
+(LID, 78689); (95, Timestamp, 2021-07-02 18:51:06, 9); (95, Human Name, Jane, 8);
+
+(LID, 78690); (96, Timestamp, 2021-07-02 18:51:07, 9); (96, Human Name, Jane, 8);
+
+(LID, 78691); (97, Timestamp, 2021-07-02 18:40:56, 10); (97, Human Name, Jane, 8);
+
+(LID, 78692); (98, Human Name, Jane, 8);
+
+(LID, 78693); (99, Timestamp, 2021-07-02 18:40:56, 10); (99, Human Name, Jane, 8);
+
+(LID, 78694); (100, Timestamp, 2021-07-02 18:40:56, 10); (100, Human Name, Jane, 8);
+
+(LID, 78695); (101, Timestamp, 2021-07-02 18:40:56, 10); (101, Human Name, Jane, 8);
+
+(LID, 78696); (102, Timestamp, 2021-07-02 18:40:56, 10); (102, Human Name, Jane, 8);
+
+(LID, 78697); (103, Timestamp, 2021-07-02 18:40:56, 10); (103, Human Name, Jane, 8);
+
+(LID, 78698); (104, Timestamp, 2021-07-02 18:40:56, 10); (104, Human Name, Jane, 8);
+
+(LID, 78699); (105, Timestamp, 2021-07-02 18:41:36, 9); (105, Human Name, Jane, 8);
+
+(LID, 78700); (106, Timestamp, 2021-07-02 18:41:40, 9); (106, Human Name, Jane, 8);
+
+(LID, 78701); (107, Timestamp, 2021-07-02 18:41:41, 9); (107, Human Name, Jane, 8);
+
+(LID, 78702); (108, Timestamp, 2021-07-02 18:41:42, 9); (108, Human Name, Jane, 8);
+
+(LID, 78703); (109, Timestamp, 2021-07-02 18:43:33, 9); (109, Human Name, Jane, 8);
+
+(LID, 78704); (110, Timestamp, 2021-07-02 18:43:37, 9); (110, Human Name, Jane, 8);
+
+(LID, 78705); (111, Timestamp, 2021-07-02 18:43:38, 9); (111, Human Name, Jane, 8);
+
+(LID, 78706); (112, Timestamp, 2021-07-02 18:43:39, 9); (112, Human Name, Jane, 8);
+
+(LID, 78707); (113, Timestamp, 2021-07-02 18:44:26, 9); (113, Human Name, Jane, 8);
+
+(LID, 78708); (114, Timestamp, 2021-07-02 18:44:30, 9); (114, Human Name, Jane, 8);
+
+(LID, 78709); (115, Timestamp, 2021-07-02 18:44:31, 9); (115, Human Name, Jane, 8);
+
+(LID, 78710); (116, Timestamp, 2021-07-02 18:44:31, 9); (116, Human Name, Jane, 8);
+
+(LID, 78711); (117, Timestamp, 2021-07-02 18:47:45, 9); (117, Human Name, Jane, 8);
+
+(LID, 78712); (118, Timestamp, 2021-07-02 18:47:50, 9); (118, Human Name, Jane, 8);
+
+(LID, 78713); (119, Timestamp, 2021-07-02 18:47:51, 9); (119, Human Name, Jane, 8);
+
+(LID, 78714); (120, Timestamp, 2021-07-02 18:47:52, 9); (120, Human Name, Jane, 8);
+
+(LID, 78715); (121, Timestamp, 2021-07-02 18:49:09, 9); (121, Human Name, Jane, 8);
+
+(LID, 78716); (122, Timestamp, 2021-07-02 18:49:13, 9); (122, Human Name, Jane, 8);
+
