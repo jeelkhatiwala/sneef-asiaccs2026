@@ -1,0 +1,222 @@
+(LID, 19164); (50884, App Name, Google Lighter/Maps, 9);
+
+(LID, 19166); (51530, App Name, Google People, 9);
+
+(LID, 19183); (56948, Search keyword, lens, 7);
+
+(LID, 19190); (58616, App Name, Google Lighter/GMS, 8);
+
+(LID, 78206); (246, Address, Chester Springs, Pennsylvania, United States, 9);
+
+(LID, 78264);
+
+(LID, 78265); (12, Longitude, -77.14589, 9);
+
+(LID, 78266); (13, Longitude, -77.14589, 9); (13, Address, Doerr Road, Fort Belvoir, Fairfax County, VA 22060, United States of America, 9);
+
+(LID, 78267); (14, Address, Bald Knob Trail, Mountain Lake, Giles County, VA 24094, United States of America, 9);
+
+(LID, 78268); (15, Address, Bald Knob Trail, Mountain Lake, Giles County, VA 24094, United States of America, 9);
+
+(LID, 78269); (16, Address, Blacksburg, Virginia, United States, 8);
+
+(LID, 78270); (17, Address, Blacksburg, Virginia, United States, 8);
+
+(LID, 78271); (18, Address, Blacksburg, Virginia, United States, 8);
+
+(LID, 78272); (26, Address, Christiansburg, Virginia, United States, 8);
+
+(LID, 78377); (2, App Name, Google Docs, 10);
+
+(LID, 78378); (3, App Name, Google Docs, 10);
+
+(LID, 78379); (5, App Name, Google Docs, 10);
+
+(LID, 78380); (6, App Name, Google Docs, 10);
+
+(LID, 78381); (7, App Name, Google Docs, 10);
+
+(LID, 78382); (8, App Name, Google Docs, 10);
+
+(LID, 78383); (11, App Name, Google Docs, 10);
+
+(LID, 78384); (12, App Name, Google Docs, 10);
+
+(LID, 78385); (13, App Name, Google Docs, 10);
+
+(LID, 78386); (14, App Name, Google Docs, 10);
+
+(LID, 78387); (16, App Name, Google Docs, 10);
+
+(LID, 78388); (18, App Name, Google Docs, 10);
+
+(LID, 78389); (19, App Name, Google Docs, 10);
+
+(LID, 78390); (20, App Name, Google Docs, 10);
+
+(LID, 78391); (23, App Name, Google Docs, 10);
+
+(LID, 78392); (24, App Name, Google Docs, 10);
+
+(LID, 78393); (25, App Name, Google Docs, 10);
+
+(LID, 78394); (26, App Name, Google Docs, 10);
+
+(LID, 78395); (28, App Name, Google Docs, 10);
+
+(LID, 78396); (30, App Name, Google Docs, 10);
+
+(LID, 78397); (31, App Name, Google Docs, 10);
+
+(LID, 78398); (32, App Name, Google Docs, 10);
+
+(LID, 78399); (34, App Name, Google Docs, 10);
+
+(LID, 78400); (35, App Name, Google Docs, 10);
+
+(LID, 78401); (37, App Name, Google Docs, 10);
+
+(LID, 78402); (38, App Name, Google Docs, 10);
+
+(LID, 78403); (39, App Name, Google Docs, 10);
+
+(LID, 78404); (40, App Name, Google Docs, 10);
+
+(LID, 78405); (42, App Name, Google Docs, 10);
+
+(LID, 78406); (43, App Name, Google Docs, 10);
+
+(LID, 78407); (45, App Name, Google Docs, 10);
+
+(LID, 78408); (47, App Name, Google Docs, 10);
+
+(LID, 78409); (48, App Name, Google Docs, 10);
+
+(LID, 78410); (50, App Name, Google Docs, 10);
+
+(LID, 78411); (51, App Name, Google Docs, 10);
+
+(LID, 78412); (52, App Name, Google Docs, 10);
+
+(LID, 78413); (54, App Name, Google Docs, 10);
+
+(LID, 78417); 
+
+(LID, 78418); 
+
+(LID, 78420); (7, App Name, WSSyncMLDM, 9);
+
+(LID, 78421); (8, App Name, Samsung Simple Sharing, 9);
+
+(LID, 78423); (10, App Name, Samsung Cold Wallet Service, 9);
+
+(LID, 78424); (11, App Name, Samsung Game Home, 9);
+
+(LID, 78428); (15, App Name, Samsung KG Client, 9);
+
+(LID, 78430); (17, App Name, Samsung Galaxy Store, 10);
+
+(LID, 78433); 
+
+(LID, 78434); (21, App Name, Samsung Daily/Free, 10);
+
+(LID, 78435); (22, App Name, Samsung Billing App, 10);
+
+(LID, 78436); (23, App Name, Google App, 10);
+
+(LID, 78440); 
+
+(LID, 78449); (36, App Name, Packet Capture, 10);
+
+(LID, 78450); 
+
+(LID, 78458); (45, App Name, Privacy Dashboard, 10);
+
+(LID, 78460); (47, App Name, Need for Speed: No Limits, 10);
+
+(LID, 78853); (90, App Name, Google Instant Apps, 9);
+
+(LID, 78854); (91, App Name, Google Kids, 9);
+
+(LID, 78856); (93, App Name, Google Phenotype Config, 9);
+
+(LID, 78864); (101, App Name, Google App Search (Icing); 9); (101, App Name, Google Search, 9);
+
+(LID, 78865); (102, App Name, Google Search, 9);
+
+(LID, 78866); (103, App Name, Device Health Services (Turbo); 9); (103, App Name, Google Tron Metrics, 9);
+
+(LID, 78867); (104, App Name, Google Car Services, 9);
+
+(LID, 78868); (105, App Name, Google Search, 9);
+
+(LID, 78869); (106, App Name, Google Car Services, 9);
+
+(LID, 78870); (107, App Name, Google Search, 9);
+
+(LID, 78871); (108, App Name, Google Car Services, 9); (108, App Name, Google Search, 9);
+
+(LID, 78872); (109, App Name, Google App Search (Icing); 9); (109, App Name, Google Search, 9);
+
+(LID, 78873); (110, App Name, Google Search, 9);
+
+(LID, 78874); (111, App Name, Google Search, 9);
+
+(LID, 78875); (112, App Name, Google Car Services, 9); (112, App Name, Google Search, 9);
+
+(LID, 78876); (113, App Name, Google App Search (Icing); 9); (113, App Name, Google Search, 9);
+
+(LID, 78877); (114, App Name, Google Search, 9);
+
+(LID, 78878); (115, App Name, Google App Search (Icing); 9); (115, App Name, Google Search, 9);
+
+(LID, 78879); (116, App Name, Google Search, 9);
+
+(LID, 78880); (117, App Name, Google Search, 9); (117, Email, heisenbergcarro@gmail.com, 10);
+
+(LID, 78881); (118, App Name, Google Westworld, 8); (118, App Name, Playlog Uploader, 9);
+
+(LID, 78884); (121, App Name, Google OCR, 9);
+
+(LID, 78885); (122, App Name, Google OCR, 9);
+
+(LID, 78888); (125, App Name, Google OCR, 9);
+
+(LID, 78889); (126, App Name, Google OCR, 9);
+
+(LID, 78890); (127, App Name, Google Nearby, 9); (127, App Name, Google Auth Account, 9);
+
+(LID, 78891); (128, App Name, Google Smart Device, 9); (128, App Name, Google Nearby, 9);
+
+(LID, 78892); (129, App Name, Google Car Services, 9);
+
+(LID, 78893); (130, App Name, Google Car Services, 9);
+
+(LID, 78894); (131, App Name, Google App Search (Icing); 9); (131, Email, heisenbergcarro@gmail.com, 10);
+
+(LID, 78896); (77, App Name, Playlog Uploader, 9);
+
+(LID, 78897); (78, App Name, Google Westworld, 8); (78, App Name, Playlog Uploader, 9);
+
+(LID, 78898); (79, App Name, Google Phenotype Config, 9);
+
+(LID, 78899); (80, App Name, Google Phenotype Config, 9);
+
+(LID, 78900); (81, App Name, Google Phenotype Config, 9);
+
+(LID, 78901); (82, App Name, Google Phenotype Config, 9);
+
+(LID, 78902); (83, App Name, Playlog Uploader, 9);
+
+(LID, 78903); (84, App Name, Playlog Uploader, 9);
+
+(LID, 78904); (85, App Name, Google App Search (Icing); 9); (85, App Name, Google Search, 9);
+
+(LID, 78905); (86, App Name, Google Search, 9);
+
+(LID, 78906); (87, App Name, Google Phenotype Config, 9);
+
+(LID, 78909); (77, App Name, Google Android Metrics, 10);
+
+(LID, 78910); (78, App Name, Westworld, 10);
+

@@ -1,0 +1,1000 @@
+(LID, 74813), (PID, com.snapchat.android), (DN, core.db), (DP, data/data/com.snapchat.android/databases/core.db), (TN, Preferences), (RL, 571), (_id, 2010), (key, STICKERS~BITMOJI_SEARCH_TAGS_VERSION_SYNCED), (type, 0), (stringValue, 139323518)
+
+(LID, 74814), (PID, com.snapchat.android), (DN, core.db), (DP, data/data/com.snapchat.android/databases/core.db), (TN, Preferences), (RL, 572), (_id, 2011), (key, STICKERS~CONTEXTUAL_STICKER_PACK_URLSYNCED_V1), (type, 0), (stringValue, {"packs":[{"cacheKey":-1216023001,"version":107,"pack":"cameo-pack-TopMiddleTimeInfoStickers"},{"cacheKey":-1599659274,"version":107,"pack":"cameo-pack-IncreasedMiddayStickers"},{"cacheKey":1987453161,"version":222,"pack":"cameo-pack-FeaturedUniversalStickers"},{"cacheKey":797946586,"version":222,"pack":"cameo-pack-MondayStickers"},{"cacheKey":1787043233,"version":-1778897843,"pack":"bitmoji-geopack-en-bitmoji-hometab-preview-hometab_exp2"},{"cacheKey":-1081847327,"version":-1778897843,"pack":"bitmoji-geopack-en-bitmoji-hometab-preview-hometab_exp"}]})
+
+(LID, 74815), (PID, com.snapchat.android), (DN, core.db), (DP, data/data/com.snapchat.android/databases/core.db), (TN, Preferences), (RL, 573), (_id, 2020), (key, IDENTITY~FEED_HEADER_PROMPT_V2_STATE_SYNC_PROTO), (type, 4), (stringValue, CNmpioUGEgoIAxADGL+oioUG), (needSync, 0), (version, 1618078804869)
+
+(LID, 74816), (PID, com.snapchat.android), (DN, core.db), (DP, data/data/com.snapchat.android/databases/core.db), (TN, Preferences), (RL, 574), (_id, 2022), (key, IDENTITY~PHONE_VERIFICATION_SMS_FORMAT), (type, 0), (stringValue, <#> Snapchat Code: {0}. Happy Snapping! qunyt57f5Rf)
+
+(LID, 74817), (PID, com.snapchat.android), (DN, core.db), (DP, data/data/com.snapchat.android/databases/core.db), (TN, Preferences), (RL, 576), (_id, 2024), (key, IDENTITY~INAPP_COUNTRY_CODE), (type, 0), (stringValue, US)
+
+(LID, 74818), (PID, com.snapchat.android), (DN, core.db), (DP, data/data/com.snapchat.android/databases/core.db), (TN, Preferences), (RL, 577), (_id, 2025), (key, IDENTITY~SUCCESSFULLY_SYNCED_CONTACTS_DURING_REG), (type, 0), (booleanValue, 1)
+
+(LID, 74819), (PID, com.snapchat.android), (DN, core.db), (DP, data/data/com.snapchat.android/databases/core.db), (TN, SnapUserStore), (RL, 3), (_id, 3), (groupKey, CoreData 9002a6f8-54f8-4540-bc16-53a6b37f0688), (itemKey, CjAKCENvcmVEYXRhEiQ5MDAyYTZmOC01NGY4LTQ1NDAtYmMxNi01M2E2YjM3ZjA2ODgaEQoEcHJvcBIJY29yZV9kYXRh), (textVal, 1990-01-31)
+
+(LID, 74820), (PID, com.snapchat.android), (DN, feature), (DP, data/data/com.snapchat.android/databases/feature), (TN, LensesToSuggest), (RL, 19), (tag, good morning), (lensId, 42151550932), (lensIconContentUri, content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FyVFXd3xhUxTURFvPjVDDQ%3Fbo%3DEhgaABoAMgF9OgEEQgYI4bbC8AVIAlASYAE%253D%26uc%3D18)
+
+(LID, 74821), (PID, com.snapchat.android), (DN, feature), (DP, data/data/com.snapchat.android/databases/feature), (TN, LensesToSuggest), (RL, 21), (tag, good night), (lensId, 29929687239), (lensIconContentUri, content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FelDuwviDEd2BjOrdrzmYU%3Fbo%3DEhgaABoAMgF9OgEEQgYIy-3J8AVIAlASYAE%253D%26uc%3D18)
+
+(LID, 12886), (PID, com.google.android.gms), (DN, fido_embedded_security_key.db), (DP, data/data/com.google.android.gms/databases/fido_embedded_security_key.db), (TN, registered_credentials), (RL, 1), (id, 2.qnx0yatQwXMPtN3U0ACorl32yFNKVib6+wka+yP15eU=.google.com), (registration_time, 2021-04-03T21:44:31.319), (counter, 0), (key_data, owFYijCBhwIBADATBgcqhkjOPQIBBggqhkjOPQMBBwRtMGsCAQEEIAtr/GmyqTmb556Ge4Ue9msGT7HrihwQ4P8v4l7p+MkcoUQDQgAEkgMT3c/G5rKCzH63GB6xj/aDtGoJ9oW1VvNSbel+TXgMz81qJwHqtFbhQgi8TwME3qJnqPyDiYOO8U+FaKwldAJYWzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJIDE93Pxuaygsx+txgesY/2g7RqCfaFtVbzUm3pfk14DM/NaicB6rRW4UIIvE8DBN6iZ6j8g4mDjvFPhWisJXQDo2Jsa1ggNv2FxvVEac0ju5xqejE878gonGiM7qX/2xQK25Pjd2JjaXJrWCARLCbx+2KOCq1K2fWWt4eupGRlc38Oq53+jAR0by4ZEmd2ZXJzaW9uAQ==)
+
+(LID, 12719), (PID, com.google.android.apps.photos), (DN, disk_cache), (DP, data/user/0/com.google.android.apps.photos/databases/disk_cache), (TN, journal), (RL, 392), (key, 66005d14f09d7a6f95e88a4112b05e882855a4a4078bc62d0664c36cf8434295), (last_modified_time, 1626807872568), (pending_delete, 0), (size, 1995)
+
+(LID, 12637), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 906), (name, Rijksoverheid), (displayName, Rijksoverheid), (prevalence, 0.0103)
+
+(LID, 12638), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 16), (domain, acint.net), (defaultAction, IGNORE), (ownerName, Poshibalov Evgeny Vasilyevich), (categories, []), (rules, [{"rule":"acint\\.net\\/aci\\.js"}])
+
+(LID, 12639), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 21), (domain, ad-stir.com), (defaultAction, IGNORE), (ownerName, Yozo, Kaneko), (categories, []), (rules, [{"rule":"ad-stir\\.com\\/js\\/adstir\\.js"}])
+
+(LID, 12640), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 34), (domain, adhese.com), (defaultAction, IGNORE), (ownerName, Doggybites bvba), (categories, []), (rules, [{"rule":"adhese\\.com\\/cssu\\/pebblemedia\\.js"},{"rule":"adhese\\.com\\/tag\\/tag-v3\\.js"},{"rule":"adhese\\.com\\/tag\\/tag\\.js"}])
+
+(LID, 12641), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 284), (domain, dimelochat.com), (defaultAction, IGNORE), (ownerName, dimelo sas), (categories, []), (rules, [{"rule":"dimelochat\\.com\\/assets\\/messaging-6430d26d3a4d79938d93e88fdc449af5b6dbdfaf2947c0f8cc6656aa4a934299\\.js"},{"rule":"dimelochat\\.com\\/assets\\/chat-c492808f7f0ed0c9095c4390057ee37ae875693334df728952d7859702163bb6\\.js"}])
+
+(LID, 12642), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 453), (domain, justanswer.com), (defaultAction, IGNORE), (ownerName, JustAnswer LLC), (categories, []), (rules, [{"rule":"justanswer\\.com\\/js\\/ja-gadget-virtual-assistant-config,ja-gadget-virtual-assistant-hybrid"},{"rule":"justanswer\\.com\\/js\\/ja-gadget-virtual-assistant-config,ja-gadget-virtual-assistant-subtle"},{"rule":"justanswer\\.com\\/js\\/ja-gadget-virtual-assistant-config,ja-gadget-virtual-assistant-inline"},{"rule":"justanswer\\.com\\/v3\\/ja-gadget-virtual-assistant@latest\\.js"}])
+
+(LID, 12643), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 540), (domain, mybestpro.com), (defaultAction, IGNORE), (ownerName, WENGO SAS), (categories, []), (rules, [{"rule":"mybestpro\\.com\\/general\\.js"}])
+
+(LID, 12644), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 570), (domain, oneall.com), (defaultAction, IGNORE), (ownerName, ONEALL SARL), (categories, []), (rules, [{"rule":"oneall\\.com\\/socialize\\/sso\\/library\\.js"}])
+
+(LID, 12645), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 716), (domain, shopconvert.com.br), (defaultAction, IGNORE), (ownerName, Isaac Ezra), (categories, []), (rules, [{"rule":"shopconvert\\.com\\.br\\/js\\/cm\\.js"}])
+
+(LID, 12646), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 718), (domain, shoptarget.com.br), (defaultAction, IGNORE), (ownerName, Isaac Ezra), (categories, []), (rules, [{"rule":"shoptarget\\.com\\.br\\/js\\/reengage_legacy\\.js"},{"rule":"shoptarget\\.com\\.br\\/js\\/collect_sbk\\.js"}])
+
+(LID, 12647), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 762), (domain, styria.hr), (defaultAction, IGNORE), (ownerName, Styria medijski servisi d.o.o.), (categories, []), (rules, [{"rule":"styria\\.hr\\/st\\.js"}])
+
+(LID, 12648), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 867), (domain, worldoftulo.com), (defaultAction, IGNORE), (ownerName, Adeprimo AB), (categories, []), (rules, [{"rule":"worldoftulo\\.com\\/tracker\\/1\\.2\\/event-tracker\\.min\\.js"},{"rule":"worldoftulo\\.com\\/tracker\\/1\\.3\\.2\\/event-tracker\\.min\\.js"}])
+
+(LID, 12650), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 916), (domain, framasoft.org), (defaultAction, IGNORE), (ownerName, Alexis Kauffmann), (categories, []), (rules, [{"rule":"framasoft\\.org\\/nav\\/nav\\.js"}])
+
+(LID, 12613), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 582), (name, Ano Nymous), (displayName, Ano Nymous), (prevalence, 0.0459)
+
+(LID, 12614), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 604), (name, Ka Mo Lau), (displayName, Ka Mo Lau), (prevalence, 0.048)
+
+(LID, 12615), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 627), (name, Ravi Trivedi), (displayName, Ravi Trivedi), (prevalence, 0.14)
+
+(LID, 12616), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 629), (name, Shashank Kumar), (displayName, Shashank Kumar), (prevalence, 0.0871)
+
+(LID, 12617), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 666), (name, Janrain), (displayName, Janrain), (prevalence, 0.0541)
+
+(LID, 12618), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 672), (name, Sajari), (displayName, Sajari), (prevalence, 0.0233)
+
+(LID, 12619), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 674), (name, Benhauer sp. z o.o.), (displayName, Benhauer), (prevalence, 0.0473)
+
+(LID, 12620), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 698), (name, AdButler), (displayName, AdButler), (prevalence, 0.114)
+
+(LID, 12621), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 705), (name, Isaac Ezra), (displayName, Isaac Ezra), (prevalence, 0.0143)
+
+(LID, 12622), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 713), (name, Jake Brumby), (displayName, Jake Brumby), (prevalence, 0.0294)
+
+(LID, 12623), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 730), (name, Sooqr), (displayName, Sooqr), (prevalence, 0.013)
+
+(LID, 12624), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 746), (name, ARNOLDO MONDADORI EDITORE SpA), (displayName, ARNOLDO MONDADORI EDITORE), (prevalence, 0.0247)
+
+(LID, 12625), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 779), (name, Throtle), (displayName, Throtle), (prevalence, 1.81)
+
+(LID, 12626), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 792), (name, Telaria), (displayName, Telaria), (prevalence, 3.56)
+
+(LID, 12627), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 817), (name, Usabilla B.V.), (displayName, Usabilla), (prevalence, 0.255)
+
+(LID, 12628), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 830), (name, Vidyard), (displayName, Vidyard), (prevalence, 0.0576)
+
+(LID, 12629), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 843), (name, Weborama), (displayName, Weborama), (prevalence, 0.524)
+
+(LID, 12630), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 852), (name, Benjamin Cahen), (displayName, Benjamin Cahen), (prevalence, 0.198)
+
+(LID, 12631), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 861), (name, Wirtualna Polska), (displayName, Wirtualna Polska), (prevalence, 0.0692)
+
+(LID, 12632), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 865), (name, Kenshoo TLD), (displayName, Kenshoo TLD), (prevalence, 0.435)
+
+(LID, 12633), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 868), (name, WGCZ a.s.), (displayName, WGCZ), (prevalence, 0.234)
+
+(LID, 12634), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 869), (name, Ysance), (displayName, Ysance), (prevalence, 0.0206)
+
+(LID, 12635), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 893), (name, Guuru), (displayName, Guuru), (prevalence, 0.0062)
+
+(LID, 12636), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 899), (name, Alexis Kauffmann), (displayName, Alexis Kauffmann), (prevalence, 0.0302)
+
+(LID, 12586), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 21), (name, Poshibalov Evgeny Vasilyevich), (displayName, Poshibalov Evgeny Vasilyevich), (prevalence, 0.0171)
+
+(LID, 12587), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 27), (name, Yozo, Kaneko), (displayName, Yozo, Kaneko), (prevalence, 0.227)
+
+(LID, 12588), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 41), (name, Doggybites bvba), (displayName, Doggybites bvba), (prevalence, 0.0336)
+
+(LID, 12589), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 77), (name, Adverticum Zrt.), (displayName, Adverticum Zrt), (prevalence, 0.0281)
+
+(LID, 12590), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 127), (name, Avanser), (displayName, Avanser), (prevalence, 0.0082)
+
+(LID, 12591), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 132), (name, Azameo), (displayName, Azameo), (prevalence, 0.0014)
+
+(LID, 12592), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 160), (name, Blue Billywig bv), (displayName, Blue Billywig), (prevalence, 0.0254)
+
+(LID, 12593), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 170), (name, BloomReach), (displayName, BloomReach), (prevalence, 0.174)
+
+(LID, 12594), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 202), (name, Roger Wilco LLC), (displayName, Roger Wilco), (prevalence, 0.0384)
+
+(LID, 12595), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 208), (name, Clickagy), (displayName, Clickagy), (prevalence, 2.55)
+
+(LID, 12596), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 245), (name, gskinner), (displayName, gskinner), (prevalence, 0.78)
+
+(LID, 12597), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 275), (name, dimelo sas), (displayName, dimelo), (prevalence, 0.0096)
+
+(LID, 12598), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 291), (name, Teroa S.A.), (displayName, Teroa), (prevalence, 0.509)
+
+(LID, 12600), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 345), (name, Gemius S.A.), (displayName, Gemius), (prevalence, 1.65)
+
+(LID, 12601), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 400), (name, EDITORA GLOBO S/A.), (displayName, EDITORA GLOBO), (prevalence, 0.0192)
+
+(LID, 12602), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 408), (name, Michael Browitt), (displayName, Michael Browitt), (prevalence, 0.0452)
+
+(LID, 12603), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 425), (name, Ividence), (displayName, Ividence), (prevalence, 0.0342)
+
+(LID, 12604), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 438), (name, Kameleoon), (displayName, Kameleoon), (prevalence, 0.108)
+
+(LID, 12605), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 442), (name, Keywee), (displayName, Keywee), (prevalence, 0.157)
+
+(LID, 12606), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 445), (name, Klaviyo), (displayName, Klaviyo), (prevalence, 1.2)
+
+(LID, 12607), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 447), (name, Kochava), (displayName, Kochava), (prevalence, 0.0198)
+
+(LID, 12608), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 535), (name, Navegg S.A.), (displayName, Navegg), (prevalence, 0.238)
+
+(LID, 12609), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 547), (name, Namogoo), (displayName, Namogoo), (prevalence, 0.0233)
+
+(LID, 12610), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 550), (name, Ziff Davis LLC), (displayName, Ziff Davis), (prevalence, 0.0801)
+
+(LID, 12611), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 556), (name, Olark), (displayName, Olark), (prevalence, 0.21)
+
+(LID, 12612), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 563), (name, ONEALL SARL), (displayName, ONEALL), (prevalence, 0.037)
+
+(LID, 13333), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 552), (_id, 610), (text, pieterwuille), (type, 1), (ref_id, 21519885), (weight, 52278)
+
+(LID, 13334), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 556), (_id, 614), (text, karissa kindy), (type, 1), (ref_id, 24463119), (weight, 52278)
+
+(LID, 13335), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 557), (_id, 615), (text, karissa), (type, 1), (ref_id, 24463119), (weight, 52278)
+
+(LID, 13336), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 575), (_id, 633), (text, phill moore), (type, 1), (ref_id, 25816637), (weight, 52278)
+
+(LID, 13337), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 578), (_id, 636), (text, nathan), (type, 1), (ref_id, 27921338), (weight, 52278)
+
+(LID, 13338), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 579), (_id, 637), (text, @nathanryan), (type, 1), (ref_id, 27921338), (weight, 52278)
+
+(LID, 13339), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 580), (_id, 638), (text, nathanryan), (type, 1), (ref_id, 27921338), (weight, 52278)
+
+(LID, 13340), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 581), (_id, 639), (text, brianmoran), (type, 1), (ref_id, 29574511), (weight, 52278)
+
+(LID, 13341), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 582), (_id, 640), (text, brian moran), (type, 1), (ref_id, 29574511), (weight, 52278)
+
+(LID, 13342), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 584), (_id, 642), (text, moran), (type, 1), (ref_id, 29574511), (weight, 52278)
+
+(LID, 13343), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 585), (_id, 643), (text, brian), (type, 1), (ref_id, 29574511), (weight, 52278)
+
+(LID, 13344), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 586), (_id, 644), (text, brianjmoran), (type, 1), (ref_id, 29574511), (weight, 52278)
+
+(LID, 13345), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 587), (_id, 645), (text, adam), (type, 1), (ref_id, 31536491), (weight, 52278)
+
+(LID, 13346), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 591), (_id, 649), (text, adamorth), (type, 1), (ref_id, 31536491), (weight, 52278)
+
+(LID, 13347), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 592), (_id, 650), (text, adam orth), (type, 1), (ref_id, 31536491), (weight, 52278)
+
+(LID, 13348), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 595), (_id, 653), (text, christine barnum), (type, 1), (ref_id, 34685057), (weight, 52278)
+
+(LID, 13349), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 597), (_id, 655), (text, christine), (type, 1), (ref_id, 34685057), (weight, 52278)
+
+(LID, 13350), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 598), (_id, 656), (text, lina), (type, 1), (ref_id, 36683532), (weight, 52278)
+
+(LID, 13351), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 603), (_id, 661), (text, candieðŸ‘½), (type, 1), (ref_id, 69990286), (weight, 52278)
+
+(LID, 13352), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 606), (_id, 664), (text, candie), (type, 1), (ref_id, 69990286), (weight, 52278)
+
+(LID, 13353), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 608), (_id, 666), (text, candie ðŸ‘½), (type, 1), (ref_id, 69990286), (weight, 52278)
+
+(LID, 13354), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 616), (_id, 674), (text, hiromichi), (type, 1), (ref_id, 72862939), (weight, 52278)
+
+(LID, 13355), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 617), (_id, 675), (text, hiromichi mizuno), (type, 1), (ref_id, 72862939), (weight, 52278)
+
+(LID, 13356), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 619), (_id, 677), (text, hiromizuno), (type, 1), (ref_id, 72862939), (weight, 52278)
+
+(LID, 13357), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 620), (_id, 678), (text, hiro mizuno), (type, 1), (ref_id, 72862939), (weight, 52278)
+
+(LID, 13358), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 628), (_id, 686), (text, jake), (type, 1), (ref_id, 77346069), (weight, 52278)
+
+(LID, 13359), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 629), (_id, 687), (text, jakewilliams), (type, 1), (ref_id, 77346069), (weight, 52278)
+
+(LID, 13360), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 631), (_id, 689), (text, williams), (type, 1), (ref_id, 77346069), (weight, 52278)
+
+(LID, 13361), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 632), (_id, 690), (text, jake williams), (type, 1), (ref_id, 77346069), (weight, 52278)
+
+(LID, 13362), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 637), (_id, 695), (text, ashlee), (type, 1), (ref_id, 81961201), (weight, 52278)
+
+(LID, 13363), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 638), (_id, 696), (text, ashlee vance), (type, 1), (ref_id, 81961201), (weight, 52278)
+
+(LID, 13364), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 639), (_id, 697), (text, vijay boyapati), (type, 1), (ref_id, 95066790), (weight, 52278)
+
+(LID, 13365), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 646), (_id, 704), (text, vijay), (type, 1), (ref_id, 95066790), (weight, 52278)
+
+(LID, 13366), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 647), (_id, 705), (text, kevin), (type, 1), (ref_id, 113190078), (weight, 52278)
+
+(LID, 13367), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 649), (_id, 707), (text, kevinripa), (type, 1), (ref_id, 113190078), (weight, 52278)
+
+(LID, 13368), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 651), (_id, 709), (text, kevin ripa), (type, 1), (ref_id, 113190078), (weight, 52278)
+
+(LID, 13369), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 652), (_id, 710), (text, ryan), (type, 1), (ref_id, 118917461), (weight, 52278)
+
+(LID, 13370), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 656), (_id, 714), (text, ryan shea), (type, 1), (ref_id, 118917461), (weight, 52278)
+
+(LID, 13371), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 657), (_id, 715), (text, ryaneshea), (type, 1), (ref_id, 118917461), (weight, 52278)
+
+(LID, 13372), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 661), (_id, 719), (text, guy), (type, 1), (ref_id, 134468399), (weight, 52278)
+
+(LID, 13373), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 663), (_id, 721), (text, the doge coin guy), (type, 1), (ref_id, 134468399), (weight, 52278)
+
+(LID, 13374), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 667), (_id, 725), (text, brian stofers), (type, 1), (ref_id, 134529188), (weight, 52278)
+
+(LID, 13375), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 670), (_id, 728), (text, brian), (type, 1), (ref_id, 134529188), (weight, 52278)
+
+(LID, 13376), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 671), (_id, 729), (text, nicolasdorier), (type, 1), (ref_id, 160139307), (weight, 52278)
+
+(LID, 13377), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 672), (_id, 730), (text, nicolas), (type, 1), (ref_id, 160139307), (weight, 52278)
+
+(LID, 13378), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 674), (_id, 732), (text, nicolas dorier), (type, 1), (ref_id, 160139307), (weight, 52278)
+
+(LID, 13379), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 678), (_id, 736), (text, johncarmack), (type, 1), (ref_id, 175624200), (weight, 52278)
+
+(LID, 13380), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 680), (_id, 738), (text, john carmack), (type, 1), (ref_id, 175624200), (weight, 52278)
+
+(LID, 13381), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 682), (_id, 740), (text, john), (type, 1), (ref_id, 175624200), (weight, 52278)
+
+(LID, 13382), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 688), (_id, 746), (text, miles suter), (type, 1), (ref_id, 180212381), (weight, 52278)
+
+(LID, 13383), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 690), (_id, 748), (text, adam), (type, 1), (ref_id, 213236426), (weight, 52278)
+
+(LID, 78362), (PID, com.snapchat.android), (DN, core.db), (DP, /Dump/data/data/com.snapchat.android/databases/core.db), (TN, SnapUserStore), (RL, 19), (_id, 19), (groupKey, CoreData 9002a6f8-54f8-4540-bc16-53a6b37f0688), (itemKey, CjAKCENvcmVEYXRhEiQ5MDAyYTZmOC01NGY4LTQ1NDAtYmMxNi01M2E2YjM3ZjA2ODgaEQoEcHJvcBIJY29yZV9kYXRh), (blobVal, b'\nE\n0\n\x08CoreData\x12$9002a6f8-54f8-4540-bc16-53a6b37f0688\x1a\x11\n\x04prop\x12\tcore_data\x12\x08\n\x0211\x12\x02\x10\x02\x12\x08\n\x0222\x12\x02\n\x00\x12\x18\n\x0212\x12\x12\n\x1099424070114_1-s5\x12\x10\n\x0213\x12\n\n\x0810220069\x12\r\n\x0217\x12\x07X\xac\xb7\xeb\xd8\x89/\x12\n\n\x0218\x12\x04\n\x02US\x12\x08\n\x0219\x12\x02\x1a\x00\x12\x16\n\x011\x12\x11\n\x0fheisenbergcarro\x12\x13\n\x012\x12\x0e\n\x0cHeisenberg W\x12\x11\n\x013\x12\x0c\n\n1990-01-31\x12 \n\x014\x12\x1b\n\x19heisenbergcarro@gmail.com\x12\x07\n\x015\x12\x02 \x01\x12\x07\n\x016\x12\x02\n\x00\x12\x13\n\x017\x12\x0e\n\x0c+16506808040\x12\t\n\x018\x12\x04\n\x02US\x12\x07\n\x019\x12\x02\x10\x02\x12\x17\n\x0220\x12\x11\n\x0fheisenbergcarro\x12\x08\n\x0210\x12\x02\x10\x02\x12\x08\n\x0221\x12\x02\n\x00'), (score, 0.0)
+
+(LID, 78373), (PID, com.flatfish.cal.privacy), (DN, hidex.db), (DP, /Dump/data/data/com.flatfish.cal.privacy/databases/hidex.db), (TN, p_lock_app), (RL, 1), (id, 1), (packageName, com.whatsapp), (isActive, 1)
+
+(LID, 78374), (PID, com.flatfish.cal.privacy), (DN, hidex.db), (DP, /Dump/data/data/com.flatfish.cal.privacy/databases/hidex.db), (TN, p_lock_app), (RL, 2), (id, 2), (packageName, com.sec.android.gallery3d), (isActive, 1)
+
+(LID, 78375), (PID, com.flatfish.cal.privacy), (DN, hidex.db), (DP, /Dump/data/data/com.flatfish.cal.privacy/databases/hidex.db), (TN, p_lock_app), (RL, 3), (id, 3), (packageName, catching.cheatingspouseapp.app), (isActive, 1)
+
+(LID, 78376), (PID, com.flatfish.cal.privacy), (DN, hidex.db), (DP, /Dump/data/data/com.flatfish.cal.privacy/databases/hidex.db), (TN, p_lock_app), (RL, 4), (id, 4), (packageName, com.androidrocker.voicechanger), (isActive, 1)
+
+(LID, 78377), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 2), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624340103851), (log_source, 55), (event_code, 1955), (package_name, com.google.android.apps.docs)
+
+(LID, 78378), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 3), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624340103865), (log_source, 55), (event_code, 57040), (package_name, com.google.android.apps.docs)
+
+(LID, 78379), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 5), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624340104060), (log_source, 55), (event_code, 93031), (package_name, com.google.android.apps.docs)
+
+(LID, 78380), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 6), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624340105955), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78381), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 7), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624340106093), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78382), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 8), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624340147568), (log_source, 55), (event_code, 57040), (package_name, com.google.android.apps.docs)
+
+(LID, 78383), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 11), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624340147682), (log_source, 55), (event_code, 93031), (package_name, com.google.android.apps.docs)
+
+(LID, 78384), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 12), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624340147967), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78385), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 13), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624340147989), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78386), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 14), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624385830356), (log_source, 55), (event_code, 57040), (package_name, com.google.android.apps.docs)
+
+(LID, 78387), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 16), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624385830804), (log_source, 55), (event_code, 93031), (package_name, com.google.android.apps.docs)
+
+(LID, 78388), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 18), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624385832788), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78389), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 19), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624385832865), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78390), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 20), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624385885969), (log_source, 55), (event_code, 57040), (package_name, com.google.android.apps.docs)
+
+(LID, 78392), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 24), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624385887281), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78393), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 25), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624385887512), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78394), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 26), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624400342266), (log_source, 55), (event_code, 57040), (package_name, com.google.android.apps.docs)
+
+(LID, 78395), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 28), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624400342653), (log_source, 55), (event_code, 93031), (package_name, com.google.android.apps.docs)
+
+(LID, 78396), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 30), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624400343726), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78391), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 23), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624385886174), (log_source, 55), (event_code, 93031), (package_name, com.google.android.apps.docs)
+
+(LID, 78397), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 31), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624400343770), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78398), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 32), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624407327555), (log_source, 55), (event_code, 93123), (package_name, com.google.android.apps.docs)
+
+(LID, 78399), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 34), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624435546946), (log_source, 55), (event_code, 1955), (package_name, com.google.android.apps.docs)
+
+(LID, 78400), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 35), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624435546947), (log_source, 55), (event_code, 57040), (package_name, com.google.android.apps.docs)
+
+(LID, 78401), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 37), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624435547125), (log_source, 55), (event_code, 93031), (package_name, com.google.android.apps.docs)
+
+(LID, 78402), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 38), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624435547686), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78403), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 39), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624435547695), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78404), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 40), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624476426234), (log_source, 55), (event_code, 57040), (package_name, com.google.android.apps.docs)
+
+(LID, 78405), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 42), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624476427191), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78406), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 43), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624476427260), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78407), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 45), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624476430425), (log_source, 55), (event_code, 93031), (package_name, com.google.android.apps.docs)
+
+(LID, 78408), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 47), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624492145729), (log_source, 55), (event_code, 57040), (package_name, com.google.android.apps.docs)
+
+(LID, 78409), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 48), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624492145840), (log_source, 55), (event_code, 93031), (package_name, com.google.android.apps.docs)
+
+(LID, 78410), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 50), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624492146877), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78411), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 51), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624492146977), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78412), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 52), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624498240152), (log_source, 55), (event_code, 57040), (package_name, com.google.android.apps.docs)
+
+(LID, 78413), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 54), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624498240465), (log_source, 55), (event_code, 93031), (package_name, com.google.android.apps.docs)
+
+(LID, 78491), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 1), (_id, 1), (originalUsername, heisenbergcarro), (mutableUsername, heisenbergcarro), (encodedUsername, heisenbergcarro|heisenbergcarro)
+
+(LID, 78492), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 2), (_id, 2), (originalUsername, teamsnapchat), (encodedUsername, teamsnapchat|)
+
+(LID, 78493), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 3), (_id, 4), (originalUsername, bbc2120), (encodedUsername, bbc2120|)
+
+(LID, 78494), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 4), (_id, 5), (originalUsername, bethdutton2021), (encodedUsername, bethdutton2021|)
+
+(LID, 78495), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 5), (_id, 6), (originalUsername, marsha4mellos), (encodedUsername, marsha4mellos|)
+
+(LID, 78496), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 6), (_id, 12), (originalUsername, yyani040), (encodedUsername, yyani040|)
+
+(LID, 78497), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 7), (_id, 13), (originalUsername, julianna_fish19), (encodedUsername, julianna_fish19|)
+
+(LID, 78498), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 8), (_id, 14), (originalUsername, bowhoe123), (encodedUsername, bowhoe123|)
+
+(LID, 78499), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 9), (_id, 15), (originalUsername, akessler906), (encodedUsername, akessler906|)
+
+(LID, 78500), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 10), (_id, 16), (originalUsername, nathanmcbride13), (encodedUsername, nathanmcbride13|)
+
+(LID, 78501), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 11), (_id, 17), (originalUsername, lauren100512), (encodedUsername, lauren100512|)
+
+(LID, 78502), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 12), (_id, 18), (originalUsername, azzafatta_22), (encodedUsername, azzafatta_22|)
+
+(LID, 78503), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 13), (_id, 19), (originalUsername, brandont4144), (encodedUsername, brandont4144|)
+
+(LID, 78504), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 14), (_id, 20), (originalUsername, joondelgado2020), (encodedUsername, joondelgado2020|)
+
+(LID, 78505), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 15), (_id, 21), (originalUsername, ioalnsen), (encodedUsername, ioalnsen|)
+
+(LID, 78506), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 16), (_id, 22), (originalUsername, michellequijo19), (encodedUsername, michellequijo19|)
+
+(LID, 78507), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 17), (_id, 23), (originalUsername, newell_liv), (encodedUsername, newell_liv|)
+
+(LID, 78508), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 18), (_id, 24), (originalUsername, chloe_ann72), (encodedUsername, chloe_ann72|)
+
+(LID, 78509), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 19), (_id, 25), (originalUsername, lighhskinn.sxdd), (encodedUsername, lighhskinn.sxdd|)
+
+(LID, 78510), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 20), (_id, 26), (originalUsername, official.rayy24), (encodedUsername, official.rayy24|)
+
+(LID, 78511), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 21), (_id, 27), (originalUsername, baebae20045), (encodedUsername, baebae20045|)
+
+(LID, 78512), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 22), (_id, 28), (originalUsername, june_elyse7), (encodedUsername, june_elyse7|)
+
+(LID, 78513), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 23), (_id, 29), (originalUsername, ksnuffer23), (encodedUsername, ksnuffer23|)
+
+(LID, 78514), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 24), (_id, 30), (originalUsername, mel.boouni), (encodedUsername, mel.boouni|)
+
+(LID, 78515), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 25), (_id, 31), (originalUsername, period_2018), (encodedUsername, period_2018|)
+
+(LID, 78516), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 26), (_id, 32), (originalUsername, vanessaazhu), (encodedUsername, vanessaazhu|)
+
+(LID, 78517), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 27), (_id, 33), (originalUsername, johanelly005_gv), (encodedUsername, johanelly005_gv|)
+
+(LID, 78518), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 28), (_id, 34), (originalUsername, babygirl_ali124), (encodedUsername, babygirl_ali124|)
+
+(LID, 78519), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 29), (_id, 35), (originalUsername, luissolis4093), (encodedUsername, luissolis4093|)
+
+(LID, 78520), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 30), (_id, 36), (originalUsername, aaronquinn212), (encodedUsername, aaronquinn212|)
+
+(LID, 78521), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 31), (_id, 37), (originalUsername, itsnotashen), (encodedUsername, itsnotashen|)
+
+(LID, 78522), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 32), (_id, 38), (originalUsername, angel021888), (encodedUsername, angel021888|)
+
+(LID, 78523), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 33), (_id, 39), (originalUsername, xfreyac.x), (encodedUsername, xfreyac.x|)
+
+(LID, 78524), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 34), (_id, 40), (originalUsername, lari_mart1nez), (encodedUsername, lari_mart1nez|)
+
+(LID, 78525), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 35), (_id, 41), (originalUsername, thareal_dmj1), (encodedUsername, thareal_dmj1|)
+
+(LID, 78526), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 36), (_id, 42), (originalUsername, tm.jaysnick), (encodedUsername, tm.jaysnick|)
+
+(LID, 78527), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 37), (_id, 43), (originalUsername, s_king9407), (encodedUsername, s_king9407|)
+
+(LID, 78528), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 38), (_id, 44), (originalUsername, jisseltorres20), (encodedUsername, jisseltorres20|)
+
+(LID, 78529), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 39), (_id, 45), (originalUsername, alemiipe), (encodedUsername, alemiipe|)
+
+(LID, 78530), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 40), (_id, 46), (originalUsername, thatplug.trap), (encodedUsername, thatplug.trap|)
+
+(LID, 78531), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 41), (_id, 47), (originalUsername, globabyk12), (encodedUsername, globabyk12|)
+
+(LID, 78532), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 42), (_id, 48), (originalUsername, celine.cch29), (encodedUsername, celine.cch29|)
+
+(LID, 78533), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 43), (_id, 49), (originalUsername, jadasmokesalot), (encodedUsername, jadasmokesalot|)
+
+(LID, 78534), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 44), (_id, 50), (originalUsername, kays_truths), (encodedUsername, kays_truths|)
+
+(LID, 78535), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 45), (_id, 51), (originalUsername, overland_cg), (encodedUsername, overland_cg|)
+
+(LID, 78536), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 46), (_id, 52), (originalUsername, bryanf7430), (encodedUsername, bryanf7430|)
+
+(LID, 78537), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 47), (_id, 53), (originalUsername, kcm2sm), (encodedUsername, kcm2sm|)
+
+(LID, 78538), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 48), (_id, 54), (originalUsername, krystal_m108), (encodedUsername, krystal_m108|)
+
+(LID, 78539), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 49), (_id, 55), (originalUsername, felipeignacio_3), (encodedUsername, felipeignacio_3|)
+
+(LID, 78540), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 50), (_id, 56), (originalUsername, ostreetz206), (encodedUsername, ostreetz206|)
+
+(LID, 78541), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 51), (_id, 57), (originalUsername, isabelacobley), (encodedUsername, isabelacobley|)
+
+(LID, 78542), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 52), (_id, 58), (originalUsername, baddie_meg06), (encodedUsername, baddie_meg06|)
+
+(LID, 78543), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 53), (_id, 59), (originalUsername, bramirez1553), (encodedUsername, bramirez1553|)
+
+(LID, 78544), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 54), (_id, 60), (originalUsername, kennadii92), (encodedUsername, kennadii92|)
+
+(LID, 78545), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 55), (_id, 61), (originalUsername, isabelasalasl), (encodedUsername, isabelasalasl|)
+
+(LID, 78546), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 56), (_id, 62), (originalUsername, vb_rose27), (encodedUsername, vb_rose27|)
+
+(LID, 78547), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 57), (_id, 63), (originalUsername, tok_rosexomay), (encodedUsername, tok_rosexomay|)
+
+(LID, 78548), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 58), (_id, 64), (originalUsername, its_jeiland), (encodedUsername, its_jeiland|)
+
+(LID, 78549), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 59), (_id, 65), (originalUsername, brazzyb_mya01), (encodedUsername, brazzyb_mya01|)
+
+(LID, 78550), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 60), (_id, 66), (originalUsername, marley_670), (encodedUsername, marley_670|)
+
+(LID, 78551), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 61), (_id, 67), (originalUsername, itzjaboi837), (encodedUsername, itzjaboi837|)
+
+(LID, 78552), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 62), (_id, 68), (originalUsername, divapeyton12), (encodedUsername, divapeyton12|)
+
+(LID, 78553), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 63), (_id, 69), (originalUsername, doodamostt), (encodedUsername, doodamostt|)
+
+(LID, 78554), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 64), (_id, 70), (originalUsername, reyesreyz), (encodedUsername, reyesreyz|)
+
+(LID, 78555), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 65), (_id, 71), (originalUsername, yl.yaya), (encodedUsername, yl.yaya|)
+
+(LID, 78556), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 66), (_id, 72), (originalUsername, kaleb.20almb17), (encodedUsername, kaleb.20almb17|)
+
+(LID, 78557), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 67), (_id, 73), (originalUsername, marlomike24), (encodedUsername, marlomike24|)
+
+(LID, 78558), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 68), (_id, 74), (originalUsername, roce_p20), (encodedUsername, roce_p20|)
+
+(LID, 78559), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 69), (_id, 75), (originalUsername, bankrolltyrell1), (encodedUsername, bankrolltyrell1|)
+
+(LID, 78560), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 70), (_id, 76), (originalUsername, hoverway1), (encodedUsername, hoverway1|)
+
+(LID, 78561), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 71), (_id, 77), (originalUsername, yaboyranger2020), (encodedUsername, yaboyranger2020|)
+
+(LID, 78562), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 72), (_id, 78), (originalUsername, whiteboy_mcfly), (encodedUsername, whiteboy_mcfly|)
+
+(LID, 78563), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 73), (_id, 79), (originalUsername, michellegon9121), (encodedUsername, michellegon9121|)
+
+(LID, 78564), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 74), (_id, 80), (originalUsername, katelynnguye25), (encodedUsername, katelynnguye25|)
+
+(LID, 78565), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 75), (_id, 81), (originalUsername, cleo_2775), (encodedUsername, cleo_2775|)
+
+(LID, 78566), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 76), (_id, 82), (originalUsername, maddoxvonpr2020), (encodedUsername, maddoxvonpr2020|)
+
+(LID, 78567), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 77), (_id, 83), (originalUsername, lonley4life420), (encodedUsername, lonley4life420|)
+
+(LID, 78568), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 78), (_id, 84), (originalUsername, jaylen_lacy), (encodedUsername, jaylen_lacy|)
+
+(LID, 78569), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 79), (_id, 85), (originalUsername, keyki777), (encodedUsername, keyki777|)
+
+(LID, 78570), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 80), (_id, 86), (originalUsername, h_musse2019), (encodedUsername, h_musse2019|)
+
+(LID, 78571), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 81), (_id, 87), (originalUsername, tysimmons.gloat), (encodedUsername, tysimmons.gloat|)
+
+(LID, 78572), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 82), (_id, 88), (originalUsername, wxnderllandboy), (encodedUsername, wxnderllandboy|)
+
+(LID, 78573), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 83), (_id, 89), (originalUsername, cesara9797), (encodedUsername, cesara9797|)
+
+(LID, 78574), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 84), (_id, 90), (originalUsername, diana_a663), (encodedUsername, diana_a663|)
+
+(LID, 78575), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 85), (_id, 91), (originalUsername, c_j32143), (encodedUsername, c_j32143|)
+
+(LID, 78576), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 86), (_id, 92), (originalUsername, laylani.415), (encodedUsername, laylani.415|)
+
+(LID, 78577), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 87), (_id, 93), (originalUsername, jenessaamariiee), (encodedUsername, jenessaamariiee|)
+
+(LID, 78578), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 88), (_id, 94), (originalUsername, ally48145), (encodedUsername, ally48145|)
+
+(LID, 78579), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 89), (_id, 95), (originalUsername, triple_m69), (encodedUsername, triple_m69|)
+
+(LID, 78580), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 90), (_id, 96), (originalUsername, aundreharmon12), (encodedUsername, aundreharmon12|)
+
+(LID, 78581), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 91), (_id, 97), (originalUsername, ecarnell197), (encodedUsername, ecarnell197|)
+
+(LID, 78582), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 92), (_id, 98), (originalUsername, owenmorin2019), (encodedUsername, owenmorin2019|)
+
+(LID, 78583), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 93), (_id, 99), (originalUsername, deadass.sb), (encodedUsername, deadass.sb|)
+
+(LID, 78584), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 94), (_id, 100), (originalUsername, m_jaber5388), (encodedUsername, m_jaber5388|)
+
+(LID, 78585), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 95), (_id, 101), (originalUsername, niya_w05), (encodedUsername, niya_w05|)
+
+(LID, 78586), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 96), (_id, 102), (originalUsername, datboybraedyn), (encodedUsername, datboybraedyn|)
+
+(LID, 78587), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 97), (_id, 103), (originalUsername, diiiaaaannnna), (encodedUsername, diiiaaaannnna|)
+
+(LID, 78588), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 98), (_id, 104), (originalUsername, mauriciosped14), (encodedUsername, mauriciosped14|)
+
+(LID, 78589), (PID, com.snapchat.android), (DN, main.db), (DP, /Dump/data/data/com.snapchat.android/databases/main.db), (TN, CombinedUsername), (RL, 99), (_id, 105), (originalUsername, thatboyzay253), (encodedUsername, thatboyzay253|)
+
+(LID, 78590), (PID, com.twitter.android), (DN, found_media), (DP, /Dump/data/data/com.twitter.android/databases/found_media), (TN, query_history), (RL, 1), (query, crying), (timestamp, 1623900701673)
+
+(LID, 78591), (PID, com.twitter.android), (DN, found_media), (DP, /Dump/data/data/com.twitter.android/databases/found_media), (TN, query_history), (RL, 2), (query, sad), (timestamp, 1623900734220)
+
+(LID, 78592), (PID, com.twitter.android), (DN, found_media), (DP, /Dump/data/data/com.twitter.android/databases/found_media), (TN, query_history), (RL, 3), (query, i will be there), (timestamp, 1625114199563)
+
+(LID, 78593), (PID, com.twitter.android), (DN, found_media), (DP, /Dump/data/data/com.twitter.android/databases/found_media), (TN, query_history), (RL, 4), (query, i will be there too), (timestamp, 1625114125028)
+
+(LID, 78595), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 1), (text, speed trap reported ahead), (path, database//Jane//1625260854-883084-0.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78596), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 2), (text, heavy traffic reported ahead), (path, database//Jane//1625260854-883239-1.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78597), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 3), (text, watch out, accident reported ahead), (path, database//Jane//1625260854-883240-2.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78598), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 4), (text, watch out, hazard reported ahead), (path, database//Jane//1625260854-883241-3.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78599), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 5), (text, You are entering an enforcement zone), (path, database//Jane//1625260854-884956-20.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78600), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 6), (text, You are leaving an enforcement zone), (path, database//Jane//1625260854-884958-21.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78601), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 7), (text, Entering a crime risk area), (path, database//Jane//1625260854-884959-22.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78602), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 8), (text, Crime risk area), (path, database//Jane//1625260854-884959-23.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78603), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 9), (text, watch out, object on road ahead), (path, database//Jane//1625260854-883637-4.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78604), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 10), (text, watch out, pothole on road ahead), (path, database//Jane//1625260854-883638-5.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78605), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 11), (text, watch out, road kill on road ahead), (path, database//Jane//1625260854-883639-6.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78606), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 12), (text, watch out, vehicle stopped on shoulder ahead), (path, database//Jane//1625260854-883639-7.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78607), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 13), (text, red light camera reported ahead), (path, database//Jane//1625260854-884597-16.tts), (storage_type, 2), (te
+
+(LID, 78604), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 10), (text, watch out, pothole on road ahead), (path, database//Jane//1625260854-883638-5.tts), (storage_type, 2), xt_type, 0), (update_time, 1625260855)
+
+(LID, 78608), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 14), (text, Approaching a railroad crossing), (path, database//Jane//1625260854-884599-17.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78609), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 15), (text, Beep from a friend), (path, database//Jane//1625260854-884599-18.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78610), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 16), (text, Message from a friend), (path, database//Jane//1625260854-884600-19.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78611), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 17), (text, watch out, animal on shoulder ahead), (path, database//Jane//1625260854-883871-8.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78612), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 18), (text, watch out, fog reported ahead), (path, database//Jane//1625260854-883872-9.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78613), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 19), (text, watch out, hail reported ahead), (path, database//Jane//1625260854-883873-10.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78614), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 20), (text, watch out, rain reported ahead), (path, database//Jane//1625260854-883873-11.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78615), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 21), (text, Average speed enforcement zone ahead), (path, database//Jane//1625260854-885193-24.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78616), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 22), (text, Entering speed enforcement zone), (path, database//Jane//1625260854-885195-25.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78617), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 23), (text, Exiting average speed enforcement zone), (path, database//Jane//1625260854-885195-26.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78618), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 24), (text, Entering high risk or illegal area), (path, database//Jane//1625260854-885196-27.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78619), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 25), (text, watch out, snow reported ahead), (path, database//Jane//1625260854-884242-12.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78620), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 26), (text, watch out, Construction on road ahead), (path, database//Jane//1625260854-884243-13.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78621), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 27), (text, watch out, vehicle stopped on road ahead), (path, database//Jane//1625260854-884244-14.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78622), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 28), (text, police reported ahead), (path, database//Jane//1625260854-884244-15.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78623), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 29), (text, in), (path, database//Jane//1625260855-367390-44.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78624), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 30), (text, to), (path, database//Jane//1625260855-367395-45.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78625), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 31), (text, on), (path, database//Jane//1625260855-367396-46.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78626), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 32), (text, meters), (path, database//Jane//1625260855-367397-47.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78627), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 33), (text, Approaching stop point), (path, database//Jane//1625260855-365752-40.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78628), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 34), (text, Did you drop off your rider?), (path, database//Jane//1625260855-365757-41.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78629), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 35), (text, you've arrived at), (path, database//Jane//1625260855-365758-42.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78630), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 36), (text, within), (path, database//Jane//1625260855-365759-43.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78631), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 37), (text, Reminder, turn on your headlights.), (path, database//Jane//1625260855-85391-32.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78632), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 38), (text, Wazer needs help), (path, database//Jane//1625260855-85394-33.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78633), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 39), (text, Let's go), (path, database//Jane//1625260855-85395-34.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78634), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 40), (text, All set, let's go!), (path, database//Jane//1625260855-85396-35.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78635), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 41), (text, We're all set, let's go!), (path, database//Jane//1625260855-224122-36.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78636), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 42), (text, We're all set, drive safely), (path, database//Jane//1625260855-224126-37.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78637), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 43), (text, Let's get started, drive safely), (path, database//Jane//1625260855-224127-38.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78638), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 44), (text, Letâ€™s Carpool today), (path, database//Jane//1625260855-224128-39.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78639), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 45), (text, Entering a high crime area2), (path, database//Jane//1625260854-885421-28.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78640), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 46), (text, Your drive passes through a high risk or illegal area), (path, database//Jane//1625260854-885422-29.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78641), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 47), (text, High crime area2), (path, database//Jane//1625260854-885423-30.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78642), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 48), (text, Entering a road that requires headlights. Don't forget to turn them on.), (path, database//Jane//1625260854-885423-31.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78643), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 49), (text, at), (path, database//Jane//1625260855-377950-52.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78644), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 50), (text, in two hundred meters), (path, database//Jane//1625260855-377954-53.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78645), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 51), (text, in four hundred meters), (path, database//Jane//1625260855-377955-54.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78646), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 52), (text, in five hundred meters), (path, database//Jane//1625260855-377956-55.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78647), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 53), (text, in eight hundred meters), (path, database//Jane//1625260855-382509-56.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78648), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 54), (text, in one kilometer), (path, database//Jane//1625260855-382513-57.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78649), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 55), (text, in one point five kilometers), (path, database//Jane//1625260855-382514-58.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78650), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 56), (text, in 500 feet), (path, database//Jane//1625260855-382515-59.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78651), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 57), (text, miles), (path, database//Jane//1625260855-376903-48.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78652), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 58), (text, take the), (path, database//Jane//1625260855-376907-49.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78653), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 59), (text, exit), (path, database//Jane//1625260855-376908-50.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78654), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 60), (text, then), (path, database//Jane//1625260855-376909-51.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78655), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 61), (text, in a quarter of a mile), (path, database//Jane//1625260855-486050-60.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78656), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 62), (text, in O point three miles), (path, database//Jane//1625260855-486053-61.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78657), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 63), (text, in half a mile), (path, database//Jane//1625260855-486054-62.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78658), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 64), (text, in O point six miles), (path, database//Jane//1625260855-486055-63.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78659), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 65), (text, in one mile), (path, database//Jane//1625260855-498488-64.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78660), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 66), (text, the coupon was saved in your inbox), (path, database//Jane//1625260855-498492-65.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78661), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 67), (text, don't forget to check out your coupon before purchase), (path, database//Jane//1625260855-498493-66.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78662), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 68), (text, you're approaching your destination), (path, database//Jane//1625260855-498494-67.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260855)
+
+(LID, 78663), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 69), (text, you'll arrive), (path, database//Jane//1625260855-504544-68.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78664), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 70), (text, take the first exit), (path, database//Jane//1625260855-504548-69.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78665), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 71), (text, take the second exit), (path, database//Jane//1625260855-504549-70.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78666), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 72), (text, take the third exit), (path, database//Jane//1625260855-504549-71.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78667), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 73), (text, continue straight), (path, database//Jane//1625260855-668304-80.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78668), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 74), (text, at the roundabout), (path, database//Jane//1625260855-668308-81.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78669), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 75), (text, at the roundabout, turn left), (path, database//Jane//1625260855-668310-82.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78670), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 76), (text, at the roundabout, continue straight), (path, database//Jane//1625260855-668310-83.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78671), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 77), (text, at the roundabout, turn right), (path, database//Jane//1625260855-703882-84.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78672), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 78), (text, at the roundabout, make a u-turn), (path, database//Jane//1625260855-703887-85.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78673), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 79), (text, you've arrived at your destination), (path, database//Jane//1625260855-703888-86.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78674), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 80), (text, exit left), (path, database//Jane//1625260855-703889-87.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78675), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 81), (text, turn left), (path, database//Jane//1625260855-534362-76.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78676), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 82), (text, turn right), (path, database//Jane//1625260855-534366-77.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78677), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 83), (text, stay to the left), (path, database//Jane//1625260855-534367-78.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78678), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 84), (text, stay to the right), (path, database//Jane//1625260855-534368-79.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78679), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 85), (text, take the fourth exit), (path, database//Jane//1625260855-521626-72.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78680), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 86), (text, take the fifth exit), (path, database//Jane//1625260855-521630-73.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78681), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 87), (text, take the sixth exit), (path, database//Jane//1625260855-521631-74.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78682), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 88), (text, take the seventh exit), (path, database//Jane//1625260855-521632-75.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78683), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 89), (text, continue straight for 8 minutes), (path, database//Jane//1625260856-5754-100.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78684), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 90), (text, continue straight for 9 minutes), (path, database//Jane//1625260856-5758-101.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78685), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 91), (text, continue straight for 10 minutes), (path, database//Jane//1625260856-5759-102.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78686), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 92), (text, continue straight for 11 minutes), (path, database//Jane//1625260856-5759-103.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78687), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 93), (text, continue straight for 12 minutes), (path, database//Jane//1625260856-50042-104.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78688), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 94), (text, continue straight for 13 minutes), (path, database//Jane//1625260856-50045-105.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78689), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 95), (text, continue straight for 14 minutes), (path, database//Jane//1625260856-50046-106.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78690), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 96), (text, continue straight for 15 minutes), (path, database//Jane//1625260856-50047-107.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78691), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 97), (text, in 3 minutes), (path, database//Jane//1625260855-729571-96.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78692), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 98), (text, in 4 minutes), (path, database//Jane//1625260855-729574-97.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78693), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 99), (text, continue straight for 6 minutes), (path, database//Jane//1625260855-729575-98.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78694), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 100), (text, continue straight for 7 minutes), (path, database//Jane//1625260855-729576-99.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78695), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 101), (text, exit right), (path, database//Jane//1625260855-716697-88.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78696), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 102), (text, make a u-turn), (path, database//Jane//1625260855-716701-89.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78697), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 103), (text, you've arrived at your first stop), (path, database//Jane//1625260855-716702-90.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78698), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 104), (text, continue straight for 5 minutes), (path, database//Jane//1625260855-716703-91.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78699), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 105), (text, continue straight for 20 minutes), (path, database//Jane//1625260856-93690-108.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78700), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 106), (text, continue straight for 25 minutes), (path, database//Jane//1625260856-93694-109.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78701), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 107), (text, continue straight for 30 minutes), (path, database//Jane//1625260856-93695-110.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78702), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 108), (text, continue straight for 35 minutes), (path, database//Jane//1625260856-93696-111.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78703), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 109), (text, continue straight for 40 minutes), (path, database//Jane//1625260856-104113-112.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78704), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 110), (text, continue straight for 45 minutes), (path, database//Jane//1625260856-104117-113.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78705), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 111), (text, continue straight for 50 minutes), (path, database//Jane//1625260856-104118-114.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78706), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 112), (text, continue straight for 1 hour), (path, database//Jane//1625260856-104119-115.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78707), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 113), (text, continue straight for 1 hour and 15 minutes), (path, database//Jane//1625260856-111678-116.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78708), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 114), (text, continue straight for 1 hour and 30 minutes), (path, database//Jane//1625260856-111682-117.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78709), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 115), (text, continue straight for 1 hour and 45 minutes), (path, database//Jane//1625260856-111683-118.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78710), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 116), (text, continue straight for 2 hours), (path, database//Jane//1625260856-111683-119.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78711), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 117), (text, continue straight for 2 hours and 15 minutes), (path, database//Jane//1625260856-310865-120.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78712), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 118), (text, continue straight for 2 hours and 30 minutes), (path, database//Jane//1625260856-310870-121.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78713), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 119), (text, continue straight for 2 hours and 45 minutes), (path, database//Jane//1625260856-310871-122.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78714), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 120), (text, continue straight for 3 hours), (path, database//Jane//1625260856-310872-123.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78715), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 121), (text, continue straight for 3 hours and 15 minutes), (path, database//Jane//1625260856-311895-124.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78716), (PID, com.waze), (DN, tts.db), (DP, /Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 122), (text, continue straight for 3 hours and 30 minutes), (path, database//Jane//1625260856-311899-125.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78772), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 123), (text, continue straight for 3 hours and 45 minutes), (path, database//Jane//1625260856-311900-126.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78773), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 124), (text, continue straight for 4 hours), (path, database//Jane//1625260856-311901-127.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78774), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 125), (text, continue straight for 4 hours and 15 minutes), (path, database//Jane//1625260856-478575-128.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78775), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 126), (text, continue straight for 4 hours and 30 minutes), (path, database//Jane//1625260856-478579-129.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78776), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 127), (text, continue straight for 4 hours and 45 minutes), (path, database//Jane//1625260856-478579-130.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78777), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 128), (text, continue straight for 5 hours), (path, database//Jane//1625260856-478580-131.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78778), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 129), (text, continue straight for 6 hours and 15 minutes), (path, database//Jane//1625260856-482566-136.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78779), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 130), (text, continue straight for 6 hours and 30 minutes), (path, database//Jane//1625260856-482570-137.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78780), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 131), (text, continue straight for 6 hours and 45 minutes), (path, database//Jane//1625260856-482571-138.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78781), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 132), (text, continue straight for 7 hours), (path, database//Jane//1625260856-482571-139.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78782), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 133), (text, continue straight for 7 hours and 15 minutes), (path, database//Jane//1625260856-495330-140.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78783), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 134), (text, continue straight for 7 hours and 30 minutes), (path, database//Jane//1625260856-495334-141.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78784), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 135), (text, continue straight for 7 hours and 45 minutes), (path, database//Jane//1625260856-495335-142.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78785), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 136), (text, continue straight for 8 hours), (path, database//Jane//1625260856-495336-143.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78786), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 137), (text, continue straight for 8 hours and 15 minutes), (path, database//Jane//1625260856-644084-144.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78787), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 138), (text, continue straight for 8 hours and 30 minutes), (path, database//Jane//1625260856-644088-145.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78788), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 139), (text, continue straight for 8 hours and 45 minutes), (path, database//Jane//1625260856-644089-146.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78789), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 140), (text, continue straight for 9 hours), (path, database//Jane//1625260856-644090-147.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78790), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 141), (text, continue straight for 5 hours and 15 minutes), (path, database//Jane//1625260856-479539-132.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78791), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 142), (text, continue straight for 5 hours and 30 minutes), (path, database//Jane//1625260856-479542-133.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78792), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 143), (text, continue straight for 5 hours and 45 minutes), (path, database//Jane//1625260856-479543-134.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78793), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 144), (text, continue straight for 6 hours), (path, database//Jane//1625260856-479544-135.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260856)
+
+(LID, 78794), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 145), (text, continue straight for 9 hours and 15 minutes), (path, database//Jane//1625260856-646588-148.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78795), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 146), (text, continue straight for 9 hours and 30 minutes), (path, database//Jane//1625260856-646592-149.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78796), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 147), (text, continue straight for 9 hours and 45 minutes), (path, database//Jane//1625260856-646593-150.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78797), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 148), (text, continue straight for 10 hours), (path, database//Jane//1625260856-646593-151.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78798), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 149), (text, in three quarters of a mile), (path, database//Jane//1625260856-902820-160.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78799), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 150), (text, in 0.2 miles), (path, database//Jane//1625260856-902824-161.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78800), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 151), (text, in 1000 feet), (path, database//Jane//1625260856-902825-162.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78801), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 152), (text, in 300 yards), (path, database//Jane//1625260856-902825-163.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78802), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 153), (text, in 5 minutes), (path, database//Jane//1625260855-717871-92.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78803), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 154), (text, in less than a minute), (path, database//Jane//1625260855-717874-93.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78804), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 155), (text, in about a minute), (path, database//Jane//1625260855-717875-94.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78805), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 156), (text, in 2 minutes), (path, database//Jane//1625260855-717876-95.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78806), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 157), (text, in 100 feet), (path, database//Jane//1625260856-659198-152.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78807), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 158), (text, in 200 feet), (path, database//Jane//1625260856-659202-153.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78808), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 159), (text, in 300 feet), (path, database//Jane//1625260856-659203-154.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78809), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 160), (text, in 400 feet), (path, database//Jane//1625260856-659203-155.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78810), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 161), (text, in 600 feet), (path, database//Jane//1625260856-683091-156.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78811), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 162), (text, in 700 feet), (path, database//Jane//1625260856-683108-157.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78812), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 163), (text, in 800 feet), (path, database//Jane//1625260856-683109-158.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78813), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 164), (text, in 900 feet), (path, database//Jane//1625260856-683110-159.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260857)
+
+(LID, 78814), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 165), (text, in 1 mile), (path, database//Jane//1625260874-900259-164.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260875)
+
+(LID, 78815), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 166), (text, in 1.1 miles), (path, database//Jane//1625260874-900264-165.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260875)
+
+(LID, 78818), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 169), (text, in 1.4 miles), (path, database//Jane//1625260874-901333-168.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260875)
+
+(LID, 78819), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 170), (text, in 1.5 miles), (path, database//Jane//1625260874-901338-169.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260875)
+
+(LID, 78820), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 171), (text, in 1.6 miles), (path, database//Jane//1625260874-901339-170.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260875)
+
+(LID, 78821), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 172), (text, in 1.7 miles), (path, database//Jane//1625260874-901340-171.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260875)
+
+(LID, 78822), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 173), (text, in 1.8 miles), (path, database//Jane//1625260875-327768-172.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260875)
+
+(LID, 78823), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 174), (text, in 1.9 miles), (path, database//Jane//1625260875-327779-173.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260875)
+
+(LID, 78824), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 175), (text, in 2.4 miles), (path, database//Jane//1625260894-900692-178.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260895)
+
+(LID, 78825), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 176), (text, in 2.5 miles), (path, database//Jane//1625260894-900695-179.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260895)
+
+(LID, 78826), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 177), (text, in 2.6 miles), (path, database//Jane//1625260894-900696-180.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260895)
+
+(LID, 78827), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 178), (text, in 2.7 miles), (path, database//Jane//1625260894-900697-181.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260895)
+
+(LID, 78828), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 179), (text, in 2 miles), (path, database//Jane//1625260894-899387-174.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260895)
+
+(LID, 78829), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 180), (text, in 2.1 miles), (path, database//Jane//1625260894-899390-175.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260895)
+
+(LID, 78830), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 181), (text, in 2.2 miles), (path, database//Jane//1625260894-899391-176.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260895)
+
+(LID, 78831), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 182), (text, in 2.3 miles), (path, database//Jane//1625260894-899392-177.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260895)
+
+(LID, 78832), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 183), (text, in 2.8 miles), (path, database//Jane//1625260895-302848-182.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260895)
+
+(LID, 78833), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 184), (text, in 2.9 miles), (path, database//Jane//1625260895-302854-183.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260895)
+
+(LID, 78834), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 185), (text, in 3 miles), (path, database//Jane//1625260914-904231-184.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260915)
+
+(LID, 78835), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 186), (text, in 3.1 miles), (path, database//Jane//1625260914-904246-185.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260915)
+
+(LID, 78836), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 187), (text, in 3.2 miles), (path, database//Jane//1625260914-904251-186.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260915)
+
+(LID, 78837), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 188), (text, in 3.3 miles), (path, database//Jane//1625260914-904256-187.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260915)
+
+(LID, 78838), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 189), (text, in 3.4 miles), (path, database//Jane//1625260914-906363-188.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260915)
+
+(LID, 78839), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 190), (text, in 3.5 miles), (path, database//Jane//1625260914-906372-189.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260915)
+
+(LID, 78840), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 191), (text, in 3.6 miles), (path, database//Jane//1625260914-906378-190.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260915)
+
+(LID, 78841), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 192), (text, in 3.7 miles), (path, database//Jane//1625260914-906383-191.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260915)
+
+(LID, 78842), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 193), (text, in 3.8 miles), (path, database//Jane//1625260915-45635-192.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260915)
+
+(LID, 78843), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 194), (text, in 3.9 miles), (path, database//Jane//1625260915-45642-193.tts), (storage_type, 2), (text_type, 0), (update_time, 1625260915)
+
+(LID, 78844), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 195), (text, keep left), (path, database//Jane//1625510205-134151-6.tts), (storage_type, 2), (text_type, 0), (update_time, 1625510205)
+
+(LID, 78845), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 196), (text, keep right), (path, database//Jane//1625510205-134154-7.tts), (storage_type, 2), (text_type, 0), (update_time, 1625510205)
+
+(LID, 78846), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 197), (text, Average speed check zone ahead), (path, database//Jane//1625510205-132329-4.tts), (storage_type, 2), (text_type, 0), (update_time, 1625510205)
+
+(LID, 78847), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 198), (text, Entering average speed check zone), (path, database//Jane//1625510205-132332-5.tts), (storage_type, 2), (text_type, 0), (update_time, 1625510205)
+
+(LID, 78848), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 199), (text, speed camera ahead), (path, database//Jane//1625510205-130215-0.tts), (storage_type, 2), (text_type, 0), (update_time, 1625510205)
+
+(LID, 78849), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 200), (text, watch out, crash reported ahead), (path, database//Jane//1625510205-130957-1.tts), (storage_type, 2), (text_type, 0), (update_time, 1625510205)
+
+(LID, 78850), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 201), (text, watch out, vehicle on shoulder ahead), (path, database//Jane//1625510205-130963-2.tts), (storage_type, 2), (text_type, 0), (update_time, 1625510205)
+
+(LID, 78851), (PID, com.waze), (DN, tts.db), (DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/waze/tts/tts.db), (TN, Jane), (RL, 202), (text, red light camera ahead), (path, database//Jane//1625510205-130964-3.tts), (storage_type, 2), (text_type, 0), (update_time, 1625510205)
+
+(LID, 12886), (PID, com.google.android.gms), (DN, fido_embedded_security_key.db), (DP, data/data/com.google.android.gms/databases/fido_embedded_security_key.db), (TN, registered_credentials), (RL, 1), (id, 2.qnx0yatQwXMPtN3U0ACorl32yFNKVib6+wka+yP15eU=.google.com), (registration_time, 2021-04-03T21:44:31.319), (counter, 0), (key_data, owFYijCBhwIBADATBgcqhkjOPQIBBggqhkjOPQMBBwRtMGsCAQEEIAtr/GmyqTmb556Ge4Ue9msGT7HrihwQ4P8v4l7p+MkcoUQDQgAEkgMT3c/G5rKCzH63GB6xj/aDtGoJ9oW1VvNSbel+TXgMz81qJwHqtFbhQgi8TwME3qJnqPyDiYOO8U+FaKwldAJYWzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJIDE93Pxuaygsx+txgesY/2g7RqCfaFtVbzUm3pfk14DM/NaicB6rRW4UIIvE8DBN6iZ6j8g4mDjvFPhWisJXQDo2Jsa1ggNv2FxvVEac0ju5xqejE878gonGiM7qX/2xQK25Pjd2JjaXJrWCARLCbx+2KOCq1K2fWWt4eupGRlc38Oq53+jAR0by4ZEmd2ZXJzaW9uAQ==)
+
+(LID, 12719), (PID, com.google.android.apps.photos), (DN, disk_cache), (DP, data/user/0/com.google.android.apps.photos/databases/disk_cache), (TN, journal), (RL, 392), (key, 66005d14f09d7a6f95e88a4112b05e882855a4a4078bc62d0664c36cf8434295), (last_modified_time, 1626807872568), (pending_delete, 0), (size, 1995)
+
+(LID, 78377), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 2), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624340103851), (log_source, 55), (event_code, 1955), (package_name, com.google.android.apps.docs)
+
+(LID, 78378), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 3), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624340103865), (log_source, 55), (event_code, 57040), (package_name, com.google.android.apps.docs)
+
+(LID, 78379), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 5), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624340104060), (log_source, 55), (event_code, 93031), (package_name, com.google.android.apps.docs)
+
+(LID, 78380), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 6), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624340105955), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78381), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 7), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624340106093), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78382), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 8), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624340147568), (log_source, 55), (event_code, 57040), (package_name, com.google.android.apps.docs)
+
+(LID, 78383), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 11), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624340147682), (log_source, 55), (event_code, 93031), (package_name, com.google.android.apps.docs)
+
+(LID, 78384), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 12), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624340147967), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78385), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 13), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624340147989), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78386), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 14), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624385830356), (log_source, 55), (event_code, 57040), (package_name, com.google.android.apps.docs)
+
+(LID, 78387), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 16), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624385830804), (log_source, 55), (event_code, 93031), (package_name, com.google.android.apps.docs)
+
+(LID, 78388), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 18), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624385832788), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78389), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 19), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624385832865), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78390), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 20), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624385885969), (log_source, 55), (event_code, 57040), (package_name, com.google.android.apps.docs)
+
+(LID, 78392), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 24), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624385887281), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78393), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 25), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624385887512), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78394), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 26), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624400342266), (log_source, 55), (event_code, 57040), (package_name, com.google.android.apps.docs)
+
+(LID, 78395), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 28), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624400342653), (log_source, 55), (event_code, 93031), (package_name, com.google.android.apps.docs)
+
+(LID, 78396), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 30), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624400343726), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78391), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 23), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624385886174), (log_source, 55), (event_code, 93031), (package_name, com.google.android.apps.docs)
+
+(LID, 78397), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 31), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624400343770), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78398), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 32), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624407327555), (log_source, 55), (event_code, 93123), (package_name, com.google.android.apps.docs)
+
+(LID, 78399), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 34), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624435546946), (log_source, 55), (event_code, 1955), (package_name, com.google.android.apps.docs)
+
+(LID, 78400), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 35), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624435546947), (log_source, 55), (event_code, 57040), (package_name, com.google.android.apps.docs)
+
+(LID, 78401), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 37), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624435547125), (log_source, 55), (event_code, 93031), (package_name, com.google.android.apps.docs)
+
+(LID, 78402), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 38), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624435547686), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+
+(LID, 78403), (PID, com.google.android.apps.docs), (DN, growthkit.db), (DP, /Dump/data/data/com.google.android.apps.docs/databases/growthkit.db), (TN, clearcut_events_table), (RL, 39), (account, heisenbergcarro@gmail.com), (timestamp_ms, 1624435547695), (log_source, 55), (event_code, 93072), (package_name, com.google.android.apps.docs)
+

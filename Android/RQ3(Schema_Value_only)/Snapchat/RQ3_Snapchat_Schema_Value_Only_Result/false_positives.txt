@@ -1,0 +1,28 @@
+(LID, 74693); (1, Human Name, deleted, 6);
+
+(LID, 74813); (571, App Name, Bitmoji, 10);
+
+(LID, 74814); (572, App Name, Bitmoji, 10);
+
+(LID, 74815); 
+
+(LID, 74819); (3, App Name, CoreData, 9);
+
+(LID, 74820); (19, Message, good morning, 10);
+
+(LID, 74821); (21, Message, good night, 10);
+
+(LID, 77581); (1334, Human Name, Ben Millard, 10); (1334, Username, bw_millard, 10);
+
+(LID, 77582); (1335, Human Name, Hazel, 9);
+
+(LID, 77640); (1426, Message, Sthlm Dunder ❄️🌳🔫🔪, 9);
+
+(LID, 77648); (2, Username, my_story_ads79sdf, 9); (2, App Name, My Story, 10);
+
+(LID, 77703); (1, Message, The top trending game of 2020, 10);
+
+(LID, 77704); (2, Message, The top trending game of 2020, 10);
+
+(LID, 77705); (3, Message, The top trending game of 2020, 10);
+

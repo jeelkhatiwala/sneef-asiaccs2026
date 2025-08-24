@@ -1,0 +1,10 @@
+📊 RQ3 EVALUATION SUMMARY
+---------------------------
+Total Rows in Ground Truth: 200
+Total Schemas in Ground Truth: 486
+Total Rows in AI File: 200
+Total Schemas in AI File: 312
+
+✅ True Positives (TP): 285
+❌ False Positives (FP): 27
+❌ False Negatives (FN): 201

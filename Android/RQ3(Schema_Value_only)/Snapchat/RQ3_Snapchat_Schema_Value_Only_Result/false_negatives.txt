@@ -1,0 +1,328 @@
+(LID, 74693); (1, App Name, Snapchat, 10);
+
+(LID, 74813); (571, App Name, Snapchat, 10);
+
+(LID, 74814); (572, App Name, Snapchat, 10);
+
+(LID, 74815);
+
+(LID, 74817); (576, Address, United States, 9);
+
+(LID, 74819); (3, App Name, Snapchat, 10);
+
+(LID, 74820); (19, Search keyword, good morning, 9);
+
+(LID, 74976); (20, App Name, Snapchat, 10);
+
+(LID, 74977); (22, App Name, Snapchat, 10);
+
+(LID, 74978); (23, App Name, Snapchat, 10);
+
+(LID, 74979); (24, App Name, Snapchat, 10);
+
+(LID, 74980); (25, App Name, Snapchat, 10);
+
+(LID, 74981); (28, App Name, Snapchat, 10);
+
+(LID, 74982); (29, App Name, Snapchat, 10);
+
+(LID, 74983); (31, App Name, Snapchat, 10);
+
+(LID, 74984); (34, App Name, Snapchat, 10);
+
+(LID, 74985); (35, App Name, Snapchat, 10);
+
+(LID, 77581); (1334, Username, bw_millard, 8; (1334, Human Name, Ben Millard, 9);
+
+(LID, 77638); (1423, App Name, Snapchat, 10);
+
+(LID, 77639); (1424, App Name, Snapchat, 10);
+
+(LID, 77640); (1426, Human Name, Sthlm Dunder, 6); (1426, App Name, Snapchat, 10);
+
+(LID, 77641); (1427, App Name, Snapchat, 10);
+
+(LID, 77642); (1428, App Name, Snapchat, 10);
+
+(LID, 77643); (1429, App Name, Snapchat, 10);
+
+(LID, 77644); (1432, App Name, Snapchat, 10);
+
+(LID, 77645); (1434, App Name, Snapchat, 10);
+
+(LID, 77646); (1435, App Name, Snapchat, 10);
+
+(LID, 77647); (1436, App Name, Snapchat, 10);
+
+(LID, 77648); (2, App Name, Snapchat, 10);
+
+(LID, 77649); (8, App Name, Snapchat, 10);
+
+(LID, 77650); (9, App Name, Snapchat, 10);
+
+(LID, 77651); (10, App Name, Snapchat, 10);
+
+(LID, 77652); (11, App Name, Snapchat, 10);
+
+(LID, 77653); (13, App Name, Snapchat, 10);
+
+(LID, 77701); (19, App Name, Snapchat, 10);
+
+(LID, 77702); (20, App Name, Snapchat, 10);
+
+(LID, 77703); (1, Search keyword, The top trending game of 2020, 9);
+
+(LID, 77704); (2, Search keyword, The top trending game of 2020, 9);
+
+(LID, 77705); (3, Search keyword, The top trending game of 2020, 9);
+
+(LID, 78362); (19, App Name, Snapchat, 10); (19, Address, US, 7);
+
+(LID, 78491); (1, App Name, Snapchat, 10);
+
+(LID, 78493); (3, App Name, Snapchat, 10);
+
+(LID, 78494); (4, App Name, Snapchat, 10);
+
+(LID, 78495); (5, App Name, Snapchat, 10);
+
+(LID, 78496); (6, App Name, Snapchat, 10);
+
+(LID, 78497); (7, App Name, Snapchat, 10);
+
+(LID, 78498); (8, App Name, Snapchat, 10);
+
+(LID, 78499); (9, App Name, Snapchat, 10);
+
+(LID, 78500); (10, App Name, Snapchat, 10);
+
+(LID, 78501); (11, App Name, Snapchat, 10);
+
+(LID, 78502); (12, App Name, Snapchat, 10);
+
+(LID, 78503); (13, App Name, Snapchat, 10);
+
+(LID, 78504); (14, App Name, Snapchat, 10);
+
+(LID, 78505); (15, App Name, Snapchat, 10);
+
+(LID, 78506); (16, App Name, Snapchat, 10);
+
+(LID, 78507); (17, App Name, Snapchat, 10);
+
+(LID, 78508); (18, App Name, Snapchat, 10);
+
+(LID, 78509); (19, App Name, Snapchat, 10);
+
+(LID, 78510); (20, App Name, Snapchat, 10);
+
+(LID, 78511); (21, App Name, Snapchat, 10);
+
+(LID, 78512); (22, App Name, Snapchat, 10);
+
+(LID, 78513); (23, App Name, Snapchat, 10);
+
+(LID, 78514); (24, App Name, Snapchat, 10);
+
+(LID, 78515); (25, App Name, Snapchat, 10);
+
+(LID, 78516); (26, App Name, Snapchat, 10);
+
+(LID, 78517); (27, App Name, Snapchat, 10);
+
+(LID, 78518); (28, App Name, Snapchat, 10);
+
+(LID, 78519); (29, App Name, Snapchat, 10);
+
+(LID, 78520); (30, App Name, Snapchat, 10);
+
+(LID, 78521); (31, App Name, Snapchat, 10);
+
+(LID, 78522); (32, App Name, Snapchat, 10);
+
+(LID, 78523); (33, App Name, Snapchat, 10);
+
+(LID, 78524); (34, App Name, Snapchat, 10);
+
+(LID, 78525); (35, App Name, Snapchat, 10);
+
+(LID, 78526); (36, App Name, Snapchat, 10);
+
+(LID, 78527); (37, App Name, Snapchat, 10);
+
+(LID, 78528); (38, App Name, Snapchat, 10);
+
+(LID, 78529); (39, App Name, Snapchat, 10);
+
+(LID, 78530); (40, App Name, Snapchat, 10);
+
+(LID, 78531); (41, App Name, Snapchat, 10);
+
+(LID, 78532); (42, App Name, Snapchat, 10);
+
+(LID, 78533); (43, App Name, Snapchat, 10);
+
+(LID, 78534); (44, App Name, Snapchat, 10);
+
+(LID, 78535); (45, App Name, Snapchat, 10);
+
+(LID, 78536); (46, App Name, Snapchat, 10);
+
+(LID, 78537); (47, App Name, Snapchat, 10);
+
+(LID, 78538); (48, App Name, Snapchat, 10);
+
+(LID, 78539); (49, App Name, Snapchat, 10); (49, Human Name, Felipe Ignacio, 8);
+
+(LID, 78540); (50, App Name, Snapchat, 10);
+
+(LID, 78541); (51, App Name, Snapchat, 10);
+
+(LID, 78542); (52, App Name, Snapchat, 10);
+
+(LID, 78543); (53, App Name, Snapchat, 10);
+
+(LID, 78544); (54, App Name, Snapchat, 10);
+
+(LID, 78545); (55, App Name, Snapchat, 10);
+
+(LID, 78546); (56, App Name, Snapchat, 10);
+
+(LID, 78547); (57, App Name, Snapchat, 10);
+
+(LID, 78548); (58, App Name, Snapchat, 10);
+
+(LID, 78549); (59, App Name, Snapchat, 10);
+
+(LID, 78550); (60, App Name, Snapchat, 10);
+
+(LID, 78551); (61, App Name, Snapchat, 10);
+
+(LID, 78552); (62, App Name, Snapchat, 10);
+
+(LID, 78553); (63, App Name, Snapchat, 10);
+
+(LID, 78554); (64, App Name, Snapchat, 10);
+
+(LID, 78555); (65, App Name, Snapchat, 10);
+
+(LID, 78556); (66, App Name, Snapchat, 10);
+
+(LID, 78557); (67, App Name, Snapchat, 10);
+
+(LID, 78558); (68, App Name, Snapchat, 10);
+
+(LID, 78559); (69, App Name, Snapchat, 10);
+
+(LID, 78560); (70, App Name, Snapchat, 10);
+
+(LID, 78561); (71, App Name, Snapchat, 10);
+
+(LID, 78562); (72, App Name, Snapchat, 10);
+
+(LID, 78563); (73, Human Name, Michelle Gon, 7); (73, App Name, Snapchat, 10);
+
+(LID, 78564); (74, Human Name, Katelynn Guye, 7); (74, App Name, Snapchat, 10);
+
+(LID, 78565); (75, Human Name, Cleo, 7); (75, App Name, Snapchat, 10);
+
+(LID, 78566); (76, Human Name, Maddox Von, 7); (76, App Name, Snapchat, 10);
+
+(LID, 78567); (77, App Name, Snapchat, 10);
+
+(LID, 78568); (78, Human Name, Jaylen Lacy, 8); (78, App Name, Snapchat, 10);
+
+(LID, 78569); (79, App Name, Snapchat, 10);
+
+(LID, 78570); (80, App Name, Snapchat, 10); (80, Human Name, H Musse, 7);
+
+(LID, 78571); (81, App Name, Snapchat, 10); (81, Human Name, Ty Simmons, 8);
+
+(LID, 78572); (82, App Name, Snapchat, 10);
+
+(LID, 78573); (83, App Name, Snapchat, 10); (83, Human Name, Cesar A, 7);
+
+(LID, 78574); (84, Human Name, Diana A, 8); (84, App Name, Snapchat, 10);
+
+(LID, 78575); (85, App Name, Snapchat, 10);
+
+(LID, 78576); (86, App Name, Snapchat, 10); (86, Human Name, Laylani, 8);
+
+(LID, 78577); (87, Human Name, Jenessa Amari, 7); (87, App Name, Snapchat, 10);
+
+(LID, 78578); (88, App Name, Snapchat, 10); (88, Human Name, Ally, 7);
+
+(LID, 78579); (89, App Name, Snapchat, 10);
+
+(LID, 78580); (90, App Name, Snapchat, 10); (90, Human Name, Aundre Harmon, 8);
+
+(LID, 78581); (91, Human Name, E. Carnell, 7); (91, App Name, Snapchat, 10);
+
+(LID, 78582); (92, Human Name, Owen Morin, 8); (92, App Name, Snapchat, 10);
+
+(LID, 78583); (93, App Name, Snapchat, 10);
+
+(LID, 78584); (94, App Name, Snapchat, 10);
+
+(LID, 78585); (95, App Name, Snapchat, 10);
+
+(LID, 78586); (96, App Name, Snapchat, 10);
+
+(LID, 78587); (97, App Name, Snapchat, 10);
+
+(LID, 78588); (98, App Name, Snapchat, 10);
+
+(LID, 78589); (99, App Name, Snapchat, 10);
+
+(LID, 78746); (1412, App Name, Snapchat, 10);
+
+(LID, 78747); (1413, App Name, Snapchat, 10);
+
+(LID, 78748); (1414, App Name, Snapchat, 10);
+
+(LID, 78749); (1415, App Name, Snapchat, 10);
+
+(LID, 78750); (1416, App Name, Snapchat, 10);
+
+(LID, 78751); (1417, App Name, Snapchat, 10);
+
+(LID, 78752); (1418, App Name, Snapchat, 10);
+
+(LID, 78753); (1419, Human Name, Valentina, 7); (1419, App Name, Snapchat, 10);
+
+(LID, 78754); (1420, App Name, Snapchat, 10);
+
+(LID, 78755); (1421, Human Name, Rajan, 7); (1421, App Name, Snapchat, 10);
+
+(LID, 78756); (1422, App Name, Snapchat, 10);
+
+(LID, 78757); (1423, App Name, Snapchat, 10);
+
+(LID, 78758); (1424, App Name, Snapchat, 10);
+
+(LID, 78759); (1425, Human Name, Duarte, 7); (1425, App Name, Snapchat, 10);
+
+(LID, 78760); (1426, App Name, Snapchat, 10); (1426, Human Name, Pawel, 8);
+
+(LID, 78761); (1427, App Name, Snapchat, 10);
+
+(LID, 78762); (1428, App Name, Snapchat, 10);
+
+(LID, 78763); (1429, App Name, Snapchat, 10);
+
+(LID, 78764); (1430, Human Name, Sameer Khan, 8); (1430, App Name, Snapchat, 10);
+
+(LID, 78765); (1431, Human Name, Vanessa Grace, 8); (1431, App Name, Snapchat, 10);
+
+(LID, 78766); (1432, Human Name, Abdimalik, 8); (1432, App Name, Snapchat, 10);
+
+(LID, 78767); (1433, App Name, Snapchat, 10);
+
+(LID, 78768); (1434, Human Name, Eredrick, 7); (1434, App Name, Snapchat, 10);
+
+(LID, 78769); (1435, Human Name, Jenny, 8); (1435, App Name, Snapchat, 10);
+
+(LID, 78770); (1436, App Name, Snapchat, 10);
+
+(LID, 78771); (1437, App Name, Snapchat, 10); (1437, Human Name, Ayan, 8);
+

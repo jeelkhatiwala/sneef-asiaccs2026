@@ -1,0 +1,372 @@
+(LID, 77961); (1, App Name, Chrome, 10); (1, App Name, Google, 9);
+
+(LID, 77962); (2, App Name, Chrome, 10);
+
+(LID, 77963); (3, App Name, Chrome, 10);
+
+(LID, 77964); (4, App Name, Chrome, 10);
+
+(LID, 77965); (5, App Name, Chrome, 10);
+
+(LID, 77966); (6, App Name, Chrome, 10);
+
+(LID, 77967); (7, App Name, Rent.com, 9);
+
+(LID, 77968); (8, App Name, Rent.com, 9);
+
+(LID, 77969); (9, App Name, Rent.com, 9);
+
+(LID, 77971); (11, App Name, Mintahoe Catering & Events, 8); (11, App Name, Google Ads, 8);
+
+(LID, 77974); (14, Search keyword, Minneapolis Catering | Mintahoe Catering & Events, 9);
+
+(LID, 77975); (15, App Name, Chrome, 10);
+
+(LID, 77976); (16, App Name, Chrome, 10);
+
+(LID, 77977); (17, App Name, Chrome, 10);
+
+(LID, 77978); (18, App Name, Chrome, 10);
+
+(LID, 77979); (19, App Name, Chrome, 10);
+
+(LID, 77980); (20, App Name, Chrome, 10);
+
+(LID, 77981); (21, Search keyword, T-Mobile TRAVEL | Save on accommodations and rental cars., 9);
+
+(LID, 77982); (22, App Name, T-Mobile Hotels, 9);
+
+(LID, 77983); (23, App Name, T-Mobile Hotels, 9);
+
+(LID, 77984); (24, App Name, T-Mobile Hotels, 9);
+
+(LID, 77985); (25, App Name, T-Mobile Hotels, 9);
+
+(LID, 77986); (26, Address, Myrtle Beach Boardwalk and Promenade, Myrtle Beach, South Carolina, USA, 10);
+
+(LID, 77987); (27, Address, Myrtle Beach Boardwalk and Promenade, Myrtle Beach, South Carolina, USA, 10);
+
+(LID, 77994); (34, App Name, Google, 9);
+
+(LID, 77995); (35, App Name, Chrome, 10); (35, App Name, Google, 9);
+
+(LID, 77996); (36, App Name, Chrome, 10); (36, Search keyword, How to Connect USB Storage Devices to Your Android Phone, 9); (36, App Name, Tom's Guide, 8);
+
+(LID, 77997); (37, App Name, Chrome, 10); (37, App Name, Google, 9);
+
+(LID, 77998); (38, App Name, Chrome, 10); (38, App Name, Google, 9);
+
+(LID, 77999); (39, Search keyword, Samsung Original Type C to USB Adapter - for LG G5, HTC 10, Google Pixel, MOTO Z, 9); (39, App Name, Google Ads, 8);
+
+(LID, 78000); (40, App Name, Amazon, 10); (40, Search keyword, Samsung Original Type C to USB Adapter - for LG G5, HTC 10, Google Pixel, MOTO Z, 9);
+
+(LID, 78014); (54, App Name, Chrome, 10); (54, App Name, Google, 9);
+
+(LID, 78015); (55, App Name, Chrome, 10); (55, App Name, Google, 9);
+
+(LID, 78016); (56, App Name, Chrome, 10); (56, App Name, Google, 9);
+
+(LID, 78017); (57, App Name, Chrome, 10); (57, App Name, Google, 9);
+
+(LID, 78018); (58, App Name, Chrome, 10); (58, App Name, Google, 9);
+
+(LID, 78019); (59, App Name, Chrome, 10); (59, App Name, Google, 9);
+
+(LID, 78020); (60, App Name, Google Ads, 8);
+
+(LID, 78021); (61, App Name, Simple Cell Shop, 8);
+
+(LID, 78022); (62, App Name, Chrome, 10); (62, App Name, Google, 9);
+
+(LID, 78023); (63, App Name, Chrome, 10); (63, App Name, Google, 9);
+
+(LID, 78024); (64, App Name, Chrome, 10); (64, App Name, Google, 9);
+
+(LID, 78025); (65, App Name, Chrome, 10); (65, App Name, Google, 9);
+
+(LID, 78026); (66, App Name, Chrome, 10); (66, App Name, Google, 9);
+
+(LID, 78028); (68, App Name, Chrome, 10); (68, App Name, Google, 9);
+
+(LID, 78029); (69, App Name, Chrome, 10); (69, App Name, Google, 9);
+
+(LID, 78030); (70, App Name, OrderItalianosPizzaMenu, 8);
+
+(LID, 78034); (74, App Name, Chrome, 10); (74, App Name, Google, 9);
+
+(LID, 78035); (75, App Name, Chrome, 10); (75, App Name, Google, 9);
+
+(LID, 78036); (76, App Name, Chrome, 9);
+
+(LID, 78037); (77, App Name, Chrome, 9);
+
+(LID, 78038); (78, App Name, Chrome, 10);
+
+(LID, 78039); (79, App Name, Chrome, 10);
+
+(LID, 78042); (82, App Name, Chrome, 9);
+
+(LID, 78043); (83, App Name, Chrome, 9);
+
+(LID, 78044); (84, App Name, Chrome, 9);
+
+(LID, 78045); (85, Search keyword, Qualtrics Survey | Qualtrics Experience Management, 8);
+
+(LID, 78046); (86, Search keyword, Corroboration. That Is All. – The Binary Hick, 8);
+
+(LID, 78047); (87, Search keyword, Corroboration. That Is All. – The Binary Hick, 8);
+
+(LID, 78048); (88, Search keyword, Corroboration. That Is All. – The Binary Hick, 8);
+
+(LID, 78049); (89, Search keyword, Corroboration. That Is All. – The Binary Hick, 8);
+
+(LID, 78050); (90, App Name, CarGurus, 8); (90, Search keyword, Pre-Owned 2017 Honda CR-V EX-L 4D Sport Utility in Norfolk #FP2776A | Southern Dodge Chrysler Jeep Ram FIAT - Norfolk Airport, 8);
+
+(LID, 78051); (91, App Name, cargurus, 10);
+
+(LID, 78052); (92, Search keyword, cargurus listings, 8);
+
+(LID, 78053); (93, App Name, CARFAX, 9); (93, Search keyword, Vehicle History Report for this 2017 HONDA CR-V EXL, 9);
+
+(LID, 78054); (94, App Name, CARFAX, 9); (94, Search keyword, Vehicle History Report for this 2017 HONDA CR-V EXL, 9);
+
+(LID, 78055); (95, App Name, Google, 8);
+
+(LID, 78056); (96, Search keyword, sign in, 8);
+
+(LID, 78057); (97, Search keyword, sign in, 8);
+
+(LID, 78058); (98, Search keyword, log into Facebook, 9);
+
+(LID, 78059); (99, Search keyword, log into Facebook, 9);
+
+(LID, 78060); (100, Search keyword, log into Facebook, 9);
+
+(LID, 78061); (101, Search keyword, log into Facebook, 9);
+
+(LID, 78062); (102, Search keyword, sign in, 9); (102, App Name, Google, 10);
+
+(LID, 78063); (103, Search keyword, sign in, 9); (103, App Name, Google, 10);
+
+(LID, 78064); (104, App Name, Google, 10);
+
+(LID, 78134); (174, App Name, Google Search, 10);
+
+(LID, 78135); (175, App Name, Google Search, 10);
+
+(LID, 78136); (176, App Name, Google Search, 10);
+
+(LID, 78137); (177, App Name, Google Search, 10);
+
+(LID, 78138); (178, App Name, Google Search, 10);
+
+(LID, 78139); (179, App Name, Google Search, 10);
+
+(LID, 78140); (180, App Name, Google Search, 10);
+
+(LID, 78141); (181, App Name, Google Search, 10);
+
+(LID, 78142); (182, App Name, Google Search, 10);
+
+(LID, 78143); (183, App Name, Google Search, 10);
+
+(LID, 78144); (184, App Name, Google Search, 10);
+
+(LID, 78145); (185, App Name, Google Search, 10);
+
+(LID, 78146); (186, App Name, Google Search, 10);
+
+(LID, 78147); (187, App Name, Google Search, 10);
+
+(LID, 78148); (188, App Name, Google Search, 10);
+
+(LID, 78149); (189, App Name, Google Search, 10);
+
+(LID, 78150); (190, App Name, Google Search, 10);
+
+(LID, 78151); (191, App Name, Google Search, 10);
+
+(LID, 78152); (192, App Name, Google Search, 10);
+
+(LID, 78153); (193, App Name, Google Search, 10);
+
+(LID, 78154); (194, App Name, Google Search, 10);
+
+(LID, 78155); (195, App Name, Google Search, 10);
+
+(LID, 78156); (196, Search keyword, HyperTough HT309 OBD2 Scan Automotive Diagnostic Tool Code Reader, 10); (196, App Name, Google Ads, 10);
+
+(LID, 78157); (197, Search keyword, HyperTough HT309 OBD2 Scan Automotive Diagnostic Tool Code Reader, 9); (197, App Name, Walmart, 10);
+
+(LID, 78158); (198, Search keyword, HyperTough HT309 OBD2 Scan Automotive Diagnostic Tool Code Reader, 9); (198, App Name, Walmart, 10);
+
+(LID, 78159); (199, Search keyword, HyperTough HT309 OBD2 Scan Automotive Diagnostic Tool Code Reader, 9); (199, App Name, Walmart, 10);
+
+(LID, 78160); (200, Search keyword, HyperTough HT309 OBD2 Scan Automotive Diagnostic Tool Code Reader, 9); (200, App Name, Walmart, 10);
+
+(LID, 78161); (201, App Name, Google Search, 10);
+
+(LID, 78162); (202, App Name, Chrome, 10);
+
+(LID, 78163); (203, App Name, Chrome, 10);
+
+(LID, 78164); (204, App Name, Chrome, 10);
+
+(LID, 78165); (205, App Name, Chrome, 10);
+
+(LID, 78166); (206, App Name, Chrome, 10); (206, Search keyword, obd2 scanner wifi car code reader, 10);
+
+(LID, 78167); (207, App Name, Chrome, 10); (207, Timestamp, 2022-01-12 10:54:53, 9); (207, Search keyword, obd2 scanner wifi car code reader, 10);
+
+(LID, 78168); (208, App Name, Chrome, 10); (208, Timestamp, 2022-01-12 10:29:05, 9); (208, Search keyword, obd2 scanner wifi car code reader, 10);
+
+(LID, 78169); (209, Search keyword, cheap obd2 scanner, 10); (209, App Name, Chrome, 10);
+
+(LID, 78170); (210, App Name, Chrome, 10);
+
+(LID, 78171); (211, App Name, Edmunds, 9);
+
+(LID, 78172); (212, App Name, Google Search, 10);
+
+(LID, 78173); (213, App Name, Google Search, 10);
+
+(LID, 78174); (214, App Name, Chrome, 10);
+
+(LID, 78175); (215, App Name, Chrome, 10);
+
+(LID, 78176); (216, App Name, Chrome, 10);
+
+(LID, 78177); (217, App Name, Chrome, 10);
+
+(LID, 78178); (218, App Name, Chrome, 10);
+
+(LID, 78179); (219, App Name, Chrome, 10);
+
+(LID, 78180); (220, App Name, Chrome, 10);
+
+(LID, 78181); (221, App Name, Chrome, 10);
+
+(LID, 78182); (222, App Name, Chrome, 10);
+
+(LID, 78183); (223, App Name, Chrome, 10);
+
+(LID, 78184); (224, App Name, Chrome, 10);
+
+(LID, 78185); (225, App Name, Chrome, 10);
+
+(LID, 78186); (226, App Name, Chrome, 10);
+
+(LID, 78187); (227, App Name, Chrome, 10);
+
+(LID, 78188); (228, App Name, Chrome, 10);
+
+(LID, 78189); (229, App Name, Chrome, 10);
+
+(LID, 78190); (230, App Name, Chrome, 10);
+
+(LID, 78191); (231, App Name, Chrome, 10);
+
+(LID, 78192); (232, App Name, Chrome, 10);
+
+(LID, 78193); (233, App Name, Chrome, 10);
+
+(LID, 78194); (234, App Name, Chrome, 10); (234, Search keyword, blantons whiskey, bourbon, original single barrel, 10);
+
+(LID, 78195); (235, App Name, Chrome, 10); (235, Search keyword, blantons whiskey, bourbon, original single barrel, 10);
+
+(LID, 78196); (236, App Name, Chrome, 10); (236, Search keyword, blantons whiskey, bourbon, original single barrel, 10);
+
+(LID, 78197); (237, App Name, Chrome, 10); (237, Search keyword, blantons whiskey, bourbon, original single barrel, 10);
+
+(LID, 78198); (238, App Name, Chrome, 10);
+
+(LID, 78199); (239, App Name, Chrome, 9);
+
+(LID, 78200); (240, App Name, Chrome, 10);
+
+(LID, 78201); (241, App Name, Chrome, 10);
+
+(LID, 78202); (242, App Name, Google Ads, 9);
+
+(LID, 78203); (243, App Name, Chrome, 9);
+
+(LID, 78204); (244, App Name, Chrome, 9);
+
+(LID, 78205); (245, App Name, Chrome, 9);
+
+(LID, 78206); (246, Address, Chester Springs, Pennsylvania, United States, 9);
+
+(LID, 78207); (247, App Name, Chrome, 9);
+
+(LID, 78208); (248, App Name, Chrome, 9); (248, Timestamp, 2421-07-08 04:06:14, 9);
+
+(LID, 78209); (249, App Name, Chrome, 10);
+
+(LID, 78210); (250, App Name, Chrome, 10);
+
+(LID, 78211); (251, App Name, Chrome, 9); (251, Search keyword, liquor stores, 8);
+
+(LID, 78212); (252, App Name, Chrome, 9);
+
+(LID, 78213); (253, App Name, Chrome, 9);
+
+(LID, 78214); (254, App Name, Chrome, 10);
+
+(LID, 78215); (255, App Name, Chrome, 10);
+
+(LID, 78216); (256, App Name, Chrome, 10);
+
+(LID, 78217); (257, App Name, Chrome, 10);
+
+(LID, 78218); (258, App Name, Chrome, 10);
+
+(LID, 78219); (259, App Name, Chrome, 10);
+
+(LID, 78220); (260, App Name, Chrome, 10);
+
+(LID, 78223); (263, App Name, Chrome, 9);
+
+(LID, 78224); (264, App Name, Chrome, 9);
+
+(LID, 78225); (265, App Name, Chrome, 9);
+
+(LID, 78226); (266, App Name, Chrome, 9);
+
+(LID, 78227); (267, App Name, Chrome, 9);
+
+(LID, 78228); (268, App Name, Chrome, 9);
+
+(LID, 78229); (269, App Name, Chrome, 9);
+
+(LID, 78230); (270, App Name, Chrome, 9);
+
+(LID, 78231); (271, App Name, Chrome, 9);
+
+(LID, 78232); (272, App Name, Chrome, 9);
+
+(LID, 78233); (273, App Name, Chrome, 9);
+
+(LID, 78234); (274, App Name, Chrome, 9);
+
+(LID, 78235); (275, App Name, Chrome, 9);
+
+(LID, 78236); (276, App Name, Chrome, 9);
+
+(LID, 78237); (277, App Name, Chrome, 9);
+
+(LID, 78238); (278, App Name, Chrome, 9);
+
+(LID, 78239); (279, App Name, Chrome, 9);
+
+(LID, 78240); (280, App Name, Chrome, 9);
+
+(LID, 78241); (281, App Name, Chrome, 9);
+
+(LID, 78242); (282, App Name, Chrome, 9);
+
+(LID, 78249); (289, App Name, Chrome, 9);
+
+(LID, 78250); (290, App Name, Chrome, 9);
+
+(LID, 78251); (291, App Name, Chrome, 9);
+

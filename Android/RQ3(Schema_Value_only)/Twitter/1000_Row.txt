@@ -1,0 +1,600 @@
+(LID, 13114), (RL, 107), (107), (864913136821784576), (2061667017), (Gardening), (1), (Outdoors), (0), (https://ton.twimg.com/topics/topic_icon/default_v3_09.png)
+
+
+(LID, 13115), (RL, 114), (114), (809105292814270464), (221187020), (Tim Cook), (0), (Tech professional), (0), (https://ton.twimg.com/topics/topic_icon/default_v3_06.png)
+
+
+(LID, 13116), (RL, 127), (127), (872520807221678080), (-1486172861), (Joe Flacco), (0), (Football player), (0), (https://ton.twimg.com/topics/topic_icon/default_v3_11.png)
+
+
+(LID, 13117), (RL, 132), (132), (1027582907928305666), (1603473480), (Madhuri Dixit), (0), (Actor), (0), (https://ton.twimg.com/topics/topic_icon/default_v3_03.png)
+
+
+(LID, 13118), (RL, 145), (145), (806225270591995904), (1666057057), (Taylor Swift), (0), (Pop musician), (0), (https://ton.twimg.com/topics/topic_icon/default_v3_03.png)
+
+
+(LID, 13119), (RL, 202), (202), (808713037230157824), (84552347), (Elon Musk), (0), (Business leader), (0), (https://ton.twimg.com/topics/topic_icon/default_v3_13.png)
+
+
+(LID, 13120), (RL, 223), (223), (855107826351357952), (23427668), (Skin care), (0), (Beauty), (0), (https://ton.twimg.com/topics/topic_icon/default_v3_06.png)
+
+
+(LID, 13121), (RL, 250), (250), (1054826545758396416), (-2061898901), (Twitch), (1), (Brand), (0), (https://ton.twimg.com/topics/topic_icon/default_v3_11.png)
+
+
+(LID, 13122), (RL, 275), (275), (1091055942249046016), (796583228), (Chefs), (0), (Food), (0), (https://ton.twimg.com/topics/topic_icon/default_v3_05.png)
+
+
+(LID, 13123), (RL, 301), (301), (1138864492526297093), (290249239), (Cancer), (0), (Zodiac sign), (0), (https://ton.twimg.com/topics/topic_icon/default_v3_16.png)
+
+
+(LID, 13124), (RL, 309), (309), (809504745597476864), (-984480522), (Mark Cuban), (0), (Business personality), (0), (https://ton.twimg.com/topics/topic_icon/default_v3_05.png)
+
+
+(LID, 13125), (RL, 320), (320), (807323059241689088), (1438607945), (Meek Mill), (0), (Rapper), (0), (https://ton.twimg.com/topics/topic_icon/default_v3_02.png)
+
+
+(LID, 13126), (RL, 323), (323), (1139233849991237632), (1196776767), (Marques Brownlee), (0), (Digital creator), (0), (https://ton.twimg.com/topics/topic_icon/default_v3_07.png)
+
+
+(LID, 13127), (RL, 331), (331), (733774374826704896), (-349059133), (Cesc Fabregas), (0), (Soccer player), (0), (https://ton.twimg.com/topics/topic_icon/default_v3_12.png)
+
+
+(LID, 13128), (RL, 343), (343), (850395585941086209), (-540316435), (Beauty), (0), (All about beauty), (0), (https://ton.twimg.com/topics/topic_icon/default_v3_01.png)
+
+
+(LID, 13129), (RL, 371), (371), (819538160606539777), (1707285895), (Joe Rogan), (0), (Podcast host), (0), (https://ton.twimg.com/topics/topic_icon/default_v3_05.png)
+
+
+(LID, 13130), (RL, 390), (390), (1042531020724101120), (2016451742), (Ice T), (0), (Actor), (0), (https://ton.twimg.com/topics/topic_icon/default_v3_04.png)
+
+
+(LID, 13131), (RL, 404), (404), (1126559222122942464), (2079899919), (MrBeast), (0), (Digital creator), (0), (https://ton.twimg.com/topics/topic_icon/default_v3_09.png)
+
+
+(LID, 13132), (RL, 1), (1), (2), (Heather Mahalik), (HeatherMahalik), (475222380), (1623285646831), (3), (SgIcHFNRbGoOSGVhdGhlck1haGFsaWtqD0hlYXRoZXIgTWFoYWxpa2pMaHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyMTkwMTYzNTE3MTQ2Mjc1ODYvWmcxUTRfSVZfbm9ybWFsLmpwZzARMFg=), (2.9984408333552963)
+
+
+(LID, 13133), (RL, 2), (2), (0), (marsha mellos), (marsha mellos), (2006423246), (1617501323714), (3), (0.0)
+
+
+(LID, 13134), (RL, 3), (3), (2), (Ronen Engler), (TheNewMyself), (1246522656016359424), (1617501343812), (3), (SgIdEUyJwFRU4ABqDFRoZU5ld015c2VsZmoMUm9uZW4gRW5nbGVyakxodHRwczovL3Bicy50dHdpbWcuY29tvcHJvZmlsZV9pbWFnZXMvMTI0NzM1MzQ3NjAyNTM2ODU3Ni8tR2l3MDRVdF9ub3JtYWwuanBnMBEwWA==), (8.264434319016848e-12)
+
+
+(LID, 13135), (RL, 4), (4), (2), (Paul Scurvy), (PaulScurvy), (522777613), (1617501354974), (3), (SgIcHyj0DWoKUGF1bFNjdXJ2eWoLUGF1bCBTY3VydnlqS2h0dHBzOi8vcGJzLnR3aW1nLmNvbS9wcm9maWxlX2ltYWdlcy83NTA0OTk5MjAxMTc5MTk3NDQvWHZ1eHpiRkJfbm9ybWFsLmpwZzARMFg=), (8.265926242556669e-12)
+
+
+(LID, 13136), (RL, 5), (5), (2), (Matt Goeckel), (mattforensic), (992125797241643008), (1617501373671), (3), (SgIdDcS9J/UW4ABqDG1hdHRmb3JlbnNpY2oMTWF0dCBHb2Vja2VsakxodHRwczovL3Bicy50d2ltZy5jb20vcHJvZmlsZV9pbWFnZXMvMTM1MDgwOTIwMDM4MTg2MTg4OS9YMy1WMnd4d19ub3JtYWwuanBnMBEwWA==), (8.267750070418584e-12)
+
+
+(LID, 13333), (RL, 552), (610), (pieterwuille), (1), (21519885), (52278)
+
+
+(LID, 13334), (RL, 556), (614), (karissa kindy), (1), (24463119), (52278)
+
+
+(LID, 13335), (RL, 557), (615), (karissa), (1), (24463119), (52278)
+
+
+(LID, 13336), (RL, 575), (633), (phill moore), (1), (25816637), (52278)
+
+
+(LID, 13337), (RL, 578), (636), (nathan), (1), (27921338), (52278)
+
+
+(LID, 13338), (RL, 579), (637), (@nathanryan), (1), (27921338), (52278)
+
+
+(LID, 13339), (RL, 580), (638), (nathanryan), (1), (27921338), (52278)
+
+
+(LID, 13340), (RL, 581), (639), (brianmoran), (1), (29574511), (52278)
+
+
+(LID, 13341), (RL, 582), (640), (brian moran), (1), (29574511), (52278)
+
+
+(LID, 13342), (RL, 584), (642), (moran), (1), (29574511), (52278)
+
+
+(LID, 13343), (RL, 585), (643), (brian), (1), (29574511), (52278)
+
+
+(LID, 13344), (RL, 586), (644), (brianjmoran), (1), (29574511), (52278)
+
+
+(LID, 13345), (RL, 587), (645), (adam), (1), (31536491), (52278)
+
+
+(LID, 13346), (RL, 591), (649), (adamorth), (1), (31536491), (52278)
+
+
+(LID, 13347), (RL, 592), (650), (adam orth), (1), (31536491), (52278)
+
+
+(LID, 13348), (RL, 595), (653), (christine barnum), (1), (34685057), (52278)
+
+
+(LID, 13349), (RL, 597), (655), (christine), (1), (34685057), (52278)
+
+
+(LID, 13350), (RL, 598), (656), (lina), (1), (36683532), (52278)
+
+
+(LID, 13351), (RL, 603), (661), (candieðŸ‘½), (1), (69990286), (52278)
+
+
+(LID, 13352), (RL, 606), (664), (candie), (1), (69990286), (52278)
+
+
+(LID, 13353), (RL, 608), (666), (candie ðŸ‘½), (1), (69990286), (52278)
+
+
+(LID, 13354), (RL, 616), (674), (hiromichi), (1), (72862939), (52278)
+
+
+(LID, 13355), (RL, 617), (675), (hiromichi mizuno), (1), (72862939), (52278)
+
+
+(LID, 13356), (RL, 619), (677), (hiromizuno), (1), (72862939), (52278)
+
+
+(LID, 13357), (RL, 620), (678), (hiro mizuno), (1), (72862939), (52278)
+
+
+(LID, 13358), (RL, 628), (686), (jake), (1), (77346069), (52278)
+
+
+(LID, 13359), (RL, 629), (687), (jakewilliams), (1), (77346069), (52278)
+
+
+(LID, 13360), (RL, 631), (689), (williams), (1), (77346069), (52278)
+
+
+(LID, 13361), (RL, 632), (690), (jake williams), (1), (77346069), (52278)
+
+
+(LID, 13362), (RL, 637), (695), (ashlee), (1), (81961201), (52278)
+
+
+(LID, 13363), (RL, 638), (696), (ashlee vance), (1), (81961201), (52278)
+
+
+(LID, 13364), (RL, 639), (697), (vijay boyapati), (1), (95066790), (52278)
+
+
+(LID, 13365), (RL, 646), (704), (vijay), (1), (95066790), (52278)
+
+
+(LID, 13366), (RL, 647), (705), (kevin), (1), (113190078), (52278)
+
+
+(LID, 13367), (RL, 649), (707), (kevinripa), (1), (113190078), (52278)
+
+
+(LID, 13368), (RL, 651), (709), (kevin ripa), (1), (113190078), (52278)
+
+
+(LID, 13369), (RL, 652), (710), (ryan), (1), (118917461), (52278)
+
+
+(LID, 13370), (RL, 656), (714), (ryan shea), (1), (118917461), (52278)
+
+
+(LID, 13371), (RL, 657), (715), (ryaneshea), (1), (118917461), (52278)
+
+
+(LID, 13372), (RL, 661), (719), (guy), (1), (134468399), (52278)
+
+
+(LID, 13373), (RL, 663), (721), (the doge coin guy), (1), (134468399), (52278)
+
+
+(LID, 13374), (RL, 667), (725), (brian stofers), (1), (134529188), (52278)
+
+
+(LID, 13375), (RL, 670), (728), (brian), (1), (134529188), (52278)
+
+
+(LID, 13376), (RL, 671), (729), (nicolasdorier), (1), (160139307), (52278)
+
+
+(LID, 13377), (RL, 672), (730), (nicolas), (1), (160139307), (52278)
+
+
+(LID, 13378), (RL, 674), (732), (nicolas dorier), (1), (160139307), (52278)
+
+
+(LID, 13379), (RL, 678), (736), (johncarmack), (1), (175624200), (52278)
+
+
+(LID, 13380), (RL, 680), (738), (john carmack), (1), (175624200), (52278)
+
+
+(LID, 13381), (RL, 682), (740), (john), (1), (175624200), (52278)
+
+
+(LID, 13382), (RL, 688), (746), (miles suter), (1), (180212381), (52278)
+
+
+(LID, 13383), (RL, 690), (748), (adam), (1), (213236426), (52278)
+
+
+(LID, 14634), (RL, 6226),(_id, 6284),(text, sarah),(type, 1),(ref_id, 1371518013921443846),(weight, 51800)
+
+
+(LID, 14635), (RL, 6228),(_id, 6286),(text, sarah oloumi),(type, 1),(ref_id, 1371518013921443846),(weight, 51800)
+
+
+(LID, 14636), (RL, 6247),(_id, 6305),(text, betty aldworth),(type, 1),(ref_id, 6050062),(weight, 51800)
+
+
+(LID, 14637), (RL, 6251),(_id, 6309),(text, jez),(type, 1),(ref_id, 12160632),(weight, 51800)
+
+
+(LID, 14638), (RL, 6253),(_id, 6311),(text, jazmin hupp the inside guide),(type, 1),(ref_id, 14452915),(weight, 51800)
+
+
+(LID, 14639), (RL, 6255),(_id, 6313),(text, jazminhupp),(type, 1),(ref_id, 14452915),(weight, 51800)
+
+
+(LID, 14640), (RL, 6270),(_id, 6328),(text, paul snow),(type, 1),(ref_id, 34682045),(weight, 51800)
+
+
+(LID, 14641), (RL, 6271),(_id, 6329),(text, paulsnow),(type, 1),(ref_id, 34682045),(weight, 51800)
+
+
+(LID, 14642), (RL, 6274),(_id, 6332),(text, paul),(type, 1),(ref_id, 34682045),(weight, 51800)
+
+
+(LID, 14643), (RL, 6279),(_id, 6337),(text, nick goldman),(type, 1),(ref_id, 41150196),(weight, 51800)
+
+
+(LID, 14644), (RL, 6283),(_id, 6341),(text, jamey),(type, 1),(ref_id, 44205750),(weight, 51800)
+
+
+(LID, 14645), (RL, 6284),(_id, 6342),(text, jamey tubbs),(type, 1),(ref_id, 44205750),(weight, 51800)
+
+
+(LID, 14646), (RL, 6288),(_id, 6346),(text, capuano),(type, 1),(ref_id, 44978495),(weight, 51800)
+
+
+(LID, 14647), (RL, 6293),(_id, 6351),(text, eric capuano),(type, 1),(ref_id, 44978495),(weight, 51800)
+
+
+(LID, 14648), (RL, 6294),(_id, 6352),(text, kevin),(type, 1),(ref_id, 48781450),(weight, 51800)
+
+
+(LID, 14649), (RL, 6296),(_id, 6354),(text, aleman),(type, 1),(ref_id, 48781450),(weight, 51800)
+
+
+(LID, 14650), (RL, 6297),(_id, 6355),(text, kevin aleman),(type, 1),(ref_id, 48781450),(weight, 51800)
+
+
+(LID, 14651), (RL, 6306),(_id, 6364),(text, andrew),(type, 1),(ref_id, 62814293),(weight, 51800)
+
+
+(LID, 14652), (RL, 6307),(_id, 6365),(text, andrew levine),(type, 1),(ref_id, 62814293),(weight, 51800)
+
+
+(LID, 14653), (RL, 6312),(_id, 6370),(text, troy l),(type, 1),(ref_id, 85635442),(weight, 51800)
+
+
+(LID, 14654), (RL, 6316),(_id, 6374),(text, troy),(type, 1),(ref_id, 85635442),(weight, 51800)
+
+
+(LID, 14655), (RL, 6320),(_id, 6378),(text, elizabeth),(type, 1),(ref_id, 153268639),(weight, 51800)
+
+
+(LID, 14656), (TN, tokens),(RL, 6322),(_id, 6380),(text, elizabethhicks),(type, 1),(ref_id, 153268639),(weight, 51800)
+
+
+(LID, 14657), (RL, 6323),(_id, 6381),(text, elizabeth hicks),(type, 1),(ref_id, 153268639),(weight, 51800)
+
+
+(LID, 14658), (RL, 6324),(_id, 6382),(text, eohicks),(type, 1),(ref_id, 153268639),(weight, 51800)
+
+
+(LID, 14659), (RL, 6325),(_id, 6383),(text, adam engle),(type, 1),(ref_id, 164840294),(weight, 51800)
+
+
+(LID, 14660), (RL, 6327),(_id, 6385),(text, adam),(type, 1),(ref_id, 164840294),(weight, 51800)
+
+
+(LID, 14661), (RL, 6330),(_id, 6388),(text, adamengle),(type, 1),(ref_id, 164840294),(weight, 51800)
+
+
+(LID, 14662), (RL, 6332), (6390), (dawn), (1), (176260783), (51800)
+
+
+(LID, 14663), (RL, 6336), (6394), (dawn m newton), (1), (176260783), (51800)
+
+
+(LID, 14664), (RL, 6338), (6396), (santiago ayala), (1), (178769107), (51800)
+
+
+(LID, 14665), (RL, 6339), (6397), (santiago), (1), (178769107), (51800)
+
+
+(LID, 14666), (RL, 6350), (6408), (laurie), (1), (201387364), (51800)
+
+
+(LID, 14667), (RL, 6351), (6409), (laurie rice), (1), (201387364), (51800)
+
+
+(LID, 14668), (RL, 6353), (6411), (laurierice), (1), (201387364), (51800)
+
+
+(LID, 14669), (RL, 6358), (6416), (quintius walker), (1), (238008986), (51800)
+
+
+(LID, 14670), (RL, 6373), (6431), (ben), (1), (243692321), (51800)
+
+
+(LID, 14671), (RL, 6384), (6442), (nishant), (1), (258681136), (51800)
+
+
+(LID, 78253), (RL, 76), (674), (887748030304329728), (TheCryptoDog), (The Crypto DogðŸ“ˆ), (https://pbs.twimg.com/profile_images/1346574502294155265/qEQ5hl6Y_normal.jpg), (266240), (SThY), (8), (0), (https://pbs.twimg.com/profile_banners/887748030304329728/1568913076), (SgNCnVNURU0gUGhEIGRyb3BvdXQgLyAkY3J5cHRvLXRyYWRpbmcgZG9n8J+QlSBTdGFydGVkIG1pbmluZyAjYml0Y29pbiBpbiAyMDExLiAjYmxvY2tjaGFpbiAjRGVGaSBpbnZlc3RvciAvIG1hcmtldCBjb21tZW50YXRvci4gJFNPViBidWxsCgpGb3VuZGVyIEB0cnliZXR0ZXJicmFuZEkJCAESBggCTORIESgISExITEhpqBmNyeXB0b1hYSRITEhpYTRIDSgMSNxI3Ej9qB2JpdGNvaW5YWEkSOBJAWE0SA0oDEkkSSRJUagpibG9ja2NoYWluWFhJEkoSVVhNEgNKAxJVElUSWmoERGVGaVhYSRJWEltYTRIESgISehJ6En5qA1NPVlhYSRJ7En9YTRICSgISjRKNEpwZag50cnliZXR0ZXJicmFuZDhYWEkSjhKdWFhJSRFYSRFYSRIBgwEyWEkSA4LGguKDAQFYSRICgquDARpYWFg=), (-15066857), (https://t.co/JSiP41YHNg), (SUkSAUoIERESF2oXaHR0cHM6Ly90LmNvL0pTaVA0MVlITmdqOWh0dHBzOi8vbWVkaXVtLmNvbS9AdGhlY3J5cHRvZG9nL2EtZG9ncy10YWxlLTlmZDZkODI2YjlkY0IabWVkaXVtLmNvbS9AdGhlY3J5cHRvZG9nL+KAplhYSRFYSRFYSRFYSRFYWA==), (-16777216), (thecryptodog@gmail.com), (537369), (0), (3462), (60990), (183494), (9013), (1500490598000), (1626731280752), (1404905348503281664), (none), (2019810749), (none), (0), (SQkIAggBEgUIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCR1HsFP81KCBYSSBCAyj2FP+0qZ9YSSBA3MzNFP97Vj5YSSA/71wpFP9gPjhYSSA/Ao9cFP+5hV5YWA==), (SQkIAggBEgMIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCxwUfFP8CAgRYSSA+szMzFP/s5+VYSSA+TMzNFP91dXRYWA==), (0), (-1)
+
+
+(LID, 78254), (RL, 960), (1724), (981721176), (JGODYT), (James - JGOD), (https://pbs.twimg.com/profile_images/1398067167250161664/Y2bJ_r_x_normal.jpg), (262146), (SThY), (1024), (0), (https://pbs.twimg.com/profile_banners/981721176/1612487300), (SgNqnzFNKyBZVCB8IFR3aXRjaCBQYXJ0bmVyIHwgVGlrdG9rIFZlcmlmaWVkCkBLb250cm9sRnJlZWsgQFN0ZWVsU2VyaWVzIEBHRnVlbEVuZXJneSAgQERyaW5rQ1RSTCBAR2FtZXJBZHZhbnRhZ2UKClNvY2lhbHM6IGh0dHBzOi8vdC5jby93VDJBNDRWNG1hCk1HVDogQHVwbm9ydGhtZ0kJCAESBwgCTVICESgISKhIqEjcZagxLb250cm9sRnJlZWs4WFhJEioSN1hNEgJKAhI4EjgSRBlqC1N0ZWVsU2VyaWVzOFhYSRI4EkRYTRICSgISRRJFElEZagtHRnVlbEVuZXJneThYWEkSRRJRWE0SAkoCElMSUxJdGWoJRHJpbmtDVFJMOFhYSRJTEl1YTRICSgISXhJeEm0Zag5HYW1lckFkdmFudGFnZThYWEkSXhJtWE0SAUoIEngSeBKPahdodHRwczovL3QuY28vd1QyQTQ0VjRtYWocaHR0cDovL2xpbmsuc25pcGZlZWQuY28vamdvZGoVbGluay5zbmlwZmVlZC5jby9qZ29kWFhJEngSj1hNEgJKAhKVEpUSnxlqCXVwbm9ydGhtZzhYWEkSlRKfWFhJSRIBgwFXWEkRWEkSBoKrgs6C8IMBEoMBMoMBuFhNEViDAfdYWA==), (-14969376), (https://t.co/8agfmnu5bP), (SUkSAUoIERESF2oXaHR0cHM6Ly90LmNvLzhhZ2ZtbnU1YlBqJGh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2MvSkdPREdhbWluZ2oYeW91dHViZS5jb20vYy9KR09ER2FtaW5nWFhJEVhJEVhJEVhJEVhY), (-16777216), (📧jgodgamingyt@gmail.com), (146185), (0), (883), (31834), (91922), (5774), (1354332013000), (1626731280755), (1344719949097406465), (promotable_user), (-833857500), (none), (0), (SQkIAggBEgUIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCC1wpFP/+//9YSSBBV64UFP+QaFxYSSBBEZmaFP+UDCxYSSBA+euFFP+RwfNYSSBAj64UFP/xCg1YWA==), (SQkIAggBEgQIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCrrMzFP+lpaVYSSBAuo9cFP89OztYSSA/3XCkFP9fNQtYSSA+OFHsFP9xPkFYWA==), (0), (-1)
+
+
+(LID, 78255), (RL, 702), (1459), (27335600), (stuholden), (Stu Holden), (https://pbs.twimg.com/profile_images/1268729243011215361/fhAG4KwH_normal.jpg), (2), (1032), (0), (pr@stuholden.com), (1626731280679), (-1), (0), (-1)
+
+
+(LID, 78256), (RL, 865), (1625), (1036115996), (filbfilb), (f i l ₿ f i l ₿), (https://pbs.twimg.com/profile_images/1372977343619293184/h-CL_z18_normal.jpg), (0), (0), (0), (Inbox; info@decentrader.com), (1626731280650), (-1), (0), (-1)
+
+
+(LID, 78282), (RL, 213), (954), (305899340), (reccetech), (Jamie McQuaid), (https://pbs.twimg.com/profile_images/378800000828732112/135f644fce60a4369f43830281fdf283_normal.jpeg), (0), (1024), (0), (1626731280677), (-1), (0), (-1)
+
+
+(LID, 78283), (RL, 214), (956), (47966112), (ODELL), (ODELL), (https://pbs.twimg.com/profile_images/1394329372811747330/pvcAGbUt_normal.jpg), (1048576), (SThY), (1032), (0), (https://pbs.twimg.com/profile_banners/47966112/1623933576), (SgNCwWJpdGNvaW4gYW5kIHByaXZhY3kgYWR2b2NhdGUg4par77iPIGh0dHBzOi8vdC5jby9HR01qWUxBckJ5ICDilqvvuI8gaHR0cHM6Ly90LmNvLzhHcmpXYXFsRGkgLSBodHRwczovL3QuY28vOTVkd0RaaDhKUiDilqvvuI8gaHR0cHM6Ly90LmNvL1FCbnp5VHBCVDgg4par77iPIEB0ZnRjMjEgfCBAY2l0YWRlbGRpc3BhdGNo4par77iPIHN0YXkgaHVtYmxlLiBzdGFjayBzYXRzLkkJCAESBggCTRIBSggSIBIgEjdqF2h0dHBzOi8vdC5jby9HR01qWUxBckJ5ahRodHRwOi8vbWF0dG9kZWxsLmNvbWoNbWF0dG9kZWxsLmNvbVhYSRIgEjdYTRIBSggSPBI8ElNqF2h0dHBzOi8vdC5jby84R3JqV2FxbERpahlodHRwOi8vYml0Y29pbmRldmxpc3QuY29tahJiaXRjb2luZGV2bGlzdC5jb21YWEkSPBJTWE0SAUoIElYSVhJtahdodHRwczovL3QuY28vOTVkd0RaaDhKUmoTaHR0cDovL29wZW5zYXRzLm9yZ2oMb3BlbnNhdHMub3JnWFhJElYSbVhNEgFKCBJxEnESiGoXaHR0cHM6Ly90LmNvL1FCbnp5VHBCVDhqFGh0dHA6Ly9iaXRjb2ludHYuY29tag1iaXRjb2ludHYuY29tWFhJEnESiFhNEgJKAhKMEowSkxlqBnRmdGMyMThYWEkSjBKTWE0SAkoCEpYSlhKmGWoPY2l0YWRlbGRpc3BhdGNoOFhYSRKWEqZYWElJEgSC4YMBMoMBjYMB3FhJEVhJEgKDAi2DAkpYTRFYgwKOWFg=), (-16777216), (https://t.co/uuHyj80guW), (SUkSAUoIERESF2oXaHR0cHM6Ly90LmNvL3V1SHlqODBndVdqG2h0dHBzOi8vY2l0YWRlbGRpc3BhdGNoLmNvbWoTY2l0YWRlbGRpc3BhdGNoLmNvbVhYSRFYSRFYSRFYSRFYWA==), (-15066337), (DMS ASKING FOR MONEY ARE SCAMS), (106055), (0), (996), (26497), (94627), (2124), (1245246736000), (1626731280573), (1404878043269660675), (promotable_user), (-1256010319), (none), (0), (SQkIAggBEgQIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCqzhSFP8ybHxYSSBBUKPXFP8eUWVYSSA/PXCkFP8vXHJYSSA/Fwo9FP94uLRYWA==), (SQkIAggBEgMIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCwFwpFP/+/v5YSSBAZ64UFP9+fn5YSSA+TMzNFP8wMDBYWA==), (0), (-1)
+
+
+(LID, 78284), (RL, 215), (957), (3429950987), (engineers_feed), (World of Engineering), (https://pbs.twimg.com/profile_images/1267117170858885120/Tmh6Jdmi_normal.jpg), (262144), (SThY), (1024), (0), (https://pbs.twimg.com/profile_banners/3429950987/1552903314), (SgNCn0VuZ2luZWVyaW5nIGZvciB0aGUgd2luISDwn6ex4pqZ77iP8J+boCBEYWlseSBlbmdpbmVlcmluZyBoaXN0b3J5IGZhY3RzLCBxdWl6emVzLCBUSUwsIG1lbWVzIGFuZCBtYW55IG90aGVycy4gQXMgYW4gQW1hem9uIEFzc29jaWF0ZSB3ZSBlYXJuIGZyb20gcXVhbGlmeWluZyBwdXJjaGFzZXMuSQgBWElNEVhJEViCsIKwgrBYWA==), (-14835214), (https://t.co/Djv6QsRujm), (SUkSAUoIERESF2oXaHR0cHM6Ly90LmNvL0RqdjZRc1J1am1qJGh0dHBzOi8vd3d3LndvcmxkLW9mLWVuZ2luZWVyaW5nLm9yZ2oYd29ybGQtb2YtZW5naW5lZXJpbmcub3JnWFhJEVhJEVhJEVhJEVhY), (-4137235), (1426561), (0), (42), (7211), (1435), (3322), (1439908734000), (1626731280726), (1288907054514614274), (promotable_user), (937175921), (none), (0), (SQkIAggBEgIIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCYnrhFP////9YSSBCKlwpFP8jHyBYWA==), (SQkIAggBEgMIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCPHCkFP8lJSVYSSBCI+FIFP95eXlYSSBBvo9cFP+7urpYWA==), (0), (-1)
+
+
+(LID, 78286), (RL, 217), (959), (175624200), (ID_AA_Carmack), (John Carmack), (https://pbs.twimg.com/profile_images/1106497789/aa_icon_option_2_normal.jpg), (2), (1032), (0), (Dallas, TX), (1626731280602), (-1), (0), (-1)
+
+
+(LID, 78287), (RL, 218), (960), (213236426), (adam3us), (Adam Back), (https://pbs.twimg.com/profile_images/1364645619705511936/IGTT_tnL_normal.jpg), (0), (0), (0), (Malta 🇲🇹), (1626731280597), (-1), (0), (-1)
+
+
+(LID, 78288), (RL, 219), (961), (333817958), (JeredKenna), (Jered Kenna), (https://pbs.twimg.com/profile_images/1460060984/190474_1008242485128_1196931542_30023559_1375_n_normal.jpg), (0), (8), (0), (San Francisco), (1626731280597), (-1), (0), (-1)
+
+
+(LID, 78289), (RL, 220), (962), (2209677878), (bitcoinmom), (₿rooke), (https://pbs.twimg.com/profile_images/1362782470647603203/K651SM9A_normal.jpg), (0), (0), (0), (1626731280596), (-1), (0), (-1)
+
+
+(LID, 78290), (RL, 221), (963), (2477473068), (OSINTlabworks), (Aaron Sparling), (https://pbs.twimg.com/profile_images/842098982906032128/fKnwDaBR_normal.jpg), (0), (SThY), (1024), (0), (SgNqSkJKSiBCbGFja2JlbHQsIE1lbW9yeSA0TjYgbmVyZCwgbWFsd2FyZVJFIG5vb2IsIHBvb3JseSByYXRlZCBjaGVzcyBwbGF5ZXIuSQgBWElNEVhJEViCU4JTglNYWA==), (-16743244), (SU0RWEkRWIIBggGCAVg=), (-5523262), (1083), (0), (802), (2004), (4353), (1399242557000), (1626731280599), (-1), (none), (-112969370), (none), (0), (0), (-1)
+
+
+(LID, 78291), (RL, 222), (964), (919638257402548224), (CobraBitcoin), (Cøbra), (https://pbs.twimg.com/profile_images/1407728034480861188/rkYqHjnd_normal.jpg), (0), (1032), (0), (1626731280598), (-1), (0), (-1)
+
+
+(LID, 78292), (RL, 223), (965), (72862939), (hiromichimizuno), (HIRO MIZUNO), (https://pbs.twimg.com/profile_images/1362406644764835851/eJJXLE-G_normal.jpg), (0), (8), (0), (Tokyo), (1626731280598), (-1), (0), (-1)
+
+
+(LID, 78293), (RL, 224), (966), (729548255470575616), (eric_lombrozo), (?), (https://pbs.twimg.com/profile_images/1365397548144283648/Jv8e6t7h_normal.jpg), (2), (1024), (0), (The Universe), (1626731280602), (-1), (0), (-1)
+
+
+(LID, 78294), (RL, 225), (967), (892826509622353920), (UniverCurious), (Universal Curiosity), (https://pbs.twimg.com/profile_images/1200517928686407680/5FXDclvD_normal.jpg), (262144), (SThY), (1024), (0), (https://pbs.twimg.com/profile_banners/892826509622353920/1575990724), (SgNqUlNjaWVuY2UgfCBTcGFjZSBFeHBsb3JhdGlvbiB8IEVuZ2luZWVyaW5nCgpQYXJ0bmVyc2hpcCBlbWFpbCBpbmZvQHByb2FuZHJvbWVkYS5jb21JCAFYSU0RWEkRWIJbgluCW1hY), (-14835214), (SU0RWEkRWIIBggGCAVg=), (-657158), (476114), (0), (75), (3397), (2839), (2221), (1501701402000), (1626731280600), (0), (none), (-1686562718), (none), (0), (SQkIAggBEgQIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCosKPFP////9YSSBBi3CkFP8ICz5YSSA/dcKPFP9zd45YSSA+a4UfFP9gYX9YWA==), (SQkIAggBEgUIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCXfXDFP8tNEVYSSBBsAAAFP96cYdYSSBA1MzNFP/GsJdYSSBAyAAAFP9TbKBYSSA/6PXDFP/01JFYWA==), (0), (-1)
+
+
+(LID, 78295), (RL, 226), (968), (2260407860), (BitcoinErrorLog), (John Carvalho), (https://pbs.twimg.com/profile_images/1415750603242983427/ThZ6F3RY_normal.jpg), (0), (0), (0), (ðŸ¥), (1626731280601), (-1), (0), (-1)
+
+
+(LID, 78296), (RL, 227), (969), (824104203954126848), (ChaincodeLabs), (Chaincode Labs), (https://pbs.twimg.com/profile_images/1232790018424483840/-9tfBh1k_normal.jpg), (0), (1024), (0), (Manhattan, NY), (1626731280725), (-1), (0), (-1)
+
+
+(LID, 78297), (RL, 298), (1043), (121820614), (BarrySanders), (Barry Sanders), (https://pbs.twimg.com/profile_images/378800000726070530/d48e86111ab1ecee676028b379a41968_normal.jpeg), (2), (1024), (0), (Detroit, MI), (1626731280752), (-1), (0), (-1)
+
+
+(LID, 78298), (RL, 299), (1044), (242764796), (1948london), (1948 London), (https://pbs.twimg.com/profile_images/1778055702/1948_twitter_badge_001_normal.jpg), (0), (1024), (0), (Arch 477 Batemans Row, EC2), (1626731280625), (-1), (0), (-1)
+
+
+(LID, 78299), (RL, 300), (1045), (174185700), (shakesdrayton), (Perri Shakes Drayton), (https://pbs.twimg.com/profile_images/1285289363065180162/vz4sdmL-_normal.jpg), (2), (1032), (0), (London), (1626731280626), (-1), (0), (-1)
+
+
+(LID, 78300), (RL, 301), (1046), (77346069), (MalwareJake), (Jake Williams), (https://pbs.twimg.com/profile_images/1312522651945119744/HiCMkSUt_normal.jpg), (0), (SThY), (1032), (0), (https://pbs.twimg.com/profile_banners/77346069/1622416174), (SgNqhENUTyBAYnJlYWNocXVlc3QgYW5kIEByZW5kaXRpb25zZWMuIEdTRSAjMTUwLiBJIGRvIGFkdmVyc2FyeSBlbXVsYXRpb24sIElSLCBhbmQgbWFsd2FyZS4gQGhhY2tub3RjcmltZSB8IEBUcmliZU9mSGFja2VycyBjb250cmlidXRvckkJCAESBAgCTRICSgISBBIEEhAZagticmVhY2hxdWVzdDhYWEkSBBIQWE0SAkoCEhUSFRIiGWoMcmVuZGl0aW9uc2VjOFhYSRIVEiJYTRICSgISWRJZEmYZagxoYWNrbm90Y3JpbWU4WFhJElkSZlhNEgJKAhJpEmkSeBlqDlRyaWJlT2ZIYWNrZXJzOFhYSRJpEnhYWElNEVhJEVhJEgSCkIKygtWC+FiDAR+DAR9YWA==), (-16737895), (SU0RWEkRWIIBggGCAVg=), (-15526634), (Augusta, GA), (88994), (0), (1503), (79996), (30258), (10344), (1253923352000), (1626731280602), (1365051787074539527), (none), (-643249066), (none), (0), (SQkIAggBEgUIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCGPXDFP+qpp1YSSBBlYUfFP+dn5xYSSBBhQo9FP8BVp9YSSBBAzMzFP9ONBpYSSBAio9cFP/Si3dYWA==), (SQkIAggBEgUIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCoceuFP////9YSSBBLrhSFP8aHBtYSSA/9HrhFP94fn5YSSA/0zMzFP//oaBYSSA/GZmaFP//f39YWA==), (0), (-1)
+
+
+(LID, 78301), (RL, 302), (1047), (1078524406790610944), (MichaelEvansB05), (Michael Evans Behling), (https://pbs.twimg.com/profile_images/1216779960930598912/f-7ND_4N_normal.jpg), (2), (1032), (0), (Los Angeles, CA), (1626731280724), (-1), (0), (-1)
+
+
+(LID, 78302), (RL, 303), (1048), (219703427), (JLester34), (Jon Lester), (https://pbs.twimg.com/profile_images/1042456372657381376/APKUghjx_normal.jpg), (2), (0), (0), (Chicago, IL), (1626731280750), (-1), (0), (-1)
+
+
+(LID, 78303), (RL, 304), (1049), (79796828), (stefanjanoski), (Stefan Janoski), (https://pbs.twimg.com/profile_images/1029755047767232513/O6myJrsC_normal.jpg), (0), (1024), (0), (Los Angeles, CA), (1626731280627), (-1), (0), (-1)
+
+
+(LID, 78304), (RL, 305), (1050), (1301208489403068419), (picknava), (PICKÐŸÎ›VÎ›â„¢ ðŸ”®), (https://pbs.twimg.com/profile_images/1347054417380581377/eryxLT33_normal.jpg), (0), (8), (0), (Status ðŸ’š), (1626731280729), (-1), (0), (-1)
+
+
+(LID, 78305), (RL, 306), (1051), (14462333), (NikeService), (Nike Service), (https://pbs.twimg.com/profile_images/2282413894/plsev2uryzf77j3o1p4i_normal.jpeg), (2), (1032), (0), (Beaverton, Oregon), (1626731280624), (-1), (0), (-1)
+
+
+(LID, 78306), (RL, 307), (1052), (1325513297920077824), (DogeCoinMilitia), (TheDogeCoinMilitia), (https://pbs.twimg.com/profile_images/1416508413446529025/uqgzJZ_x_normal.jpg), (16416), (SThY), (8), (0), (https://pbs.twimg.com/profile_banners/1325513297920077824/1622968522), (SgNCpVN0cmFpZ2h0IHNob290ZXIgdW53aWxsaW5nIHRvIGZsdWZmIHBpbGxvd3MuIEZvcmV2ZXIgVU5JVEVEIGluICNET0dFLiBodHRwczovL3QuY28veHpxVmozUnZwcyAuIPCfkYggQ29sbGVjdGlibGUgQ29pbnMuIERPR0UgVGlwcyDwn5GHIERRdUpFNzNkY01uNGRnYUo0UVB3aXFoajE1Y1B5d243c3hJCQgBEgIIAk0SA0oDEj8SPxJEagRET0dFWFhJEj8SRFhNEgFKCBJGEkYSXWoXaHR0cHM6Ly90LmNvL3h6cVZqM1J2cHNqEmh0dHA6Ly9kb2dlZHJpcC5jb2oLZG9nZWRyaXAuY29YWEkSRhJdWFhJSRIBgs5YSRFYTRFYSRIBgrVYgwEmWFg=), (-14835214), (https://t.co/xzqVj3Rvps), (SUkSAUoIERESF2oXaHR0cHM6Ly90LmNvL3h6cVZqM1J2cHNqEmh0dHA6Ly9kb2dlZHJpcC5jb2oLZG9nZWRyaXAuY29YWEkRWEkRWEkRWEkRWFg=), (-657158), (U S And A), (SThY), (43046), (0), (70), (8954), (9536), (828), (1604861987000), (1626878395771), (1408709007913603080), (promotable_user), (817747682), (none), (0), (SQkIAggBEgUIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCBOuFFP/+/vxYSSBB3j1xFP8EAgNYSSBBdKPXFP/+64BYSSBA8euFFP/omgZYSSBAyj1xFP/q0aNYWA==), (SQkIAggBEgUIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCm49cFP8CAgJYSSBBW9cKFP+kl3JYSSBAqAAAFP9nY1dYSSA/JmZmFP9tVDBYSSA/GZmaFP+9i0VYWA==), (-1), (-1)
+
+
+(LID, 78307), (RL, 308), (1053), (40256448), (NikeChile), (Nike Chile), (https://pbs.twimg.com/profile_images/1190264192764436481/sQlGFmtN_normal.jpg), (3), (8), (0), (Chile), (1626731280629), (-1), (0), (-1)
+
+
+(LID, 78308), (RL, 309), (1054), (944261020914249729), (Rhythmtrader), (Rhythm), (https://pbs.twimg.com/profile_images/1155514911377821696/5-amQlS8_normal.jpg), (0), (1032), (0), (Around the block), (1626731280602), (-1), (0), (-1)
+
+
+(LID, 78309), (RL, 310), (1055), (902096744), (JadAtMagnet), (Jad Saliba), (https://pbs.twimg.com/profile_images/1069570827895668736/DNcQzSa5_normal.jpg), (0), (SThY), (1024), (0), (https://pbs.twimg.com/profile_banners/902096744/1522204040), (SgNqkkZvdW5kZXIgJiBDVE8gQCBNYWduZXQgRm9yZW5zaWNzLiBQYXNzaW9uYXRlIGFib3V0IGNyZWF0aW5nIHNvbHV0aW9ucyB0aGF0IGhlbHAgcGVvcGxlIHNlZWsganVzdGljZSBhbmQgcHJvdGVjdCB0aGUgaW5ub2NlbnQuIE9waW5pb25zIGFyZSBteSBvd24uSQgBWElNEVhJEViCm4KbgptYWA==), (-14835214), (https://t.co/nuUMYcj66N), (SUkSAUoIERESF2oXaHR0cHM6Ly90LmNvL251VU1ZY2o2Nk5qHmh0dHA6Ly93d3cubWFnbmV0Zm9yZW5zaWNzLmNvbWoTbWFnbmV0Zm9yZW5zaWNzLmNvbVhYSRFYSRFYSRFYSRFYWA==), (-4137235), (Canada), (1813), (0), (281), (1253), (2281), (1351094160000), (1626731280600), (-1), (none), (1151176315), (none), (0), (0), (-1)
+
+
+(LID, 78310), (RL, 311), (1056), (40915934), (sagekotsenburg), (sage kotsenburg), (https://pbs.twimg.com/profile_images/1391961934753255426/Mp6NDZfG_normal.jpg), (2), (1032), (0), (Park City), (1626731280627), (-1), (0), (-1)
+
+
+(LID, 78311), (RL, 312), (1057), (92277809), (nikefootballita), (Nike Football Italia), (https://pbs.twimg.com/profile_images/695252905100713986/mel-AVK8_normal.jpg), (0), (1024), (0), (Italia), (1626731280754), (-1), (0), (-1)
+
+
+(LID, 78312), (RL, 313), (1058), (1124052689992781825), (CellebriteES), (Cellebrite Enterprise Solutions), (https://pbs.twimg.com/profile_images/1130525608520376320/b9ke11XS_normal.png), (0), (1024), (0), (1626731280598), (-1), (0), (-1)
+
+
+(LID, 78313), (RL, 314), (1059), (24901827), (G_Rupp), (Galen Rupp), (https://pbs.twimg.com/profile_images/114954190/twitterpic_normal.jpg), (2), (1024), (0), (OREGON), (1626731280629), (-1), (0), (-1)
+
+
+(LID, 78314), (RL, 315), (1060), (69675750), (Stevo2510), (Stephen Hagan), (https://pbs.twimg.com/profile_images/1216538841571565569/7pRE-sEG_normal.jpg), (1), (0), (0), (ÃœT: 36.12802,-86.643836), (1626731280627), (-1), (0), (-1)
+
+
+(LID, 78315), (RL, 316), (1061), (53295087), (JimmyRollins11), (Jimmy Rollins), (https://pbs.twimg.com/profile_images/1101277564230922240/iFJAt3kC_normal.jpg), (2), (0), (0), (Florida, USA), (1626731280624), (-1), (0), (-1)
+
+
+(LID, 78316), (RL, 317), (1062), (57747123), (sean_malto), (Sean Malto), (https://pbs.twimg.com/profile_images/331228498/IMG_0003_normal.PNG), (0), (1024), (0), (Kansas City), (1626731280678), (-1), (0), (-1)
+
+
+(LID, 78317), (RL, 318), (1063), (1257645477408972802), (carved_from), (Carved From Unallocated), (https://pbs.twimg.com/profile_images/1257646316596985856/WrHCJdMV_normal.jpg), (0), (1024), (0), (1626731280601), (-1), (0), (-1)
+
+
+(LID, 78318), (RL, 319), (1064), (1276198357250310144), (stem_sadie), (Sadie Grace), (https://pbs.twimg.com/profile_images/1404911486821179395/EOhDC3u-_normal.jpg), (0), (1032), (0), (https://pbs.twimg.com/profile_banners/1276198357250310144/1593203867), (SgNqm1NURU0gcXVlZW4gLy8gUmFuZG9tIFRob3VnaHRzIEVudGh1c2lhc3QgLy8gQ2F0IE1vbSAvLyBORVJEIEFMRVJUOiBtYXRoLCBDUywgY3liZXIsIERGSVIsIGNyeXB0LCBpbmZvc2VjIC8vIEFsbCBvcGluaW9ucy90d2VldHMvdmlld3MgYXJlIG1pbmUgJiBtaW5lIGFsb25lSQgBWElNEVhJEBiCpIKkgqRYWA==), (-14835214), (SU0RWEkRWIIBggGCAVg=), (-657158), (206), (0), (171), (375), (913), (1593104421000), (1626731280623), (-1), (none), (1783953249), (none), (0), (0), (-1)
+
+
+(LID, 78319), (RL, 320), (1065), (1223779978459770880), (iearnfinance), (yearn.finance), (https://pbs.twimg.com/profile_images/1286204702338813952/X8fdf5p-_normal.png), (0), (1024), (0), (1626731280599), (-1), (0), (-1)
+
+
+(LID, 78320), (RL, 321), (1067), (219783628), (ChrisWondo), (Chris Wondolowski), (https://pbs.twimg.com/profile_images/1222597447215669250/424jgGRp_normal.jpg), (2), (1024), (0), (California), (1626731280627), (-1), (0), (-1)
+
+
+(LID, 78321), (RL, 322), (1068), (17912774), (tgonser), (Tom Gonser), (https://pbs.twimg.com/profile_images/563137246040059904/SH932tEG_normal.jpeg), (0), (1024), (0), (San Francisco, CA & Bend, Or), (1626731280626), (-1), (0), (-1)
+
+
+(LID, 78322), (RL, 323), (1069), (184313387), (AshtonJEaton), (Ashton Eaton), (https://pbs.twimg.com/profile_images/1053818632466137088/tz94bQcM_normal.jpg), (2), (1024), (0), (Earth), (1626731280623), (-1), (0), (-1)
+
+
+(LID, 78323), (RL, 324), (1070), (94302279), (nikefootfrance), (Nike Football France), (https://pbs.twimg.com/profile_images/691206826055065600/QYipk8q2_normal.jpg), (0), (1032), (0), (France), (1626731280676), (-1), (0), (-1)
+
+
+(LID, 78324), (RL, 325), (1071), (2939451880), (loquaciousloka), (ca$s:e cage ðŸ’«), (https://pbs.twimg.com/profile_images/1410634568793837574/YsGfWOct_normal.jpg), (0), (8), (0), (âˆž), (1626731280653), (-1), (0), (-1)
+
+
+(LID, 78325), (RL, 326), (1072), (41992038), (shanejoneill), (Shane Oneill), (https://pbs.twimg.com/profile_images/1378468056872067074/rVpR6CKf_normal.jpg), (2), (8), (0), (Melbourne, Aus/LA), (1626731280750), (-1), (0), (-1)
+
+
+(LID, 78326), (RL, 327), (1073), (982710309461921802), (j_duffy01), (.), (https://pbs.twimg.com/profile_images/1414632943625060356/8eUMP3ag_normal.jpg), (20481), (SThY), (8), (0), (https://pbs.twimg.com/profile_banners/982710309461921802/1612374792), (SgNCoDIwIHkvbyDigKIgdW5pdmVyc2l0eSBzdHVkZW50IOKAoiByZXNlYXJjaCBARHVmZnlBUFBfSVQg4oCiIHNvZnR3YXJlIGVuZ2luZWVyaW5nIPCfmoDigKIgZm9sbG93IOKJoCBlbmRvcnNlbWVudCDigKIgZGZpciDigKIgbmV1cm9kaXZlcmdlbnQg4oCiIGF1dGhvciDwn5OaSQgCTRICSgISJxInEjMZagtEdWZmeUFQUF9JVDhYWEkSJxIzWFhJTRFYSRFYSRIBgr1YguGC4VhY), (-15085690), (https://t.co/yXK7WD6nTs), (SUkSAUoIERESF2oXaHR0cHM6Ly90LmNvL3lYSzdXRDZuVHNqEWh0dHBzOi8vZHVmZnkuYXBwaglkdWZmeS5hcHBYWEkRWEkRWEkRWEkRWFg=), (-16777216), (8099), (0), (876), (366), (14520), (34), (1523131370000), (1626731280600), (1366476581728886785), (promotable_user), (-1547334916), (none), (0), (0), (-1)
+
+
+(LID, 78327), (RL, 409), (1158), (1174196863785930754), (niko4n6), (Niko), (https://pbs.twimg.com/profile_images/1309653345590632448/s0VOnp65_normal.jpg), (1), (8), (0), (California, USA), (1626731280804), (-1), (0), (-1)
+
+
+(LID, 78328), (RL, 410), (1159), (1143244552880427008), (LinkForest_io), (LinkForest.io), (https://pbs.twimg.com/profile_images/1144860921229205504/4zYMWAG6_normal.png), (0), (1024), (0), (Austria), (1626731280651), (-1), (0), (-1)
+
+
+(LID, 78329), (RL, 411), (1160), (13867012), (robtlee), (Rob Lee), (https://pbs.twimg.com/profile_images/77609987/Who_dat_normal.JPG), (16384), (SThY), (1024), (0), (https://pbs.twimg.com/profile_banners/13867012/1449943248), (SgNqbERGSVIgYW5kIEluZm9TZWMgUHJvZmVzc2lvbmFsLiBFbnRyZXByZW5ldXIuIEZhY3VsdHkgRmVsbG93LiBIdXNiYW5kLiBGYXRoZXIgb2YgdHdpbnMuIEJyb25jb3MgYW5kIE5hdHMgZmFuLkkIAVhJTRFYSRFYgnWCdYJ1WFg=), (-16737895), (https://t.co/WVAxR23oVQ), (SUkSAUoIERESF2oXaHR0cHM6Ly90LmNvL1dWQXhSMjNvVlFqIWh0dHA6Ly9kaWdpdGFsLWZvcmVuc2ljcy5zYW5zLm9yZ2oaZGlnaXRhbC1mb3JlbnNpY3Muc2Fucy5vcmdYWEkRWEkRWEkRWEkRWFg=), (-15526634), (Boston, MA), (26335), (0), (1287), (5378), (1331), (320), (1203780596000), (1626731280652), (0), (none), (-2067186213), (none), (0), (0), (-1)
+
+
+(LID, 78330), (RL, 412), (1161), (381090926), (ShaneVictorino), (Shane Victorino), (https://pbs.twimg.com/profile_images/1404109128964788225/L17mK08v_normal.jpg), (2), (1024), (0), (MauiNoKaOi~LasVegas), (1626731280655), (-1), (0), (-1)
+
+
+(LID, 78331), (RL, 413), (1162), (1215057734703468545), (Karla93582000), (Karla), (https://pbs.twimg.com/profile_images/1215058177026334720/NvoYU1ld_normal.jpg), (0), (1024), (0), (1626731280726), (-1), (0), (-1)
+
+
+(LID, 78332), (RL, 414), (1163), (15421234), (ChrisGastardi), (ChrisGastardi), (https://pbs.twimg.com/profile_images/1405510585442258949/wMuIiuFt_normal.jpg), (0), (1024), (0), (ÃœT: 37.363229,-79.190603), (1626731280652), (-1), (0), (-1)
+
+
+(LID, 78333), (RL, 415), (1164), (880535878724009985), (keydet89), (Harlanoscopy), (https://pbs.twimg.com/profile_images/1199287043739672576/DIhoJRp8_normal.jpg), (0), (SThY), (1024), (0), (https://pbs.twimg.com/profile_banners/880535878724009985/1611754069), (SgNqXFNyIERGSVIgQWR2aXNvciwgUmVzZWFyY2hlciwgUHJhY3RpdGlvbmVyLiBVU01DIHZldC4gQXV0aG9yLiBPcGluaW9ucyA9IG93bi4gI0ludHJ1c2lvbkludGVsSQgCTRIDSgMSTRJNElxqDkludHJ1c2lvbkludGVsWFhJEk0SXFhYSU0RWEkRWIKISRIBgmNYgohYWA==), (-14835214), (SU0RWEkRWIIBggGCAVg=), (-657158), (Planet Earth), (3912), (0), (28), (9064), (901), (1498771087000), (1626731280962), (-1), (none), (-1660369536), (none), (0), (0), (-1)
+
+
+(LID, 78334), (RL, 416), (1165), (2192681835), (zybercop), (Peter G), (https://pbs.twimg.com/profile_images/1183727873229807616/eaAZI_IL_normal.jpg), (0), (1024), (0), (1626731280650), (-1), (0), (-1)
+
+
+(LID, 78335), (RL, 417), (1166), (825029623), (Danyakotov), (The Deposed Dictator), (https://pbs.twimg.com/profile_images/1370266322081300481/AQR6mbiO_normal.jpg), (0), (1024), (0), (1626731280651), (-1), (0), (-1)
+
+
+(LID, 78336), (RL, 418), (1167), (822825713615175680), (redditSpacePorn), (Space Porn), (https://pbs.twimg.com/profile_images/866317371820191749/_BP2j9Cw_normal.jpg), (262144), (SThY), (1024), (0), (https://pbs.twimg.com/profile_banners/822825713615175680/1485012606), (SgNqYldlbGNvbWUsIHRoaXMgYWNjb3VudCBpcyBkZXZvdGVkIHRvIGhpZ2gtcXVhbGl0eSBpbWFnZXMgb2Ygc3BhY2UsIHNoYXJpbmcgcXVhbGl0eSBhc3Ryb3Bob3RvZ3JhcGh5SQgBWElNEVhJEViCa4JrgmtYWA==), (-14969376), (https://t.co/wNZyLe4uCq), (SUkSAUoIERESF2oXaHR0cHM6Ly90LmNvL3dOWnlMZTR1Q3FqJmh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vc3BhY2VfYmlibGUvahppbnN0YWdyYW0uY29tL3NwYWNlX2JpYmxlL1hYSRFYSRFYSRFYSRFYWA==), (-16777216), (Universe), (172391), (0), (1559), (13648), (1013), (13449), (1485011912000), (1626731280599), (1362943828240531456), (promotable_user), (-359936541), (none), (0), (0), (-1)
+
+
+(LID, 78337), (RL, 419), (1168), (2803191), (intel), (Intel), (https://pbs.twimg.com/profile_images/1301199561713541120/7dPeX1gK_normal.png), (2), (1032), (0), (Santa Clara, California), (1626731280655), (-1), (0), (-1)
+
+
+(LID, 78338), (RL, 420), (1169), (10780742), (JohnnyCiocca), (Herder of Noobs), (https://pbs.twimg.com/profile_images/1416805867194703873/0Ot5BdVO_normal.png), (0), (1032), (0), (BrasÃ­lia, Brasil), (1626731280652), (-1), (0), (-1)
+
+
+(LID, 78339), (RL, 421), (1170), (2800656396), (iCrypto_), (Jim.btc), (https://pbs.twimg.com/profile_images/1391206833906409472/inaM3Exc_normal.jpg), (0), (1024), (0), (1626731280655), (-1), (0), (-1)
+
+
+(LID, 78340), (RL, 422), (1171), (14681605), (ThatKevinSmith), (KevinSmith), (https://pbs.twimg.com/profile_images/107763943/twitter_normal.jpg), (2), (1024), (0), (Body? L.A. Mind? N.J.), (1626731280782), (-1), (0), (-1)
+
+
+(LID, 78341), (RL, 423), (1172), (15813140), (GoogleCloudTech), (Google Cloud Tech), (https://pbs.twimg.com/profile_images/1219725421962571779/_qstUQx__normal.jpg), (2), (8), (0), (1626731280653), (-1), (0), (-1)
+
+
+(LID, 78342), (RL, 424), (1173), (773529298250629120), (dgreer64_Tech), (dgreer64), (https://pbs.twimg.com/profile_images/776082887804391425/mNr6Tgt9_normal.jpg), (0), (1024), (0), (Georgia, USA), (1626731280656), (-1), (0), (-1)
+
+
+(LID, 78343), (RL, 425), (1174), (464136514), (BoJackson), (Bo Jackson), (https://pbs.twimg.com/profile_images/438754728059469824/E2GbfD-H_normal.jpeg), (2), (0), (0), (1626731280654), (-1), (0), (-1)
+
+
+(LID, 78344), (RL, 426), (1175), (268563435), (HopelessHannah1), (Hopeless Hannah), (https://pbs.twimg.com/profile_images/732197377302495232/Jjd7xhgl_normal.jpg), (0), (1024), (0), (England), (1626731280627), (-1), (0), (-1)
+
+
+(LID, 78345), (RL, 427), (1176), (921479936), (thaconnecter), (thaconnecterðŸ‡¨ðŸ‡¦), (https://pbs.twimg.com/profile_images/611887060555841536/GjWQJ88s_normal.jpg), (0), (0), (0), (MontrÃ©al, QuÃ©bec), (1626731280704), (-1), (0), (-1)
+
+
+(LID, 78346), (RL, 428), (1177), (4230101712), (jagarikin), (ã˜ã‚ƒãŒã‚Šã ã‚“), (https://pbs.twimg.com/profile_images/666406258451152896/ROaK4lhC_normal.png), (0), (1024), (0), (moon), (1626731280699), (-1), (0), (-1)
+
+
+(LID, 78347), (RL, 429), (1178), (441951136), (WesWelker), (Wes Welker), (https://pbs.twimg.com/profile_images/1116435678194221057/zSwUyBV-_normal.jpg), (2), (1024), (0), (Houston, TX), (1626731280650), (-1), (0), (-1)
+
+
+(LID, 78348), (RL, 430), (1179), (474208955), (MarcMethot3), (Marc Methot), (https://pbs.twimg.com/profile_images/1207854058494554113/9YrAo07-_normal.jpg), (2), (1024), (0), (Ottawa, Ontario), (1626731280888), (-1), (0), (-1)
+
+
+(LID, 78349), (RL, 431), (1180), (1254877870595457024), (PS5Updates), (PlayStation 5 - PS5 Restock News), (https://pbs.twimg.com/profile_images/1293947106181423111/jSEpKE2c_normal.jpg), (0), (1032), (0), (1626731280724), (-1), (0), (-1)
+
+
+(LID, 78350), (RL, 432), (1181), (79650494), (CodySimpson), (Cody Simpson), (https://pbs.twimg.com/profile_images/1399572558383443968/EEfIDmjG_normal.jpg), (2), (1024), (0), (Gold Coast, Queensland), (1626731280678), (-1), (0), (-1)
+
+
+(LID, 78351), (RL, 433), (1182), (139556944), (delpotrojuan), (Juan M. del Potro), (https://pbs.twimg.com/profile_images/696440730982739968/7rhcxFve_normal.jpg), (2), (0), (0), (Tandil, Argentina), (1626731280681), (-1), (0), (-1)
+
+
+(LID, 78352), (RL, 434), (1183), (279154337), (tmwhitmore), (Teresa), (https://pbs.twimg.com/profile_images/1188920312680849408/Mf7X8DoA_normal.jpg), (0), (1024), (0), (NC), (1626731280676), (-1), (0), (-1)
+
+
+(LID, 78353), (RL, 435), (1184), (169339410), (teeltech), (Teel Technologies), (https://pbs.twimg.com/profile_images/834502053850329088/rtnWHGHk_normal.jpg), (0), (1024), (0), (Norwalk, CT), (1626731280676), (-1), (0), (-1)
+
+
+(LID, 78354), (RL, 436), (1185), (176774540), (cgpgrey), (CGP Grey ðŸ), (https://pbs.twimg.com/profile_images/1220438277796352001/jhrzYrf5_normal.jpg), (2), (1024), (0), (London), (1626731280678), (-1), (0), (-1)
+
+
+(LID, 78355), (RL, 437), (1186), (243418245), (JimBridenstine), (Jim Bridenstine), (https://pbs.twimg.com/profile_images/1351953180784001024/K9SMnUtL_normal.jpg), (2), (1024), (0), (Tulsa, OK), (1626731280679), (-1), (0), (-1)
+
+
+(LID, 78356), (RL, 438), (1187), (74561891), (columhiggins), (Colum Higgins), (https://pbs.twimg.com/profile_images/1161952736507768838/_ewilY6U_normal.png), (0), (1024), (0), (Dublin City, Ireland), (1626731280680), (-1), (0), (-1)
+
+
+(LID, 78357), (RL, 1), (1), (2), (Heather Mahalik), (HeatherMahalik), (475222380), (1623285646831), (3), (SgIcHFNRbGoOSGVhdGhlck1haGFsaWtqD0hlYXRoZXIgTWFoYWxpa2pMaHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyMTkwMTYzNTE3MTQ2Mjc1ODYvWmcxUTRfSVZfbm9ybWFsLmpwZzARMFg=), (2.9984408333552963)
+
+
+(LID, 78358), (RL, 2), (2), (0), (marsha mellos), (marsha mellos), (2006423246), (1617501323714), (3), (0.0)
+
+
+(LID, 78359), (RL, 3), (3), (2), (Ronen Engler), (TheNewMyself), (1246522656016359424), (1617501343812), (3), (SgIdEUyJwFRU4ABqDFRoZU5ld015c2VsZmoMUm9uZW4gRW5nbGVyakxodHRwczovL3Bicy50d2ltZy5jb20vcHJvZmlsZV9pbWFnZXMvMTI0NzM1MzQ3NjAyNTM2ODU3Ni8tR2l3MDRVdF9ub3JtYWwuanBnMBEwWA==), (8.264434319016848e-12)
+
+
+(LID, 78360), (RL, 4), (4), (2), (Paul Scurvy), (PaulScurvy), (522777613), (1617501354974), (3), (SgIcHyj0DWoKUGF1bFNjdXJ2eWoLUGF1bCBTY3VydnlqS2h0dHBzOi8vcGJzLnR3aW1nLmNvbS9wcm9maWxlX2ltYWdlcy83NTA0OTk5MjAxMTc5MTk3NDQvWHZ1eHpiRkJfbm9ybWFsLmpwZzARMFg=), (8.265926242556669e-12)
+
+
+(LID, 78361), (RL, 5), (5), (2), (Matt Goeckel), (mattforensic), (992125797241643008), (1617501373671), (3), (SgIdDcS9J/UW4ABqDG1hdHRmb3JlbnNpY2oMTWF0dCBHb2Vja2VsakxodHRwczovL3Bicy50d2ltZy5jb20vcHJvZmlsZV9pbWFnZXMvMTM1MDgwOTIwMDM4MTg2MTg4OS9YMy1WMnd4d19ub3JtYWwuanBnMBEwWA==), (8.267750070418584e-12)
+
+
+(LID, 78590), (RL, 1), (crying), (1623900701673)
+
+
+(LID, 78591), (RL, 2), (sad), (1623900734220)
+
+
+(LID, 78592), (RL, 3), (i will be there), (1625114199563)
+
+
+(LID, 78593), (RL, 4), (i will be there too), (1625114125028)
+
+
+(LID, 78594), (RL, 5), (are you ready?), (1626731604861)
+
+

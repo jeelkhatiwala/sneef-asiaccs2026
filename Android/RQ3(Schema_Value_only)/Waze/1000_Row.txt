@@ -1,0 +1,601 @@
+(LID, 78595), (RL, 1), (speed trap reported ahead), (database//Jane//1625260854-883084-0.tts), (2), (0), (1625260855)
+
+
+(LID, 78596), (RL, 2), (heavy traffic reported ahead), (database//Jane//1625260854-883239-1.tts), (2), (0), (1625260855)
+
+
+(LID, 78597), (RL, 3), (watch out, accident reported ahead), (database//Jane//1625260854-883240-2.tts), (2), (0), (1625260855)
+
+
+(LID, 78598), (RL, 4), (watch out, hazard reported ahead), (database//Jane//1625260854-883241-3.tts), (2), (0), (1625260855)
+
+
+(LID, 78599), (RL, 5), (You are entering an enforcement zone), (database//Jane//1625260854-884956-20.tts), (2), (0), (1625260855)
+
+
+(LID, 78600), (RL, 6), (You are leaving an enforcement zone), (database//Jane//1625260854-884958-21.tts), (2), (0), (1625260855)
+
+
+(LID, 78601), (RL, 7), (Entering a crime risk area), (database//Jane//1625260854-884959-22.tts), (2), (0), (1625260855)
+
+
+(LID, 78602), (RL, 8), (Crime risk area), (database//Jane//1625260854-884959-23.tts), (2), (0), (1625260855)
+
+
+(LID, 78603), (RL, 9), (watch out, object on road ahead), (database//Jane//1625260854-883637-4.tts), (2), (0), (1625260855)
+
+
+(LID, 78604), (RL, 10), (watch out, pothole on road ahead), (database//Jane//1625260854-883638-5.tts), (2), (0), (1625260855)
+
+
+(LID, 78605), (RL, 11), (watch out, road kill on road ahead), (database//Jane//1625260854-883639-6.tts), (2), (0), (1625260855)
+
+
+(LID, 78606), (RL, 12), (watch out, vehicle stopped on shoulder ahead), (database//Jane//1625260854-883639-7.tts), (2), (0), (1625260855)
+
+
+(LID, 78607), (RL, 13), (red light camera reported ahead), (database//Jane//1625260854-884597-16.tts), (2), (0), (1625260855)
+
+
+(LID, 78608), (RL, 14), (Approaching a railroad crossing), (database//Jane//1625260854-884599-17.tts), (2), (0), (1625260855)
+
+
+(LID, 78609), (RL, 15), (Beep from a friend), (database//Jane//1625260854-884599-18.tts), (2), (0), (1625260855)
+
+
+(LID, 78610), (RL, 16), (Message from a friend), (database//Jane//1625260854-884600-19.tts), (2), (0), (1625260855)
+
+
+(LID, 78611), (RL, 17), (watch out, animal on shoulder ahead), (database//Jane//1625260854-883871-8.tts), (2), (0), (1625260855)
+
+
+(LID, 78612), (RL, 18), (watch out, fog reported ahead), (database//Jane//1625260854-883872-9.tts), (2), (0), (1625260855)
+
+
+(LID, 78613), (RL, 19), (watch out, hail reported ahead), (database//Jane//1625260854-883873-10.tts), (2), (0), (1625260855)
+
+
+(LID, 78614), (RL, 20), (watch out, rain reported ahead), (database//Jane//1625260854-883873-11.tts), (2), (0), (1625260855)
+
+
+(LID, 78615), (RL, 21), (Average speed enforcement zone ahead), (database//Jane//1625260854-885193-24.tts), (2), (0), (1625260855)
+
+
+(LID, 78616), (RL, 22), (Entering speed enforcement zone), (database//Jane//1625260854-885195-25.tts), (2), (0), (1625260855)
+
+
+(LID, 78617), (RL, 23), (Exiting average speed enforcement zone), (database//Jane//1625260854-885195-26.tts), (2), (0), (1625260855)
+
+
+(LID, 78618), (RL, 24), (Entering high risk or illegal area), (database//Jane//1625260854-885196-27.tts), (2), (0), (1625260855)
+
+
+(LID, 78619), (RL, 25), (watch out, snow reported ahead), (database//Jane//1625260854-884242-12.tts), (2), (0), (1625260855)
+
+
+(LID, 78620), (RL, 26), (watch out, Construction on road ahead), (database//Jane//1625260854-884243-13.tts), (2), (0), (1625260855)
+
+
+(LID, 78621), (RL, 27), (watch out, vehicle stopped on road ahead), (database//Jane//1625260854-884244-14.tts), (2), (0), (1625260855)
+
+
+(LID, 78622), (RL, 28), (police reported ahead), (database//Jane//1625260854-884244-15.tts), (2), (0), (1625260855)
+
+
+(LID, 78623), (RL, 29), (in), (database//Jane//1625260855-367390-44.tts), (2), (0), (1625260855)
+
+
+(LID, 78624), (RL, 30), (to), (database//Jane//1625260855-367395-45.tts), (2), (0), (1625260855)
+
+
+(LID, 78625), (RL, 31), (on), (database//Jane//1625260855-367396-46.tts), (2), (0), (1625260855)
+
+
+(LID, 78626), (RL, 32), (meters), (database//Jane//1625260855-367397-47.tts), (2), (0), (1625260855)
+
+
+(LID, 78627), (RL, 33), (Approaching stop point), (database//Jane//1625260855-365752-40.tts), (2), (0), (1625260855)
+
+
+(LID, 78628), (RL, 34), (Did you drop off your rider?), (database//Jane//1625260855-365757-41.tts), (2), (0), (1625260855)
+
+
+(LID, 78629), (RL, 35), (you've arrived at), (database//Jane//1625260855-365758-42.tts), (2), (0), (1625260855)
+
+
+(LID, 78630), (RL, 36), (within), (database//Jane//1625260855-365759-43.tts), (2), (0), (1625260855)
+
+
+(LID, 78631), (RL, 37), (Reminder, turn on your headlights.), (database//Jane//1625260855-85391-32.tts), (2), (0), (1625260855)
+
+
+(LID, 78632), (RL, 38), (Wazer needs help), (database//Jane//1625260855-85394-33.tts), (2), (0), (1625260855)
+
+
+(LID, 78633), (RL, 39), (Let's go), (database//Jane//1625260855-85395-34.tts), (2), (0), (1625260855)
+
+
+(LID, 78634), (RL, 40), (All set, let's go!), (database//Jane//1625260855-85396-35.tts), (2), (0), (1625260855)
+
+
+(LID, 78635), (RL, 41), (We're all set, let's go!), (database//Jane//1625260855-224122-36.tts), (2), (0), (1625260855)
+
+
+(LID, 78636), (RL, 42), (We're all set, drive safely), (database//Jane//1625260855-224126-37.tts), (2), (0), (1625260855)
+
+
+(LID, 78637), (RL, 43), (Let's get started, drive safely), (database//Jane//1625260855-224127-38.tts), (2), (0), (1625260855)
+
+
+(LID, 78638), (RL, 44), (Letâ€™s Carpool today), (database//Jane//1625260855-224128-39.tts), (2), (0), (1625260855)
+
+
+(LID, 78639), (RL, 45), (Entering a high crime area2), (database//Jane//1625260854-885421-28.tts), (2), (0), (1625260855)
+
+
+(LID, 78640), (RL, 46), (Your drive passes through a high risk or illegal area), (database//Jane//1625260854-885422-29.tts), (2), (0), (1625260855)
+
+
+(LID, 78641), (RL, 47), (High crime area2), (database//Jane//1625260854-885423-30.tts), (2), (0), (1625260855)
+
+
+(LID, 78642), (RL, 48), (Entering a road that requires headlights. Don't forget to turn them on.), (database//Jane//1625260854-885423-31.tts), (2), (0), (1625260855)
+
+
+(LID, 78643), (RL, 49), (at), (database//Jane//1625260855-377950-52.tts), (2), (0), (1625260855)
+
+
+(LID, 78644), (RL, 50), (in two hundred meters), (database//Jane//1625260855-377954-53.tts), (2), (0), (1625260855)
+
+
+(LID, 78645), (RL, 51), (in four hundred meters), (database//Jane//1625260855-377955-54.tts), (2), (0), (1625260855)
+
+
+(LID, 78646), (RL, 52), (in five hundred meters), (database//Jane//1625260855-377956-55.tts), (2), (0), (1625260855)
+
+
+(LID, 78647), (RL, 53), (in eight hundred meters), (database//Jane//1625260855-382509-56.tts), (2), (0), (1625260855)
+
+
+(LID, 78648), (RL, 54), (in one kilometer), (database//Jane//1625260855-382513-57.tts), (2), (0), (1625260855)
+
+
+(LID, 78649), (RL, 55), (in one point five kilometers), (database//Jane//1625260855-382514-58.tts), (2), (0), (1625260855)
+
+
+(LID, 78650), (RL, 56), (in 500 feet), (database//Jane//1625260855-382515-59.tts), (2), (0), (1625260855)
+
+
+(LID, 78651), (RL, 57), (miles), (database//Jane//1625260855-376903-48.tts), (2), (0), (1625260855)
+
+
+(LID, 78652), (RL, 58), (take the), (database//Jane//1625260855-376907-49.tts), (2), (0), (1625260855)
+
+
+(LID, 78653), (RL, 59), (exit), (database//Jane//1625260855-376908-50.tts), (2), (0), (1625260855)
+
+
+(LID, 78654), (RL, 60), (then), (database//Jane//1625260855-376909-51.tts), (2), (0), (1625260855)
+
+
+(LID, 78655), (RL, 61), (in a quarter of a mile), (database//Jane//1625260855-486050-60.tts), (2), (0), (1625260855)
+
+
+(LID, 78656), (RL, 62), (in O point three miles), (database//Jane//1625260855-486053-61.tts), (2), (0), (1625260855)
+
+
+(LID, 78657), (RL, 63), (in half a mile), (database//Jane//1625260855-486054-62.tts), (2), (0), (1625260855)
+
+
+(LID, 78658), (RL, 64), (in O point six miles), (database//Jane//1625260855-486055-63.tts), (2), (0), (1625260855)
+
+
+(LID, 78659), (RL, 65), (in one mile), (database//Jane//1625260855-498488-64.tts), (2), (0), (1625260855)
+
+
+(LID, 78660), (RL, 66), (the coupon was saved in your inbox), (database//Jane//1625260855-498492-65.tts), (2), (0), (1625260855)
+
+
+(LID, 78661), (RL, 67), (don't forget to check out your coupon before purchase), (database//Jane//1625260855-498493-66.tts), (2), (0), (1625260855)
+
+
+(LID, 78662), (RL, 68), (you're approaching your destination), (database//Jane//1625260855-498494-67.tts), (2), (0), (1625260855)
+
+
+(LID, 78663), (RL, 69), (you'll arrive), (database//Jane//1625260855-504544-68.tts), (2), (0), (1625260856)
+
+
+(LID, 78664), (RL, 70), (take the first exit), (database//Jane//1625260855-504548-69.tts), (2), (0), (1625260856)
+
+
+(LID, 78665), (RL, 71), (take the second exit), (database//Jane//1625260855-504549-70.tts), (2), (0), (1625260856)
+
+
+(LID, 78666), (RL, 72), (take the third exit), (database//Jane//1625260855-504549-71.tts), (2), (0), (1625260856)
+
+
+(LID, 78667), (RL, 73), (continue straight), (database//Jane//1625260855-668304-80.tts), (2), (0), (1625260856)
+
+
+(LID, 78668), (RL, 74), (at the roundabout), (database//Jane//1625260855-668308-81.tts), (2), (0), (1625260856)
+
+
+(LID, 78669), (RL, 75), (at the roundabout, turn left), (database//Jane//1625260855-668310-82.tts), (2), (0), (1625260856)
+
+
+(LID, 78670), (RL, 76), (at the roundabout, continue straight), (database//Jane//1625260855-668310-83.tts), (2), (0), (1625260856)
+
+
+(LID, 78671), (RL, 77), (at the roundabout, turn right), (database//Jane//1625260855-703882-84.tts), (2), (0), (1625260856)
+
+
+(LID, 78672), (RL, 78), (at the roundabout, make a u-turn), (database//Jane//1625260855-703887-85.tts), (2), (0), (1625260856)
+
+
+(LID, 78673), (RL, 79), (you've arrived at your destination), (database//Jane//1625260855-703888-86.tts), (2), (0), (1625260856)
+
+
+(LID, 78674), (RL, 80), (exit left), (database//Jane//1625260855-703889-87.tts), (2), (0), (1625260856)
+
+
+(LID, 78675), (RL, 81), (turn left), (database//Jane//1625260855-534362-76.tts), (2), (0), (1625260856)
+
+
+(LID, 78676), (RL, 82), (turn right), (database//Jane//1625260855-534366-77.tts), (2), (0), (1625260856)
+
+
+(LID, 78677), (RL, 83), (stay to the left), (database//Jane//1625260855-534367-78.tts), (2), (0), (1625260856)
+
+
+(LID, 78678), (RL, 84), (stay to the right), (database//Jane//1625260855-534368-79.tts), (2), (0), (1625260856)
+
+
+(LID, 78679), (RL, 85), (take the fourth exit), (database//Jane//1625260855-521626-72.tts), (2), (0), (1625260856)
+
+
+(LID, 78680), (RL, 86), (take the fifth exit), (database//Jane//1625260855-521630-73.tts), (2), (0), (1625260856)
+
+
+(LID, 78681), (RL, 87), (take the sixth exit), (database//Jane//1625260855-521631-74.tts), (2), (0), (1625260856)
+
+
+(LID, 78682), (RL, 88), (take the seventh exit), (database//Jane//1625260855-521632-75.tts), (2), (0), (1625260856)
+
+
+(LID, 78683), (RL, 89), (continue straight for 8 minutes), (database//Jane//1625260856-5754-100.tts), (2), (0), (1625260856)
+
+
+(LID, 78684), (RL, 90), (continue straight for 9 minutes), (database//Jane//1625260856-5758-101.tts), (2), (0), (1625260856)
+
+
+(LID, 78685), (RL, 91), (continue straight for 10 minutes), (database//Jane//1625260856-5759-102.tts), (2), (0), (1625260856)
+
+
+(LID, 78686), (RL, 92), (continue straight for 11 minutes), (database//Jane//1625260856-5759-103.tts), (2), (0), (1625260856)
+
+
+(LID, 78687), (RL, 93), (continue straight for 12 minutes), (database//Jane//1625260856-50042-104.tts), (2), (0), (1625260856)
+
+
+(LID, 78688), (RL, 94), (continue straight for 13 minutes), (database//Jane//1625260856-50045-105.tts), (2), (0), (1625260856)
+
+
+(LID, 78689), (RL, 95), (continue straight for 14 minutes), (database//Jane//1625260856-50046-106.tts), (2), (0), (1625260856)
+
+
+(LID, 78690), (RL, 96), (continue straight for 15 minutes), (database//Jane//1625260856-50047-107.tts), (2), (0), (1625260856)
+
+
+(LID, 78691), (RL, 97), (in 3 minutes), (database//Jane//1625260855-729571-96.tts), (2), (0), (1625260856)
+
+
+(LID, 78692), (RL, 98), (in 4 minutes), (database//Jane//1625260855-729574-97.tts), (2), (0), (1625260856)
+
+
+(LID, 78693), (RL, 99), (continue straight for 6 minutes), (database//Jane//1625260855-729575-98.tts), (2), (0), (1625260856)
+
+
+(LID, 78694), (RL, 100), (continue straight for 7 minutes), (database//Jane//1625260855-729576-99.tts), (2), (0), (1625260856)
+
+
+(LID, 78695), (RL, 101), (exit right), (database//Jane//1625260855-716697-88.tts), (2), (0), (1625260856)
+
+
+(LID, 78696), (RL, 102), (make a u-turn), (database//Jane//1625260855-716701-89.tts), (2), (0), (1625260856)
+
+
+(LID, 78697), (RL, 103), (you've arrived at your first stop), (database//Jane//1625260855-716702-90.tts), (2), (0), (1625260856)
+
+
+(LID, 78698), (RL, 104), (continue straight for 5 minutes), (database//Jane//1625260855-716703-91.tts), (2), (0), (1625260856)
+
+
+(LID, 78699), (RL, 105), (continue straight for 20 minutes), (database//Jane//1625260856-93690-108.tts), (2), (0), (1625260856)
+
+
+(LID, 78700), (RL, 106), (continue straight for 25 minutes), (database//Jane//1625260856-93694-109.tts), (2), (0), (1625260856)
+
+
+(LID, 78701), (RL, 107), (continue straight for 30 minutes), (database//Jane//1625260856-93695-110.tts), (2), (0), (1625260856)
+
+
+(LID, 78702), (RL, 108), (continue straight for 35 minutes), (database//Jane//1625260856-93696-111.tts), (2), (0), (1625260856)
+
+
+(LID, 78703), (RL, 109), (continue straight for 40 minutes), (database//Jane//1625260856-104113-112.tts), (2), (0), (1625260856)
+
+
+(LID, 78704), (RL, 110), (continue straight for 45 minutes), (database//Jane//1625260856-104117-113.tts), (2), (0), (1625260856)
+
+
+(LID, 78705), (RL, 111), (continue straight for 50 minutes), (database//Jane//1625260856-104118-114.tts), (2), (0), (1625260856)
+
+
+(LID, 78706), (RL, 112), (continue straight for 1 hour), (database//Jane//1625260856-104119-115.tts), (2), (0), (1625260856)
+
+
+(LID, 78707), (RL, 113), (continue straight for 1 hour and 15 minutes), (database//Jane//1625260856-111678-116.tts), (2), (0), (1625260856)
+
+
+(LID, 78708), (RL, 114), (continue straight for 1 hour and 30 minutes), (database//Jane//1625260856-111682-117.tts), (2), (0), (1625260856)
+
+
+(LID, 78709), (RL, 115), (continue straight for 1 hour and 45 minutes), (database//Jane//1625260856-111683-118.tts), (2), (0), (1625260856)
+
+
+(LID, 78710), (RL, 116), (continue straight for 2 hours), (database//Jane//1625260856-111683-119.tts), (2), (0), (1625260856)
+
+
+(LID, 78711), (RL, 117), (continue straight for 2 hours and 15 minutes), (database//Jane//1625260856-310865-120.tts), (2), (0), (1625260856)
+
+
+(LID, 78712), (RL, 118), (continue straight for 2 hours and 30 minutes), (database//Jane//1625260856-310870-121.tts), (2), (0), (1625260856)
+
+
+(LID, 78713), (RL, 119), (continue straight for 2 hours and 45 minutes), (database//Jane//1625260856-310871-122.tts), (2), (0), (1625260856)
+
+
+(LID, 78714), (RL, 120), (continue straight for 3 hours), (database//Jane//1625260856-310872-123.tts), (2), (0), (1625260856)
+
+
+(LID, 78715), (RL, 121), (continue straight for 3 hours and 15 minutes), (database//Jane//1625260856-311895-124.tts), (2), (0), (1625260856)
+
+
+(LID, 78716), (RL, 122), (continue straight for 3 hours and 30 minutes), (database//Jane//1625260856-311899-125.tts), (2), (0), (1625260856)
+
+
+(LID, 78772), (RL, 123), (continue straight for 3 hours and 45 minutes), (database//Jane//1625260856-311900-126.tts), (2), (0), (1625260856)
+
+
+(LID, 78773), (RL, 124), (continue straight for 4 hours), (database//Jane//1625260856-311901-127.tts), (2), (0), (1625260856)
+
+
+(LID, 78774), (RL, 125), (continue straight for 4 hours and 15 minutes), (database//Jane//1625260856-478575-128.tts), (2), (0), (1625260856)
+
+
+(LID, 78775), (RL, 126), (continue straight for 4 hours and 30 minutes), (database//Jane//1625260856-478579-129.tts), (2), (0), (1625260856)
+
+
+(LID, 78776), (RL, 127), (continue straight for 4 hours and 45 minutes), (database//Jane//1625260856-478579-130.tts), (2), (0), (1625260856)
+
+
+(LID, 78777), (RL, 128), (continue straight for 5 hours), (database//Jane//1625260856-478580-131.tts), (2), (0), (1625260856)
+
+
+(LID, 78778), (RL, 129), (continue straight for 6 hours and 15 minutes), (database//Jane//1625260856-482566-136.tts), (2), (0), (1625260856)
+
+
+(LID, 78779), (RL, 130), (continue straight for 6 hours and 30 minutes), (database//Jane//1625260856-482570-137.tts), (2), (0), (1625260856)
+
+
+(LID, 78780), (RL, 131), (continue straight for 6 hours and 45 minutes), (database//Jane//1625260856-482571-138.tts), (2), (0), (1625260856)
+
+
+(LID, 78781), (RL, 132), (continue straight for 7 hours), (database//Jane//1625260856-482571-139.tts), (2), (0), (1625260856)
+
+
+(LID, 78782), (RL, 133), (continue straight for 7 hours and 15 minutes), (database//Jane//1625260856-495330-140.tts), (2), (0), (1625260856)
+
+
+(LID, 78783), (RL, 134), (continue straight for 7 hours and 30 minutes), (database//Jane//1625260856-495334-141.tts), (2), (0), (1625260856)
+
+
+(LID, 78784), (RL, 135), (continue straight for 7 hours and 45 minutes), (database//Jane//1625260856-495335-142.tts), (2), (0), (1625260856)
+
+
+(LID, 78785), (RL, 136), (continue straight for 8 hours), (database//Jane//1625260856-495336-143.tts), (2), (0), (1625260856)
+
+
+(LID, 78786), (RL, 137), (continue straight for 8 hours and 15 minutes), (database//Jane//1625260856-644084-144.tts), (2), (0), (1625260856)
+
+
+(LID, 78787), (RL, 138), (continue straight for 8 hours and 30 minutes), (database//Jane//1625260856-644088-145.tts), (2), (0), (1625260856)
+
+
+(LID, 78788), (RL, 139), (continue straight for 8 hours and 45 minutes), (database//Jane//1625260856-644089-146.tts), (2), (0), (1625260856)
+
+
+(LID, 78789), (RL, 140), (continue straight for 9 hours), (database//Jane//1625260856-644090-147.tts), (2), (0), (1625260856)
+
+
+(LID, 78790), (RL, 141), (continue straight for 5 hours and 15 minutes), (database//Jane//1625260856-479539-132.tts), (2), (0), (1625260856)
+
+
+(LID, 78791), (RL, 142), (continue straight for 5 hours and 30 minutes), (database//Jane//1625260856-479542-133.tts), (2), (0), (1625260856)
+
+
+(LID, 78792), (RL, 143), (continue straight for 5 hours and 45 minutes), (database//Jane//1625260856-479543-134.tts), (2), (0), (1625260856)
+
+
+(LID, 78793), (RL, 144), (continue straight for 6 hours), (database//Jane//1625260856-479544-135.tts), (2), (0), (1625260856)
+
+
+(LID, 78794), (RL, 145), (continue straight for 9 hours and 15 minutes), (database//Jane//1625260856-646588-148.tts), (2), (0), (1625260857)
+
+
+(LID, 78795), (RL, 146), (continue straight for 9 hours and 30 minutes), (database//Jane//1625260856-646592-149.tts), (2), (0), (1625260857)
+
+
+(LID, 78796), (RL, 147), (continue straight for 9 hours and 45 minutes), (database//Jane//1625260856-646593-150.tts), (2), (0), (1625260857)
+
+
+(LID, 78797), (RL, 148), (continue straight for 10 hours), (database//Jane//1625260856-646593-151.tts), (2), (0), (1625260857)
+
+
+(LID, 78798), (RL, 149), (in three quarters of a mile), (database//Jane//1625260856-902820-160.tts), (2), (0), (1625260857)
+
+
+(LID, 78799), (RL, 150), (in 0.2 miles), (database//Jane//1625260856-902824-161.tts), (2), (0), (1625260857)
+
+
+(LID, 78800), (RL, 151), (in 1000 feet), (database//Jane//1625260856-902825-162.tts), (2), (0), (1625260857)
+
+
+(LID, 78801), (RL, 152), (in 300 yards), (database//Jane//1625260856-902825-163.tts), (2), (0), (1625260857)
+
+
+(LID, 78802), (RL, 153), (in 5 minutes), (database//Jane//1625260855-717871-92.tts), (2), (0), (1625260857)
+
+
+(LID, 78803), (RL, 154), (in less than a minute), (database//Jane//1625260855-717874-93.tts), (2), (0), (1625260857)
+
+
+(LID, 78804), (RL, 155), (in about a minute), (database//Jane//1625260855-717875-94.tts), (2), (0), (1625260857)
+
+
+(LID, 78805), (RL, 156), (in 2 minutes), (database//Jane//1625260855-717876-95.tts), (2), (0), (1625260857)
+
+
+(LID, 78806), (RL, 157), (in 100 feet), (database//Jane//1625260856-659198-152.tts), (2), (0), (1625260857)
+
+
+(LID, 78807), (RL, 158), (in 200 feet), (database//Jane//1625260856-659202-153.tts), (2), (0), (1625260857)
+
+
+(LID, 78808), (RL, 159), (in 300 feet), (database//Jane//1625260856-659203-154.tts), (2), (0), (1625260857)
+
+
+(LID, 78809), (RL, 160), (in 400 feet), (database//Jane//1625260856-659203-155.tts), (2), (0), (1625260857)
+
+
+(LID, 78810), (RL, 161), (in 600 feet), (database//Jane//1625260856-683091-156.tts), (2), (0), (1625260857)
+
+
+(LID, 78811), (RL, 162), (in 700 feet), (database//Jane//1625260856-683108-157.tts), (2), (0), (1625260857)
+
+
+(LID, 78812), (RL, 163), (in 800 feet), (database//Jane//1625260856-683109-158.tts), (2), (0), (1625260857)
+
+
+(LID, 78813), (RL, 164), (in 900 feet), (database//Jane//1625260856-683110-159.tts), (2), (0), (1625260857)
+
+
+(LID, 78814), (RL, 165), (in 1 mile), (database//Jane//1625260874-900259-164.tts), (2), (0), (1625260875)
+
+
+(LID, 78815), (RL, 166), (in 1.1 miles), (database//Jane//1625260874-900264-165.tts), (2), (0), (1625260875)
+
+
+(LID, 78818), (RL, 169), (in 1.4 miles), (database//Jane//1625260874-901333-168.tts), (2), (0), (1625260875)
+
+
+(LID, 78819), (RL, 170), (in 1.5 miles), (database//Jane//1625260874-901338-169.tts), (2), (0), (1625260875)
+
+
+(LID, 78820), (RL, 171), (in 1.6 miles), (database//Jane//1625260874-901339-170.tts), (2), (0), (1625260875)
+
+
+(LID, 78821), (RL, 172), (in 1.7 miles), (database//Jane//1625260874-901340-171.tts), (2), (0), (1625260875)
+
+
+(LID, 78822), (RL, 173), (in 1.8 miles), (database//Jane//1625260875-327768-172.tts), (2), (0), (1625260875)
+
+
+(LID, 78823), (RL, 174), (in 1.9 miles), (database//Jane//1625260875-327779-173.tts), (2), (0), (1625260875)
+
+
+(LID, 78824), (RL, 175), (in 2.4 miles), (database//Jane//1625260894-900692-178.tts), (2), (0), (1625260895)
+
+
+(LID, 78825), (RL, 176), (in 2.5 miles), (database//Jane//1625260894-900695-179.tts), (2), (0), (1625260895)
+
+
+(LID, 78826), (RL, 177), (in 2.6 miles), (database//Jane//1625260894-900696-180.tts), (2), (0), (1625260895)
+
+
+(LID, 78827), (RL, 178), (in 2.7 miles), (database//Jane//1625260894-900697-181.tts), (2), (0), (1625260895)
+
+
+(LID, 78828), (RL, 179), (in 2 miles), (database//Jane//1625260894-899387-174.tts), (2), (0), (1625260895)
+
+
+(LID, 78829), (RL, 180), (in 2.1 miles), (database//Jane//1625260894-899390-175.tts), (2), (0), (1625260895)
+
+
+(LID, 78830), (RL, 181), (in 2.2 miles), (database//Jane//1625260894-899391-176.tts), (2), (0), (1625260895)
+
+
+(LID, 78831), (RL, 182), (in 2.3 miles), (database//Jane//1625260894-899392-177.tts), (2), (0), (1625260895)
+
+
+(LID, 78832), (RL, 183), (in 2.8 miles), (database//Jane//1625260895-302848-182.tts), (2), (0), (1625260895)
+
+
+(LID, 78833), (RL, 184), (in 2.9 miles), (database//Jane//1625260895-302854-183.tts), (2), (0), (1625260895)
+
+
+(LID, 78834), (RL, 185), (in 3 miles), (database//Jane//1625260914-904231-184.tts), (2), (0), (1625260915)
+
+
+(LID, 78835), (RL, 186), (in 3.1 miles), (database//Jane//1625260914-904246-185.tts), (2), (0), (1625260915)
+
+
+(LID, 78836), (RL, 187), (in 3.2 miles), (database//Jane//1625260914-904251-186.tts), (2), (0), (1625260915)
+
+
+
+(LID, 78837), (RL, 188), (in 3.3 miles), (database//Jane//1625260914-904256-187.tts), (2), (0), (1625260915)
+
+
+(LID, 78838), (RL, 189), (in 3.4 miles), (database//Jane//1625260914-906363-188.tts), (2), (0), (1625260915)
+
+
+(LID, 78839), (RL, 190), (in 3.5 miles), (database//Jane//1625260914-906372-189.tts), (2), (0), (1625260915)
+
+
+(LID, 78840), (RL, 191), (in 3.6 miles), (database//Jane//1625260914-906378-190.tts), (2), (0), (1625260915)
+
+
+(LID, 78841), (RL, 192), (in 3.7 miles), (database//Jane//1625260914-906383-191.tts), (2), (0), (1625260915)
+
+
+(LID, 78842), (RL, 193), (in 3.8 miles), (database//Jane//1625260915-45635-192.tts), (2), (0), (1625260915)
+
+
+(LID, 78843), (RL, 194), (in 3.9 miles), (database//Jane//1625260915-45642-193.tts), (2), (0), (1625260915)
+
+
+(LID, 78844), (RL, 195), (keep left), (database//Jane//1625510205-134151-6.tts), (2), (0), (1625510205)
+
+
+(LID, 78845), (RL, 196), (keep right), (database//Jane//1625510205-134154-7.tts), (2), (0), (1625510205)
+
+
+(LID, 78846), (RL, 197), (Average speed check zone ahead), (database//Jane//1625510205-132329-4.tts), (2), (0), (1625510205)
+
+
+(LID, 78847), (RL, 198), (Entering average speed check zone), (database//Jane//1625510205-132332-5.tts), (2), (0), (1625510205)
+
+
+(LID, 78848), (RL, 199), (speed camera ahead), (database//Jane//1625510205-130215-0.tts), (2), (0), (1625510205)
+
+
+(LID, 78849), (RL, 200), (watch out, crash reported ahead), (database//Jane//1625510205-130957-1.tts), (2), (0), (1625510205)
+
+
+(LID, 78850), (RL, 201), (watch out, vehicle on shoulder ahead), (database//Jane//1625510205-130963-2.tts), (2), (0), (1625510205)
+
+
+(LID, 78851), (RL, 202), (red light camera ahead), (database//Jane//1625510205-130964-3.tts), (2), (0), (1625510205)
+
+

@@ -1,0 +1,199 @@
+(LID, 74813), (PID, com.snapchat.android), (DN, core.db), (DP, data/data/com.snapchat.android/databases/core.db), (TN, Preferences), (RL, 571), (_id, 2010), (key, STICKERS~BITMOJI_SEARCH_TAGS_VERSION_SYNCED), (type, 0), (stringValue, 139323518)
+
+(LID, 74814), (PID, com.snapchat.android), (DN, core.db), (DP, data/data/com.snapchat.android/databases/core.db), (TN, Preferences), (RL, 572), (_id, 2011), (key, STICKERS~CONTEXTUAL_STICKER_PACK_URLSYNCED_V1), (type, 0), (stringValue, {"packs":[{"cacheKey":-1216023001,"version":107,"pack":"cameo-pack-TopMiddleTimeInfoStickers"},{"cacheKey":-1599659274,"version":107,"pack":"cameo-pack-IncreasedMiddayStickers"},{"cacheKey":1987453161,"version":222,"pack":"cameo-pack-FeaturedUniversalStickers"},{"cacheKey":797946586,"version":222,"pack":"cameo-pack-MondayStickers"},{"cacheKey":1787043233,"version":-1778897843,"pack":"bitmoji-geopack-en-bitmoji-hometab-preview-hometab_exp2"},{"cacheKey":-1081847327,"version":-1778897843,"pack":"bitmoji-geopack-en-bitmoji-hometab-preview-hometab_exp"}]})
+
+(LID, 74815), (PID, com.snapchat.android), (DN, core.db), (DP, data/data/com.snapchat.android/databases/core.db), (TN, Preferences), (RL, 573), (_id, 2020), (key, IDENTITY~FEED_HEADER_PROMPT_V2_STATE_SYNC_PROTO), (type, 4), (stringValue, CNmpioUGEgoIAxADGL+oioUG), (needSync, 0), (version, 1618078804869)
+
+(LID, 74816), (PID, com.snapchat.android), (DN, core.db), (DP, data/data/com.snapchat.android/databases/core.db), (TN, Preferences), (RL, 574), (_id, 2022), (key, IDENTITY~PHONE_VERIFICATION_SMS_FORMAT), (type, 0), (stringValue, <#> Snapchat Code: {0}. Happy Snapping! qunyt57f5Rf)
+
+(LID, 74817), (PID, com.snapchat.android), (DN, core.db), (DP, data/data/com.snapchat.android/databases/core.db), (TN, Preferences), (RL, 576), (_id, 2024), (key, IDENTITY~INAPP_COUNTRY_CODE), (type, 0), (stringValue, US)
+
+(LID, 74818), (PID, com.snapchat.android), (DN, core.db), (DP, data/data/com.snapchat.android/databases/core.db), (TN, Preferences), (RL, 577), (_id, 2025), (key, IDENTITY~SUCCESSFULLY_SYNCED_CONTACTS_DURING_REG), (type, 0), (booleanValue, 1)
+
+(LID, 74819), (PID, com.snapchat.android), (DN, core.db), (DP, data/data/com.snapchat.android/databases/core.db), (TN, SnapUserStore), (RL, 3), (_id, 3), (groupKey, CoreData 9002a6f8-54f8-4540-bc16-53a6b37f0688), (itemKey, CjAKCENvcmVEYXRhEiQ5MDAyYTZmOC01NGY4LTQ1NDAtYmMxNi01M2E2YjM3ZjA2ODgaEQoEcHJvcBIJY29yZV9kYXRh), (textVal, 1990-01-31)
+
+(LID, 74820), (PID, com.snapchat.android), (DN, feature), (DP, data/data/com.snapchat.android/databases/feature), (TN, LensesToSuggest), (RL, 19), (tag, good morning), (lensId, 42151550932), (lensIconContentUri, content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FyVFXd3xhUxTURFvPjVDDQ%3Fbo%3DEhgaABoAMgF9OgEEQgYI4bbC8AVIAlASYAE%253D%26uc%3D18)
+
+(LID, 74821), (PID, com.snapchat.android), (DN, feature), (DP, data/data/com.snapchat.android/databases/feature), (TN, LensesToSuggest), (RL, 21), (tag, good night), (lensId, 29929687239), (lensIconContentUri, content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FelDuwviDEd2BjOrdrzmYU%3Fbo%3DEhgaABoAMgF9OgEEQgYIy-3J8AVIAlASYAE%253D%26uc%3D18)
+
+(LID, 12886), (PID, com.google.android.gms), (DN, fido_embedded_security_key.db), (DP, data/data/com.google.android.gms/databases/fido_embedded_security_key.db), (TN, registered_credentials), (RL, 1), (id, 2.qnx0yatQwXMPtN3U0ACorl32yFNKVib6+wka+yP15eU=.google.com), (registration_time, 2021-04-03T21:44:31.319), (counter, 0), (key_data, owFYijCBhwIBADATBgcqhkjOPQIBBggqhkjOPQMBBwRtMGsCAQEEIAtr/GmyqTmb556Ge4Ue9msGT7HrihwQ4P8v4l7p+MkcoUQDQgAEkgMT3c/G5rKCzH63GB6xj/aDtGoJ9oW1VvNSbel+TXgMz81qJwHqtFbhQgi8TwME3qJnqPyDiYOO8U+FaKwldAJYWzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJIDE93Pxuaygsx+txgesY/2g7RqCfaFtVbzUm3pfk14DM/NaicB6rRW4UIIvE8DBN6iZ6j8g4mDjvFPhWisJXQDo2Jsa1ggNv2FxvVEac0ju5xqejE878gonGiM7qX/2xQK25Pjd2JjaXJrWCARLCbx+2KOCq1K2fWWt4eupGRlc38Oq53+jAR0by4ZEmd2ZXJzaW9uAQ==)
+
+(LID, 12719), (PID, com.google.android.apps.photos), (DN, disk_cache), (DP, data/user/0/com.google.android.apps.photos/databases/disk_cache), (TN, journal), (RL, 392), (key, 66005d14f09d7a6f95e88a4112b05e882855a4a4078bc62d0664c36cf8434295), (last_modified_time, 1626807872568), (pending_delete, 0), (size, 1995)
+
+(LID, 12637), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 906), (name, Rijksoverheid), (displayName, Rijksoverheid), (prevalence, 0.0103)
+
+(LID, 12638), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 16), (domain, acint.net), (defaultAction, IGNORE), (ownerName, Poshibalov Evgeny Vasilyevich), (categories, []), (rules, [{"rule":"acint\\.net\\/aci\\.js"}])
+
+(LID, 12639), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 21), (domain, ad-stir.com), (defaultAction, IGNORE), (ownerName, Yozo, Kaneko), (categories, []), (rules, [{"rule":"ad-stir\\.com\\/js\\/adstir\\.js"}])
+
+(LID, 12640), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 34), (domain, adhese.com), (defaultAction, IGNORE), (ownerName, Doggybites bvba), (categories, []), (rules, [{"rule":"adhese\\.com\\/cssu\\/pebblemedia\\.js"},{"rule":"adhese\\.com\\/tag\\/tag-v3\\.js"},{"rule":"adhese\\.com\\/tag\\/tag\\.js"}])
+
+(LID, 12641), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 284), (domain, dimelochat.com), (defaultAction, IGNORE), (ownerName, dimelo sas), (categories, []), (rules, [{"rule":"dimelochat\\.com\\/assets\\/messaging-6430d26d3a4d79938d93e88fdc449af5b6dbdfaf2947c0f8cc6656aa4a934299\\.js"},{"rule":"dimelochat\\.com\\/assets\\/chat-c492808f7f0ed0c9095c4390057ee37ae875693334df728952d7859702163bb6\\.js"}])
+
+(LID, 12642), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 453), (domain, justanswer.com), (defaultAction, IGNORE), (ownerName, JustAnswer LLC), (categories, []), (rules, [{"rule":"justanswer\\.com\\/js\\/ja-gadget-virtual-assistant-config,ja-gadget-virtual-assistant-hybrid"},{"rule":"justanswer\\.com\\/js\\/ja-gadget-virtual-assistant-config,ja-gadget-virtual-assistant-subtle"},{"rule":"justanswer\\.com\\/js\\/ja-gadget-virtual-assistant-config,ja-gadget-virtual-assistant-inline"},{"rule":"justanswer\\.com\\/v3\\/ja-gadget-virtual-assistant@latest\\.js"}])
+
+(LID, 12643), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 540), (domain, mybestpro.com), (defaultAction, IGNORE), (ownerName, WENGO SAS), (categories, []), (rules, [{"rule":"mybestpro\\.com\\/general\\.js"}])
+
+(LID, 12644), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 570), (domain, oneall.com), (defaultAction, IGNORE), (ownerName, ONEALL SARL), (categories, []), (rules, [{"rule":"oneall\\.com\\/socialize\\/sso\\/library\\.js"}])
+
+(LID, 12645), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 716), (domain, shopconvert.com.br), (defaultAction, IGNORE), (ownerName, Isaac Ezra), (categories, []), (rules, [{"rule":"shopconvert\\.com\\.br\\/js\\/cm\\.js"}])
+
+(LID, 12646), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 718), (domain, shoptarget.com.br), (defaultAction, IGNORE), (ownerName, Isaac Ezra), (categories, []), (rules, [{"rule":"shoptarget\\.com\\.br\\/js\\/reengage_legacy\\.js"},{"rule":"shoptarget\\.com\\.br\\/js\\/collect_sbk\\.js"}])
+
+(LID, 12647), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 762), (domain, styria.hr), (defaultAction, IGNORE), (ownerName, Styria medijski servisi d.o.o.), (categories, []), (rules, [{"rule":"styria\\.hr\\/st\\.js"}])
+
+(LID, 12648), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 867), (domain, worldoftulo.com), (defaultAction, IGNORE), (ownerName, Adeprimo AB), (categories, []), (rules, [{"rule":"worldoftulo\\.com\\/tracker\\/1\\.2\\/event-tracker\\.min\\.js"},{"rule":"worldoftulo\\.com\\/tracker\\/1\\.3\\.2\\/event-tracker\\.min\\.js"}])
+
+(LID, 12650), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_tracker), (RL, 916), (domain, framasoft.org), (defaultAction, IGNORE), (ownerName, Alexis Kauffmann), (categories, []), (rules, [{"rule":"framasoft\\.org\\/nav\\/nav\\.js"}])
+
+(LID, 12613), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 582), (name, Ano Nymous), (displayName, Ano Nymous), (prevalence, 0.0459)
+
+(LID, 12614), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 604), (name, Ka Mo Lau), (displayName, Ka Mo Lau), (prevalence, 0.048)
+
+(LID, 12615), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 627), (name, Ravi Trivedi), (displayName, Ravi Trivedi), (prevalence, 0.14)
+
+(LID, 12616), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 629), (name, Shashank Kumar), (displayName, Shashank Kumar), (prevalence, 0.0871)
+
+(LID, 12617), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 666), (name, Janrain), (displayName, Janrain), (prevalence, 0.0541)
+
+(LID, 12618), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 672), (name, Sajari), (displayName, Sajari), (prevalence, 0.0233)
+
+(LID, 12619), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 674), (name, Benhauer sp. z o.o.), (displayName, Benhauer), (prevalence, 0.0473)
+
+(LID, 12620), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 698), (name, AdButler), (displayName, AdButler), (prevalence, 0.114)
+
+(LID, 12621), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 705), (name, Isaac Ezra), (displayName, Isaac Ezra), (prevalence, 0.0143)
+
+(LID, 12622), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 713), (name, Jake Brumby), (displayName, Jake Brumby), (prevalence, 0.0294)
+
+(LID, 12623), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 730), (name, Sooqr), (displayName, Sooqr), (prevalence, 0.013)
+
+(LID, 12624), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 746), (name, ARNOLDO MONDADORI EDITORE SpA), (displayName, ARNOLDO MONDADORI EDITORE), (prevalence, 0.0247)
+
+(LID, 12625), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 779), (name, Throtle), (displayName, Throtle), (prevalence, 1.81)
+
+(LID, 12626), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 792), (name, Telaria), (displayName, Telaria), (prevalence, 3.56)
+
+(LID, 12627), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 817), (name, Usabilla B.V.), (displayName, Usabilla), (prevalence, 0.255)
+
+(LID, 12628), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 830), (name, Vidyard), (displayName, Vidyard), (prevalence, 0.0576)
+
+(LID, 12629), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 843), (name, Weborama), (displayName, Weborama), (prevalence, 0.524)
+
+(LID, 12630), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 852), (name, Benjamin Cahen), (displayName, Benjamin Cahen), (prevalence, 0.198)
+
+(LID, 12631), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 861), (name, Wirtualna Polska), (displayName, Wirtualna Polska), (prevalence, 0.0692)
+
+(LID, 12632), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 865), (name, Kenshoo TLD), (displayName, Kenshoo TLD), (prevalence, 0.435)
+
+(LID, 12633), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 868), (name, WGCZ a.s.), (displayName, WGCZ), (prevalence, 0.234)
+
+(LID, 12634), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 869), (name, Ysance), (displayName, Ysance), (prevalence, 0.0206)
+
+(LID, 12635), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 893), (name, Guuru), (displayName, Guuru), (prevalence, 0.0062)
+
+(LID, 12636), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 899), (name, Alexis Kauffmann), (displayName, Alexis Kauffmann), (prevalence, 0.0302)
+
+(LID, 12586), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 21), (name, Poshibalov Evgeny Vasilyevich), (displayName, Poshibalov Evgeny Vasilyevich), (prevalence, 0.0171)
+
+(LID, 12587), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 27), (name, Yozo, Kaneko), (displayName, Yozo, Kaneko), (prevalence, 0.227)
+
+(LID, 12588), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 41), (name, Doggybites bvba), (displayName, Doggybites bvba), (prevalence, 0.0336)
+
+(LID, 12589), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 77), (name, Adverticum Zrt.), (displayName, Adverticum Zrt), (prevalence, 0.0281)
+
+(LID, 12590), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 127), (name, Avanser), (displayName, Avanser), (prevalence, 0.0082)
+
+(LID, 12591), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 132), (name, Azameo), (displayName, Azameo), (prevalence, 0.0014)
+
+(LID, 12592), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 160), (name, Blue Billywig bv), (displayName, Blue Billywig), (prevalence, 0.0254)
+
+(LID, 12593), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 170), (name, BloomReach), (displayName, BloomReach), (prevalence, 0.174)
+
+(LID, 12594), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 202), (name, Roger Wilco LLC), (displayName, Roger Wilco), (prevalence, 0.0384)
+
+(LID, 12595), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 208), (name, Clickagy), (displayName, Clickagy), (prevalence, 2.55)
+
+(LID, 12596), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 245), (name, gskinner), (displayName, gskinner), (prevalence, 0.78)
+
+(LID, 12597), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 275), (name, dimelo sas), (displayName, dimelo), (prevalence, 0.0096)
+
+(LID, 12598), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 291), (name, Teroa S.A.), (displayName, Teroa), (prevalence, 0.509)
+
+(LID, 12600), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 345), (name, Gemius S.A.), (displayName, Gemius), (prevalence, 1.65)
+
+(LID, 12601), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 400), (name, EDITORA GLOBO S/A.), (displayName, EDITORA GLOBO), (prevalence, 0.0192)
+
+(LID, 12602), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 408), (name, Michael Browitt), (displayName, Michael Browitt), (prevalence, 0.0452)
+
+(LID, 12603), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 425), (name, Ividence), (displayName, Ividence), (prevalence, 0.0342)
+
+(LID, 12604), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 438), (name, Kameleoon), (displayName, Kameleoon), (prevalence, 0.108)
+
+(LID, 12605), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 442), (name, Keywee), (displayName, Keywee), (prevalence, 0.157)
+
+(LID, 12606), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 445), (name, Klaviyo), (displayName, Klaviyo), (prevalence, 1.2)
+
+(LID, 12607), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 447), (name, Kochava), (displayName, Kochava), (prevalence, 0.0198)
+
+(LID, 12608), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 535), (name, Navegg S.A.), (displayName, Navegg), (prevalence, 0.238)
+
+(LID, 12609), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 547), (name, Namogoo), (displayName, Namogoo), (prevalence, 0.0233)
+
+(LID, 12610), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 550), (name, Ziff Davis LLC), (displayName, Ziff Davis), (prevalence, 0.0801)
+
+(LID, 12611), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 556), (name, Olark), (displayName, Olark), (prevalence, 0.21)
+
+(LID, 12612), (PID, com.duckduckgo.mobile.android), (DN, app.db), (DP, data/user/0/com.duckduckgo.mobile.android/databases/app.db), (TN, tds_entity), (RL, 563), (name, ONEALL SARL), (displayName, ONEALL), (prevalence, 0.037)
+
+(LID, 13333), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 552), (_id, 610), (text, pieterwuille), (type, 1), (ref_id, 21519885), (weight, 52278)
+
+(LID, 13334), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 556), (_id, 614), (text, karissa kindy), (type, 1), (ref_id, 24463119), (weight, 52278)
+
+(LID, 13335), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 557), (_id, 615), (text, karissa), (type, 1), (ref_id, 24463119), (weight, 52278)
+
+(LID, 13336), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 575), (_id, 633), (text, phill moore), (type, 1), (ref_id, 25816637), (weight, 52278)
+
+(LID, 13337), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 578), (_id, 636), (text, nathan), (type, 1), (ref_id, 27921338), (weight, 52278)
+
+(LID, 13338), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 579), (_id, 637), (text, @nathanryan), (type, 1), (ref_id, 27921338), (weight, 52278)
+
+(LID, 13339), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 580), (_id, 638), (text, nathanryan), (type, 1), (ref_id, 27921338), (weight, 52278)
+
+(LID, 13340), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 581), (_id, 639), (text, brianmoran), (type, 1), (ref_id, 29574511), (weight, 52278)
+
+(LID, 13341), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 582), (_id, 640), (text, brian moran), (type, 1), (ref_id, 29574511), (weight, 52278)
+
+(LID, 13342), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 584), (_id, 642), (text, moran), (type, 1), (ref_id, 29574511), (weight, 52278)
+
+(LID, 13343), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 585), (_id, 643), (text, brian), (type, 1), (ref_id, 29574511), (weight, 52278)
+
+(LID, 13344), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 586), (_id, 644), (text, brianjmoran), (type, 1), (ref_id, 29574511), (weight, 52278)
+
+(LID, 13345), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 587), (_id, 645), (text, adam), (type, 1), (ref_id, 31536491), (weight, 52278)
+
+(LID, 13346), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 591), (_id, 649), (text, adamorth), (type, 1), (ref_id, 31536491), (weight, 52278)
+
+(LID, 13347), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 592), (_id, 650), (text, adam orth), (type, 1), (ref_id, 31536491), (weight, 52278)
+
+(LID, 13348), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 595), (_id, 653), (text, christine barnum), (type, 1), (ref_id, 34685057), (weight, 52278)
+
+(LID, 13349), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 597), (_id, 655), (text, christine), (type, 1), (ref_id, 34685057), (weight, 52278)
+
+(LID, 13350), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 598), (_id, 656), (text, lina), (type, 1), (ref_id, 36683532), (weight, 52278)
+
+(LID, 13351), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 603), (_id, 661), (text, candieðŸ‘½), (type, 1), (ref_id, 69990286), (weight, 52278)
+
+(LID, 13352), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 606), (_id, 664), (text, candie), (type, 1), (ref_id, 69990286), (weight, 52278)
+
+(LID, 13353), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 608), (_id, 666), (text, candie ðŸ‘½), (type, 1), (ref_id, 69990286), (weight, 52278)
+
+(LID, 13354), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 616), (_id, 674), (text, hiromichi), (type, 1), (ref_id, 72862939), (weight, 52278)
+
+(LID, 13355), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 617), (_id, 675), (text, hiromichi mizuno), (type, 1), (ref_id, 72862939), (weight, 52278)
+
+(LID, 13356), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 619), (_id, 677), (text, hiromizuno), (type, 1), (ref_id, 72862939), (weight, 52278)
+
+(LID, 13357), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 620), (_id, 678), (text, hiro mizuno), (type, 1), (ref_id, 72862939), (weight, 52278)
+
+(LID, 13358), (PID, com.twitter.android), (DN, 1378525099184291843-61.db), (DP, data/data/com.twitter.android/databases/1378525099184291843-61.db), (TN, tokens), (RL, 628), (_id, 686), (text, jake), (type, 1), (ref_id, 77346069), (weight, 52278)
