@@ -1,0 +1,400 @@
+
+(LID, 4001), (RL, 327), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then turn left on Canal Rd), (path, database//Jane//1624905763-863990-10.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905766)
+
+(LID, 4002), (RL, 328), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then use either lane to keep right), (path, database//Jane//1624905763-866363-15.tts), (storage_type, 2), (text_type, 0), (update_time, 1624905766)
+
+(LID, 4003), (RL, 329), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, keep right to Ronald Reagan Pkwy / to Ameriplex Pkwy), (path, database//Jane//1624905763-866364-16.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905766)
+
+(LID, 4004), (RL, 330), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right four lanes to keep right), (path, database//Jane//1624905763-866365-17.tts), (storage_type, 2), (text_type, 0), (update_time, 1624905766)
+
+(LID, 4005), (RL, 331), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right four lanes to keep right to Ronald Reagan Pkwy / to Ameriplex Pkwy), (path, database//Jane//1624905763-866365-18.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905766)
+
+(LID, 4006), (RL, 332), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the left three lanes to keep left), (path, database//Jane//1624905763-865870-11.tts), (storage_type, 2), (text_type, 0), (update_time, 1624905766)
+
+(LID, 4007), (RL, 333), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right two lanes to exit right), (path, database//Jane//1624905763-865871-12.tts), (storage_type, 2), (text_type, 0), (update_time, 1624905766)
+
+(LID, 4008), (RL, 334), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right two lanes to exit), (path, database//Jane//1624905763-865871-13.tts), (storage_type, 2), (text_type, 0), (update_time, 1624905766)
+
+(LID, 4009), (RL, 335), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use either lane to keep right), (path, database//Jane//1624905763-865872-14.tts), (storage_type, 2), (text_type, 0), (update_time, 1624905766)
+
+(LID, 4010), (RL, 336), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, 7800 Col. H. Weir Cook Memorial Dr), (path, database//Jane//1624905763-813154-0.tts), (storage_type, 2), (text_type, 2), (update_time, 1624905766)
+
+(LID, 4011), (RL, 337), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, Indianapolis International Airport (IND), (path, database//Jane//1624905763-813662-1.tts), (storage_type, 2), (text_type, 0), (update_time, 1624905766)
+
+(LID, 4012), (RL, 338), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, Let's take I-65 S), (path, database//Jane//1624905763-813663-2.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905766)
+
+(LID, 4013), (RL, 339), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then use the right two lanes to keep right), (path, database//Jane//1624905763-867248-23.tts), (storage_type, 2), (text_type, 0), (update_time, 1624905766)
+
+(LID, 4014), (RL, 340), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then use the right two lanes to keep right to Indianapolis Int'l Airport), (path, database//Jane//1624905763-867249-24.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905766)
+
+(LID, 4015), (RL, 341), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, keep left to Arrivals / Baggage Claim), (path, database//Jane//1624905763-867249-25.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905766)
+
+(LID, 4016), (RL, 342), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, you'll arrive at Indianapolis International Airport (IND), (path, database//Jane//1624905763-867250-26.tts), (storage_type, 2), (text_type, 3), (update_time, 1624905766)
+
+(LID, 4017), (RL, 343), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn left on N 9th St), (path, database//Jane//1624905766-529600-28.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905766)
+
+(LID, 4018), (RL, 344), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn right to I-65 S / Indianapolis), (path, database//Jane//1624905766-522295-27.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905766)
+
+(LID, 4019), (RL, 345), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn left on Schuyler Ave), (path, database//Jane//1624905766-577239-31.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905767)
+
+(LID, 4020), (RL, 346), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn left on Duncan Rd), (path, database//Jane//1624905766-540098-29.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905767)
+
+(LID, 4021), (RL, 347), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn right on N Sagamore Pkwy), (path, database//Jane//1624905766-540098-30.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905767)
+
+(LID, 4022), (RL, 348), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, keep left to I-65 S / to I-465 S), (path, database//Jane//1624905766-694720-32.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905767)
+
+(LID, 4023), (RL, 349), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the left three lanes to keep left to I-65 S / to I-465 S), (path, database//Jane//1624905766-694722-33.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905767)
+
+(LID, 4024), (RL, 350), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, exit to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport), (path, database//Jane//1624905767-624683-42.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905769)
+
+(LID, 4025), (RL, 351), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, exit right to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport), (path, database//Jane//1624905767-624684-43.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905769)
+
+(LID, 4026), (RL, 352), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right two lanes to exit right to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport), (path, database//Jane//1624905767-624685-44.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905769)
+
+(LID, 4027), (RL, 353), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right two lanes to exit to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport), (path, database//Jane//1624905767-624685-45.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905769)
+
+(LID, 4028), (RL, 354), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, exit to Exit 123: I-465 S / Indianapolis Int'l Airport), (path, database//Jane//1624905767-610181-38.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905770)
+
+(LID, 4029), (RL, 355), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, exit right to Exit 123: I-465 S / Indianapolis Int'l Airport), (path, database//Jane//1624905767-610183-39.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905770)
+
+(LID, 4030), (RL, 356), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right two lanes to exit right to Exit 123: I-465 S / Indianapolis Int'l Airport), (path, database//Jane//1624905767-610184-40.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905770)
+
+(LID, 4031), (RL, 357), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right two lanes to exit to Exit 123: I-465 S / Indianapolis Int'l Airport), (path, database//Jane//1624905767-610184-41.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905770)
+
+(LID, 4032), (RL, 358), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, keep right to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport), (path, database//Jane//1624905767-551699-34.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905770)
+
+(LID, 4033), (RL, 359), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then keep right to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport), (path, database//Jane//1624905767-551703-35.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905770)
+
+(LID, 4034), (RL, 360), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use either lane to keep right to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport), (path, database//Jane//1624905767-551705-36.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905770)
+
+(LID, 4035), (RL, 361), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then use either lane to keep right to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport), (path, database//Jane//1624905767-551706-37.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905770)
+
+(LID, 4036), (RL, 362), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, Let's take US-231 S, and US-52 E; I-65 S), (path, database//Jane//1624905787-992864-46.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905790)
+
+(LID, 4037), (RL, 363), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, keep right to Northwestern Ave), (path, database//Jane//1624905788-15669-47.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905790)
+
+(LID, 4038), (RL, 364), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then keep right to Northwestern Ave), (path, database//Jane//1624905788-15672-48.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905790)
+
+(LID, 4039), (RL, 365), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn left on W State St), (path, database//Jane//1624905788-15672-49.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905790)
+
+(LID, 4040), (RL, 366), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn right on S River Rd), (path, database//Jane//1624905788-15673-50.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905790)
+
+(LID, 4041), (RL, 367), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use either lane to continue straight), (path, database//Jane//1624905788-22052-55.tts), (storage_type, 2), (text_type, 0), (update_time, 1624905790)
+
+(LID, 4042), (RL, 368), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use either lane to continue straight to I-65 S), (path, database//Jane//1624905788-22053-56.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905790)
+
+(LID, 4043), (RL, 369), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, you'll arrive at Indianapolis International Airport (IND), (path, database//Jane//1624905788-22054-57.tts), (storage_type, 2), (text_type, 3), (update_time, 1624905790)
+
+(LID, 4044), (RL, 370), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn right on US-52 E), (path, database//Jane//1624905789-571698-58.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905790)
+
+(LID, 4045), (RL, 371), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn left on IN-28), (path, database//Jane//1624905789-853395-59.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905790)
+
+(LID, 4046), (RL, 372), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, at the roundabout, continue straight on S River Rd), (path, database//Jane//1624905788-17567-51.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905790)
+
+(LID, 4047), (RL, 373), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, continue straight on S River Rd), (path, database//Jane//1624905788-17568-52.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905790)
+
+(LID, 4048), (RL, 374), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn left on US-231 S), (path, database//Jane//1624905788-17569-53.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905790)
+
+(LID, 4049), (RL, 375), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, continue straight to I-65 S), (path, database//Jane//1624905788-17570-54.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905790)
+
+(LID, 4050), (RL, 376), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn right on W Stadium Ave), (path, database//Jane//1624905961-94473-60.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905961)
+
+(LID, 4051), (RL, 377), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn right on Robinson St), (path, database//Jane//1624905961-94477-61.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905961)
+
+(LID, 4052), (RL, 378), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn right on N River Rd), (path, database//Jane//1624905961-94478-62.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905961)
+
+(LID, 4053), (RL, 379), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn left on Williams St), (path, database//Jane//1624906033-486149-63.tts), (storage_type, 2), (text_type, 1), (update_time, 1624906033)
+
+(LID, 4054), (RL, 380), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, at the roundabout take the first exit on S River Rd), (path, database//Jane//1624906033-486151-64.tts), (storage_type, 2), (text_type, 1), (update_time, 1624906033)
+
+(LID, 4055), (RL, 381), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, at the roundabout take the first exit), (path, database//Jane//1624906033-486152-65.tts), (storage_type, 2), (text_type, 0), (update_time, 1624906033)
+
+(LID, 4056), (RL, 382), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, take the first exit on S River Rd), (path, database//Jane//1624906033-486152-66.tts), (storage_type, 2), (text_type, 1), (update_time, 1624906033)
+
+(LID, 4057), (RL, 383), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn left on Vine St), (path, database//Jane//1624906336-368027-4.tts), (storage_type, 2), (text_type, 1), (update_time, 1624906336)
+
+(LID, 4058), (RL, 384), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn right on Wiggins St), (path, database//Jane//1624906336-368028-5.tts), (storage_type, 2), (text_type, 1), (update_time, 1624906336)
+
+(LID, 4059), (RL, 385), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then turn right on Wiggins St), (path, database//Jane//1624906336-368028-6.tts), (storage_type, 2), (text_type, 1), (update_time, 1624906336)
+
+(LID, 4060), (RL, 386), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn right on N Grant St), (path, database//Jane//1624906336-363111-0.tts), (storage_type, 2), (text_type, 1), (update_time, 1624906336)
+
+(LID, 4061), (RL, 387), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then turn right on N Grant St), (path, database//Jane//1624906336-363433-1.tts), (storage_type, 2), (text_type, 1), (update_time, 1624906336)
+
+(LID, 4062), (RL, 388), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn right on North St), (path, database//Jane//1624906336-363434-2.tts), (storage_type, 2), (text_type, 1), (update_time, 1624906336)
+
+(LID, 4063), (RL, 389), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then turn right on North St), (path, database//Jane//1624906336-363434-3.tts), (storage_type, 2), (text_type, 1), (update_time, 1624906336)
+
+(LID, 4064), (RL, 390), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then at the roundabout, continue straight on S River Rd), (path, database//Jane//1624906362-927482-11.tts), (storage_type, 2), (text_type, 1), (update_time, 1624906363)
+
+(LID, 4065), (RL, 391), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn left on N Grant St), (path, database//Jane//1624906362-924908-7.tts), (storage_type, 2), (text_type, 1), (update_time, 1624906363)
+
+(LID, 4066), (RL, 392), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then turn left on N Grant St), (path, database//Jane//1624906362-924910-8.tts), (storage_type, 2), (text_type, 1), (update_time, 1624906363)
+
+(LID, 4067), (RL, 393), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn left on W Wood St), (path, database//Jane//1624906362-924910-9.tts), (storage_type, 2), (text_type, 1), (update_time, 1624906363)
+
+(LID, 4068), (RL, 394), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then at the roundabout, continue straight), (path, database//Jane//1624906362-924910-10.tts), (storage_type, 2), (text_type, 0), (update_time, 1624906363)
+
+(LID, 4069), (RL, 395), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn right to I-74 E / Indianapolis), (path, database//Jane//1624906363-393548-14.tts), (storage_type, 2), (text_type, 1), (update_time, 1624906363)
+
+(LID, 4070), (RL, 396), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, keep left to I-465 S / I-74 E), (path, database//Jane//1624906363-354477-12.tts), (storage_type, 2), (text_type, 1), (update_time, 1624906363)
+
+(LID, 4071), (RL, 397), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the left two lanes to keep left to I-465 S / I-74 E), (path, database//Jane//1624906363-354480-13.tts), (storage_type, 2), (text_type, 1), (update_time, 1624906363)
+
+(LID, 4072), (RL, 398), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, continue straight for 30 minutes to I-74 E / Indianapolis), (path, database//Jane//1624906746-197599-15.tts), (storage_type, 2), (text_type, 1), (update_time, 1624906746)
+
+(LID, 4073), (RL, 399), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, continue straight for 30 minutes to I-465 S / I-74 E), (path, database//Jane//1624908275-224285-16.tts), (storage_type, 2), (text_type, 1), (update_time, 1624908275)
+
+(LID, 4074), (RL, 400), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 5.8 miles), (path, database//Jane//1624909796-207044-17.tts), (storage_type, 2), (text_type, 0), (update_time, 1624909796)
+
+(LID, 4075), (RL, 401), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 5.7 miles), (path, database//Jane//1624909796-207047-18.tts), (storage_type, 2), (text_type, 0), (update_time, 1624909796)
+
+(LID, 4076), (RL, 402), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 5.6 miles), (path, database//Jane//1624909796-207049-19.tts), (storage_type, 2), (text_type, 0), (update_time, 1624909796)
+
+(LID, 4077), (RL, 403), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 5.5 miles), (path, database//Jane//1624909796-207051-20.tts), (storage_type, 2), (text_type, 0), (update_time, 1624909796)
+
+(LID, 4078), (RL, 404), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, continue straight for 10 minutes to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport), (path, database//Jane//1624910058-199221-21.tts), (storage_type, 2), (text_type, 1), (update_time, 1624910058)
+
+(LID, 4079), (RL, 405), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, Estimated time in traffic, 8 minutes), (path, database//Jane//1624910126-257089-22.tts), (storage_type, 2), (text_type, 0), (update_time, 1624910126)
+
+(LID, 4080), (RL, 406), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn left to Indianapolis Int'l Airport), (path, database//Jane//1624910919-945422-31.tts), (storage_type, 2), (text_type, 1), (update_time, 1624910921)
+
+(LID, 4081), (RL, 407), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then keep left to Indianapolis Int'l Airport), (path, database//Jane//1624910919-945423-32.tts), (storage_type, 2), (text_type, 1), (update_time, 1624910921)
+
+(LID, 4082), (RL, 408), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn left on Bridgeport Rd), (path, database//Jane//1624910919-943899-27.tts), (storage_type, 2), (text_type, 1), (update_time, 1624910921)
+
+(LID, 4083), (RL, 409), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn right on Stafford Rd), (path, database//Jane//1624910919-943900-28.tts), (storage_type, 2), (text_type, 1), (update_time, 1624910921)
+
+(LID, 4084), (RL, 410), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn left on Ronald Reagan Pkwy), (path, database//Jane//1624910919-943901-29.tts), (storage_type, 2), (text_type, 1), (update_time, 1624910921)
+
+(LID, 4085), (RL, 411), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, keep left to Indianapolis Int'l Airport), (path, database//Jane//1624910919-943901-30.tts), (storage_type, 2), (text_type, 1), (update_time, 1624910921)
+
+(LID, 4086), (RL, 412), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, keep right to S Perimeter Rd / S Service Rd), (path, database//Jane//1624910919-942974-23.tts), (storage_type, 2), (text_type, 1), (update_time, 1624910921)
+
+(LID, 4087), (RL, 413), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then keep right to S Perimeter Rd / S Service Rd), (path, database//Jane//1624910919-942975-24.tts), (storage_type, 2), (text_type, 1), (update_time, 1624910921)
+
+(LID, 4088), (RL, 414), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn right on W Perimeter Rd), (path, database//Jane//1624910919-942976-25.tts), (storage_type, 2), (text_type, 1), (update_time, 1624910921)
+
+(LID, 4089), (RL, 415), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then turn right on W Perimeter Rd), (path, database//Jane//1624910919-942976-26.tts), (storage_type, 2), (text_type, 1), (update_time, 1624910921)
+
+(LID, 4090), (RL, 416), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn left on Terminal), (path, database//Jane//1624910933-450696-33.tts), (storage_type, 2), (text_type, 1), (update_time, 1624910933)
+
+(LID, 4091), (RL, 417), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then turn left on Terminal), (path, database//Jane//1624910933-450698-34.tts), (storage_type, 2), (text_type, 1), (update_time, 1624910933)
+
+(LID, 4092), (RL, 418), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn left to Terminal), (path, database//Jane//1624910933-450698-35.tts), (storage_type, 2), (text_type, 1), (update_time, 1624910933)
+
+(LID, 4093), (RL, 419), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then turn left to Terminal), (path, database//Jane//1624910933-450699-36.tts), (storage_type, 2), (text_type, 1), (update_time, 1624910933)
+
+(LID, 4094), (RL, 420), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, Exiting average speed enforcement zone), (path, database//Jane//1625141632-395089-0.tts), (storage_type, 2), (text_type, 0), (update_time, 1625141632)
+
+(LID, 4095), (RL, 421), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, exit right to Exit 331A: I-476 S / Chester), (path, database//Jane//1625141636-897733-6.tts), (storage_type, 2), (text_type, 1), (update_time, 1625141637)
+
+(LID, 4096), (RL, 422), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right lane to exit right to Exit 331A: I-476 S / Chester), (path, database//Jane//1625141636-897734-7.tts), (storage_type, 2), (text_type, 1), (update_time, 1625141637)
+
+(LID, 4097), (RL, 423), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right lane to exit to Exit 331A: I-476 S / Chester), (path, database//Jane//1625141636-897734-8.tts), (storage_type, 2), (text_type, 1), (update_time, 1625141637)
+
+(LID, 4098), (RL, 424), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn left to US-202 N), (path, database//Jane//1625141636-896684-2.tts), (storage_type, 2), (text_type, 1), (update_time, 1625141637)
+
+(LID, 4099), (RL, 425), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the left two lanes to turn left), (path, database//Jane//1625141636-896686-3.tts), (storage_type, 2), (text_type, 0), (update_time, 1625141637)
+
+(LID, 4100), (RL, 426), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the left two lanes to turn left to US-202 N), (path, database//Jane//1625141636-896686-4.tts), (storage_type, 2), (text_type, 1), (update_time, 1625141637)
+
+(LID, 4101), (RL, 427), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, exit to Exit 331A: I-476 S / Chester), (path, database//Jane//1625141636-896687-5.tts), (storage_type, 2), (text_type, 1), (update_time, 1625141637)
+
+(LID, 4102), (RL, 428), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, keep right to I-76 E / Philadelphia / Devon Park Dr), (path, database//Jane//1625141637-39362-9.tts), (storage_type, 2), (text_type, 1), (update_time, 1625141637)
+
+(LID, 4103), (RL, 429), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right two lanes to keep right to I-76 E / Philadelphia / Devon Park Dr), (path, database//Jane//1625141637-39367-10.tts), (storage_type, 2), (text_type, 1), (update_time, 1625141637)
+
+(LID, 4104), (RL, 430), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, keep left to I-76 E / Philadelphia), (path, database//Jane//1625141637-39368-11.tts), (storage_type, 2), (text_type, 1), (update_time, 1625141637)
+
+(LID, 4105), (RL, 431), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then keep left to I-76 E / Philadelphia), (path, database//Jane//1625141637-39370-12.tts), (storage_type, 2), (text_type, 1), (update_time, 1625141637)
+
+(LID, 4106), (RL, 432), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, Let's take US-202 N, and I-476 S. Arrival time on this route, is similar to US-202 S; I-476 S), (path, database//Jane//1625141636-883748-1.tts), (storage_type, 2), (text_type, 1), (update_time, 1625141637)
+
+(LID, 4107), (RL, 433), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, Let's take US-202 N, and I-476 S), (path, database//Jane//1625141657-704117-13.tts), (storage_type, 2), (text_type, 1), (update_time, 1625141657)
+
+(LID, 4108), (RL, 434), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, you'll arrive at Philadelphia International Airport (PHL), (path, database//Jane//1625141657-727570-14.tts), (storage_type, 2), (text_type, 3), (update_time, 1625141657)
+
+(LID, 4109), (RL, 435), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, continue straight for 9 minutes to US-202 N), (path, database//Jane//1625142268-168746-15.tts), (storage_type, 2), (text_type, 1), (update_time, 1625142268)
+
+(LID, 4110), (RL, 436), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, continue straight for 7 minutes to I-76 E / Philadelphia / Devon Park Dr), (path, database//Jane//1625142792-191619-16.tts), (storage_type, 2), (text_type, 1), (update_time, 1625142792)
+
+(LID, 4111), (RL, 437), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, continue straight for 15 minutes to I-95 N » Philadelphia), (path, database//Jane//1625143602-193967-17.tts), (storage_type, 2), (text_type, 1), (update_time, 1625143602)
+
+(LID, 4112), (RL, 1), (PID, Documents), (DN, user.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, PLACES), (id, 1), (name, FLL Airport - Car Rental Center), (street, Terminal Dr), (city, Fort Lauderdale), (state, Florida), (house, 600), (longitude, -80137022), (latitude, 26071610), (venue_id, venues.183435525.1834093103.1118006), (created_time, 1618143129), (routing_context, CAAQAyiWz8uDBjAB)
+
+(LID, 4113), (RL, 2), (PID, Documents), (DN, user.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, PLACES), (id, 2), (name, Amani's BYOB), (street, E Lancaster Ave), (city, Downingtown), (country, US), (house, 105), (longitude, -75702966), (latitude, 40006823), (venue_id, venues.186319248.1863192481.797753), (created_time, 1623969666), (routing_context, CAAQAyj3oK-GBjAB)
+
+(LID, 4114), (RL, 3), (PID, Documents), (DN, user.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, PLACES), (id, 3), (name, Philadelphia International Airport (PHL), (street, Essington Ave), (city, Philadelphia), (state, Pennsylvania), (house, 8000), (longitude, -75258627), (latitude, 39875019), (venue_id, venues.186646927.1866207123.250891), (created_time, 1624874928), (routing_context, CAAQAyiuv-aGBjAB)
+
+(LID, 4115), (RL, 4), (PID, Documents), (DN, user.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, PLACES), (id, 4), (name, Indianapolis International Airport (IND), (street, Col. H. Weir Cook Memorial Dr), (city, Indianapolis), (state, Indiana), (house, 7800), (longitude, -86298491), (latitude, 39714518), (venue_id, venues.179372429.1793724292.261807), (created_time, 1624905761), (routing_context, CAAQAyiZsOiGBjAB)
+
+(LID, 4116), (RL, 1), (PID, Documents), (DN, user.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, RECENTS), (id, 1), (place_id, 1), (name, FLL Airport - Car Rental Center), (created_time, 1618143129), (access_time, 1618143129), (type, 0), (waypoint_access_time, 0)
+
+(LID, 4117), (RL, 2), (PID, Documents), (DN, user.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, RECENTS), (id, 2), (place_id, 2), (name, Amani's BYOB), (created_time, 1623969666), (access_time, 1623969666), (type, 0), (waypoint_access_time, 0)
+
+(LID, 4118), (RL, 3), (PID, Documents), (DN, user.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, RECENTS), (id, 3), (place_id, 3), (name, Philadelphia International Airport (PHL), (created_time, 1624874928), (access_time, 1625141635), (type, 0), (waypoint_access_time, 0)
+
+(LID, 4119), (RL, 4), (PID, Documents), (DN, user.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, RECENTS), (id, 4), (place_id, 4), (name, Indianapolis International Airport (IND), (created_time, 1624905761), (access_time, 1624905761), (type, 0), (waypoint_access_time, 0)
+
+(LID, 4120), (RL, 1), (PID, Documents), (DN, user.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, sqlite_sequence), (name, PLACES), (seq, 4)
+
+(LID, 4121), (RL, 2), (PID, Documents), (DN, user.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, sqlite_sequence), (name, RECENTS), (seq, 4)
+
+(LID, 4122), (RL, 276), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right lane to exit), (path, database//Jane//1624874930-215132-7.tts), (storage_type, 2), (text_type, 0), (update_time, 1624874930)
+
+(LID, 4123), (RL, 277), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then keep right), (path, database//Jane//1624874930-215134-8.tts), (storage_type, 2), (text_type, 0), (update_time, 1624874930)
+
+(LID, 4124), (RL, 278), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right lane to turn right), (path, database//Jane//1624874930-215134-9.tts), (storage_type, 2), (text_type, 0), (update_time, 1624874930)
+
+(LID, 4125), (RL, 279), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the left lane to turn left), (path, database//Jane//1624874930-215135-10.tts), (storage_type, 2), (text_type, 0), (update_time, 1624874930)
+
+(LID, 4126), (RL, 280), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, 8000 Essington Ave), (path, database//Jane//1624874930-120254-0.tts), (storage_type, 2), (text_type, 2), (update_time, 1624874931)
+
+(LID, 4127), (RL, 281), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, Philadelphia International Airport (PHL), (path, database//Jane//1624874930-120688-1.tts), (storage_type, 2), (text_type, 0), (update_time, 1624874931)
+
+(LID, 4128), (RL, 282), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, Let's take US-202 S, and West Chester Pike Willistown), (path, database//Jane//1624874930-120689-2.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4129), (RL, 283), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn left to US-1 N), (path, database//Jane//1624874930-662243-23.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4130), (RL, 284), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the left lane to turn left to US-1 N), (path, database//Jane//1624874930-662247-24.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4131), (RL, 285), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn right on N Providence Rd), (path, database//Jane//1624874930-689157-25.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4132), (RL, 286), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right lane to turn right on N Providence Rd), (path, database//Jane//1624874930-689161-26.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4133), (RL, 287), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn right to I-476 S » Chester), (path, database//Jane//1624874930-645451-19.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4134), (RL, 288), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then turn right to I-476 S » Chester), (path, database//Jane//1624874930-645453-20.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4135), (RL, 289), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right lane to turn right to I-476 S » Chester), (path, database//Jane//1624874930-645454-21.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4136), (RL, 290), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then use the right lane to turn right to I-476 S » Chester), (path, database//Jane//1624874930-645455-22.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4137), (RL, 291), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, exit to I-476 » Plymouth Meeting / Chester), (path, database//Jane//1624874930-622895-15.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4138), (RL, 292), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, exit right to I-476 » Plymouth Meeting / Chester), (path, database//Jane//1624874930-622897-16.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4139), (RL, 293), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right lane to exit right to I-476 » Plymouth Meeting / Chester), (path, database//Jane//1624874930-622897-17.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4140), (RL, 294), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right lane to exit to I-476 » Plymouth Meeting / Chester), (path, database//Jane//1624874930-622898-18.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4141), (RL, 295), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, exit to US-202 S), (path, database//Jane//1624874930-936554-35.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4142), (RL, 296), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, exit right to US-202 S), (path, database//Jane//1624874930-936557-36.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4143), (RL, 297), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, exit to Exit 10: SR-291 E » Bartram Ave / Cargo City), (path, database//Jane//1624874931-130563-37.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4144), (RL, 298), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, exit right to Exit 10: SR-291 E » Bartram Ave / Cargo City), (path, database//Jane//1624874931-130566-38.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4145), (RL, 299), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right lane to exit right to Exit 10: SR-291 E » Bartram Ave / Cargo City), (path, database//Jane//1624874931-130567-39.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4146), (RL, 300), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right lane to exit to Exit 10: SR-291 E » Bartram Ave / Cargo City), (path, database//Jane//1624874931-130567-40.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4147), (RL, 301), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, keep left to I-95 N » Philadelphia), (path, database//Jane//1624874931-209027-41.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4148), (RL, 302), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the left two lanes to keep left to I-95 N » Philadelphia), (path, database//Jane//1624874931-209030-42.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4149), (RL, 303), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn right on Providence Rd), (path, database//Jane//1624874930-929076-27.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4150), (RL, 304), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right lane to turn right on Providence Rd), (path, database//Jane//1624874930-929079-28.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4151), (RL, 305), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, exit to SR-3 / Newtown Square), (path, database//Jane//1624874930-929079-29.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4152), (RL, 306), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, exit right to SR-3 / Newtown Square), (path, database//Jane//1624874930-929080-30.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4153), (RL, 307), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right lane to exit right to SR-3 / Newtown Square), (path, database//Jane//1624874930-932631-31.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4154), (RL, 308), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right lane to exit to SR-3 / Newtown Square), (path, database//Jane//1624874930-932635-32.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4155), (RL, 309), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, keep right to SR-3 E / Newtown Square), (path, database//Jane//1624874930-932635-33.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4156), (RL, 310), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then keep right to SR-3 E / Newtown Square), (path, database//Jane//1624874930-932636-34.tts), (storage_type, 2), (text_type, 1), (update_time, 1624874931)
+
+(LID, 4157), (RL, 311), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 4.2 miles), (path, database//Jane//1624875431-207074-43.tts), (storage_type, 2), (text_type, 0), (update_time, 1624875431)
+
+(LID, 4158), (RL, 312), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 4.1 miles), (path, database//Jane//1624875431-207079-44.tts), (storage_type, 2), (text_type, 0), (update_time, 1624875431)
+
+(LID, 4159), (RL, 313), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 4 miles), (path, database//Jane//1624875431-207081-45.tts), (storage_type, 2), (text_type, 0), (update_time, 1624875431)
+
+(LID, 4160), (RL, 314), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, continue straight for 5 minutes to SR-3 / Newtown Square), (path, database//Jane//1624875431-207082-46.tts), (storage_type, 2), (text_type, 1), (update_time, 1624875431)
+
+(LID, 4161), (RL, 315), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, continue straight for 9 minutes to Providence Rd), (path, database//Jane//1624875794-201378-47.tts), (storage_type, 2), (text_type, 1), (update_time, 1624875794)
+
+(LID, 4162), (RL, 316), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, keep left to Wiggins St), (path, database//Jane//1624905763-863284-3.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905765)
+
+(LID, 4163), (RL, 317), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then keep left), (path, database//Jane//1624905763-863286-4.tts), (storage_type, 2), (text_type, 0), (update_time, 1624905765)
+
+(LID, 4164), (RL, 318), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then keep left to Wiggins St), (path, database//Jane//1624905763-863287-5.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905765)
+
+(LID, 4165), (RL, 319), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, exit to Canal Rd), (path, database//Jane//1624905763-863287-6.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905765)
+
+(LID, 4166), (RL, 320), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, keep right to Indianapolis Int'l Airport), (path, database//Jane//1624905763-866820-19.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905766)
+
+(LID, 4167), (RL, 321), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then keep right to Indianapolis Int'l Airport), (path, database//Jane//1624905763-866821-20.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905766)
+
+(LID, 4168), (RL, 322), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right two lanes to keep right), (path, database//Jane//1624905763-866821-21.tts), (storage_type, 2), (text_type, 0), (update_time, 1624905766)
+
+(LID, 4169), (RL, 323), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, use the right two lanes to keep right to Indianapolis Int'l Airport), (path, database//Jane//1624905763-866822-22.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905766)
+
+(LID, 4170), (RL, 324), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, exit right to Canal Rd), (path, database//Jane//1624905763-863989-7.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905766)
+
+(LID, 4171), (RL, 325), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, turn left on Canal Rd), (path, database//Jane//1624905763-863989-8.tts), (storage_type, 2), (text_type, 1), (update_time, 1624905766)
+
+(LID, 4172), (RL, 326), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then turn left), (path, database//Jane//1624905763-863990-9.tts), (storage_type, 2), (text_type, 0), (update_time, 1624905766)
+
+(LID, 4173), (RL, 243), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 1.5 miles), (path, database//Jane//1623969715-29823-181.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969715)
+
+(LID, 4174), (RL, 244), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 1.6 miles), (path, database//Jane//1623969715-29824-182.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969716)
+
+(LID, 4175), (RL, 245), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 1.7 miles), (path, database//Jane//1623969715-29824-183.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969716)
+
+(LID, 4176), (RL, 246), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 2.2 miles), (path, database//Jane//1623969715-30149-188.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969716)
+
+(LID, 4177), (RL, 247), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 2.3 miles), (path, database//Jane//1623969715-30149-189.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969716)
+
+(LID, 4178), (RL, 248), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 2.4 miles), (path, database//Jane//1623969715-30150-190.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969716)
+
+(LID, 4179), (RL, 249), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 2.5 miles), (path, database//Jane//1623969715-30150-191.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969716)
+
+(LID, 4180), (RL, 250), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, make a u-turn on Haverhill Rd), (path, database//Jane//1623969715-31782-196.tts), (storage_type, 2), (text_type, 1), (update_time, 1623969716)
+
+(LID, 4181), (RL, 251), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then make a u-turn), (path, database//Jane//1623969715-31783-197.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969716)
+
+(LID, 4182), (RL, 252), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, then make a u-turn on Haverhill Rd), (path, database//Jane//1623969715-31783-198.tts), (storage_type, 2), (text_type, 1), (update_time, 1623969716)
+
+(LID, 4183), (RL, 253), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 2.6 miles), (path, database//Jane//1623969715-30317-192.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969716)
+
+(LID, 4184), (RL, 254), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 2.7 miles), (path, database//Jane//1623969715-30318-193.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969716)
+
+(LID, 4185), (RL, 255), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 2.8 miles), (path, database//Jane//1623969715-30318-194.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969716)
+
+(LID, 4186), (RL, 256), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 2.9 miles), (path, database//Jane//1623969715-30319-195.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969716)
+
+(LID, 4187), (RL, 257), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 3 miles), (path, database//Jane//1623969916-181277-199.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969916)
+
+(LID, 4188), (RL, 258), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 3.1 miles), (path, database//Jane//1623969916-181282-200.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969916)
+
+(LID, 4189), (RL, 259), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 3.2 miles), (path, database//Jane//1623969916-181284-201.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969916)
+
+(LID, 4190), (RL, 260), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 3.3 miles), (path, database//Jane//1623969916-181285-202.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969916)
+
+(LID, 4191), (RL, 261), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 3.4 miles), (path, database//Jane//1623969916-182100-203.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969916)
+
+(LID, 4192), (RL, 262), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 3.5 miles), (path, database//Jane//1623969916-182104-204.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969916)
+
+(LID, 4193), (RL, 263), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 3.6 miles), (path, database//Jane//1623969916-182106-205.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969916)
+
+(LID, 4194), (RL, 264), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 3.7 miles), (path, database//Jane//1623969916-182107-206.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969916)
+
+(LID, 4195), (RL, 265), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 3.8 miles), (path, database//Jane//1623969916-552085-207.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969916)
+
+(LID, 4196), (RL, 266), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 3.9 miles), (path, database//Jane//1623969916-552095-208.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969916)
+
+(LID, 4197), (RL, 267), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, continue straight for 12 minutes to E Lancaster Ave), (path, database//Jane//1623969916-552098-209.tts), (storage_type, 2), (text_type, 1), (update_time, 1623969916)
+
+(LID, 4198), (RL, 240), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 2 miles), (path, database//Jane//1623969715-30007-186.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969715)
+
+(LID, 4199), (RL, 241), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 2.1 miles), (path, database//Jane//1623969715-30008-187.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969715)
+
+(LID, 4200), (RL, 242), (PID, tts), (DN, tts.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901), (TN, Jane), (text, in 1.4 miles), (path, database//Jane//1623969715-29822-180.tts), (storage_type, 2), (text_type, 0), (update_time, 1623969715)

@@ -1,0 +1,81 @@
+(LID, 5005);
+(1, App Name, Snapchat, 8);
+
+(LID, 5006);
+(1, App Name, Snapchat, 8);
+
+(LID, 5007);
+(1, App Name, Snapchat, 8);
+
+(LID, 5008);
+(2, App Name, Snapchat, 8);
+
+(LID, 5009);
+(3, App Name, Snapchat, 8);
+
+(LID, 5010);
+(4, App Name, Snapchat, 8);
+
+(LID, 5011);
+(5, App Name, Snapchat, 8);
+
+(LID, 5012);
+(6, App Name, Snapchat, 8);
+
+(LID, 5013);
+(1, App Name, Snapchat, 8);
+
+(LID, 5014);
+(2, App Name, Snapchat, 8);
+
+(LID, 5015);
+(3, App Name, Snapchat, 8);
+
+(LID, 5016);
+(4, App Name, Snapchat, 8);
+
+(LID, 5017);
+(5, App Name, Snapchat, 8);
+
+(LID, 5018);
+(1, App Name, Snapchat, 8);
+
+(LID, 5020);
+(1, App Name, Snapchat, 8);
+
+(LID, 5021);
+(2, App Name, Snapchat, 8);
+
+(LID, 5022);
+(3, App Name, Snapchat, 8);
+
+(LID, 5030);
+(1, App Name, Snapchat, 8);
+
+(LID, 5031);
+(2, App Name, Snapchat, 8);
+
+(LID, 5032);
+(3, App Name, Snapchat, 8);
+
+(LID, 5033);
+(4, App Name, Snapchat, 8);
+
+(LID, 5034);
+(5, App Name, Snapchat, 8);
+
+(LID, 5035);
+(1, App Name, Snapchat, 8);
+
+(LID, 5036);
+(2, App Name, Snapchat, 8);
+
+(LID, 5037);
+(3, App Name, Snapchat, 8);
+
+(LID, 5038);
+(4, App Name, Snapchat, 8);
+
+(LID, 5039);
+(5, App Name, Snapchat, 8);
+

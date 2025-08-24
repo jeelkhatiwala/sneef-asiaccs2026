@@ -1,0 +1,42 @@
+(LID, 5002);
+(3, App Name, Charms, 9);
+
+(LID, 5003);
+(4, App Name, Charms, 9);
+
+(LID, 5004);
+(5, App Name, Charms, 9);
+
+(LID, 5005);
+(1, App Name, Charms, 8);
+
+(LID, 5030);
+(1, App Name, Charms, 8);
+
+(LID, 5031);
+(2, App Name, Charms, 8);
+
+(LID, 5032);
+(3, App Name, Charms, 8);
+
+(LID, 5033);
+(4, App Name, Charms, 8);
+
+(LID, 5034);
+(5, App Name, Charms, 8);
+
+(LID, 5035);
+(1, App Name, Charms, 8);
+
+(LID, 5036);
+(2, App Name, Charms, 8);
+
+(LID, 5037);
+(3, App Name, Charms, 8);
+
+(LID, 5038);
+(4, App Name, Charms, 8);
+
+(LID, 5039);
+(5, App Name, Charms, 8);
+

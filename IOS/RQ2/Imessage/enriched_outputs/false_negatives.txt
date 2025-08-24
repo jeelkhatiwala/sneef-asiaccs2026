@@ -1,0 +1,6 @@
+(LID, 3056);
+(91, Message, Thanks ,), 10);
+
+(LID, 3057);
+(93, Message, Stay in touch if you have signal ,), 10);
+

@@ -1,0 +1,136 @@
+(LID, 548); (2, Search keyword, prepaid t-mobile direct to account, 9);
+
+(LID, 549); (3, Search keyword, prepaid t-mobile one time payment, 9);
+
+(LID, 550); (4, Search keyword, prepaid t-mobile one time payment payment, 9);
+
+(LID, 551); (5, Search keyword, prepaid t-mobile one time payment review, 9); (5, App Name, Safari, 10);
+
+(LID, 552); (6, Search keyword, prepaid t-mobile one time payment confirm, 9);
+
+(LID, 557); (11, Search keyword, websearch help, 6);
+
+(LID, 558); (12, Search keyword, reverse, 6);
+
+(LID, 559); (13, Search keyword, search by image, 9);
+
+(LID, 560); (14, Search keyword, reverse image search, 9);
+
+(LID, 758); (1, App Name, Facebook, 9);
+
+(LID, 759); (2, App Name, Facebook, 9);
+
+(LID, 760); (3, App Name, Facebook, 9);
+
+(LID, 761); (4, App Name, Facebook, 9);
+
+(LID, 762); (5, App Name, Facebook, 9);
+
+(LID, 763); (6, App Name, Facebook, 9);
+
+(LID, 764); (7, App Name, Facebook, 9);
+
+(LID, 765); (8, App Name, Facebook, 9);
+
+(LID, 766); (9, App Name, Facebook, 9);
+
+(LID, 767); (10, App Name, Facebook, 9);
+
+(LID, 768); (1, App Name, Facebook, 9);
+
+(LID, 769); (2, App Name, Facebook, 9);
+
+(LID, 777); (7, Username, 1034081542, 6);
+
+(LID, 778); (8, Username, 100012897585502, 8);
+
+(LID, 779); (9, Username, 100051123150555, 8);
+
+(LID, 780); (10, Username, 100010939808666, 8);
+
+(LID, 781); (11, Username, 620748644, 6);
+
+(LID, 1009); (2, Email, [plaw@gmail.com](mailto:plaw@gmail.com), 10);
+
+(LID, 1011); (4, Human Name, M, 9);
+
+(LID, 1015); (2, Email, [tornadobeth@gmail.com](mailto:tornadobeth@gmail.com), 10);
+
+(LID, 3056); (91, Message, Thanks ;), 10);
+
+(LID, 3057); (93, Message, Stay in touch if you have signal ;), 10);
+
+(LID, 4003); (329, Address, Ronald Reagan Pkwy; Ameriplex Pkwy, 9);
+
+(LID, 4005); (331, Address, Ronald Reagan Pkwy; Ameriplex Pkwy, 9);
+
+(LID, 4022); (348, Address, I-65 S; I-465 S, 9);
+
+(LID, 4023); (349, Address, I-65 S; I-465 S, 9);
+
+(LID, 4036); (362, Address, US-231 S; US-52 E; I-65 S, 9); (362, Message, Let's take US-231 S, and US-52 E; I-65 S, 9);
+
+(LID, 4070); (396, Address, I-465 S; I-74 E, 9);
+
+(LID, 4071); (397, Address, I-465 S; I-74 E, 9);
+
+(LID, 4073); (399, Address, I-465 S; I-74 E, 9);
+
+(LID, 4106); (432, Message, Let's take US-202 N, and I-476 S. Arrival time on this route, is similar to US-202 S; I-476 S, 9); (432, Address, US-202 N; I-476 S, 9);
+
+(LID, 4107); (433, Address, US-202 N; I-476 S, 9);
+
+(LID, 5005); (1, App Name, Snapchat, 8);
+
+(LID, 5006); (1, App Name, Snapchat, 8);
+
+(LID, 5007); (1, App Name, Snapchat, 8);
+
+(LID, 5008); (2, App Name, Snapchat, 8);
+
+(LID, 5009); (3, App Name, Snapchat, 8);
+
+(LID, 5010); (4, App Name, Snapchat, 8);
+
+(LID, 5011); (5, App Name, Snapchat, 8);
+
+(LID, 5012); (6, App Name, Snapchat, 8);
+
+(LID, 5013); (1, App Name, Snapchat, 8);
+
+(LID, 5014); (2, App Name, Snapchat, 8);
+
+(LID, 5015); (3, App Name, Snapchat, 8);
+
+(LID, 5016); (4, App Name, Snapchat, 8);
+
+(LID, 5017); (5, App Name, Snapchat, 8);
+
+(LID, 5018); (1, App Name, Snapchat, 8);
+
+(LID, 5020); (1, App Name, Snapchat, 8);
+
+(LID, 5021); (2, App Name, Snapchat, 8);
+
+(LID, 5022); (3, App Name, Snapchat, 8);
+
+(LID, 5030); (1, App Name, Snapchat, 8);
+
+(LID, 5031); (2, App Name, Snapchat, 8);
+
+(LID, 5032); (3, App Name, Snapchat, 8);
+
+(LID, 5033); (4, App Name, Snapchat, 8);
+
+(LID, 5034); (5, App Name, Snapchat, 8);
+
+(LID, 5035); (1, App Name, Snapchat, 8);
+
+(LID, 5036); (2, App Name, Snapchat, 8);
+
+(LID, 5037); (3, App Name, Snapchat, 8);
+
+(LID, 5038); (4, App Name, Snapchat, 8);
+
+(LID, 5039); (5, App Name, Snapchat, 8);
+
