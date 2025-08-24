@@ -32,11 +32,3 @@ This repository provides supplementary material for the paper:
 
 Only sanitized sample rows are shared here. Original forensic images cannot be redistributed.
 
----
-
-## Reproducing Results
-
-1. Install dependencies:
-   ```bash
-   conda env create -f code/env.yml
-   conda activate sneef
