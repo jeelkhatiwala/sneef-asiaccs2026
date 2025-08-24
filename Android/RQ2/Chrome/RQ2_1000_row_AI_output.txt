@@ -1,0 +1,600 @@
+(LID, 77961); (1, App Name, Google Chrome, 10); (1, Timestamp, 2022-03-12 21:11:47, 10);
+
+
+(LID, 77962); (2, App Name, Google Chrome, 10); (2, Search keyword, townside, 10); (2, Timestamp, 2022-03-12 21:11:47, 10);
+
+
+(LID, 77963); (3, App Name, Google Chrome, 10); (3, Search keyword, raines, 10); (3, Timestamp, 2022-03-12 21:11:47, 10);
+
+
+(LID, 77964); (4, App Name, Google Chrome, 10); (4, Search keyword, raines property management, 10); (4, Timestamp, 2022-03-12 21:11:47, 10);
+
+
+(LID, 77965); (5, App Name, Google Chrome, 10); (5, Search keyword, raines property management, 10); (5, Address, Raines Property Management, Myrtle Beach, South Carolina, United States, 9); (5, Timestamp, 2021-07-28 03:06:33, 9);
+
+
+(LID, 77966); (6, App Name, Google Chrome, 10); (6, Search keyword, properties for rent near me, 10); (6, Timestamp, 2021-05-16 04:26:51, 10);
+
+
+(LID, 77967); (7, App Name, Google Chrome, 10); (7, Search keyword, Boston, MA Houses for Rent, 10); (7, Address, Boston, Massachusetts, United States, 10); (7, Timestamp, 2021-07-09 18:52:48, 9);
+
+
+(LID, 77968); (8, App Name, Google Chrome, 10); (8, Search keyword, 24060 Houses for Rent, 10); (8, Address, Blacksburg, Virginia, United States, 9); (8, Timestamp, 2021-07-09 18:52:39, 9);
+
+
+(LID, 77969); (9, App Name, Google Chrome, 10); (9, Search keyword, 24060 Houses for Rent, 9); (9, Address, ZIP Code 24060, Blacksburg, Virginia, United States, 8); (9, Timestamp, 2021-07-14 18:40:15, 9);
+
+
+(LID, 77971); (11, App Name, Google Chrome, 10); (11, Address, Minneapolis, MN, USA, 8); (11, Search keyword, Minneapolis Catering Mintahoe Catering & Events, 9); (11, Timestamp, 2021-03-11 22:47:46, 10);
+
+
+(LID, 77972); (12, App Name, Google Chrome, 10); (12, Address, Minneapolis, MN, USA, 8); (12, Search keyword, Minneapolis Catering Mintahoe Catering & Events, 9); (12, Timestamp, 2021-03-11 22:47:46, 10);
+
+
+(LID, 77973); (13, App Name, Google Chrome, 10); (13, Search keyword, Minneapolis Catering Mintahoe Catering & Events, 9); (13, Address, Minneapolis, MN, USA, 8); (13, Timestamp, 2021-03-11 22:47:46, 10);
+
+
+(LID, 77974); (14, App Name, Google Chrome, 10); (14, Search keyword, Minneapolis Catering Mintahoe Catering & Events, 9); (14, Address, Minneapolis, MN, USA, 8); (14, Timestamp, 2021-03-11 22:47:46, 10);
+
+
+(LID, 77975); (15, App Name, Google Chrome, 10); (15, Search keyword, beavercreek commons, 10); (15, Address, Beavercreek Commons, Beavercreek, OH, USA, 8); (15, Timestamp, 2021-04-20 15:43:26, 10);
+
+
+(LID, 77976); (16, App Name, Google Chrome, 10); (16, Search keyword, beavercreek commons, 10); (16, Address, Beavercreek Commons, Beavercreek, OH, USA, 9); (16, Timestamp, 2021-04-20 13:48:58, 10);
+
+
+(LID, 77977); (17, App Name, Google Chrome, 10); (17, Search keyword, beavercreek commons, 10); (17, Address, Beavercreek Commons, Beavercreek, OH, USA, 9); (17, Timestamp, 2021-04-20 14:17:41, 10);
+
+
+(LID, 77978); (18, App Name, Google Chrome, 10); (18, Search keyword, nike outlet, 10); (18, Timestamp, 2021-06-07 12:34:48, 10);
+
+
+(LID, 77979); (19, App Name, Google Chrome, 10); (19, Search keyword, nike outlet monroe ohio, 10); (19, Address, Monroe, Ohio, 9); (19, Timestamp, 2021-06-07 12:38:34, 10);
+
+
+(LID, 77980); (20, App Name, Google Chrome, 10); (20, Search keyword, apple mask, 10); (20, Timestamp, 2021-06-10 14:47:58, 10);
+
+
+(LID, 77981); (21, App Name, Google Chrome, 10); (21, App Name, T-Mobile Travel, 9); (21, Search keyword, T-Mobile TRAVEL | Save on accommodations and rental cars, 8); (21, Timestamp, 2021-07-31 04:56:04, 9);
+
+
+(LID, 77982); (22, App Name, Google Chrome, 10); (22, App Name, T-Mobile Travel, 9); (22, Search keyword, Myrtle Beach, SC, USA, 10); (22, Latitude, 33.6890603, 10); (22, Longitude, -78.8866943, 10); (22, Address, Myrtle Beach, South Carolina, United States, 10); (22, Timestamp, 2021-07-31 04:55:00, 9); (22, Timestamp, 2021-06-01 00:00:00, 8); (22, Timestamp, 2021-06-03 00:00:00, 8);
+
+
+(LID, 77983); (23, App Name, Google Chrome, 10); (23, App Name, T-Mobile Travel, 9); (23, Search keyword, Myrtle Beach, SC, USA, 10); (23, Latitude, 33.6890603, 10); (23, Longitude, -78.8866943, 10); (23, Address, Myrtle Beach, South Carolina, United States, 10); (23, Timestamp, 2021-07-31 04:55:41, 9); (23, Timestamp, 2021-06-01 00:00:00, 8); (23, Timestamp, 2021-06-03 00:00:00, 8);
+
+
+(LID, 77984); (24, App Name, Google Chrome, 10); (24, App Name, T-Mobile Travel, 9); (24, Search keyword, Myrtle Beach, SC, USA, 10); (24, Latitude, 33.6890603, 10); (24, Longitude, -78.8866943, 10); (24, Address, Myrtle Beach, South Carolina, United States, 10); (24, Timestamp, 2021-07-31 04:56:32, 9); (24, Timestamp, 2021-06-01 00:00:00, 8); (24, Timestamp, 2021-06-03 00:00:00, 8);
+
+
+(LID, 77985); (25, App Name, Google Chrome, 10); (25, App Name, T-Mobile Travel, 9); (25, Search keyword, Myrtle Beach, SC, USA, 10); (25, Latitude, 33.6890603, 10); (25, Longitude, -78.8866943, 10); (25, Address, Myrtle Beach, South Carolina, United States, 10); (25, Timestamp, 2021-07-31 04:59:37, 9); (25, Timestamp, 2021-06-05 00:00:00, 8); (25, Timestamp, 2021-06-09 00:00:00, 8);
+
+
+(LID, 77986); (26, App Name, Google Chrome, 10); (26, App Name, T-Mobile Hotels, 9); (26, Search keyword, Myrtle Beach, SC, USA, 10); (26, Address, Myrtle Beach, South Carolina, USA, 10); (26, Latitude, 33.6890603, 10); (26, Longitude, -78.8866943, 10); (26, Timestamp, 2021-06-05 00:00:00, 9); (26, Timestamp, 2021-06-09 00:00:00, 9); (26, Timestamp, 2021-12-06 00:06:15, 10);
+
+
+(LID, 77987); (27, App Name, Google Chrome, 10); (27, App Name, T-Mobile Hotels, 9); (27, Search keyword, Myrtle Beach, SC, USA, 10); (27, Address, Myrtle Beach, South Carolina, USA, 10); (27, Latitude, 33.6890603, 10); (27, Longitude, -78.8866943, 10); (27, Timestamp, 2021-06-05 00:00:00, 9); (27, Timestamp, 2021-06-09 00:00:00, 9); (27, Timestamp, 2021-12-05 20:12:55, 10);
+
+
+(LID, 77988); (28, App Name, Google Chrome, 10); (28, App Name, T-Mobile Hotels, 9); (28, Search keyword, Myrtle Beach Boardwalk and Promenade, Myrtle Beach, SC, USA, 10); (28, Address, Myrtle Beach Boardwalk and Promenade, Myrtle Beach, South Carolina, USA, 10); (28, Latitude, 33.6894543, 10); (28, Longitude, -78.8815148, 10); (28, Timestamp, 2021-06-05 00:00:00, 9); (28, Timestamp, 2021-06-09 00:00:00, 9); (28, Timestamp, 2021-12-05 20:12:54, 10);
+
+
+(LID, 77989); (29, App Name, Google Chrome, 10); (29, App Name, T-Mobile Hotels, 9); (29, Search keyword, Myrtle Beach Boardwalk and Promenade, Myrtle Beach, SC, USA, 10); (29, Address, Myrtle Beach Boardwalk and Promenade, Myrtle Beach, South Carolina, USA, 10); (29, Latitude, 33.6894543, 10); (29, Longitude, -78.8815148, 10); (29, Timestamp, 2021-06-05 00:00:00, 9); (29, Timestamp, 2021-06-09 00:00:00, 9); (29, Timestamp, 2021-12-05 20:12:54, 10);
+
+
+(LID, 77990); (30, App Name, Google Chrome, 10); (30, App Name, T-Mobile Hotels, 9); (30, Search keyword, Myrtle Beach Boardwalk and Promenade, Myrtle Beach, SC, USA, 10); (30, Address, Myrtle Beach Boardwalk and Promenade, Myrtle Beach, South Carolina, USA, 10); (30, Latitude, 33.689454, 10); (30, Longitude, -78.881515, 10); (30, Timestamp, 2021-06-05 00:00:00, 9); (30, Timestamp, 2021-06-09 00:00:00, 9); (30, Timestamp, 2021-12-05 20:12:53, 10);
+
+
+(LID, 77991); (31, App Name, Google Chrome, 10); (31, App Name, T-Mobile Hotels, 9); (31, Search keyword, Myrtle Beach Boardwalk and Promenade, Myrtle Beach, SC, USA, 10); (31, Address, Myrtle Beach Boardwalk and Promenade, Myrtle Beach, South Carolina, USA, 10); (31, Latitude, 33.689454, 10); (31, Longitude, -78.881515, 10); (31, Timestamp, 2021-06-05 00:00:00, 9); (31, Timestamp, 2021-06-09 00:00:00, 9); (31, Timestamp, 2021-12-05 20:12:52, 10);
+
+
+(LID, 77992); (32, App Name, Google Chrome, 10); (32, App Name, T-Mobile Hotels, 9); (32, Search keyword, Myrtle Beach Boardwalk and Promenade, Myrtle Beach, SC, USA, 10); (32, Address, Myrtle Beach Boardwalk and Promenade, Myrtle Beach, South Carolina, USA, 10); (32, Latitude, 33.689454, 10); (32, Longitude, -78.881515, 10); (32, Timestamp, 2021-06-05 00:00:00, 9); (32, Timestamp, 2021-06-09 00:00:00, 9); (32, Timestamp, 2021-12-05 20:12:43, 10);
+
+
+(LID, 77993); (33, App Name, Google Chrome, 10); (33, App Name, T-Mobile Hotels, 9); (33, Search keyword, Myrtle Beach, SC, USA, 10); (33, Address, Myrtle Beach, South Carolina, USA, 10); (33, Latitude, 33.6890603, 10); (33, Longitude, -78.8866943, 10); (33, Timestamp, 2021-06-05 00:00:00, 9); (33, Timestamp, 2021-06-09 00:00:00, 9); (33, Timestamp, 2021-12-05 20:12:56, 10);
+
+
+(LID, 77994); (34, App Name, Google Chrome, 10); (34, Timestamp, 2021-06-11 10:05:06, 10);
+
+
+(LID, 77995); (35, App Name, Google Chrome, 10); (35, Search keyword, how to mount a pendrive on android, 10); (35, Timestamp, 2022-06-11 10:05:19, 10);
+
+
+(LID, 77996); (36, App Name, Google Chrome, 10); (36, Search keyword, connect usb drive to android, 9); (36, Timestamp, 2021-10-30 20:22:38, 10); (36, Human Name, Tom, 6);
+
+
+(LID, 77997); (37, App Name, Google Chrome, 10); (37, Search keyword, what is otg file format does android support, 10); (37, Timestamp, 2022-06-11 10:07:02, 10);
+
+
+(LID, 77998); (38, App Name, Google Chrome, 10); (38, Search keyword, can a samsung micro usb connector transfer data, 10); (38, Timestamp, 2022-06-11 10:08:07, 10);
+
+
+(LID, 77999); (39, App Name, Google Chrome, 10); (39, Search keyword, Samsung Original Type C to USB Adapter for LG G5, HTC 10, Google Pixel, MOTO Z, 9); (39, Timestamp, 2021-07-09 18:48:18, 10);
+
+
+(LID, 78000); (40, App Name, Google Chrome, 10); (40, Search keyword, Samsung Original Type C to USB Adapter for LG G5, HTC 10, Google Pixel, MOTO Z, 9); (40, Timestamp, 2021-07-09 18:48:18, 10);
+
+
+(LID, 78014); (54, App Name, Google Chrome, 10); (54, Search keyword, can a samsung micro usb connector transfer data, 10); (54, Timestamp, 2022-03-12 21:10:38, 10);
+
+
+(LID, 78015); (55, App Name, Google Chrome, 10); (55, Search keyword, can a samsung micro usb connector transfer data, 10); (55, Timestamp, 2022-03-12 21:10:38, 10);
+
+
+(LID, 78016); (56, App Name, Google Chrome, 10); (56, Search keyword, can a samsung micro usb connector transfer data, 10); (56, Timestamp, 2022-03-12 21:10:38, 10);
+
+
+(LID, 78017); (57, App Name, Google Chrome, 10); (57, Search keyword, can a samsung micro usb connector transfer data, 10); (57, Timestamp, 2022-03-12 21:10:38, 10);
+
+
+(LID, 78018); (58, App Name, Google Chrome, 10); (58, Search keyword, can a samsung micro usb connector transfer data, 10); (58, Timestamp, 2022-03-12 21:10:38, 10);
+
+
+(LID, 78019); (59, App Name, Google Chrome, 10); (59, Search keyword, can a samsung micro usb connector transfer data, 10); (59, Timestamp, 2022-03-12 21:12:06, 10);
+
+
+(LID, 78020); (60, App Name, Google Chrome, 10); (60, Search keyword, Samsung (GH96-09772A); OTG Adapter for Micro USB Devices - White, 9); (60, Timestamp, 2021-12-11 20:55:01, 10);
+
+
+(LID, 78021); (61, App Name, Google Chrome, 10); (61, Search keyword, Samsung (GH96-09772A); OTG Adapter for Micro USB Devices - White, 9); (61, Timestamp, 2021-12-11 20:55:01, 10); (61, Address, Simple Cell Shop, 8);
+
+
+(LID, 78022); (62, App Name, Google Chrome, 10); (62, Search keyword, can a samsung micro usb connector transfer data, 10); (62, Timestamp, 2022-03-12 21:12:10, 10);
+
+
+(LID, 78023); (63, App Name, Google Chrome, 10); (63, Search keyword, can a samsung micro usb connector transfer data, 10); (63, Timestamp, 2022-03-12 21:12:17, 10);
+
+
+(LID, 78024); (64, App Name, Google Chrome, 10); (64, Search keyword, can a samsung micro usb connector transfer data, 10); (64, Timestamp, 2022-03-12 21:12:20, 10);
+
+
+(LID, 78025); (65, App Name, Google Chrome, 10); (65, Search keyword, can a samsung micro usb connector transfer data, 10); (65, Timestamp, 2022-03-06 15:07:30, 10);
+
+
+(LID, 78026); (66, App Name, Google Chrome, 10); (66, Search keyword, can a samsung micro usb connector transfer data, 10); (66, Timestamp, 2022-03-06 15:07:33, 10);
+
+
+(LID, 78027); (67, App Name, Google Chrome, 10); (67, App Name, BeenVerified, 9); (67, Search keyword, BeenVerified Do's and Don'ts, 9); (67, Timestamp, 2021-12-19 14:22:32, 10);
+
+
+(LID, 78028); (68, App Name, Google Chrome, 10); (68, Search keyword, italianos near me, 10); (68, Timestamp, 2022-03-12 21:10:03, 10);
+
+
+(LID, 78029); (69, App Name, Google Chrome, 10); (69, Search keyword, italianos blacksburg, 10); (69, Address, Blacksburg, Virginia, USA, 9); (69, Timestamp, 2021-12-28 11:26:42, 10);
+
+
+(LID, 78030); (70, App Name, Google Chrome, 10); (70, Search keyword, order italianos pizza menu, 9); (70, Timestamp, 2021-12-28 11:45:12, 10);
+
+
+(LID, 78031); (71, App Name, Google Chrome, 10); (71, App Name, Slice, 9); (71, Search keyword, Italiano's Pizza Menu - Blacksburg, VA - Order Delivery, 10); (71, Address, Blacksburg, Virginia, USA, 9); (71, Timestamp, 2021-12-28 11:26:53, 10);
+
+
+(LID, 78032); (72, App Name, Google Chrome, 10); (72, App Name, Slice, 9); (72, Search keyword, Italiano's Pizza Menu - Blacksburg, VA - Order Delivery, 10); (72, Address, Blacksburg, Virginia, USA, 9); (72, Timestamp, 2021-12-28 11:26:55, 10);
+
+
+(LID, 78034); (74, App Name, Google Chrome, 10); (74, Human Name, Anuj Soni, 10); (74, Search keyword, anuj soni linkedin, 10); (74, Timestamp, 2021-12-30 17:50:23, 10);
+
+
+(LID, 78035); (75, App Name, Google Chrome, 10); (75, Human Name, Kushang Gonawala, 10); (75, Search keyword, kushang gonawala, 10); (75, Timestamp, 2021-12-30 17:50:23, 10);
+
+
+(LID, 78036); (76, App Name, Google Chrome, 10); (76, Search keyword, kushang gonawala, 10); (76, Human Name, Kushang Gonawala, 9); (76, Timestamp, 2021-01-06 07:13:04, 10);
+
+
+(LID, 78037); (77, App Name, Google Chrome, 10); (77, Search keyword, kushang gonawala linkedin, 10); (77, Human Name, Kushang Gonawala, 9); (77, Timestamp, 2021-01-06 07:13:42, 10);
+
+
+(LID, 78038); (78, App Name, Google Chrome, 10); (78, Search keyword, digital forensic professionals in india, 10); (78, Address, India, 9); (78, Timestamp, 2021-01-06 07:13:33, 10);
+
+
+(LID, 78039); (79, App Name, Google Chrome, 10); (79, Search keyword, hidden photos apps, 10); (79, Timestamp, 2022-06-27 14:13:14, 10);
+
+
+(LID, 78040); (80, App Name, Twitter, 10); (80, App Name, Google Chrome, 9); (80, Human Name, Ken Johnson, 9); (80, Search keyword, Ken Johnson Scholarship 2021, 10); (80, Timestamp, 2021-01-08 17:47:28, 10);
+
+
+(LID, 78041); (81, App Name, Twitter, 10); (81, App Name, Google Chrome, 9); (81, Human Name, Ken Johnson, 9); (81, Search keyword, Ken Johnson Scholarship 2021, 10); (81, Timestamp, 2021-01-08 17:47:29, 10);
+
+
+(LID, 78042); (82, App Name, Google Chrome, 10); (82, Human Name, Ken Johnson, 9); (82, Search keyword, Ken Johnson Scholarship 2021, 10); (82, Timestamp, 2021-01-08 17:47:29, 10);
+
+
+(LID, 78043); (83, App Name, Google Chrome, 10); (83, Human Name, Ken Johnson, 9); (83, Search keyword, Ken Johnson Scholarship 2021, 10); (83, Search keyword, Digital Forensics Summit Training, 9); (83, Timestamp, 2021-01-08 17:47:29, 10);
+
+
+(LID, 78044); (84, App Name, Google Chrome, 10); (84, Human Name, Ken Johnson, 9); (84, Search keyword, Ken Johnson Scholarship 2021, 10); (84, Search keyword, Digital Forensics Summit Training, 9); (84, Timestamp, 2021-01-08 17:48:45, 10);
+
+
+(LID, 78045); (85, App Name, Google Chrome, 10); (85, App Name, Qualtrics, 10); (85, Search keyword, Qualtrics Survey, 9); (85, Search keyword, Qualtrics Experience Management, 9); (85, Timestamp, 2021-01-08 17:48:01, 10);
+
+
+(LID, 78046); (86, App Name, Google Chrome, 10); (86, App Name, Twitter, 9); (86, Search keyword, Corroboration. That Is All., 9); (86, Timestamp, 2021-01-09 17:40:38, 10);
+
+
+(LID, 78047); (87, App Name, Google Chrome, 9); (87, Search keyword, Corroboration. That Is All., 10); (87, Timestamp, 2021-01-09 17:40:39, 10);
+
+
+(LID, 78048); (88, App Name, Google Chrome, 9); (88, Search keyword, Corroboration. That Is All., 10); (88, Timestamp, 2021-01-09 17:40:39, 10);
+
+
+(LID, 78049); (89, App Name, Google Chrome, 10); (89, Search keyword, corroboration, 9); (89, Search keyword, all, 9); (89, Address, The Binary Hick, 8); (89, Timestamp, 2012-01-19 16:04:03, 7);
+
+
+(LID, 78050); (90, App Name, Google Chrome, 10); (90, Address, Southern Dodge Chrysler Jeep Ram FIAT - Norfolk Airport, 9); (90, Address, Norfolk, Virginia, USA, 8); (90, Search keyword, Pre-Owned 2017 Honda CR-V EX-L 4D Sport Utility in Norfolk, 9); (90, Timestamp, 2022-01-22 19:42:04, 10);
+
+
+(LID, 78051); (91, App Name, Google Chrome, 10); (91, Search keyword, Pre-Owned 2017 Honda CR-V EX-L 4D Sport Utility, 9); (91, Address, Norfolk, Virginia, USA, 8); (91, Timestamp, 2021-07-14 14:21:29, 10);
+
+
+(LID, 78052); (92, App Name, Google Chrome, 10); (92, Search keyword, Pre-Owned 2017 Honda CR-V EX-L 4D Sport Utility, 9); (92, Address, Norfolk, Virginia, USA, 8); (92, Timestamp, 2021-07-14 14:21:29, 10);
+
+
+(LID, 78053); (93, App Name, Google Chrome, 10); (93, Search keyword, CARFAX Vehicle History Report 2017 HONDA CR-V EXL, 9); (93, Timestamp, 2021-07-14 14:39:28, 10);
+
+
+(LID, 78054); (94, App Name, Google Chrome, 10); (94, Search keyword, CARFAX Vehicle History Report 2017 HONDA CR-V EXL, 9); (94, Timestamp, 2021-07-14 14:39:28, 10);
+
+
+(LID, 78055); (95, App Name, Google Chrome, 10); (95, App Name, CARFAX, 9); (95, Timestamp, 2021-07-14 17:32:52, 10);
+
+
+(LID, 78056); (96, App Name, Google Chrome, 10); (96, App Name, CARFAX, 9); (96, Timestamp, 2021-07-14 17:32:52, 10);
+
+
+(LID, 78057); (97, App Name, Google Chrome, 10); (97, App Name, CARFAX, 9); (97, Timestamp, 2021-07-14 17:34:05, 10);
+
+
+(LID, 78058); (98, App Name, Google Chrome, 10); (98, App Name, CARFAX, 9); (98, App Name, Facebook, 10); (98, Timestamp, 2021-07-14 17:39:31, 10);
+
+
+(LID, 78059); (99, App Name, Google Chrome, 10); (99, App Name, Facebook, 10); (99, App Name, CARFAX, 9); (99, Timestamp, 2021-07-14 17:39:31, 10);
+
+
+(LID, 78060); (100, App Name, Google Chrome, 10); (100, App Name, Facebook, 10); (100, Timestamp, 2021-07-14 17:39:31, 10);
+
+
+(LID, 78061); (101, App Name, Google Chrome, 10); (101, App Name, Facebook, 10); (101, App Name, Carfax, 9); (101, Search keyword, Log into Facebook | Facebook, 9); (101, Address, United States, 7); (101, Timestamp, 2021-01-26 04:39:13, 10);
+
+
+(LID, 78062); (102, App Name, Carfax, 10); (102, App Name, Google Chrome, 10); (102, Search keyword, authorize, 9); (102, Search keyword, Sign in - Google Accounts, 9); (102, Address, United States, 7); (102, Timestamp, 2021-01-26 04:40:02, 10);
+
+
+(LID, 78063); (103, App Name, Google Chrome, 10); (103, App Name, Carfax, 9); (103, Search keyword, Sign in - Google Accounts, 9); (103, Address, United States, 7); (103, Timestamp, 2021-01-26 04:40:02, 10);
+
+
+(LID, 78064); (104, App Name, Google Chrome, 10); (104, App Name, Carfax, 9); (104, Search keyword, sign in, 9); (104, Search keyword, Sign in - Google Accounts, 8); (104, Address, United States, 7); (104, Timestamp, 2021-01-26 04:40:03, 10);
+
+
+(LID, 78065); (105, App Name, Google Chrome, 10); (105, Search keyword, cheap obd scanner, 10); (105, Timestamp, 2022-06-15 12:57:05, 10);
+
+
+(LID, 78134); (174, App Name, Google Chrome, 10); (174, Search keyword, cheap obd scanner, 9); (174, Timestamp, 2021-07-05 18:44:53, 10);
+
+
+(LID, 78135); (175, App Name, Google Chrome, 10); (175, Search keyword, cheap obd scanner, 9); (175, Timestamp, 2021-07-05 18:44:54, 10);
+
+
+(LID, 78136); (176, App Name, Google Chrome, 10); (176, Search keyword, cheap obd scanner, 9); (176, Timestamp, 2021-07-05 18:44:54, 10);
+
+
+(LID, 78137); (177, App Name, Google Chrome, 10); (177, Search keyword, cheap obd scanner, 9); (177, Timestamp, 2021-07-05 18:44:54, 10);
+
+
+(LID, 78138); (178, App Name, Google Chrome, 10); (178, Search keyword, cheap obd scanner, 9); (178, Timestamp, 2021-07-05 18:45:04, 10);
+
+
+(LID, 78139); (179, App Name, Google Chrome, 10); (179, Search keyword, cheap obd scanner, 9); (179, Timestamp, 2021-07-05 18:45:04, 10);
+
+
+(LID, 78140); (180, App Name, Google Chrome, 10); (180, Search keyword, cheap obd scanner, 9); (180, Timestamp, 2021-07-05 18:45:05, 10);
+
+
+(LID, 78141); (181, App Name, Google Chrome, 10); (181, Search keyword, cheap obd scanner, 9); (181, Timestamp, 2021-07-05 18:45:05, 10);
+
+
+(LID, 78142); (182, App Name, Google Chrome, 10); (182, Search keyword, cheap obd scanner, 9);  (182, Timestamp, 2021-07-05 18:45:05, 10);
+
+
+(LID, 78143); (183, App Name, Google Chrome, 10); (183, Search keyword, cheap obd scanner, 9); (183, Timestamp, 2021-07-05 18:45:05, 10);
+
+
+(LID, 78144); (184, App Name, Google Chrome, 10); (184, Search keyword, cheap obd scanner, 9); (184, Timestamp, 2021-07-05 18:45:06, 10);
+
+
+(LID, 78145); (185, App Name, Google Chrome, 10); (185, Search keyword, cheap obd scanner, 9); (185, Timestamp, 2021-07-05 18:45:06, 10);
+
+
+(LID, 78146); (186, App Name, Google Chrome, 10); (186, Search keyword, cheap obd scanner, 9); (186, Timestamp, 2021-07-05 18:45:06, 10);
+
+
+(LID, 78147); (187, App Name, Google Chrome, 10); (187, Search keyword, cheap obd scanner, 9); (187, Timestamp, 2021-07-05 18:45:07, 10);
+
+
+(LID, 78148); (188, App Name, Google Chrome, 10); (188, Search keyword, cheap obd scanner, 10); (188, Timestamp, 2021-07-05 18:45:07, 9); 
+
+
+(LID, 78149); (189, App Name, Google Chrome, 10); (189, Search keyword, cheap obd scanner, 9); (189, Timestamp, 2021-07-05 18:45:07, 9);
+
+
+(LID, 78150); (190, App Name, Google Chrome, 10); (190, Search keyword, cheap obd scanner, 9); (190, Timestamp, 2021-07-05 18:45:08, 9);
+
+
+(LID, 78151); (191, App Name, Google Chrome, 10); (191, Search keyword, cheap obd scanner, 9); (191, Timestamp, 2021-07-05 18:45:08, 9);
+
+
+(LID, 78152); (192, App Name, Google Chrome, 10); (192, Search keyword, cheap obd scanner, 9); (192, Timestamp, 2021-07-05 18:45:08, 9);
+
+
+(LID, 78153); (193, App Name, Google Chrome, 10); (193, Search keyword, cheap obd scanner, 9); (193, Timestamp, 2021-07-05 18:45:11, 9);
+
+
+(LID, 78154); (194, App Name, Google Chrome, 10); (194, Search keyword, cheap obd scanner, 9); (194, Timestamp, 2021-07-05 18:45:11, 9);
+
+
+(LID, 78155); (195, App Name, Google Chrome, 10); (195, Search keyword, cheap obd scanner, 9); (195, Timestamp, 2021-07-05 18:48:10, 9);
+
+
+(LID, 78156); (196, App Name, Google Chrome, 10); (196, Search keyword, HyperTough HT309 OBD2 Scan Automotive Diagnostic Tool Code Reader, Red - Walmart.com - Walmart.com, 9); (196, Timestamp, 2021-07-14 18:52:46, 9);
+
+
+(LID, 78157); (197, App Name, Google Chrome, 10); (197, Search keyword, HyperTough HT309 OBD2 Scan Automotive Diagnostic Tool Code Reader, Red - Walmart.com - Walmart.com, 9); (197, Timestamp, 2021-07-14 18:52:46, 9);
+
+
+(LID, 78158); (198, App Name, Google Chrome, 10); (198, Search keyword, HyperTough HT309 OBD2 Scan Automotive Diagnostic Tool Code Reader, Red - Walmart.com - Walmart.com, 9); (198, Timestamp, 2021-07-14 18:47:53, 9);
+
+
+(LID, 78159); (199, App Name, Google Chrome, 10); (199, Search keyword, HyperTough HT309 OBD2 Scan Automotive Diagnostic Tool Code Reader, Red - Walmart.com - Walmart.com, 9); (199, Timestamp, 2021-07-14 18:52:46, 9);
+
+
+(LID, 78160); (200, App Name, Google Chrome, 10); (200, Search keyword, HyperTough HT309 OBD2 Scan Automotive Diagnostic Tool Code Reader, Red - Walmart.com - Walmart.com, 9); (200, Timestamp, 2021-07-14 18:52:46, 9);
+
+
+(LID, 78161); (201, App Name, Google Chrome, 10); (201, Search keyword, cheap obd scanner, 9); (201, Timestamp, 2021-07-05 18:48:12, 10);
+
+
+(LID, 78162); (202, App Name, Google Chrome, 10); (202, Search keyword, cheap obd scanner, 10); (202, Timestamp, 2021-07-05 18:48:12, 9);
+
+
+(LID, 78163); (203, App Name, Google Chrome, 10); (203, Search keyword, cheap obd scanner, 10); (203, Timestamp, 2021-07-05 18:48:12, 9);
+
+
+(LID, 78164); (204, App Name, Google Chrome, 10); (204, Search keyword, cheap obd scanner, 10); (204, Timestamp, 2021-07-05 18:52:05, 9);
+
+
+(LID, 78165); (205, App Name, Google Chrome, 10); (205, Search keyword, cheap obd scanner, 10); (205, Timestamp, 2021-07-05 18:51:45, 9);
+
+
+(LID, 78166); (206, App Name, Google Chrome, 10); (206, Timestamp, 2021-07-05 18:48:15, 10);
+
+
+(LID, 78167); (207, App Name, Google Chrome, 10); (207, Search keyword, OBD2 Scanner & WiFi Car Code Reader – Clears Check Engine Lights Instantly – Diagnose 3000 Car Codes - Wireless Car Diagnostic Scanner – Auto Scanner for 1996+ Vehicles (iOS & Android Devices Only); 9); (207, Timestamp, 2022-01-12 10:54:53, 9);
+
+
+(LID, 78168); (208, App Name, Google Chrome, 10); (208, Search keyword, OBD2 Scanner & WiFi Car Code Reader – Clears Check Engine Lights Instantly – Diagnose 3000 Car Codes - Wireless Car Diagnostic Scanner – Auto Scanner for 1996+ Vehicles (iOS & Android Devices Only); 9); (208, Timestamp, 2022-01-12 10:29:05, 9);
+
+
+(LID, 78169); (209, App Name, Google Chrome, 10); (209, Search keyword, Cheap OBD2 Scanner: The 10 Best Choices (Under $100); Review 2021, 10); (209, Timestamp, 2022-01-12 10:55:11, 9);
+
+
+(LID, 78170); (210, App Name, Google Chrome, 10); (210, Search keyword, interesting car apps, 10); (210, Timestamp, 2021-07-08 04:02:39, 10);
+
+
+(LID, 78171); (211, App Name, Google Chrome, 10); (211, Search keyword, The 10 Best Car Apps for Smartphones, 10); (211, Timestamp, 2022-01-12 13:30:18, 9);
+
+
+(LID, 78172); (212, App Name, Google Chrome, 10); (212, Search keyword, blanton's bourbon, 10); (212, Timestamp, 2021-07-08 03:42:39, 10);
+
+
+(LID, 78173); (213, App Name, Google Chrome, 10); (213, Search keyword, blanton's bourbon, 10); (213, Timestamp, 2021-07-08 03:42:45, 10);
+
+
+(LID, 78174); (214, App Name, Google Chrome, 10); (214, Search keyword, blanton's bourbon, 10); (214, Timestamp, 2021-07-08 03:42:46, 9);
+
+
+(LID, 78175); (215, App Name, Google Chrome, 10); (215, Search keyword, blanton's bourbon, 10); (215, Timestamp, 2021-07-08 03:42:50, 9);
+
+
+(LID, 78176); (216, App Name, Google Chrome, 10); (216, Search keyword, blanton's bourbon, 10); (216, Timestamp, 2021-07-08 03:42:48, 9);
+
+
+(LID, 78177); (217, App Name, Google Chrome, 10); (217, Search keyword, blanton's bourbon, 10); (217, Timestamp, 2021-07-08 03:42:48, 9);
+
+
+(LID, 78178); (218, App Name, Google Chrome, 10); (218, Search keyword, blanton's bourbon, 10); (218, Timestamp, 2021-07-08 03:42:48, 9);
+
+
+(LID, 78179); (219, App Name, Google Chrome, 10); (219, Search keyword, blanton's bourbon, 10); (219, Timestamp, 2021-07-08 03:42:49, 9);
+
+
+(LID, 78180); (220, App Name, Google Chrome, 10); (220, Search keyword, blanton's bourbon, 10); (220, Timestamp, 2021-07-08 03:42:50, 9);
+
+
+(LID, 78181); (221, App Name, Google Chrome, 10); (221, Search keyword, blanton's bourbon, 10); (221, Timestamp, 2021-07-08 03:42:53, 9);
+
+
+(LID, 78182); (222, App Name, Google Chrome, 10); (222, Search keyword, blanton's bourbon, 10); (222, Timestamp, 2021-07-08 03:42:56, 9);
+
+
+(LID, 78183); (223, App Name, Google Chrome, 10); (223, Search keyword, blanton's bourbon, 10); (223, Timestamp, 2021-07-08 03:42:59, 9);
+
+
+(LID, 78184); (224, App Name, Google Chrome, 10); (224, Search keyword, blanton's bourbon, 10); (224, Timestamp, 2021-07-08 03:43:01, 9);
+
+
+(LID, 78185); (225, App Name, Google Chrome, 10); (225, Search keyword, blanton's bourbon, 10); (225, Timestamp, 2021-07-08 03:43:03, 9);
+
+
+(LID, 78186); (226, App Name, Google Chrome, 10); (226, Search keyword, blanton's bourbon, 10); (226, Timestamp, 2021-07-15 13:16:12, 9);
+
+
+(LID, 78187); (227, App Name, Google Chrome, 10); (227, Search keyword, blanton's bourbon, 10); (227, Timestamp, 2021-07-15 13:16:20, 9);
+
+
+(LID, 78188); (228, App Name, Google Chrome, 10); (228, Search keyword, blanton's bourbon, 10); (228, Timestamp, 2021-07-15 13:16:24, 9);
+
+
+(LID, 78189); (229, App Name, Google Chrome, 10); (229, Search keyword, blanton's bourbon, 10); (229, Timestamp, 2021-07-15 13:16:28, 9);
+
+
+(LID, 78190); (230, App Name, Google Chrome, 10); (230, Search keyword, blanton's bourbon, 10); (230, Timestamp, 2021-07-15 13:16:33, 9);
+
+
+(LID, 78191); (231, App Name, Google Chrome, 10); (231, Search keyword, blanton's bourbon, 10); (231, Timestamp, 2021-07-15 13:16:37, 9);
+
+
+(LID, 78192); (232, App Name, Google Chrome, 10); (232, Search keyword, blanton's bourbon, 10); (232, Timestamp, 2021-07-08 03:42:54, 9);
+
+
+(LID, 78193); (233, App Name, Google Chrome, 10); (233, Search keyword, blanton's bourbon, 10); (233, Timestamp, 2021-07-08 03:44:34, 9);
+
+
+(LID, 78194); (234, App Name, Google Chrome, 10); (234, Search keyword, Blantons Whiskey, 9); (234, Search keyword, Bourbon, 9); (234, Search keyword, Original Single Barrel, 9); (234, Timestamp, 2021-07-09 18:49:23, 10);
+
+
+(LID, 78195); (235, App Name, Google Chrome, 10); (235, Search keyword, Blantons Whiskey, 9); (235, Search keyword, Bourbon, 9); (235, Search keyword, Original Single Barrel, 9); (235, Timestamp, 2021-07-09 18:35:45, 10);
+
+
+(LID, 78196); (236, App Name, Google Chrome, 10); (236, Search keyword, Blantons Whiskey, 9); (236, Search keyword, Bourbon, 9); (236, Search keyword, Original Single Barrel, 9); (236, App Name, Instacart, 10); (236, Timestamp, 2021-07-09 18:34:01, 10);
+
+
+(LID, 78197); (237, App Name, Google Chrome, 10); (237, App Name, Instacart, 10); (237, Search keyword, Blantons Whiskey, 9); (237, Search keyword, Bourbon, 9); (237, Search keyword, Original Single Barrel, 9); (237, Address, Blacksburg, VA 24060, USA, 8); (237, Timestamp, 2021-07-09 18:37:00, 10);
+
+
+(LID, 78198); (238, App Name, Google Chrome, 10); (238, Search keyword, blanton's bourbon, 10); (238, Search keyword, blanton, 9); (238, Timestamp, 2024-03-15 14:23:01, 9);
+
+
+(LID, 78199); (239, App Name, Google Chrome, 10); (239, Search keyword, 9 Money Moves Every Marylander Needs to Make This Week, 9); (239, Address, Maryland, USA, 8); (239, Timestamp, 2021-01-09 03:19:47, 10);
+
+
+(LID, 78200); (240, App Name, Google Chrome, 10); (240, Search keyword, blanton's bourbon, 10); (240, Timestamp, 2024-03-15 14:28:53, 9);
+
+
+(LID, 78201); (241, App Name, Google Chrome, 10); (241, Search keyword, blanton's bourbon, 10); (241, Timestamp, 2024-03-15 14:30:49, 9);
+
+
+(LID, 78202); (242, App Name, Google Chrome, 10); (242, Search keyword, Buy Blanton's Original Single Barrel Bourbon Whiskey, 9); (242, Search keyword, Blanton's - Wooden Cork #1 Online Liquor Store, 9); (242, Timestamp, 2021-01-09 19:02:59, 10);
+
+
+(LID, 78203); (243, App Name, Google Chrome, 10); (243, Search keyword, Buy Blanton's Original Single Barrel Bourbon Whiskey, 9); (243, Search keyword, Blanton's - Wooden Cork #1 Online Liquor Store, 9); (243, Timestamp, 2021-01-09 19:35:54, 10);
+
+
+(LID, 78204); (244, App Name, Google Chrome, 10); (244, Search keyword, Your Shopping Cart, 7); (244, Timestamp, 2024-03-15 14:33:12, 9);
+
+
+(LID, 78205); (245, App Name, Google Chrome, 10); (245, Search keyword, Information - Wooden Cork - Checkout, 10); (245, Timestamp, 2024-03-15 14:33:10, 10);
+
+
+(LID, 78206); (246, App Name, Google Chrome, 10); (246, Search keyword, chester springs pa zip code, 10); (246, Address, Chester Springs, PA, 8); (246, Timestamp, 2021-07-09 17:20:03, 10);
+
+
+(LID, 78207); (247, App Name, Google Chrome, 10); (247, Search keyword, blantons bourbon, 9); (247, Timestamp, 2021-07-16 06:59:34, 9);
+
+
+(LID, 78208); (248, App Name, Google Chrome, 10); (248, Timestamp, 2021-07-09 17:48:30, 9);
+
+
+(LID, 78209); (249, App Name, Google Chrome, 10); (249, Search keyword, liquor store near me, 10); (249, Timestamp, 2021-07-15 13:45:54, 9);
+
+
+(LID, 78210); (250, App Name, Google Chrome, 10); (250, Search keyword, liquor store near me, 10); (250, Timestamp, 2021-07-15 13:32:44, 9);
+
+
+(LID, 78211); (251, App Name, Google Chrome, 10); (251, Search keyword, liquor stores in Blacksburg, VA, 10); (251, Address, Blacksburg, VA, 9); (251, Timestamp, 2021-01-08 23:37:13, 9); 
+
+
+(LID, 78212); (252, App Name, Google Chrome, 10); (252, Search keyword, blanton's bourbon, 10); (252, Search keyword, blanton, 9); (252, Timestamp, 1643-01-20 00:23:58, 9);  
+
+
+(LID, 78213); (253, App Name, Google Chrome, 10); (253, Search keyword, blanton's bourbon, 10); (253, Search keyword, blanton, 9); (253, Timestamp, 1643-01-20 00:23:58, 9);  
+
+
+(LID, 78214); (254, App Name, Google Chrome, 10); (254, Search keyword, blanton's bourbon, 10); (254, Search keyword, blanton, 9); (254, Timestamp, 1643-01-20 00:23:59, 9);  
+
+
+(LID, 78215); (255, App Name, Google Chrome, 10); (255, Search keyword, blanton's bourbon, 10); (255, Search keyword, blanton, 9); (255, Timestamp, 1643-01-20 00:23:59, 9);  
+
+
+(LID, 78216); (256, App Name, Google Chrome, 10); (256, Search keyword, blanton's bourbon, 10); (256, Search keyword, blanton, 9); (256, Timestamp, 1643-01-20 00:24:00, 9);  
+
+
+(LID, 78217); (257, App Name, Google Chrome, 10); (257, Search keyword, blanton's bourbon, 10); (257, Search keyword, blanton, 9); (257, Timestamp, 1643-01-20 00:24:00, 9);  
+
+
+(LID, 78218); (258, App Name, Google Chrome, 10); (258, Search keyword, blanton's bourbon, 10); (258, Search keyword, blanton, 9); (258, Timestamp, 1643-01-20 00:24:00, 9);  
+
+
+(LID, 78219); (259, App Name, Google Chrome, 10); (259, Search keyword, blanton's bourbon, 10); (259, Search keyword, blanton, 9); (259, Timestamp, 1643-01-20 00:24:00, 9);  
+
+
+(LID, 78220); (260, App Name, Google Chrome, 10); (260, Search keyword, blanton's bourbon, 10); (260, Search keyword, blanton, 9); (260, Timestamp, 1643-01-20 00:24:00, 9);
+
+
+(LID, 78223); (263, App Name, Google Chrome, 10); (263, Search keyword, blanton's bourbon, 10); (263, Search keyword, blanton, 9); (263, Timestamp, 2023-09-15 10:29:42, 10);  
+
+
+(LID, 78224); (264, App Name, Google Chrome, 10); (264, Search keyword, blanton's bourbon, 10); (264, Search keyword, blanton, 9); (264, Timestamp, 2023-09-15 10:29:46, 10);  
+
+
+(LID, 78225); (265, App Name, Google Chrome, 10); (265, Search keyword, blanton's bourbon, 10); (265, Search keyword, blanton, 9); (265, Timestamp, 2023-09-15 10:29:50, 10);  
+
+
+(LID, 78226); (266, App Name, Google Chrome, 10); (266, Search keyword, blanton's bourbon, 10); (266, Search keyword, blanton, 9); (266, Timestamp, 2023-09-15 10:29:55, 10);  
+
+
+(LID, 78227); (267, App Name, Google Chrome, 10); (267, Search keyword, blanton's bourbon, 10); (267, Search keyword, blanton, 9); (267, Timestamp, 2023-09-15 10:29:58, 10);  
+
+
+(LID, 78228); (268, App Name, Google Chrome, 10); (268, Search keyword, blanton's bourbon, 10); (268, Search keyword, blanton, 9); (268, Timestamp, 2023-09-15 10:30:01, 10);  
+
+
+(LID, 78229); (269, App Name, Google Chrome, 10); (269, Search keyword, blanton's bourbon, 10); (269, Search keyword, blanton, 9); (269, Timestamp, 2023-09-15 10:30:04, 10); 
+
+
+(LID, 78230); (270, App Name, Google Chrome, 10); (270, Search keyword, blanton's bourbon, 10); (270, Search keyword, blanton, 9); (270, Timestamp, 2023-09-15 10:30:08, 10);
+
+
+(LID, 78231); (271, App Name, Google Chrome, 10); (271, Search keyword, blanton's bourbon, 10); (271, Search keyword, blanton, 9); (271, Timestamp, 2023-09-15 10:30:12, 10); 
+
+
+(LID, 78232); (272, App Name, Google Chrome, 10); (272, Search keyword, blanton's bourbon, 10); (272, Search keyword, blanton, 9); (272, Timestamp, 2023-09-15 10:30:16, 10);
+
+
+(LID, 78233); (273, App Name, Google Chrome, 10); (273, Search keyword, blanton's bourbon, 10); (273, Search keyword, blanton, 9); (273, Timestamp, 2023-09-15 10:30:46, 10); 
+
+
+(LID, 78234); (274, App Name, Google Chrome, 10); (274, Search keyword, blanton's bourbon, 10); (274, Search keyword, blanton, 9); (274, Timestamp, 2023-09-15 10:30:51, 10);
+
+
+(LID, 78235); (275, App Name, Google Chrome, 10); (275, Search keyword, blanton's bourbon, 10); (275, Search keyword, blanton, 9); (275, Timestamp, 2023-09-15 10:30:55, 10); 
+
+
+(LID, 78236); (276, App Name, Google Chrome, 10); (276, Search keyword, blanton's bourbon, 10); (276, Search keyword, blanton, 9); (276, Timestamp, 2023-09-15 10:31:00, 10); 
+
+
+(LID, 78237); (277, App Name, Google Chrome, 10); (277, Search keyword, blanton's bourbon, 10); (277, Search keyword, blanton, 9); (277, Timestamp, 2023-09-15 10:31:03, 10);
+
+
+(LID, 78238); (278, App Name, Google Chrome, 10); (278, Search keyword, blanton's bourbon, 10); (278, Search keyword, blanton, 9); (278, Timestamp, 2023-09-15 10:31:07, 10);  
+
+
+(LID, 78239); (279, App Name, Google Chrome, 10); (279, Search keyword, blanton's bourbon, 10); (279, Search keyword, blanton, 9); (279, Timestamp, 2023-09-15 10:31:10, 10);  
+
+
+(LID, 78240); (280, App Name, Google Chrome, 10); (280, Search keyword, blanton's bourbon, 10); (280, Search keyword, blanton, 9); (280, Timestamp, 2023-09-15 10:31:14, 10);  
+
+
+(LID, 78241); (281, App Name, Google Chrome, 10); (281, Search keyword, blanton's bourbon, 10); (281, Search keyword, blanton, 9); (281, Timestamp, 2023-09-15 10:31:19, 10);  
+
+
+(LID, 78242); (282, App Name, Google Chrome, 10); (282, Search keyword, blanton's bourbon, 10); (282, Search keyword, blanton, 9); (282, Timestamp, 2023-09-15 10:31:22, 10);
+
+
+(LID, 78249); (289, App Name, Google Chrome, 10); (289, Search keyword, blanton's bourbon, 10); (289, Timestamp, 2023-09-15 10:31:12, 10);
+
+
+(LID, 78250); (290, App Name, Google Chrome, 10); (290, Search keyword, BLANTON'S BOURBON SINGLE BARREL, 9); (290, Search keyword, modernliquors.com, 8); (290, Timestamp, 2021-07-05 15:10:22, 10);
+
+
+(LID, 78251); (291, App Name, Google Chrome, 10); (291, Search keyword, BLANTON'S BOURBON SINGLE BARREL, 9); (291, Search keyword, modernliquors.com, 8); (291, Timestamp, 2021-07-05 15:22:04, 10);
+
+

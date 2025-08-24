@@ -1,0 +1,600 @@
+(LID, 74693), (RL, 1), (_id, 1), (username, deleted ), (combinedUsernameRowId, 1861), (userId, 9002a6f8-54f8-4540-bc16-53a6b37f0688), (displayName, deleted ), (bitmojiAvatarId, 99258260485_17-s5), (bitmojiSelfieId, 10226013), (serverDisplayName, deleted ), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 74813), (RL, 571), (_id, 2010), (key, STICKERS~BITMOJI_SEARCH_TAGS_VERSION_SYNCED), (type, 0), (stringValue, 139323518)
+
+
+(LID, 74814), (RL, 572), (_id, 2011), (key, STICKERS~CONTEXTUAL_STICKER_PACK_URLSYNCED_V1), (type, 0), (stringValue, {"packs":[{"cacheKey":-1216023001,"version":107,"pack":"cameo-pack-TopMiddleTimeInfoStickers"},{"cacheKey":-1599659274,"version":107,"pack":"cameo-pack-IncreasedMiddayStickers"},{"cacheKey":1987453161,"version":222,"pack":"cameo-pack-FeaturedUniversalStickers"},{"cacheKey":797946586,"version":222,"pack":"cameo-pack-MondayStickers"},{"cacheKey":1787043233,"version":-1778897843,"pack":"bitmoji-geopack-en-bitmoji-hometab-preview-hometab_exp2"},{"cacheKey":-1081847327,"version":-1778897843,"pack":"bitmoji-geopack-en-bitmoji-hometab-preview-hometab_exp"}]})
+
+
+(LID, 74815), (RL, 573), (_id, 2020), (key, IDENTITY~FEED_HEADER_PROMPT_V2_STATE_SYNC_PROTO), (type, 4), (stringValue, CNmpioUGEgoIAxADGL+oioUG), (needSync, 0), (version, 1618078804869)
+
+
+(LID, 74816), (RL, 574), (_id, 2022), (key, IDENTITY~PHONE_VERIFICATION_SMS_FORMAT), (type, 0), (stringValue, <#> Snapchat Code: {0}. Happy Snapping! qunyt57f5Rf)
+
+
+(LID, 74817), (RL, 576), (_id, 2024), (key, IDENTITY~INAPP_COUNTRY_CODE), (type, 0), (stringValue, US)
+
+
+(LID, 74818), (RL, 577), (_id, 2025), (key, IDENTITY~SUCCESSFULLY_SYNCED_CONTACTS_DURING_REG), (type, 0), (booleanValue, 1)
+
+
+(LID, 74819), (RL, 3), (_id, 3), (groupKey, CoreData 9002a6f8-54f8-4540-bc16-53a6b37f0688), (itemKey, CjAKCENvcmVEYXRhEiQ5MDAyYTZmOC01NGY4LTQ1NDAtYmMxNi01M2E2YjM3ZjA2ODgaEQoEcHJvcBIJY29yZV9kYXRh), (textVal, 1990-01-31)
+
+
+(LID, 74820), (RL, 19), (tag, good morning), (lensId, 42151550932), (lensIconContentUri, content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FyVFXd3xhUxTURFvPjVDDQ%3Fbo%3DEhgaABoAMgF9OgEEQgYI4bbC8AVIAlASYAE%253D%26uc%3D18)
+
+
+(LID, 74821), (RL, 21), (tag, good night), (lensId, 29929687239), (lensIconContentUri, content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FelDuwviDEd2BjOrdrzmYU%3Fbo%3DEhgaABoAMgF9OgEEQgYIy-3J8AVIAlASYAE%253D%26uc%3D18)
+
+
+(LID, 74976), (RL, 20), (_id, 20), (username, official.rayy24), (combinedUsernameRowId, 26), (userId, cdc7aa81-2a8d-4178-a1f9-30020a0e319f), (displayName, Baby RayðŸ¥¤ã²), (bitmojiAvatarId, 99392822578_2-s5), (bitmojiSelfieId, 10226459), (serverDisplayName, Baby RayðŸ¥¤ã²), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 74977), (RL, 22), (_id, 22), (username, june_elyse7), (combinedUsernameRowId, 28), (userId, 5bb0b22e-ae17-4807-9085-7f751b873528), (displayName, June :), (bitmojiAvatarId, 99063029090_61-s5), (bitmojiSelfieId, 10226019), (serverDisplayName, June :), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 74978), (RL, 23), (_id, 23), (username, ksnuffer23), (combinedUsernameRowId, 29), (userId, f9882850-7ae1-4082-81ba-48d2b4badef6), (displayName, Kaitlyn Snuffer), (bitmojiAvatarId, 99016965924_30-s5), (bitmojiSelfieId, 10226605), (serverDisplayName, Kaitlyn Snuffer), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 74979), (RL, 24), (_id, 24), (username, mel.boouni), (combinedUsernameRowId, 30), (userId, e0a9d702-901d-4867-8084-d8c633b0289d), (displayName, Londino ðŸ¦–), (bitmojiAvatarId, 99008531169_53-s5), (bitmojiSelfieId, 20061987), (serverDisplayName, Londino ðŸ¦–), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 74980), (RL, 25), (_id, 25), (username, period_2018), (combinedUsernameRowId, 31), (userId, 558d5fb1-d91e-4028-a17e-30ae45977e27), (displayName, VivianðŸ’œ), (bitmojiAvatarId, 99111012003_10-s5), (bitmojiSelfieId, 10226807), (serverDisplayName, VivianðŸ’œ), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 74981), (RL, 28), (_id, 28), (username, babygirl_ali124), (combinedUsernameRowId, 34), (userId, 8c2c0582-8210-40c5-96c9-b518b5564af0), (displayName, Ali â¤ï¸), (bitmojiAvatarId, 99159493360_16-s5), (bitmojiSelfieId, 10220069), (serverDisplayName, Ali â¤ï¸), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 74982), (RL, 29), (_id, 29), (username, luissolis4093), (combinedUsernameRowId, 35), (userId, 5802a36c-bb10-4980-a77b-e783229f9770), (displayName, Luis Solis), (bitmojiAvatarId, 99258724280_2-s5), (bitmojiSelfieId, 10226454), (serverDisplayName, Luis Solis), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 74983), (RL, 31), (_id, 31), (username, itsnotashen), (combinedUsernameRowId, 37), (userId, b185093b-4894-431a-a08d-a05dc9e0f3e2), (displayName, AshenðŸ¥€ðŸ–¤), (bitmojiAvatarId, 99340143544_10-s5), (bitmojiSelfieId, 10226843), (serverDisplayName, AshenðŸ¥€ðŸ–¤), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 74984), (RL, 34), (_id, 34), (username, lari\_mart1nez), (combinedUsernameRowId, 40), (userId, 1523e6f5-fc69-4c16-915e-b1a42adde6f3), (displayName, Larissa), (bitmojiAvatarId, 99454818758_3-s5), (bitmojiSelfieId, 10220069), (serverDisplayName, Larissa), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 74985), (RL, 35), (_id, 35), (username, thareal\_dmj1), (combinedUsernameRowId, 41), (userId, bdccfb1b-a79c-43d5-abbf-f5c6302c2aab), (displayName, Baby macðŸ˜ðŸ‘¶ðŸ¾), (bitmojiAvatarId, 99370825638_1-s5), (bitmojiSelfieId, 10220069), (serverDisplayName, Baby macðŸ˜ðŸ‘¶ðŸ¾), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77558), (RL, 1297), (_id, 1297), (username, oh_poops), (combinedUsernameRowId, 1615), (userId, e5980aac-f7f3-4a9c-b954-11c9ad9bcb3c), (displayName, MichelleeeðŸ’™) (serverDisplayName, MichelleeeðŸ’™) (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0) (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77559), (RL, 1299), (_id, 1299), (username, gaby_alvares1), (combinedUsernameRowId, 1617), (userId, 37565809-3df9-4760-8e82-9c66f5631016), (displayName, Gabby Estradaâš½ï¸ðŸ‡²ðŸ‡½), (bitmojiAvatarId, 99137125963_52-s5), (bitmojiSelfieId, 10226813) (serverDisplayName, Gabby Estradaâš½ï¸ðŸ‡²ðŸ‡½) (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0) (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77560), (RL, 1300), (_id, 1300), (username, eng9ali4), (combinedUsernameRowId, 1618), (userId, 41019896-e9b5-47a4-8b87-d5be08fd7c20), (displayName, Ali Ahmed), (bitmojiAvatarId, 99217718950_5-s5), (bitmojiSelfieId, 10220069) (serverDisplayName, Ali Ahmed) (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0) (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77561), (RL, 1301), (_id, 1301), (username, tabithatene19), (combinedUsernameRowId, 1619), (userId, bc20f123-9a2e-4041-aaef-f7635d723fbc), (displayName, Tabitha Tene), (bitmojiAvatarId, 99121372264_10-s5), (bitmojiSelfieId, 10226688) (serverDisplayName, Tabitha Tene) (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0) (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77562), (RL, 1302), (_id, 1302), (username, parkerboy3000), (combinedUsernameRowId, 1620), (userId, e37b3dfd-84d8-44ad-87da-3c54cf6f19b0), (displayName, Parker), (bitmojiAvatarId, 99424315382_1-s5), (bitmojiSelfieId, 10220069) (serverDisplayName, Parker) (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0) (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77563), (RL, 1303), (_id, 1303), (username, kuligt22), (combinedUsernameRowId, 1621), (userId, cf46bf40-a748-4b82-8ac4-9bf22acf66d6), (displayName, ðŸ™ðŸ‡ºðŸ‡¸Tayton KuligðŸ‡ºðŸ‡¸ðŸ™), (bitmojiAvatarId, 99268219403_6-s5), (bitmojiSelfieId, 10220069) (serverDisplayName, ðŸ™ðŸ‡ºðŸ‡¸Tayton KuligðŸ‡ºðŸ‡¸ðŸ™) (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0) (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77564), (RL, 1304), (_id, 1304), (username, mickey.mouse806), (combinedUsernameRowId, 1622), (userId, a5793ab8-60b1-4cfe-8359-6dcf9952b5a2), (displayName, MikeyðŸ§™ðŸ¿â€â™‚ï¸), (bitmojiAvatarId, 99123930830_10-s5), (bitmojiSelfieId, 10226681) (serverDisplayName, MikeyðŸ§™ðŸ¿â€â™‚ï¸) (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0) (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77565), (RL, 1305), (_id, 1305), (username, xchey05), (combinedUsernameRowId, 1626), (userId, d39034db-0da7-4b49-ae2e-447176a46538), (displayName, chey <3), (bitmojiAvatarId, 559429355_27-s5), (bitmojiSelfieId, 10226019) (serverDisplayName, chey <3) (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0) (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77566), (RL, 1309), (_id, 1309), (username, noah_farag2020), (combinedUsernameRowId, 1630), (userId, e7fe6f34-2a45-45a7-acb8-ac92e8766773), (displayName, noah farag), (bitmojiAvatarId, 99199819993_5-s5), (bitmojiSelfieId, 10220069) (serverDisplayName, noah farag) (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0) (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77567), (RL, 1310), (_id, 1310), (username, acraw_12), (combinedUsernameRowId, 1631), (userId, 5bd45e91-75bb-4c8c-91e7-531312b56871), (displayName, Austin Crawford), (bitmojiAvatarId, 99275079198_7-s5), (bitmojiSelfieId, 10220069) (serverDisplayName, Austin Crawford) (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0) (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77568), (RL, 1311), (_id, 1311), (username, yktv.erica6), (combinedUsernameRowId, 1632) (userId, 0b708965-d470-4f2f-9851-129be4bd546d) (displayName, Ericaâ¤ï¸Ž) (bitmojiAvatarId, 99418163000_3-s5) (bitmojiSelfieId, 10226681) (serverDisplayName, Ericaâ¤ï¸Ž) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77569), (RL, 1314), (_id, 1314), (username, a_velez6407), (combinedUsernameRowId, 1635) (userId, ef877388-f7c1-4ad4-b207-7e2f1b278e86) (displayName, angel velez) (bitmojiAvatarId, 99465860425_1-s5) (bitmojiSelfieId, 10220069) (serverDisplayName, angel velez) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77570), (RL, 1315), (_id, 1315), (username, lizethvazq901), (combinedUsernameRowId, 1641) (userId, cc6d0085-e53e-48f1-8a5a-e4ea515badb8) (displayName, Lizethâ™ðŸ‡²ðŸ‡½) (bitmojiAvatarId, 99274592611_11-s5) (bitmojiSelfieId, 10220069) (serverDisplayName, Lizethâ™ðŸ‡²ðŸ‡½) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77571), (RL, 1319), (_id, 1319), (username, simpinq.jade), (combinedUsernameRowId, 1645), (userId, 9cf2e929-2d90-4c02-8094-c8266efe2b92), (displayName, Jade), (bitmojiAvatarId, 99432486209_4-s5), (bitmojiSelfieId, 10226013) (serverDisplayName, Jade) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77572), (RL, 1321), (_id, 1321), (username, itsyourgirlmel3), (combinedUsernameRowId, 1647), (userId, 60c65be6-19e2-4079-a57e-c93cb1a4993c), (displayName, Melinaa), (bitmojiAvatarId, 413379432_22-s5), (bitmojiSelfieId, 10226029) (serverDisplayName, Melinaa) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77573), (RL, 1322), (_id, 1322), (username, chrisrodrig7711), (combinedUsernameRowId, 1648), (userId, aa7ed74a-b212-4f73-8c04-bce6d02b8ae1), (displayName, ChrisðŸ¤ªðŸ™ƒ), (bitmojiAvatarId, 99156280828_4-s5), (bitmojiSelfieId, 10226463) (serverDisplayName, ChrisðŸ¤ªðŸ™ƒ) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77574), (RL, 1323), (_id, 1323), (username, stoopid.bitch43), (combinedUsernameRowId, 1649), (userId, 96103d74-72ce-45b8-bafe-d0a30366fd0f), (displayName, yuritzyðŸ‡²ðŸ‡½), (bitmojiAvatarId, 99361391822_9-s5), (bitmojiSelfieId, 10226396) (serverDisplayName, yuritzyðŸ‡²ðŸ‡½) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77575), (RL, 1325), (_id, 1325), (username, khalieoverton03), (combinedUsernameRowId, 1651), (userId, b0fa3a89-71d1-4e6b-bdcc-07bbdde62275), (displayName, Khalie. ðŸ’—ðŸ˜.), (bitmojiAvatarId, 257710856_23-s5), (bitmojiSelfieId, 10226459) (serverDisplayName, Khalie. ðŸ’—ðŸ˜.) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77576), (RL, 1328), (_id, 1328), (username, lclark245), (combinedUsernameRowId, 1654), (userId, 397882c2-5f27-4ef9-98e0-ae96389468f5), (displayName, Legend Clark), (bitmojiAvatarId, 456989229_17-s5), (bitmojiSelfieId, 10226019) (serverDisplayName, Legend Clark) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77577), (RL, 1329), (_id, 1329), (username, darrion_kit2019), (combinedUsernameRowId, 1655), (userId, 481a4d6c-4a8c-4f69-8004-f865cd7c1192), (displayName, D Kitch), (bitmojiAvatarId, 99055451071_2-s5), (bitmojiSelfieId, 10220069) (serverDisplayName, D Kitch) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77578), (RL, 1330), (_id, 1330), (username, c_queenxoxo), (combinedUsernameRowId, 1656), (userId, aebbe777-4caf-483e-90be-50a63fd0df16), (displayName, Candace), (bitmojiAvatarId, 534841446_13-s5), (bitmojiSelfieId, 10220069) (serverDisplayName, Candace) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77579), (RL, 1332), (_id, 1332), (username, antonsson1581), (combinedUsernameRowId, 1658), (userId, 3040165c-ad9c-4151-84fd-5d3f7e5f073d), (displayName, Alexander Antonsson) (serverDisplayName, Alexander Antonsson) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77580), (RL, 1333), (_id, 1333), (username, lil_llamakj), (combinedUsernameRowId, 1659), (userId, ea5e982e-8340-4125-974f-6f32e853de5d), (displayName, ðŸ‘¾Kiarra-JadeðŸ‘¾), (bitmojiAvatarId, 376139101_53-s5), (bitmojiSelfieId, 10226396) (serverDisplayName, ðŸ‘¾Kiarra-JadeðŸ‘¾) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77581), (RL, 1334), (_id, 1334), (username, bw_millard), (combinedUsernameRowId, 1682), (userId, 5bf25191-3e31-489c-9e40-5b9a6cac7748), (displayName, Ben Millard), (bitmojiAvatarId, 557606360_11-s5), (bitmojiSelfieId, 10220069) (serverDisplayName, Ben Millard) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77582), (RL, 1335), (_id, 1335), (username, idyias), (combinedUsernameRowId, 1683), (userId, 0000a939-8ecc-4ad2-8716-9b10353f4353), (displayName, hazelâ¤), (bitmojiAvatarId, 551926581_9-s5), (bitmojiSelfieId, 10226428) (serverDisplayName, hazelâ¤) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77583), (RL, 1336), (_id, 1336), (username, not_kool1), (combinedUsernameRowId, 1684), (userId, c34d70f4-88f0-4876-b144-f951d20fd672), (displayName, Lav D), (bitmojiAvatarId, 99234360855_22-s5), (bitmojiSelfieId, 10226428) (serverDisplayName, Lav D) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77584), (RL, 1337), (_id, 1337), (username, bxbyjess08), (combinedUsernameRowId, 1685), (userId, 764b0a31-5c64-4c0e-8a39-2e4d3a6a9751), (displayName, jessy ðŸ¤.) (serverDisplayName, jessy ðŸ¤.) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77585), (RL, 1338), (_id, 1338), (username, dvasilchuk9), (combinedUsernameRowId, 1686), (userId, bb5a2583-fc38-4e11-8ae0-372114554a6b), (displayName, Dennis), (bitmojiAvatarId, 99022231556_69-s5), (bitmojiSelfieId, 10226605) (serverDisplayName, Dennis) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77586), (RL, 1340), (_id, 1340), (username, garrett_morss), (combinedUsernameRowId, 1688), (userId, 249cbc0b-3180-4e83-84bf-bd14394c4ee1), (displayName, Garrett Morss), (bitmojiAvatarId, 99426284820_8-s5), (bitmojiSelfieId, 10220069) (serverDisplayName, Garrett Morss) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77587), (RL, 1342), (_id, 1342), (username, tybalz23), (combinedUsernameRowId, 1690), (userId, 03ddc90f-2eac-450f-9c4a-7837e133c60b), (displayName, ty balzarini), (bitmojiAvatarId, 514410128_8-s5), (bitmojiSelfieId, 10220069) (serverDisplayName, ty balzarini) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77588), (RL, 1346), (_id, 1346), (username, chasehasashrimp), (combinedUsernameRowId, 1708), (userId, 0bd83352-f609-4d46-af2d-f11abc69f178), (displayName, Chase), (bitmojiAvatarId, 99441350188_33-s5), (bitmojiSelfieId, 10226727) (serverDisplayName, Chase) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77589), (RL, 1347), (_id, 1347), (username, jon_perkins2020), (combinedUsernameRowId, 1709), (userId, e60b6ec5-bc5d-4b9b-a1d9-3fb916ddded2), (displayName, Pappi JonðŸ˜‰), (bitmojiAvatarId, 99109234687_19-s5), (bitmojiSelfieId, 10226428) (serverDisplayName, Pappi JonðŸ˜‰) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77590), (RL, 1349), (_id, 1349), (username, theweirdgirl32), (combinedUsernameRowId, 1711), (userId, 109df0ec-fc00-4de8-86a7-3a84d15c45d6), (displayName, angel trinh ðŸ¤), (bitmojiAvatarId, 488224346_38-s5), (bitmojiSelfieId, 10226473) (serverDisplayName, angel trinh ðŸ¤) (friendLinkType, 5) (storyMuted, 0) (isPopular, 0) (isOfficial, 0) (isFideliusReady, 1) (isBrand, 0) (syncSource, 5) (isCameosSharingSupported, 0)
+
+
+(LID, 77638), (RL, 1423), (_id, 1423), (username, idgaflina), (combinedUsernameRowId, 1861), (userId, 304eec58-37af-49fd-a096-e8090fccd2d2), (displayName, lina :), (bitmojiAvatarId, 564819602_17-s5), (bitmojiSelfieId, 10226428), (serverDisplayName, lina :), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77639), (RL, 1424), (_id, 1424), (username, summm165), (combinedUsernameRowId, 1862), (userId, 04290dd8-b1f9-463c-8a33-19c87a300165), (displayName, Summer Easton), (bitmojiAvatarId, 99323905581_17-s5), (bitmojiSelfieId, 10226013), (serverDisplayName, Summer Easton), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77640), (RL, 1426), (_id, 1426), (username, pawel_pommes), (combinedUsernameRowId, 1864), (userId, b6ea1117-937d-407d-b937-8c311ba09521), (displayName, Sthlm Dunder ❄️🌳🔫🔪), (bitmojiAvatarId, 99380689614_6-s5), (bitmojiSelfieId, 10220069), (serverDisplayName, Sthlm Dunder ❄️🌳🔫🔪), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77641), (RL, 1427), (_id, 1427), (username, bitethetip), (combinedUsernameRowId, 1865), (userId, 02bdbb7a-b977-4804-a4db-a7e9e0e5d1e4), (displayName, Robert), (bitmojiAvatarId, 99168270870_2-s5), (bitmojiSelfieId, 10220069), (serverDisplayName, Robert), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77642), (RL, 1428), (_id, 1428), (username, christboi304), (combinedUsernameRowId, 1866), (userId, 7775c796-32bb-4cad-8fba-c7ba8237e5c7), (displayName, chris smitty), (bitmojiAvatarId, 99375448306_1-s5), (bitmojiSelfieId, 10220069), (serverDisplayName, chris smitty), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77643), (RL, 1429), (_id, 1429), (username, nashtogle), (combinedUsernameRowId, 1867), (userId, 624b80c5-0ed2-47d4-bda1-b57e323a5074), (displayName, ðŸ”¥Nash EscanillaðŸ”¥), (bitmojiAvatarId, 99435920983_13-s5), (bitmojiSelfieId, 10226013), (serverDisplayName, ðŸ”¥Nash EscanillaðŸ”¥), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77644), (RL, 1432), (_id, 1432), (username, abdimalika720), (combinedUsernameRowId, 1870), (userId, 94c6ebe1-1f06-4213-855a-9c8b94f71b5c), (displayName, Malik), (bitmojiAvatarId, 565992102_12-s5), (bitmojiSelfieId, 10226428), (serverDisplayName, Malik), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77645), (RL, 1434), (_id, 1434), (username, eredrick9), (combinedUsernameRowId, 1872), (userId, 21bb1155-43b6-4039-bf92-0ea56e3b9920), (displayName, Ella Redick), (bitmojiAvatarId, 99311566931_15-s5), (bitmojiSelfieId, 20061402), (serverDisplayName, Ella Redick), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77646), (RL, 1435), (_id, 1435), (username, jenny10843), (combinedUsernameRowId, 1873), (userId, 790e1a60-4570-4bb4-abc2-b81d9e367ea7), (displayName, JenniferðŸŒ¿ðŸ‡²ðŸ‡½), (bitmojiAvatarId, 99126768536_5-s5), (bitmojiSelfieId, 10226605), (serverDisplayName, JenniferðŸŒ¿ðŸ‡²ðŸ‡½), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77647), (RL, 1436), (_id, 1436), (username, itsyaboimo83), (combinedUsernameRowId, 1874), (userId, 47e158a5-9902-4356-ad63-73fdd28e066e), (displayName, MohamedðŸ’§âœŒðŸ¿), (bitmojiAvatarId, 543860410_3-s5), (bitmojiSelfieId, 10220069), (serverDisplayName, MohamedðŸ’§âœŒðŸ¿), (friendLinkType, 5), (storyMuted, 0), (isPopular, 0), (isOfficial, 0), (isFideliusReady, 1), (isBrand, 0), (syncSource, 5), (isCameosSharingSupported, 0)
+
+
+(LID, 77648), (RL, 2), (_id, 2), (storyId, my_story_ads79sdf), (displayName, My Story), (isLocal, 0), (kind, 3), (isPostable, 0), (lastSyncMaxSequence, 0), (userId, 9002a6f8-54f8-4540-bc16-53a6b37f0688)
+
+
+(LID, 77649), (RL, 8), (_id, 8), (storyId, abbb3850-1676-4234-9f9c-ada9227a72e1), (displayName, Kaylaaa), (isLocal, 0), (kind, 0), (isPostable, 0), (lastSyncMaxSequence, 5), (userId, abbb3850-1676-4234-9f9c-ada9227a72e1), (minSequence, 1), (maxSequence, 5)
+
+
+(LID, 77650), (RL, 9), (_id, 9), (storyId, a4bfe646-8e7c-4654-9bd7-7267d704b692), (displayName, ðŸ’œLaiiðŸ’™), (isLocal, 0), (kind, 0), (isPostable, 0), (lastSyncMaxSequence, 10), (userId, a4bfe646-8e7c-4654-9bd7-7267d704b692), (minSequence, 1), (maxSequence, 10)
+
+
+(LID, 77651), (RL, 10), (_id, 10), (storyId, 3e71338a-f17e-4b3e-a39e-3f413a485314), (displayName, isabela cobley), (isLocal, 0), (kind, 0), (isPostable, 0), (lastSyncMaxSequence, 1), (userId, 3e71338a-f17e-4b3e-a39e-3f413a485314), (minSequence, 1), (maxSequence, 1)
+
+
+(LID, 77652), (RL, 11), (_id, 11), (storyId, 543b8344-8276-42f3-a3a8-d0a90456b78f), (displayName, Jalen Echols), (isLocal, 0), (kind, 0), (isPostable, 0), (lastSyncMaxSequence, 1), (userId, 543b8344-8276-42f3-a3a8-d0a90456b78f), (minSequence, 1), (maxSequence, 1)
+
+
+(LID, 77653), (RL, 13), (_id, 13), (storyId, bec96384-9edd-4dfc-b8f3-94585972a769), (displayName, Zach), (isLocal, 0), (kind, 0), (isPostable, 0), (lastSyncMaxSequence, 1), (userId, bec96384-9edd-4dfc-b8f3-94585972a769), (minSequence, 1), (maxSequence, 1)
+
+
+(LID, 77701), (RL, 19), (_id, 3245), (storyId, 20d053d2-90bf-431e-9bed-9a6d55614074), (storyRowId, 1433), (rawSnapId, INBT0pC_Qx6b7ZptVWFAdAAAgvZlx3q_vOdZOAXqhkuF7AXqhktd7_____w), (creationTimestampMs, 1626208393083), (expirationTimestampMs, 1626294793083), (subTitles, []), (snapSource, c: 0 z: 0 a: 0), (hasSnappablesMetadata, 0), (mediaType, 1), (mediaId, INBT0pC_Qx6b7ZptVWFAdAAAgvZlx3q_vOdZOAXqhkuF7AXqhktd7_____w), (mediaUrl, https://cf-st.sc-cdn.net/m/NJgZ47b75MSYRpdpAiUSr?bo=EhUaABoAIgYIiZS9hwYyAQ1IB1ATYAE%3D&uc=19), (mediaKey, 9fAaksofdI5IbRZa2O/zi1b1C64zx6HbJ92XCkBhU+M=), (mediaIv, THVRFEUNERXh+H4qVoU/BQ==), (duration, 4), (isZipped, 0), (isInfiniteDuration, 0), (featureType, 1), (displayName, Sarah OhSoKawaiiXoxo), (timestamp, 1626288015323), (thumbnailUrl, https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRld0WW9SZWdNdnI3bVVWbHNuVURtP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng), (shareable, 1), (dynamicSnapSource, 0), (contextClientInfo, WgIIAQ==), (sequenceNumber, 2), (boltMediaContentObject, GtkCGi8SFU5KZ1o0N2I3NU1TWVJwZHBBaVVTchoAGgAiBgiJlL2HBjIBDToBBEgCUBNgAVoHRGZNZWRpYaIBJggKEhQKEiABSg4KCTohHiIbGBoXERD0AyIMCghCBgiw8beHBhIAogEmCBESFAoSIAFKDgoJVjIxMi8lLR4gEPQDIgwKCEIGCOTxt4cGEgCiASYIfhIUChIgAUoOCgk+JiMnHB4eHBIQ9AMiDAoIQgYI5PG3hwYSAKIBJghhEhQKEiABSg4KCSAVDQ4NDg0KExD0AyIMCghCBgjk8beHBhIAogEmCB4SFAoSIAFKDgoJMRoYHRMVFRQNEPQDIgwKCEIGCOTxt4cGEgCiASYIFBIUChIgAUoOCgkuGBUZExESEQoQ9AMiDAoIQgYIrPG3hwYSAKIBJggnEhQKEiABSg4KCUAhIh8eGxsVFRD0AyIMCghCBgiq8beHBhIA), (brandFriendliness, 0), (compositeStoryId, 18::20d053d2-90bf-431e-9bed-9a6d55614074::1626251484654), (isMediaPrefetched, 0), (lensId, 57418730882), (unlockablesSnapInfo, CiY5MjI3Njg1MC05QzM2LTQ3NTgtOUI5Qy1GOUY5OUE5NjE3NjV+MBoJCIKbsfPVARgBKAE=), (firstFrameContentObject, Gk0aNxIVTkpnWjQ3Yjc1TVNZUnBkcEFpVVNyGgAaACIGCImUvYcGMgENOgEEQgYIsPG3hwZIAlATYAFaCERmRkZyYW1logEHCIEIIgISAA==)
+
+
+(LID, 77702), (RL, 20), (_id, 3246), (storyId, 20d053d2-90bf-431e-9bed-9a6d55614074), (storyRowId, 1433), (rawSnapId, INBT0pC_Qx6b7ZptVWFAdAAAgyJY6qImShnOdAXqhkubpAXqhktdx_____w), (creationTimestampMs, 1626208393073), (expirationTimestampMs, 1626294793073), (subTitles, []), (snapSource, c: 0 z: 0 a: 0), (hasSnappablesMetadata, 0), (mediaType, 1), (mediaId, INBT0pC_Qx6b7ZptVWFAdAAAgyJY6qImShnOdAXqhkubpAXqhktdx_____w), (mediaUrl, https://bolt-gcdn.sc-cdn.net/w/KeOf694aTBQsL6R5dwcZK?bo=EhUaABoAIgYIiZS9hwYyAXZIDlATYAE%3D&uc=19), (mediaKey, 3FntWsrtxcegvsp+JYl8Yw93Vm2op5MiJ/UQhkXHpTw=), (mediaIv, g1R8EL8vKfxcNsTkC8piJw==), (duration, 9), (isZipped, 0), (isInfiniteDuration, 0), (featureType, 1), (displayName, Sarah OhSoKawaiiXoxo), (timestamp, 1626288015324), (thumbnailUrl, https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRld0WW9SZWdNdnI3bVVWbHNuVURtP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng), (shareable, 1), (dynamicSnapSource, 0), (contextClientInfo, WgIIAQ==), (sequenceNumber, 1), (boltMediaContentObject, GqsDGi0SFUtlT2Y2OTRhVEJRc0w2UjVkd2NaSxoAGgAiBgiJlL2HBjIBBDoBDVATYAFaB0RmTWVkaWGiATIIChIeChwgAUoYChMuLhwVEx0gGhEcFBIOHx8uKC0uEPQDIg4KCkIGCLPxt4cGSAQSAKIBMggREh4KHCABShgKEzg/LSMZLy0qGSweGxE1KD86REEQ9AMiDgoKQgYIiPK3hwZIAhIAogEyCH4SHgocIAFKGAoTLS0gGQ8jHR8RIRUTCyQgLCoxLxD0AyIOCgpCBgiI8reHBkgCEgCiATIIYRIeChwgAUoYChMcEhILCQsPDxcOCQUIEhASERcWEPQDIg4KCkIGCIjyt4cGSAISAKIBMggeEh4KHCABShgKEyUhGBILGRYXDBgPDgsbFCEfJCQQ9AMiDgoKQgYIiPK3hwZIAhIAogEyCBQSHgocIAFKGAoTJyMUDQ0WGBAMFwsMChgTJR4iIxD0AyIOCgpCBgi28beHBkgCEgCiATIIJxIeChwgAUoYChMyKxgaGSUfGxQjExUVKiAqJyopEPQDIg4KCkIGCLLxt4cGSAISAA==), (brandFriendliness, 0), (compositeStoryId, 18::20d053d2-90bf-431e-9bed-9a6d55614074::1626251484654), (isMediaPrefetched, 0), (lensId, 57418730882), (unlockablesSnapInfo, CiY5MjI3Njg1MC05QzM2LTQ3NTgtOUI5Qy1GOUY5OUE5NjE3NjV+MBoJCIKbsfPVARgBKAE=), (firstFrameContentObject, Gk0aNxIVS2VPZjY5NGFUQlFzTDZSNWR3Y1pLGgAaACIGCImUvYcGMgEEOgENQgYIs/G3hwZIBFATYAFaCERmRkZyYW1logEHCIEIIgISAA==)
+
+
+(LID, 77703), (RL, 1), (_id, 259), (snapId, 154e71f9-2cff-40e8-a74a-3b6e7f8e3d3c-0), (storyId, 19::d7a7ebeb-0fe4-4035-bb72-01fc812b0e6c::846051218146196), (storyRowId, 1434), (featureType, 1), (mediaUrl, https://app.snapchat.com/rsp/ads/snap/5080823434575888?buildType=RICHSNAP&buildSetting=hls_v5_med&hash=5306936316395536), (mediaDurationMillis, 25877), (adSnapKey, d2e2c8a3-9cf0-4713-b296-d27cbe5417b0), (brandName, Monster Legends), (headline, The top trending game of 2020), (adType, 1), (timestamp, 1626288015328), (isSharable, 1)
+
+
+(LID, 77704), (RL, 2), (_id, 260), (snapId, 154e71f9-2cff-40e8-a74a-3b6e7f8e3d3c-1), (storyId, 19::d7a7ebeb-0fe4-4035-bb72-01fc812b0e6c::846051218146196), (storyRowId, 1434), (featureType, 1), (mediaUrl, https://app.snapchat.com/rsp/ads/snap/6578413703528464?buildType=RICHSNAP&buildSetting=hls_v5_med&hash=5210521883901968), (mediaDurationMillis, 22144), (adSnapKey, 2d526f7a-c1f1-47c1-855d-e76a72f50266), (brandName, Monster Legends), (headline, The top trending game of 2020), (adType, 1), (timestamp, 1626288015329), (isSharable, 1)
+
+
+(LID, 77705), (RL, 3), (_id, 261), (snapId, 154e71f9-2cff-40e8-a74a-3b6e7f8e3d3c-2), (storyId, 19::d7a7ebeb-0fe4-4035-bb72-01fc812b0e6c::846051218146196), (storyRowId, 1434), (featureType, 1), (mediaUrl, https://app.snapchat.com/rsp/ads/snap/5008323547758608?buildType=RICHSNAP&buildSetting=hls_v5_med&hash=6153389679050768), (mediaDurationMillis, 26048), (adSnapKey, 13cffa05-b320-42bd-b199-b21765baee1b), (brandName, Monster Legends), (headline, The top trending game of 2020), (adType, 1), (timestamp, 1626288015329), (isSharable, 1)
+
+
+(LID, 78362), (RL, 19), (_id, 19), (groupKey, CoreData 9002a6f8-54f8-4540-bc16-53a6b37f0688), (itemKey, CjAKCENvcmVEYXRhEiQ5MDAyYTZmOC01NGY4LTQ1NDAtYmMxNi01M2E2YjM3ZjA2ODgaEQoEcHJvcBIJY29yZV9kYXRh), (blobVal, b'\nE\n0\n\x08CoreData\x12$9002a6f8-54f8-4540-bc16-53a6b37f0688\x1a\x11\n\x04prop\x12\tcore_data\x12\x08\n\x0211\x12\x02\x10\x02\x12\x08\n\x0222\x12\x02\n\x00\x12\x18\n\x0212\x12\x12\n\x1099424070114_1-s5\x12\x10\n\x0213\x12\n\n\x0810220069\x12\r\n\x0217\x12\x07X\xac\xb7\xeb\xd8\x89/\x12\n\n\x0218\x12\x04\n\x02US\x12\x08\n\x0219\x12\x02\x1a\x00\x12\x16\n\x011\x12\x11\n\x0fheisenbergcarro\x12\x13\n\x012\x12\x0e\n\x0cHeisenberg W\x12\x11\n\x013\x12\x0c\n\n1990-01-31\x12 \n\x014\x12\x1b\n\x19heisenbergcarro@gmail.com\x12\x07\n\x015\x12\x02 \x01\x12\x07\n\x016\x12\x02\n\x00\x12\x13\n\x017\x12\x0e\n\x0c+16506808040\x12\t\n\x018\x12\x04\n\x02US\x12\x07\n\x019\x12\x02\x10\x02\x12\x17\n\x0220\x12\x11\n\x0fheisenbergcarro\x12\x08\n\x0210\x12\x02\x10\x02\x12\x08\n\x0221\x12\x02\n\x00'), (score, 0.0)
+
+
+(LID, 78491), (RL, 1), (_id, 1), (originalUsername, heisenbergcarro), (mutableUsername, heisenbergcarro), (encodedUsername, heisenbergcarro|heisenbergcarro)
+
+
+(LID, 78492), (RL, 2), (_id, 2), (originalUsername, teamsnapchat), (encodedUsername, teamsnapchat|)
+
+
+(LID, 78493), (RL, 3), (_id, 4), (originalUsername, bbc2120), (encodedUsername, bbc2120|)
+
+
+(LID, 78494), (RL, 4), (_id, 5), (originalUsername, bethdutton2021), (encodedUsername, bethdutton2021|)
+
+
+(LID, 78495), (RL, 5), (_id, 6), (originalUsername, marsha4mellos), (encodedUsername, marsha4mellos|)
+
+
+(LID, 78496), (RL, 6), (_id, 12), (originalUsername, yyani040), (encodedUsername, yyani040|)
+
+
+(LID, 78497), (RL, 7), (_id, 13), (originalUsername, julianna_fish19), (encodedUsername, julianna_fish19|)
+
+
+(LID, 78498), (RL, 8), (_id, 14), (originalUsername, bowhoe123), (encodedUsername, bowhoe123|)
+
+
+(LID, 78499), (RL, 9), (_id, 15), (originalUsername, akessler906), (encodedUsername, akessler906|)
+
+
+(LID, 78500), (RL, 10), (_id, 16), (originalUsername, nathanmcbride13), (encodedUsername, nathanmcbride13|)
+
+
+(LID, 78501), (RL, 11), (_id, 17), (originalUsername, lauren100512), (encodedUsername, lauren100512|)
+
+
+(LID, 78502), (RL, 12), (_id, 18), (originalUsername, azzafatta_22), (encodedUsername, azzafatta_22|)
+
+
+(LID, 78503), (RL, 13), (_id, 19), (originalUsername, brandont4144), (encodedUsername, brandont4144|)
+
+
+(LID, 78504), (RL, 14), (_id, 20), (originalUsername, joondelgado2020), (encodedUsername, joondelgado2020|)
+
+
+(LID, 78505), (RL, 15), (_id, 21), (originalUsername, ioalnsen), (encodedUsername, ioalnsen|)
+
+
+(LID, 78506), (RL, 16), (_id, 22), (originalUsername, michellequijo19), (encodedUsername, michellequijo19|)
+
+
+(LID, 78507), (RL, 17), (_id, 23), (originalUsername, newell_liv), (encodedUsername, newell_liv|)
+
+
+(LID, 78508), (RL, 18), (_id, 24), (originalUsername, chloe_ann72), (encodedUsername, chloe_ann72|)
+
+
+(LID, 78509), (RL, 19), (_id, 25), (originalUsername, lighhskinn.sxdd), (encodedUsername, lighhskinn.sxdd|)
+
+
+(LID, 78510), (RL, 20), (_id, 26), (originalUsername, official.rayy24), (encodedUsername, official.rayy24|)
+
+
+(LID, 78511), (RL, 21), (_id, 27), (originalUsername, baebae20045), (encodedUsername, baebae20045|)
+
+
+(LID, 78512), (RL, 22), (_id, 28), (originalUsername, june_elyse7), (encodedUsername, june_elyse7|)
+
+
+(LID, 78513), (RL, 23), (_id, 29), (originalUsername, ksnuffer23), (encodedUsername, ksnuffer23|)
+
+
+(LID, 78514), (RL, 24), (_id, 30), (originalUsername, mel.boouni), (encodedUsername, mel.boouni|)
+
+
+(LID, 78515), (RL, 25), (_id, 31), (originalUsername, period_2018), (encodedUsername, period_2018|)
+
+
+(LID, 78516), (RL, 26), (_id, 32), (originalUsername, vanessaazhu), (encodedUsername, vanessaazhu|)
+
+
+(LID, 78517), (RL, 27), (_id, 33), (originalUsername, johanelly005_gv), (encodedUsername, johanelly005_gv|)
+
+
+(LID, 78518), (RL, 28), (_id, 34), (originalUsername, babygirl_ali124), (encodedUsername, babygirl_ali124|)
+
+
+(LID, 78519), (RL, 29), (_id, 35), (originalUsername, luissolis4093), (encodedUsername, luissolis4093|)
+
+
+(LID, 78520), (RL, 30), (_id, 36), (originalUsername, aaronquinn212), (encodedUsername, aaronquinn212|)
+
+
+(LID, 78521), (RL, 31), (_id, 37), (originalUsername, itsnotashen), (encodedUsername, itsnotashen|)
+
+
+(LID, 78522), (RL, 32), (_id, 38), (originalUsername, angel021888), (encodedUsername, angel021888|)
+
+
+(LID, 78523), (RL, 33), (_id, 39), (originalUsername, xfreyac.x), (encodedUsername, xfreyac.x|)
+
+
+(LID, 78524), (RL, 34), (_id, 40), (originalUsername, lari_mart1nez), (encodedUsername, lari_mart1nez|)
+
+
+(LID, 78525), (RL, 35), (_id, 41), (originalUsername, thareal_dmj1), (encodedUsername, thareal_dmj1|)
+
+
+(LID, 78526), (RL, 36), (_id, 42), (originalUsername, tm.jaysnick), (encodedUsername, tm.jaysnick|)
+
+
+(LID, 78527), (RL, 37), (_id, 43), (originalUsername, s_king9407), (encodedUsername, s_king9407|)
+
+
+(LID, 78528), (RL, 38), (_id, 44), (originalUsername, jisseltorres20), (encodedUsername, jisseltorres20|)
+
+
+(LID, 78529), (RL, 39), (_id, 45), (originalUsername, alemiipe), (encodedUsername, alemiipe|)
+
+
+(LID, 78530), (RL, 40), (_id, 46), (originalUsername, thatplug.trap), (encodedUsername, thatplug.trap|)
+
+
+(LID, 78531), (RL, 41), (_id, 47), (originalUsername, globabyk12), (encodedUsername, globabyk12|)
+
+
+(LID, 78532), (RL, 42), (_id, 48), (originalUsername, celine.cch29), (encodedUsername, celine.cch29|)
+
+
+(LID, 78533), (RL, 43), (_id, 49), (originalUsername, jadasmokesalot), (encodedUsername, jadasmokesalot|)
+
+
+(LID, 78534), (RL, 44), (_id, 50), (originalUsername, kays_truths), (encodedUsername, kays_truths|)
+
+
+(LID, 78535), (RL, 45), (_id, 51), (originalUsername, overland_cg), (encodedUsername, overland_cg|)
+
+
+(LID, 78536), (RL, 46), (_id, 52), (originalUsername, bryanf7430), (encodedUsername, bryanf7430|)
+
+
+(LID, 78537), (RL, 47), (_id, 53), (originalUsername, kcm2sm), (encodedUsername, kcm2sm|)
+
+
+(LID, 78538), (RL, 48), (_id, 54), (originalUsername, krystal_m108), (encodedUsername, krystal_m108|)
+
+
+(LID, 78539), (RL, 49), (_id, 55), (originalUsername, felipeignacio_3), (encodedUsername, felipeignacio_3|)
+
+
+(LID, 78540), (RL, 50), (_id, 56), (originalUsername, ostreetz206), (encodedUsername, ostreetz206|)
+
+
+(LID, 78541), (RL, 51), (_id, 57), (originalUsername, isabelacobley), (encodedUsername, isabelacobley|)
+
+
+(LID, 78542), (RL, 52), (_id, 58), (originalUsername, baddie_meg06), (encodedUsername, baddie_meg06|)
+
+
+(LID, 78543), (RL, 53), (_id, 59), (originalUsername, bramirez1553), (encodedUsername, bramirez1553|)
+
+
+(LID, 78544), (RL, 54), (_id, 60), (originalUsername, kennadii92), (encodedUsername, kennadii92|)
+
+
+(LID, 78545), (RL, 55), (_id, 61), (originalUsername, isabelasalasl), (encodedUsername, isabelasalasl|)
+
+
+(LID, 78546), (RL, 56), (_id, 62), (originalUsername, vb_rose27), (encodedUsername, vb_rose27|)
+
+
+(LID, 78547), (RL, 57), (_id, 63), (originalUsername, tok_rosexomay), (encodedUsername, tok_rosexomay|)
+
+
+(LID, 78548), (RL, 58), (_id, 64), (originalUsername, its_jeiland), (encodedUsername, its_jeiland|)
+
+
+(LID, 78549), (RL, 59), (_id, 65), (originalUsername, brazzyb_mya01), (encodedUsername, brazzyb_mya01|)
+
+
+(LID, 78550), (RL, 60), (_id, 66), (originalUsername, marley_670), (encodedUsername, marley_670|)
+
+
+(LID, 78551), (RL, 61), (_id, 67), (originalUsername, itzjaboi837), (encodedUsername, itzjaboi837|)
+
+
+(LID, 78552), (RL, 62), (_id, 68), (originalUsername, divapeyton12), (encodedUsername, divapeyton12|)
+
+
+(LID, 78553), (RL, 63), (_id, 69), (originalUsername, doodamostt), (encodedUsername, doodamostt|)
+
+
+(LID, 78554), (RL, 64), (_id, 70), (originalUsername, reyesreyz), (encodedUsername, reyesreyz|)
+
+
+(LID, 78555), (RL, 65), (_id, 71), (originalUsername, yl.yaya), (encodedUsername, yl.yaya|)
+
+
+(LID, 78556), (RL, 66), (_id, 72), (originalUsername, kaleb.20almb17), (encodedUsername, kaleb.20almb17|)
+
+
+(LID, 78557), (RL, 67), (_id, 73), (originalUsername, marlomike24), (encodedUsername, marlomike24|)
+
+
+(LID, 78558), (RL, 68), (_id, 74), (originalUsername, roce_p20), (encodedUsername, roce_p20|)
+
+
+(LID, 78559), (RL, 69), (_id, 75), (originalUsername, bankrolltyrell1), (encodedUsername, bankrolltyrell1|)
+
+
+(LID, 78560), (RL, 70), (_id, 76), (originalUsername, hoverway1), (encodedUsername, hoverway1|)
+
+
+(LID, 78561), (RL, 71), (_id, 77), (originalUsername, yaboyranger2020), (encodedUsername, yaboyranger2020|)
+
+
+(LID, 78562), (RL, 72), (_id, 78), (originalUsername, whiteboy_mcfly), (encodedUsername, whiteboy_mcfly|)
+
+
+(LID, 78563), (RL, 73), (_id, 79), (originalUsername, michellegon9121), (encodedUsername, michellegon9121|)
+
+
+(LID, 78564), (RL, 74), (_id, 80), (originalUsername, katelynnguye25), (encodedUsername, katelynnguye25|)
+
+
+(LID, 78565), (RL, 75), (_id, 81), (originalUsername, cleo_2775), (encodedUsername, cleo_2775|)
+
+
+(LID, 78566), (RL, 76), (_id, 82), (originalUsername, maddoxvonpr2020), (encodedUsername, maddoxvonpr2020|)
+
+
+(LID, 78567), (RL, 77), (_id, 83), (originalUsername, lonley4life420), (encodedUsername, lonley4life420|)
+
+
+(LID, 78568), (RL, 78), (_id, 84), (originalUsername, jaylen_lacy), (encodedUsername, jaylen_lacy|)
+
+
+(LID, 78569), (RL, 79), (_id, 85), (originalUsername, keyki777), (encodedUsername, keyki777|)
+
+
+(LID, 78570), (RL, 80), (_id, 86), (originalUsername, h_musse2019), (encodedUsername, h_musse2019|)
+
+
+(LID, 78571), (RL, 81), (_id, 87), (originalUsername, tysimmons.gloat), (encodedUsername, tysimmons.gloat|)
+
+
+(LID, 78572), (RL, 82), (_id, 88), (originalUsername, wxnderllandboy), (encodedUsername, wxnderllandboy|)
+
+
+(LID, 78573), (RL, 83), (_id, 89), (originalUsername, cesara9797), (encodedUsername, cesara9797|)
+
+
+(LID, 78574), (RL, 84), (_id, 90), (originalUsername, diana_a663), (encodedUsername, diana_a663|)
+
+
+(LID, 78575), (RL, 85), (_id, 91), (originalUsername, c_j32143), (encodedUsername, c_j32143|)
+
+
+(LID, 78576), (RL, 86), (_id, 92), (originalUsername, laylani.415), (encodedUsername, laylani.415|)
+
+
+(LID, 78577), (RL, 87), (_id, 93), (originalUsername, jenessaamariiee), (encodedUsername, jenessaamariiee|)
+
+
+(LID, 78578), (RL, 88), (_id, 94), (originalUsername, ally48145), (encodedUsername, ally48145|)
+
+
+(LID, 78579), (RL, 89), (_id, 95), (originalUsername, triple_m69), (encodedUsername, triple_m69|)
+
+
+(LID, 78580), (RL, 90), (_id, 96), (originalUsername, aundreharmon12), (encodedUsername, aundreharmon12|)
+
+
+(LID, 78581), (RL, 91), (_id, 97), (originalUsername, ecarnell197), (encodedUsername, ecarnell197|)
+
+
+(LID, 78582), (RL, 92), (_id, 98), (originalUsername, owenmorin2019), (encodedUsername, owenmorin2019|)
+
+
+(LID, 78583), (RL, 93), (_id, 99), (originalUsername, deadass.sb), (encodedUsername, deadass.sb|)
+
+
+(LID, 78584), (RL, 94), (_id, 100), (originalUsername, m_jaber5388), (encodedUsername, m_jaber5388|)
+
+
+(LID, 78585), (RL, 95), (_id, 101), (originalUsername, niya_w05), (encodedUsername, niya_w05|)
+
+
+(LID, 78586), (RL, 96), (_id, 102), (originalUsername, datboybraedyn), (encodedUsername, datboybraedyn|)
+
+
+(LID, 78587), (RL, 97), (_id, 103), (originalUsername, diiiaaaannnna), (encodedUsername, diiiaaaannnna|)
+
+
+(LID, 78588), (RL, 98), (_id, 104), (originalUsername, mauriciosped14), (encodedUsername, mauriciosped14|)
+
+
+(LID, 78589), (RL, 99), (_id, 105), (originalUsername, thatboyzay253), (encodedUsername, thatboyzay253|)
+
+
+(LID, 78746), (RL, 1412), (_id, 1829), (originalUsername, thelifeof.ilwad), (encodedUsername, thelifeof.ilwad|)
+
+
+(LID, 78747), (RL, 1413), (_id, 1830), (originalUsername, jenova_m), (encodedUsername, jenova_m|)
+
+
+(LID, 78748), (RL, 1414), (_id, 1831), (originalUsername, laggingduck23), (encodedUsername, laggingduck23|)
+
+
+(LID, 78749), (RL, 1415), (_id, 1832), (originalUsername, dontedc4), (encodedUsername, dontedc4|)
+
+
+(LID, 78750), (RL, 1416), (_id, 1854), (originalUsername, thtkidd.lyssa7), (encodedUsername, thtkidd.lyssa7|)
+
+
+(LID, 78751), (RL, 1417), (_id, 1855), (originalUsername, band-tsandcigs), (encodedUsername, band-tsandcigs|)
+
+
+(LID, 78752), (RL, 1418), (_id, 1856), (originalUsername, aman_w6), (encodedUsername, aman_w6|)
+
+
+(LID, 78753), (RL, 1419), (_id, 1857), (originalUsername, valentina_u18), (encodedUsername, valentina_u18|)
+
+
+(LID, 78754), (RL, 1420), (_id, 1858), (originalUsername, superstar51502), (encodedUsername, superstar51502|)
+
+
+(LID, 78755), (RL, 1421), (_id, 1859), (originalUsername, rajans_22), (encodedUsername, rajans_22|)
+
+
+(LID, 78756), (RL, 1422), (_id, 1860), (originalUsername, citrus_stream), (encodedUsername, citrus_stream|)
+
+
+(LID, 78757), (RL, 1423), (_id, 1861), (originalUsername, idgaflina), (encodedUsername, idgaflina|)
+
+
+(LID, 78758), (RL, 1424), (_id, 1862), (originalUsername, summm165), (encodedUsername, summm165|)
+
+
+(LID, 78759), (RL, 1425), (_id, 1863), (originalUsername, duarte6475), (encodedUsername, duarte6475|)
+
+
+(LID, 78760), (RL, 1426), (_id, 1864), (originalUsername, pawel_pommes), (encodedUsername, pawel_pommes|)
+
+
+(LID, 78761), (RL, 1427), (_id, 1865), (originalUsername, bitethetip), (encodedUsername, bitethetip|)
+
+
+(LID, 78762), (RL, 1428), (_id, 1866), (originalUsername, christboi304), (encodedUsername, christboi304|)
+
+
+(LID, 78763), (RL, 1429), (_id, 1867), (originalUsername, nashtogle), (encodedUsername, nashtogle|)
+
+
+(LID, 78764), (RL, 1430), (_id, 1868), (originalUsername, sameerkhan9976), (encodedUsername, sameerkhan9976|)
+
+
+(LID, 78765), (RL, 1431), (_id, 1869), (originalUsername, vanessa_grace7), (encodedUsername, vanessa_grace7|)
+
+
+(LID, 78766), (RL, 1432), (_id, 1870), (originalUsername, abdimalika720), (encodedUsername, abdimalika720|)
+
+
+(LID, 78767), (RL, 1433), (_id, 1871), (originalUsername, shortgirlslayy), (encodedUsername, shortgirlslayy|)
+
+
+(LID, 78768), (RL, 1434), (_id, 1872), (originalUsername, eredrick9), (encodedUsername, eredrick9|)
+
+
+(LID, 78769), (RL, 1435), (_id, 1873), (originalUsername, jenny10843), (encodedUsername, jenny10843|)
+
+
+(LID, 78770), (RL, 1436), (_id, 1874), (originalUsername, itsyaboimo83), (encodedUsername, itsyaboimo83|)
+
+
+(LID, 78771), (RL, 1437), (_id, 1875), (originalUsername, itzjustayan), (encodedUsername, itzjustayan|)
+
+

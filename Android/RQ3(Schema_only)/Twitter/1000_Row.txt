@@ -1,0 +1,600 @@
+(LID, 13114), (RL, 107), (_id, 107), (topic_id, 864913136821784576), (topic_id_hash, 2061667017), (name, Gardening), (is_following, 1), (description, Outdoors), (is_not_interested, 0), (icon_url, https://ton.twimg.com/topics/topic_icon/default_v3_09.png)
+
+
+(LID, 13115), (RL, 114), (_id, 114), (topic_id, 809105292814270464), (topic_id_hash, 221187020), (name, Tim Cook), (is_following, 0), (description, Tech professional), (is_not_interested, 0), (icon_url, https://ton.twimg.com/topics/topic_icon/default_v3_06.png)
+
+
+(LID, 13116), (RL, 127), (_id, 127), (topic_id, 872520807221678080), (topic_id_hash, -1486172861), (name, Joe Flacco), (is_following, 0), (description, Football player), (is_not_interested, 0), (icon_url, https://ton.twimg.com/topics/topic_icon/default_v3_11.png)
+
+
+(LID, 13117), (RL, 132), (_id, 132), (topic_id, 1027582907928305666), (topic_id_hash, 1603473480), (name, Madhuri Dixit), (is_following, 0), (description, Actor), (is_not_interested, 0), (icon_url, https://ton.twimg.com/topics/topic_icon/default_v3_03.png)
+
+
+(LID, 13118), (RL, 145), (_id, 145), (topic_id, 806225270591995904), (topic_id_hash, 1666057057), (name, Taylor Swift), (is_following, 0), (description, Pop musician), (is_not_interested, 0), (icon_url, https://ton.twimg.com/topics/topic_icon/default_v3_03.png)
+
+
+(LID, 13119), (RL, 202), (_id, 202), (topic_id, 808713037230157824), (topic_id_hash, 84552347), (name, Elon Musk), (is_following, 0), (description, Business leader), (is_not_interested, 0), (icon_url, https://ton.twimg.com/topics/topic_icon/default_v3_13.png)
+
+
+(LID, 13120), (RL, 223), (_id, 223), (topic_id, 855107826351357952), (topic_id_hash, 23427668), (name, Skin care), (is_following, 0), (description, Beauty), (is_not_interested, 0), (icon_url, https://ton.twimg.com/topics/topic_icon/default_v3_06.png)
+
+
+(LID, 13121), (RL, 250), (_id, 250), (topic_id, 1054826545758396416), (topic_id_hash, -2061898901), (name, Twitch), (is_following, 1), (description, Brand), (is_not_interested, 0), (icon_url, https://ton.twimg.com/topics/topic_icon/default_v3_11.png)
+
+
+(LID, 13122), (RL, 275), (_id, 275), (topic_id, 1091055942249046016), (topic_id_hash, 796583228), (name, Chefs), (is_following, 0), (description, Food), (is_not_interested, 0), (icon_url, https://ton.twimg.com/topics/topic_icon/default_v3_05.png)
+
+
+(LID, 13123), (RL, 301), (_id, 301), (topic_id, 1138864492526297093), (topic_id_hash, 290249239), (name, Cancer), (is_following, 0), (description, Zodiac sign), (is_not_interested, 0), (icon_url, https://ton.twimg.com/topics/topic_icon/default_v3_16.png)
+
+
+(LID, 13124), (RL, 309), (_id, 309), (topic_id, 809504745597476864), (topic_id_hash, -984480522), (name, Mark Cuban), (is_following, 0), (description, Business personality), (is_not_interested, 0), (icon_url, https://ton.twimg.com/topics/topic_icon/default_v3_05.png)
+
+
+(LID, 13125), (RL, 320), (_id, 320), (topic_id, 807323059241689088), (topic_id_hash, 1438607945), (name, Meek Mill), (is_following, 0), (description, Rapper), (is_not_interested, 0), (icon_url, https://ton.twimg.com/topics/topic_icon/default_v3_02.png)
+
+
+(LID, 13126), (RL, 323), (_id, 323), (topic_id, 1139233849991237632), (topic_id_hash, 1196776767), (name, Marques Brownlee), (is_following, 0), (description, Digital creator), (is_not_interested, 0), (icon_url, https://ton.twimg.com/topics/topic_icon/default_v3_07.png)
+
+
+(LID, 13127), (RL, 331), (_id, 331), (topic_id, 733774374826704896), (topic_id_hash, -349059133), (name, Cesc Fabregas), (is_following, 0), (description, Soccer player), (is_not_interested, 0), (icon_url, https://ton.twimg.com/topics/topic_icon/default_v3_12.png)
+
+
+(LID, 13128), (RL, 343), (_id, 343), (topic_id, 850395585941086209), (topic_id_hash, -540316435), (name, Beauty), (is_following, 0), (description, All about beauty), (is_not_interested, 0), (icon_url, https://ton.twimg.com/topics/topic_icon/default_v3_01.png)
+
+
+(LID, 13129), (RL, 371), (_id, 371), (topic_id, 819538160606539777), (topic_id_hash, 1707285895), (name, Joe Rogan), (is_following, 0), (description, Podcast host), (is_not_interested, 0), (icon_url, https://ton.twimg.com/topics/topic_icon/default_v3_05.png)
+
+
+(LID, 13130), (RL, 390), (_id, 390), (topic_id, 1042531020724101120), (topic_id_hash, 2016451742), (name, Ice T), (is_following, 0), (description, Actor), (is_not_interested, 0), (icon_url, https://ton.twimg.com/topics/topic_icon/default_v3_04.png)
+
+
+(LID, 13131), (RL, 404), (_id, 404), (topic_id, 1126559222122942464), (topic_id_hash, 2079899919), (name, MrBeast), (is_following, 0), (description, Digital creator), (is_not_interested, 0), (icon_url, https://ton.twimg.com/topics/topic_icon/default_v3_09.png)
+
+
+(LID, 13132), (RL, 1), (_id, 1), (type, 2), (name, Heather Mahalik), (query, HeatherMahalik), (query_id, 475222380), (time, 1623285646831), (priority, 3), (user_search_suggestion, SgIcHFNRbGoOSGVhdGhlck1haGFsaWtqD0hlYXRoZXIgTWFoYWxpa2pMaHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyMTkwMTYzNTE3MTQ2Mjc1ODYvWmcxUTRfSVZfbm9ybWFsLmpwZzARMFg=), (score, 2.9984408333552963)
+
+
+(LID, 13133), (RL, 2), (_id, 2), (type, 0), (name, marsha mellos), (query, marsha mellos), (query_id, 2006423246), (time, 1617501323714), (priority, 3), (score, 0.0)
+
+
+(LID, 13134), (RL, 3), (_id, 3), (type, 2), (name, Ronen Engler), (query, TheNewMyself), (query_id, 1246522656016359424), (time, 1617501343812), (priority, 3), (user_search_suggestion, SgIdEUyJwFRU4ABqDFRoZU5ld015c2VsZmoMUm9uZW4gRW5nbGVyakxodHRwczovL3Bicy50dHdpbWcuY29tvcHJvZmlsZV9pbWFnZXMvMTI0NzM1MzQ3NjAyNTM2ODU3Ni8tR2l3MDRVdF9ub3JtYWwuanBnMBEwWA==), (score, 8.264434319016848e-12)
+
+
+(LID, 13135), (RL, 4), (_id, 4), (type, 2), (name, Paul Scurvy), (query, PaulScurvy), (query_id, 522777613), (time, 1617501354974), (priority, 3), (user_search_suggestion, SgIcHyj0DWoKUGF1bFNjdXJ2eWoLUGF1bCBTY3VydnlqS2h0dHBzOi8vcGJzLnR3aW1nLmNvbS9wcm9maWxlX2ltYWdlcy83NTA0OTk5MjAxMTc5MTk3NDQvWHZ1eHpiRkJfbm9ybWFsLmpwZzARMFg=), (score, 8.265926242556669e-12)
+
+
+(LID, 13136), (RL, 5), (_id, 5), (type, 2), (name, Matt Goeckel), (query, mattforensic), (query_id, 992125797241643008), (time, 1617501373671), (priority, 3), (user_search_suggestion, SgIdDcS9J/UW4ABqDG1hdHRmb3JlbnNpY2oMTWF0dCBHb2Vja2VsakxodHRwczovL3Bicy50d2ltZy5jb20vcHJvZmlsZV9pbWFnZXMvMTM1MDgwOTIwMDM4MTg2MTg4OS9YMy1WMnd4d19ub3JtYWwuanBnMBEwWA==), (score, 8.267750070418584e-12)
+
+
+(LID, 13333), (RL, 552), (_id, 610), (text, pieterwuille), (type, 1), (ref_id, 21519885), (weight, 52278)
+
+
+(LID, 13334), (RL, 556), (_id, 614), (text, karissa kindy), (type, 1), (ref_id, 24463119), (weight, 52278)
+
+
+(LID, 13335), (RL, 557), (_id, 615), (text, karissa), (type, 1), (ref_id, 24463119), (weight, 52278)
+
+
+(LID, 13336), (RL, 575), (_id, 633), (text, phill moore), (type, 1), (ref_id, 25816637), (weight, 52278)
+
+
+(LID, 13337), (RL, 578), (_id, 636), (text, nathan), (type, 1), (ref_id, 27921338), (weight, 52278)
+
+
+(LID, 13338), (RL, 579), (_id, 637), (text, @nathanryan), (type, 1), (ref_id, 27921338), (weight, 52278)
+
+
+(LID, 13339), (RL, 580), (_id, 638), (text, nathanryan), (type, 1), (ref_id, 27921338), (weight, 52278)
+
+
+(LID, 13340), (RL, 581), (_id, 639), (text, brianmoran), (type, 1), (ref_id, 29574511), (weight, 52278)
+
+
+(LID, 13341), (RL, 582), (_id, 640), (text, brian moran), (type, 1), (ref_id, 29574511), (weight, 52278)
+
+
+(LID, 13342), (RL, 584), (_id, 642), (text, moran), (type, 1), (ref_id, 29574511), (weight, 52278)
+
+
+(LID, 13343), (RL, 585), (_id, 643), (text, brian), (type, 1), (ref_id, 29574511), (weight, 52278)
+
+
+(LID, 13344), (RL, 586), (_id, 644), (text, brianjmoran), (type, 1), (ref_id, 29574511), (weight, 52278)
+
+
+(LID, 13345), (RL, 587), (_id, 645), (text, adam), (type, 1), (ref_id, 31536491), (weight, 52278)
+
+
+(LID, 13346), (RL, 591), (_id, 649), (text, adamorth), (type, 1), (ref_id, 31536491), (weight, 52278)
+
+
+(LID, 13347), (RL, 592), (_id, 650), (text, adam orth), (type, 1), (ref_id, 31536491), (weight, 52278)
+
+
+(LID, 13348), (RL, 595), (_id, 653), (text, christine barnum), (type, 1), (ref_id, 34685057), (weight, 52278)
+
+
+(LID, 13349), (RL, 597), (_id, 655), (text, christine), (type, 1), (ref_id, 34685057), (weight, 52278)
+
+
+(LID, 13350), (RL, 598), (_id, 656), (text, lina), (type, 1), (ref_id, 36683532), (weight, 52278)
+
+
+(LID, 13351), (RL, 603), (_id, 661), (text, candieðŸ‘½), (type, 1), (ref_id, 69990286), (weight, 52278)
+
+
+(LID, 13352), (RL, 606), (_id, 664), (text, candie), (type, 1), (ref_id, 69990286), (weight, 52278)
+
+
+(LID, 13353), (RL, 608), (_id, 666), (text, candie ðŸ‘½), (type, 1), (ref_id, 69990286), (weight, 52278)
+
+
+(LID, 13354), (RL, 616), (_id, 674), (text, hiromichi), (type, 1), (ref_id, 72862939), (weight, 52278)
+
+
+(LID, 13355), (RL, 617), (_id, 675), (text, hiromichi mizuno), (type, 1), (ref_id, 72862939), (weight, 52278)
+
+
+(LID, 13356), (RL, 619), (_id, 677), (text, hiromizuno), (type, 1), (ref_id, 72862939), (weight, 52278)
+
+
+(LID, 13357), (RL, 620), (_id, 678), (text, hiro mizuno), (type, 1), (ref_id, 72862939), (weight, 52278)
+
+
+(LID, 13358), (RL, 628), (_id, 686), (text, jake), (type, 1), (ref_id, 77346069), (weight, 52278)
+
+
+(LID, 13359), (RL, 629), (_id, 687), (text, jakewilliams), (type, 1), (ref_id, 77346069), (weight, 52278)
+
+
+(LID, 13360), (RL, 631), (_id, 689), (text, williams), (type, 1), (ref_id, 77346069), (weight, 52278)
+
+
+(LID, 13361), (RL, 632), (_id, 690), (text, jake williams), (type, 1), (ref_id, 77346069), (weight, 52278)
+
+
+(LID, 13362), (RL, 637), (_id, 695), (text, ashlee), (type, 1), (ref_id, 81961201), (weight, 52278)
+
+
+(LID, 13363), (RL, 638), (_id, 696), (text, ashlee vance), (type, 1), (ref_id, 81961201), (weight, 52278)
+
+
+(LID, 13364), (RL, 639), (_id, 697), (text, vijay boyapati), (type, 1), (ref_id, 95066790), (weight, 52278)
+
+
+(LID, 13365), (RL, 646), (_id, 704), (text, vijay), (type, 1), (ref_id, 95066790), (weight, 52278)
+
+
+(LID, 13366), (RL, 647), (_id, 705), (text, kevin), (type, 1), (ref_id, 113190078), (weight, 52278)
+
+
+(LID, 13367), (RL, 649), (_id, 707), (text, kevinripa), (type, 1), (ref_id, 113190078), (weight, 52278)
+
+
+(LID, 13368), (RL, 651), (_id, 709), (text, kevin ripa), (type, 1), (ref_id, 113190078), (weight, 52278)
+
+
+(LID, 13369), (RL, 652), (_id, 710), (text, ryan), (type, 1), (ref_id, 118917461), (weight, 52278)
+
+
+(LID, 13370), (RL, 656), (_id, 714), (text, ryan shea), (type, 1), (ref_id, 118917461), (weight, 52278)
+
+
+(LID, 13371), (RL, 657), (_id, 715), (text, ryaneshea), (type, 1), (ref_id, 118917461), (weight, 52278)
+
+
+(LID, 13372), (RL, 661), (_id, 719), (text, guy), (type, 1), (ref_id, 134468399), (weight, 52278)
+
+
+(LID, 13373), (RL, 663), (_id, 721), (text, the doge coin guy), (type, 1), (ref_id, 134468399), (weight, 52278)
+
+
+(LID, 13374), (RL, 667), (_id, 725), (text, brian stofers), (type, 1), (ref_id, 134529188), (weight, 52278)
+
+
+(LID, 13375), (RL, 670), (_id, 728), (text, brian), (type, 1), (ref_id, 134529188), (weight, 52278)
+
+
+(LID, 13376), (RL, 671), (_id, 729), (text, nicolasdorier), (type, 1), (ref_id, 160139307), (weight, 52278)
+
+
+(LID, 13377), (RL, 672), (_id, 730), (text, nicolas), (type, 1), (ref_id, 160139307), (weight, 52278)
+
+
+(LID, 13378), (RL, 674), (_id, 732), (text, nicolas dorier), (type, 1), (ref_id, 160139307), (weight, 52278)
+
+
+(LID, 13379), (RL, 678), (_id, 736), (text, johncarmack), (type, 1), (ref_id, 175624200), (weight, 52278)
+
+
+(LID, 13380), (RL, 680), (_id, 738), (text, john carmack), (type, 1), (ref_id, 175624200), (weight, 52278)
+
+
+(LID, 13381), (RL, 682), (_id, 740), (text, john), (type, 1), (ref_id, 175624200), (weight, 52278)
+
+
+(LID, 13382), (RL, 688), (_id, 746), (text, miles suter), (type, 1), (ref_id, 180212381), (weight, 52278)
+
+
+(LID, 13383), (RL, 690), (_id, 748), (text, adam), (type, 1), (ref_id, 213236426), (weight, 52278)
+
+
+(LID, 14634), (RL, 6226),(_id, 6284),(text, sarah),(type, 1),(ref_id, 1371518013921443846),(weight, 51800)
+
+
+(LID, 14635), (RL, 6228),(_id, 6286),(text, sarah oloumi),(type, 1),(ref_id, 1371518013921443846),(weight, 51800)
+
+
+(LID, 14636), (RL, 6247),(_id, 6305),(text, betty aldworth),(type, 1),(ref_id, 6050062),(weight, 51800)
+
+
+(LID, 14637), (RL, 6251),(_id, 6309),(text, jez),(type, 1),(ref_id, 12160632),(weight, 51800)
+
+
+(LID, 14638), (RL, 6253),(_id, 6311),(text, jazmin hupp the inside guide),(type, 1),(ref_id, 14452915),(weight, 51800)
+
+
+(LID, 14639), (RL, 6255),(_id, 6313),(text, jazminhupp),(type, 1),(ref_id, 14452915),(weight, 51800)
+
+
+(LID, 14640), (RL, 6270),(_id, 6328),(text, paul snow),(type, 1),(ref_id, 34682045),(weight, 51800)
+
+
+(LID, 14641), (RL, 6271),(_id, 6329),(text, paulsnow),(type, 1),(ref_id, 34682045),(weight, 51800)
+
+
+(LID, 14642), (RL, 6274),(_id, 6332),(text, paul),(type, 1),(ref_id, 34682045),(weight, 51800)
+
+
+(LID, 14643), (RL, 6279),(_id, 6337),(text, nick goldman),(type, 1),(ref_id, 41150196),(weight, 51800)
+
+
+(LID, 14644), (RL, 6283),(_id, 6341),(text, jamey),(type, 1),(ref_id, 44205750),(weight, 51800)
+
+
+(LID, 14645), (RL, 6284),(_id, 6342),(text, jamey tubbs),(type, 1),(ref_id, 44205750),(weight, 51800)
+
+
+(LID, 14646), (RL, 6288),(_id, 6346),(text, capuano),(type, 1),(ref_id, 44978495),(weight, 51800)
+
+
+(LID, 14647), (RL, 6293),(_id, 6351),(text, eric capuano),(type, 1),(ref_id, 44978495),(weight, 51800)
+
+
+(LID, 14648), (RL, 6294),(_id, 6352),(text, kevin),(type, 1),(ref_id, 48781450),(weight, 51800)
+
+
+(LID, 14649), (RL, 6296),(_id, 6354),(text, aleman),(type, 1),(ref_id, 48781450),(weight, 51800)
+
+
+(LID, 14650), (RL, 6297),(_id, 6355),(text, kevin aleman),(type, 1),(ref_id, 48781450),(weight, 51800)
+
+
+(LID, 14651), (RL, 6306),(_id, 6364),(text, andrew),(type, 1),(ref_id, 62814293),(weight, 51800)
+
+
+(LID, 14652), (RL, 6307),(_id, 6365),(text, andrew levine),(type, 1),(ref_id, 62814293),(weight, 51800)
+
+
+(LID, 14653), (RL, 6312),(_id, 6370),(text, troy l),(type, 1),(ref_id, 85635442),(weight, 51800)
+
+
+(LID, 14654), (RL, 6316),(_id, 6374),(text, troy),(type, 1),(ref_id, 85635442),(weight, 51800)
+
+
+(LID, 14655), (RL, 6320),(_id, 6378),(text, elizabeth),(type, 1),(ref_id, 153268639),(weight, 51800)
+
+
+(LID, 14656), (TN, tokens),(RL, 6322),(_id, 6380),(text, elizabethhicks),(type, 1),(ref_id, 153268639),(weight, 51800)
+
+
+(LID, 14657), (RL, 6323),(_id, 6381),(text, elizabeth hicks),(type, 1),(ref_id, 153268639),(weight, 51800)
+
+
+(LID, 14658), (RL, 6324),(_id, 6382),(text, eohicks),(type, 1),(ref_id, 153268639),(weight, 51800)
+
+
+(LID, 14659), (RL, 6325),(_id, 6383),(text, adam engle),(type, 1),(ref_id, 164840294),(weight, 51800)
+
+
+(LID, 14660), (RL, 6327),(_id, 6385),(text, adam),(type, 1),(ref_id, 164840294),(weight, 51800)
+
+
+(LID, 14661), (RL, 6330),(_id, 6388),(text, adamengle),(type, 1),(ref_id, 164840294),(weight, 51800)
+
+
+(LID, 14662), (RL, 6332), (_id, 6390), (text, dawn), (type, 1), (ref_id, 176260783), (weight, 51800)
+
+
+(LID, 14663), (RL, 6336), (_id, 6394), (text, dawn m newton), (type, 1), (ref_id, 176260783), (weight, 51800)
+
+
+(LID, 14664), (RL, 6338), (_id, 6396), (text, santiago ayala), (type, 1), (ref_id, 178769107), (weight, 51800)
+
+
+(LID, 14665), (RL, 6339), (_id, 6397), (text, santiago), (type, 1), (ref_id, 178769107), (weight, 51800)
+
+
+(LID, 14666), (RL, 6350), (_id, 6408), (text, laurie), (type, 1), (ref_id, 201387364), (weight, 51800)
+
+
+(LID, 14667), (RL, 6351), (_id, 6409), (text, laurie rice), (type, 1), (ref_id, 201387364), (weight, 51800)
+
+
+(LID, 14668), (RL, 6353), (_id, 6411), (text, laurierice), (type, 1), (ref_id, 201387364), (weight, 51800)
+
+
+(LID, 14669), (RL, 6358), (_id, 6416), (text, quintius walker), (type, 1), (ref_id, 238008986), (weight, 51800)
+
+
+(LID, 14670), (RL, 6373), (_id, 6431), (text, ben), (type, 1), (ref_id, 243692321), (weight, 51800)
+
+
+(LID, 14671), (RL, 6384), (_id, 6442), (text, nishant), (type, 1), (ref_id, 258681136), (weight, 51800)
+
+
+(LID, 78253), (RL, 76), (_id, 674), (user_id, 887748030304329728), (username, TheCryptoDog), (name, The Crypto DogðŸ“ˆ), (image_url, https://pbs.twimg.com/profile_images/1346574502294155265/qEQ5hl6Y_normal.jpg), (user_flags, 266240), (user_label_data, SThY), (friendship, 8), (are_dms_muted, 0), (header_url, https://pbs.twimg.com/profile_banners/887748030304329728/1568913076), (description, SgNCnVNURU0gUGhEIGRyb3BvdXQgLyAkY3J5cHRvLXRyYWRpbmcgZG9n8J+QlSBTdGFydGVkIG1pbmluZyAjYml0Y29pbiBpbiAyMDExLiAjYmxvY2tjaGFpbiAjRGVGaSBpbnZlc3RvciAvIG1hcmtldCBjb21tZW50YXRvci4gJFNPViBidWxsCgpGb3VuZGVyIEB0cnliZXR0ZXJicmFuZEkJCAESBggCTORIESgISExITEhpqBmNyeXB0b1hYSRITEhpYTRIDSgMSNxI3Ej9qB2JpdGNvaW5YWEkSOBJAWE0SA0oDEkkSSRJUagpibG9ja2NoYWluWFhJEkoSVVhNEgNKAxJVElUSWmoERGVGaVhYSRJWEltYTRIESgISehJ6En5qA1NPVlhYSRJ7En9YTRICSgISjRKNEpwZag50cnliZXR0ZXJicmFuZDhYWEkSjhKdWFhJSRFYSRFYSRIBgwEyWEkSA4LGguKDAQFYSRICgquDARpYWFg=), (link_color, -15066857), (web_url, https://t.co/JSiP41YHNg), (url_entities, SUkSAUoIERESF2oXaHR0cHM6Ly90LmNvL0pTaVA0MVlITmdqOWh0dHBzOi8vbWVkaXVtLmNvbS9AdGhlY3J5cHRvZG9nL2EtZG9ncy10YWxlLTlmZDZkODI2YjlkY0IabWVkaXVtLmNvbS9AdGhlY3J5cHRvZG9nL+KAplhYSRFYSRFYSRFYSRFYWA==), (bg_color, -16777216), (location, thecryptodog@gmail.com), (followers, 537369), (fast_followers, 0), (friends, 3462), (statuses, 60990), (favorites, 183494), (media_count, 9013), (profile_created, 1500490598000), (updated, 1626731280752), (pinned_tweet_id, 1404905348503281664), (advertiser_type, none), (hash, 2019810749), (translator_type, none), (profile_interstitial_type, 0), (profile_image_colors, SQkIAggBEgUIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCR1HsFP81KCBYSSBCAyj2FP+0qZ9YSSBA3MzNFP97Vj5YSSA/71wpFP9gPjhYSSA/Ao9cFP+5hV5YWA==), (profile_banner_colors, SQkIAggBEgMIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCxwUfFP8CAgRYSSA+szMzFP/s5+VYSSA+TMzNFP91dXRYWA==), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78254), (RL, 960), (_id, 1724), (user_id, 981721176), (username, JGODYT), (name, James - JGOD), (image_url, https://pbs.twimg.com/profile_images/1398067167250161664/Y2bJ_r_x_normal.jpg), (user_flags, 262146), (user_label_data, SThY), (friendship, 1024), (are_dms_muted, 0), (header_url, https://pbs.twimg.com/profile_banners/981721176/1612487300), (description, SgNqnzFNKyBZVCB8IFR3aXRjaCBQYXJ0bmVyIHwgVGlrdG9rIFZlcmlmaWVkCkBLb250cm9sRnJlZWsgQFN0ZWVsU2VyaWVzIEBHRnVlbEVuZXJneSAgQERyaW5rQ1RSTCBAR2FtZXJBZHZhbnRhZ2UKClNvY2lhbHM6IGh0dHBzOi8vdC5jby93VDJBNDRWNG1hCk1HVDogQHVwbm9ydGhtZ0kJCAESBwgCTVICESgISKhIqEjcZagxLb250cm9sRnJlZWs4WFhJEioSN1hNEgJKAhI4EjgSRBlqC1N0ZWVsU2VyaWVzOFhYSRI4EkRYTRICSgISRRJFElEZagtHRnVlbEVuZXJneThYWEkSRRJRWE0SAkoCElMSUxJdGWoJRHJpbmtDVFJMOFhYSRJTEl1YTRICSgISXhJeEm0Zag5HYW1lckFkdmFudGFnZThYWEkSXhJtWE0SAUoIEngSeBKPahdodHRwczovL3QuY28vd1QyQTQ0VjRtYWocaHR0cDovL2xpbmsuc25pcGZlZWQuY28vamdvZGoVbGluay5zbmlwZmVlZC5jby9qZ29kWFhJEngSj1hNEgJKAhKVEpUSnxlqCXVwbm9ydGhtZzhYWEkSlRKfWFhJSRIBgwFXWEkRWEkSBoKrgs6C8IMBEoMBMoMBuFhNEViDAfdYWA==), (link_color, -14969376), (web_url, https://t.co/8agfmnu5bP), (url_entities, SUkSAUoIERESF2oXaHR0cHM6Ly90LmNvLzhhZ2ZtbnU1YlBqJGh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2MvSkdPREdhbWluZ2oYeW91dHViZS5jb20vYy9KR09ER2FtaW5nWFhJEVhJEVhJEVhJEVhY), (bg_color, -16777216), (location, 📧jgodgamingyt@gmail.com), (followers, 146185), (fast_followers, 0), (friends, 883), (statuses, 31834), (favorites, 91922), (media_count, 5774), (profile_created, 1354332013000), (updated, 1626731280755), (pinned_tweet_id, 1344719949097406465), (advertiser_type, promotable_user), (hash, -833857500), (translator_type, none), (profile_interstitial_type, 0), (profile_image_colors, SQkIAggBEgUIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCC1wpFP/+//9YSSBBV64UFP+QaFxYSSBBEZmaFP+UDCxYSSBA+euFFP+RwfNYSSBAj64UFP/xCg1YWA==), (profile_banner_colors, SQkIAggBEgQIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCrrMzFP+lpaVYSSBAuo9cFP89OztYSSA/3XCkFP9fNQtYSSA+OFHsFP9xPkFYWA==), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78255), (RL, 702), (_id, 1459), (user_id, 27335600), (username, stuholden), (name, Stu Holden), (image_url, https://pbs.twimg.com/profile_images/1268729243011215361/fhAG4KwH_normal.jpg), (user_flags, 2), (friendship, 1032), (are_dms_muted, 0), (location, pr@stuholden.com), (updated, 1626731280679), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78256), (RL, 865), (_id, 1625), (user_id, 1036115996), (username, filbfilb), (name, f i l ₿ f i l ₿), (image_url, https://pbs.twimg.com/profile_images/1372977343619293184/h-CL_z18_normal.jpg), (user_flags, 0), (friendship, 0), (are_dms_muted, 0), (location, Inbox; info@decentrader.com), (updated, 1626731280650), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78282), (RL, 213), (_id, 954), (user_id, 305899340), (username, reccetech), (name, Jamie McQuaid), (image_url, https://pbs.twimg.com/profile_images/378800000828732112/135f644fce60a4369f43830281fdf283_normal.jpeg), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (updated, 1626731280677), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78283), (RL, 214), (_id, 956), (user_id, 47966112), (username, ODELL), (name, ODELL), (image_url, https://pbs.twimg.com/profile_images/1394329372811747330/pvcAGbUt_normal.jpg), (user_flags, 1048576), (user_label_data, SThY), (friendship, 1032), (are_dms_muted, 0), (header_url, https://pbs.twimg.com/profile_banners/47966112/1623933576), (description, SgNCwWJpdGNvaW4gYW5kIHByaXZhY3kgYWR2b2NhdGUg4par77iPIGh0dHBzOi8vdC5jby9HR01qWUxBckJ5ICDilqvvuI8gaHR0cHM6Ly90LmNvLzhHcmpXYXFsRGkgLSBodHRwczovL3QuY28vOTVkd0RaaDhKUiDilqvvuI8gaHR0cHM6Ly90LmNvL1FCbnp5VHBCVDgg4par77iPIEB0ZnRjMjEgfCBAY2l0YWRlbGRpc3BhdGNo4par77iPIHN0YXkgaHVtYmxlLiBzdGFjayBzYXRzLkkJCAESBggCTRIBSggSIBIgEjdqF2h0dHBzOi8vdC5jby9HR01qWUxBckJ5ahRodHRwOi8vbWF0dG9kZWxsLmNvbWoNbWF0dG9kZWxsLmNvbVhYSRIgEjdYTRIBSggSPBI8ElNqF2h0dHBzOi8vdC5jby84R3JqV2FxbERpahlodHRwOi8vYml0Y29pbmRldmxpc3QuY29tahJiaXRjb2luZGV2bGlzdC5jb21YWEkSPBJTWE0SAUoIElYSVhJtahdodHRwczovL3QuY28vOTVkd0RaaDhKUmoTaHR0cDovL29wZW5zYXRzLm9yZ2oMb3BlbnNhdHMub3JnWFhJElYSbVhNEgFKCBJxEnESiGoXaHR0cHM6Ly90LmNvL1FCbnp5VHBCVDhqFGh0dHA6Ly9iaXRjb2ludHYuY29tag1iaXRjb2ludHYuY29tWFhJEnESiFhNEgJKAhKMEowSkxlqBnRmdGMyMThYWEkSjBKTWE0SAkoCEpYSlhKmGWoPY2l0YWRlbGRpc3BhdGNoOFhYSRKWEqZYWElJEgSC4YMBMoMBjYMB3FhJEVhJEgKDAi2DAkpYTRFYgwKOWFg=), (link_color, -16777216), (web_url, https://t.co/uuHyj80guW), (url_entities, SUkSAUoIERESF2oXaHR0cHM6Ly90LmNvL3V1SHlqODBndVdqG2h0dHBzOi8vY2l0YWRlbGRpc3BhdGNoLmNvbWoTY2l0YWRlbGRpc3BhdGNoLmNvbVhYSRFYSRFYSRFYSRFYWA==), (bg_color, -15066337), (location, DMS ASKING FOR MONEY ARE SCAMS), (followers, 106055), (fast_followers, 0), (friends, 996), (statuses, 26497), (favorites, 94627), (media_count, 2124), (profile_created, 1245246736000), (updated, 1626731280573), (pinned_tweet_id, 1404878043269660675), (advertiser_type, promotable_user), (hash, -1256010319), (translator_type, none), (profile_interstitial_type, 0), (profile_image_colors, SQkIAggBEgQIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCqzhSFP8ybHxYSSBBUKPXFP8eUWVYSSA/PXCkFP8vXHJYSSA/Fwo9FP94uLRYWA==), (profile_banner_colors, SQkIAggBEgMIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCwFwpFP/+/v5YSSBAZ64UFP9+fn5YSSA+TMzNFP8wMDBYWA==), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78284), (RL, 215), (_id, 957), (user_id, 3429950987), (username, engineers_feed), (name, World of Engineering), (image_url, https://pbs.twimg.com/profile_images/1267117170858885120/Tmh6Jdmi_normal.jpg), (user_flags, 262144), (user_label_data, SThY), (friendship, 1024), (are_dms_muted, 0), (header_url, https://pbs.twimg.com/profile_banners/3429950987/1552903314), (description, SgNCn0VuZ2luZWVyaW5nIGZvciB0aGUgd2luISDwn6ex4pqZ77iP8J+boCBEYWlseSBlbmdpbmVlcmluZyBoaXN0b3J5IGZhY3RzLCBxdWl6emVzLCBUSUwsIG1lbWVzIGFuZCBtYW55IG90aGVycy4gQXMgYW4gQW1hem9uIEFzc29jaWF0ZSB3ZSBlYXJuIGZyb20gcXVhbGlmeWluZyBwdXJjaGFzZXMuSQgBWElNEVhJEViCsIKwgrBYWA==), (link_color, -14835214), (web_url, https://t.co/Djv6QsRujm), (url_entities, SUkSAUoIERESF2oXaHR0cHM6Ly90LmNvL0RqdjZRc1J1am1qJGh0dHBzOi8vd3d3LndvcmxkLW9mLWVuZ2luZWVyaW5nLm9yZ2oYd29ybGQtb2YtZW5naW5lZXJpbmcub3JnWFhJEVhJEVhJEVhJEVhY), (bg_color, -4137235), (followers, 1426561), (fast_followers, 0), (friends, 42), (statuses, 7211), (favorites, 1435), (media_count, 3322), (profile_created, 1439908734000), (updated, 1626731280726), (pinned_tweet_id, 1288907054514614274), (advertiser_type, promotable_user), (hash, 937175921), (translator_type, none), (profile_interstitial_type, 0), (profile_image_colors, SQkIAggBEgIIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCYnrhFP////9YSSBCKlwpFP8jHyBYWA==), (profile_banner_colors, SQkIAggBEgMIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCPHCkFP8lJSVYSSBCI+FIFP95eXlYSSBBvo9cFP+7urpYWA==), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78286), (RL, 217), (_id, 959), (user_id, 175624200), (username, ID_AA_Carmack), (name, John Carmack), (image_url, https://pbs.twimg.com/profile_images/1106497789/aa_icon_option_2_normal.jpg), (user_flags, 2), (friendship, 1032), (are_dms_muted, 0), (location, Dallas, TX), (updated, 1626731280602), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78287), (RL, 218), (_id, 960), (user_id, 213236426), (username, adam3us), (name, Adam Back), (image_url, https://pbs.twimg.com/profile_images/1364645619705511936/IGTT_tnL_normal.jpg), (user_flags, 0), (friendship, 0), (are_dms_muted, 0), (location, Malta 🇲🇹), (updated, 1626731280597), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78288), (RL, 219), (_id, 961), (user_id, 333817958), (username, JeredKenna), (name, Jered Kenna), (image_url, https://pbs.twimg.com/profile_images/1460060984/190474_1008242485128_1196931542_30023559_1375_n_normal.jpg), (user_flags, 0), (friendship, 8), (are_dms_muted, 0), (location, San Francisco), (updated, 1626731280597), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78289), (RL, 220), (_id, 962), (user_id, 2209677878), (username, bitcoinmom), (name, ₿rooke), (image_url, https://pbs.twimg.com/profile_images/1362782470647603203/K651SM9A_normal.jpg), (user_flags, 0), (friendship, 0), (are_dms_muted, 0), (updated, 1626731280596), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78290), (RL, 221), (_id, 963), (user_id, 2477473068), (username, OSINTlabworks), (name, Aaron Sparling), (image_url, https://pbs.twimg.com/profile_images/842098982906032128/fKnwDaBR_normal.jpg), (user_flags, 0), (user_label_data, SThY), (friendship, 1024), (are_dms_muted, 0), (description, SgNqSkJKSiBCbGFja2JlbHQsIE1lbW9yeSA0TjYgbmVyZCwgbWFsd2FyZVJFIG5vb2IsIHBvb3JseSByYXRlZCBjaGVzcyBwbGF5ZXIuSQgBWElNEVhJEViCU4JTglNYWA==), (link_color, -16743244), (url_entities, SU0RWEkRWIIBggGCAVg=), (bg_color, -5523262), (followers, 1083), (fast_followers, 0), (friends, 802), (statuses, 2004), (favorites, 4353), (profile_created, 1399242557000), (updated, 1626731280599), (pinned_tweet_id, -1), (advertiser_type, none), (hash, -112969370), (translator_type, none), (profile_interstitial_type, 0), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78291), (RL, 222), (_id, 964), (user_id, 919638257402548224), (username, CobraBitcoin), (name, Cøbra), (image_url, https://pbs.twimg.com/profile_images/1407728034480861188/rkYqHjnd_normal.jpg), (user_flags, 0), (friendship, 1032), (are_dms_muted, 0), (updated, 1626731280598), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78292), (RL, 223), (_id, 965), (user_id, 72862939), (username, hiromichimizuno), (name, HIRO MIZUNO), (image_url, https://pbs.twimg.com/profile_images/1362406644764835851/eJJXLE-G_normal.jpg), (user_flags, 0), (friendship, 8), (are_dms_muted, 0), (location, Tokyo), (updated, 1626731280598), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78293), (RL, 224), (_id, 966), (user_id, 729548255470575616), (username, eric_lombrozo), (name, ?), (image_url, https://pbs.twimg.com/profile_images/1365397548144283648/Jv8e6t7h_normal.jpg), (user_flags, 2), (friendship, 1024), (are_dms_muted, 0), (location, The Universe), (updated, 1626731280602), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78294), (RL, 225), (_id, 967), (user_id, 892826509622353920), (username, UniverCurious), (name, Universal Curiosity), (image_url, https://pbs.twimg.com/profile_images/1200517928686407680/5FXDclvD_normal.jpg), (user_flags, 262144), (user_label_data, SThY), (friendship, 1024), (are_dms_muted, 0), (header_url, https://pbs.twimg.com/profile_banners/892826509622353920/1575990724), (description, SgNqUlNjaWVuY2UgfCBTcGFjZSBFeHBsb3JhdGlvbiB8IEVuZ2luZWVyaW5nCgpQYXJ0bmVyc2hpcCBlbWFpbCBpbmZvQHByb2FuZHJvbWVkYS5jb21JCAFYSU0RWEkRWIJbgluCW1hY), (link_color, -14835214), (url_entities, SU0RWEkRWIIBggGCAVg=), (bg_color, -657158), (followers, 476114), (fast_followers, 0), (friends, 75), (statuses, 3397), (favorites, 2839), (media_count, 2221), (profile_created, 1501701402000), (updated, 1626731280600), (pinned_tweet_id, 0), (advertiser_type, none), (hash, -1686562718), (translator_type, none), (profile_interstitial_type, 0), (profile_image_colors, SQkIAggBEgQIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCosKPFP////9YSSBBi3CkFP8ICz5YSSA/dcKPFP9zd45YSSA+a4UfFP9gYX9YWA==), (profile_banner_colors, SQkIAggBEgUIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCXfXDFP8tNEVYSSBBsAAAFP96cYdYSSBA1MzNFP/GsJdYSSBAyAAAFP9TbKBYSSA/6PXDFP/01JFYWA==), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78295), (RL, 226), (_id, 968), (user_id, 2260407860), (username, BitcoinErrorLog), (name, John Carvalho), (image_url, https://pbs.twimg.com/profile_images/1415750603242983427/ThZ6F3RY_normal.jpg), (user_flags, 0), (friendship, 0), (are_dms_muted, 0), (location, ðŸ¥), (updated, 1626731280601), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78296), (RL, 227), (_id, 969), (user_id, 824104203954126848), (username, ChaincodeLabs), (name, Chaincode Labs), (image_url, https://pbs.twimg.com/profile_images/1232790018424483840/-9tfBh1k_normal.jpg), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (location, Manhattan, NY), (updated, 1626731280725), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78297), (RL, 298), (_id, 1043), (user_id, 121820614), (username, BarrySanders), (name, Barry Sanders), (image_url, https://pbs.twimg.com/profile_images/378800000726070530/d48e86111ab1ecee676028b379a41968_normal.jpeg), (user_flags, 2), (friendship, 1024), (are_dms_muted, 0), (location, Detroit, MI), (updated, 1626731280752), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78298), (RL, 299), (_id, 1044), (user_id, 242764796), (username, 1948london), (name, 1948 London), (image_url, https://pbs.twimg.com/profile_images/1778055702/1948_twitter_badge_001_normal.jpg), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (location, Arch 477 Batemans Row, EC2), (updated, 1626731280625), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78299), (RL, 300), (_id, 1045), (user_id, 174185700), (username, shakesdrayton), (name, Perri Shakes Drayton), (image_url, https://pbs.twimg.com/profile_images/1285289363065180162/vz4sdmL-_normal.jpg), (user_flags, 2), (friendship, 1032), (are_dms_muted, 0), (location, London), (updated, 1626731280626), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78300), (RL, 301), (_id, 1046), (user_id, 77346069), (username, MalwareJake), (name, Jake Williams), (image_url, https://pbs.twimg.com/profile_images/1312522651945119744/HiCMkSUt_normal.jpg), (user_flags, 0), (user_label_data, SThY), (friendship, 1032), (are_dms_muted, 0), (header_url, https://pbs.twimg.com/profile_banners/77346069/1622416174), (description, SgNqhENUTyBAYnJlYWNocXVlc3QgYW5kIEByZW5kaXRpb25zZWMuIEdTRSAjMTUwLiBJIGRvIGFkdmVyc2FyeSBlbXVsYXRpb24sIElSLCBhbmQgbWFsd2FyZS4gQGhhY2tub3RjcmltZSB8IEBUcmliZU9mSGFja2VycyBjb250cmlidXRvckkJCAESBAgCTRICSgISBBIEEhAZagticmVhY2hxdWVzdDhYWEkSBBIQWE0SAkoCEhUSFRIiGWoMcmVuZGl0aW9uc2VjOFhYSRIVEiJYTRICSgISWRJZEmYZagxoYWNrbm90Y3JpbWU4WFhJElkSZlhNEgJKAhJpEmkSeBlqDlRyaWJlT2ZIYWNrZXJzOFhYSRJpEnhYWElNEVhJEVhJEgSCkIKygtWC+FiDAR+DAR9YWA==), (link_color, -16737895), (url_entities, SU0RWEkRWIIBggGCAVg=), (bg_color, -15526634), (location, Augusta, GA), (followers, 88994), (fast_followers, 0), (friends, 1503), (statuses, 79996), (favorites, 30258), (media_count, 10344), (profile_created, 1253923352000), (updated, 1626731280602), (pinned_tweet_id, 1365051787074539527), (advertiser_type, none), (hash, -643249066), (translator_type, none), (profile_interstitial_type, 0), (profile_image_colors, SQkIAggBEgUIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCGPXDFP+qpp1YSSBBlYUfFP+dn5xYSSBBhQo9FP8BVp9YSSBBAzMzFP9ONBpYSSBAio9cFP/Si3dYWA==), (profile_banner_colors, SQkIAggBEgUIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCoceuFP////9YSSBBLrhSFP8aHBtYSSA/9HrhFP94fn5YSSA/0zMzFP//oaBYSSA/GZmaFP//f39YWA==), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78301), (RL, 302), (_id, 1047), (user_id, 1078524406790610944), (username, MichaelEvansB05), (name, Michael Evans Behling), (image_url, https://pbs.twimg.com/profile_images/1216779960930598912/f-7ND_4N_normal.jpg), (user_flags, 2), (friendship, 1032), (are_dms_muted, 0), (location, Los Angeles, CA), (updated, 1626731280724), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78302), (RL, 303), (_id, 1048), (user_id, 219703427), (username, JLester34), (name, Jon Lester), (image_url, https://pbs.twimg.com/profile_images/1042456372657381376/APKUghjx_normal.jpg), (user_flags, 2), (friendship, 0), (are_dms_muted, 0), (location, Chicago, IL), (updated, 1626731280750), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78303), (RL, 304), (_id, 1049), (user_id, 79796828), (username, stefanjanoski), (name, Stefan Janoski), (image_url, https://pbs.twimg.com/profile_images/1029755047767232513/O6myJrsC_normal.jpg), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (location, Los Angeles, CA), (updated, 1626731280627), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78304), (RL, 305), (_id, 1050), (user_id, 1301208489403068419), (username, picknava), (name, PICKÐŸÎ›VÎ›â„¢ ðŸ”®), (image_url, https://pbs.twimg.com/profile_images/1347054417380581377/eryxLT33_normal.jpg), (user_flags, 0), (friendship, 8), (are_dms_muted, 0), (location, Status ðŸ’š), (updated, 1626731280729), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78305), (RL, 306), (_id, 1051), (user_id, 14462333), (username, NikeService), (name, Nike Service), (image_url, https://pbs.twimg.com/profile_images/2282413894/plsev2uryzf77j3o1p4i_normal.jpeg), (user_flags, 2), (friendship, 1032), (are_dms_muted, 0), (location, Beaverton, Oregon), (updated, 1626731280624), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78306), (RL, 307), (_id, 1052), (user_id, 1325513297920077824), (username, DogeCoinMilitia), (name, TheDogeCoinMilitia), (image_url, https://pbs.twimg.com/profile_images/1416508413446529025/uqgzJZ_x_normal.jpg), (user_flags, 16416), (user_label_data, SThY), (friendship, 8), (are_dms_muted, 0), (header_url, https://pbs.twimg.com/profile_banners/1325513297920077824/1622968522), (description, SgNCpVN0cmFpZ2h0IHNob290ZXIgdW53aWxsaW5nIHRvIGZsdWZmIHBpbGxvd3MuIEZvcmV2ZXIgVU5JVEVEIGluICNET0dFLiBodHRwczovL3QuY28veHpxVmozUnZwcyAuIPCfkYggQ29sbGVjdGlibGUgQ29pbnMuIERPR0UgVGlwcyDwn5GHIERRdUpFNzNkY01uNGRnYUo0UVB3aXFoajE1Y1B5d243c3hJCQgBEgIIAk0SA0oDEj8SPxJEagRET0dFWFhJEj8SRFhNEgFKCBJGEkYSXWoXaHR0cHM6Ly90LmNvL3h6cVZqM1J2cHNqEmh0dHA6Ly9kb2dlZHJpcC5jb2oLZG9nZWRyaXAuY29YWEkSRhJdWFhJSRIBgs5YSRFYTRFYSRIBgrVYgwEmWFg=), (link_color, -14835214), (web_url, https://t.co/xzqVj3Rvps), (url_entities, SUkSAUoIERESF2oXaHR0cHM6Ly90LmNvL3h6cVZqM1J2cHNqEmh0dHA6Ly9kb2dlZHJpcC5jb2oLZG9nZWRyaXAuY29YWEkRWEkRWEkRWEkRWFg=), (bg_color, -657158), (location, U S And A), (structured_location, SThY), (followers, 43046), (fast_followers, 0), (friends, 70), (statuses, 8954), (favorites, 9536), (media_count, 828), (profile_created, 1604861987000), (updated, 1626878395771), (pinned_tweet_id, 1408709007913603080), (advertiser_type, promotable_user), (hash, 817747682), (translator_type, none), (profile_interstitial_type, 0), (profile_image_colors, SQkIAggBEgUIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCBOuFFP/+/vxYSSBB3j1xFP8EAgNYSSBBdKPXFP/+64BYSSBA8euFFP/omgZYSSBAyj1xFP/q0aNYWA==), (profile_banner_colors, SQkIAggBEgUIAQgDakZjb20udHdpdHRlci5tb2RlbC5zdHJhdG9zdG9yZS5NZWRpYUNvbG9yRGF0YSRDb2xvckRlc2NyaXB0b3JDb21wYXJhdG9ySSBCm49cFP8CAgJYSSBBW9cKFP+kl3JYSSBAqAAAFP9nY1dYSSA/JmZmFP9tVDBYSSA/GZmaFP+9i0VYWA==), (business_id, -1), (smart_blocking_expiration, -1)
+
+
+(LID, 78307), (RL, 308), (_id, 1053), (user_id, 40256448), (username, NikeChile), (name, Nike Chile), (image_url, https://pbs.twimg.com/profile_images/1190264192764436481/sQlGFmtN_normal.jpg), (user_flags, 3), (friendship, 8), (are_dms_muted, 0), (location, Chile), (updated, 1626731280629), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78308), (RL, 309), (_id, 1054), (user_id, 944261020914249729), (username, Rhythmtrader), (name, Rhythm), (image_url, https://pbs.twimg.com/profile_images/1155514911377821696/5-amQlS8_normal.jpg), (user_flags, 0), (friendship, 1032), (are_dms_muted, 0), (location, Around the block), (updated, 1626731280602), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78309), (RL, 310), (_id, 1055), (user_id, 902096744), (username, JadAtMagnet), (name, Jad Saliba), (image_url, https://pbs.twimg.com/profile_images/1069570827895668736/DNcQzSa5_normal.jpg), (user_flags, 0), (user_label_data, SThY), (friendship, 1024), (are_dms_muted, 0), (header_url, https://pbs.twimg.com/profile_banners/902096744/1522204040), (description, SgNqkkZvdW5kZXIgJiBDVE8gQCBNYWduZXQgRm9yZW5zaWNzLiBQYXNzaW9uYXRlIGFib3V0IGNyZWF0aW5nIHNvbHV0aW9ucyB0aGF0IGhlbHAgcGVvcGxlIHNlZWsganVzdGljZSBhbmQgcHJvdGVjdCB0aGUgaW5ub2NlbnQuIE9waW5pb25zIGFyZSBteSBvd24uSQgBWElNEVhJEViCm4KbgptYWA==), (link_color, -14835214), (web_url, https://t.co/nuUMYcj66N), (url_entities, SUkSAUoIERESF2oXaHR0cHM6Ly90LmNvL251VU1ZY2o2Nk5qHmh0dHA6Ly93d3cubWFnbmV0Zm9yZW5zaWNzLmNvbWoTbWFnbmV0Zm9yZW5zaWNzLmNvbVhYSRFYSRFYSRFYSRFYWA==), (bg_color, -4137235), (location, Canada), (followers, 1813), (fast_followers, 0), (friends, 281), (statuses, 1253), (favorites, 2281), (profile_created, 1351094160000), (updated, 1626731280600), (pinned_tweet_id, -1), (advertiser_type, none), (hash, 1151176315), (translator_type, none), (profile_interstitial_type, 0), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78310), (RL, 311), (_id, 1056), (user_id, 40915934), (username, sagekotsenburg), (name, sage kotsenburg), (image_url, https://pbs.twimg.com/profile_images/1391961934753255426/Mp6NDZfG_normal.jpg), (user_flags, 2), (friendship, 1032), (are_dms_muted, 0), (location, Park City), (updated, 1626731280627), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78311), (RL, 312), (_id, 1057), (user_id, 92277809), (username, nikefootballita), (name, Nike Football Italia), (image_url, https://pbs.twimg.com/profile_images/695252905100713986/mel-AVK8_normal.jpg), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (location, Italia), (updated, 1626731280754), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78312), (RL, 313), (_id, 1058), (user_id, 1124052689992781825), (username, CellebriteES), (name, Cellebrite Enterprise Solutions), (image_url, https://pbs.twimg.com/profile_images/1130525608520376320/b9ke11XS_normal.png), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (updated, 1626731280598), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78313), (RL, 314), (_id, 1059), (user_id, 24901827), (username, G_Rupp), (name, Galen Rupp), (image_url, https://pbs.twimg.com/profile_images/114954190/twitterpic_normal.jpg), (user_flags, 2), (friendship, 1024), (are_dms_muted, 0), (location, OREGON), (updated, 1626731280629), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78314), (RL, 315), (_id, 1060), (user_id, 69675750), (username, Stevo2510), (name, Stephen Hagan), (image_url, https://pbs.twimg.com/profile_images/1216538841571565569/7pRE-sEG_normal.jpg), (user_flags, 1), (friendship, 0), (are_dms_muted, 0), (location, ÃœT: 36.12802,-86.643836), (updated, 1626731280627), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78315), (RL, 316), (_id, 1061), (user_id, 53295087), (username, JimmyRollins11), (name, Jimmy Rollins), (image_url, https://pbs.twimg.com/profile_images/1101277564230922240/iFJAt3kC_normal.jpg), (user_flags, 2), (friendship, 0), (are_dms_muted, 0), (location, Florida, USA), (updated, 1626731280624), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78316), (RL, 317), (_id, 1062), (user_id, 57747123), (username, sean_malto), (name, Sean Malto), (image_url, https://pbs.twimg.com/profile_images/331228498/IMG_0003_normal.PNG), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (location, Kansas City), (updated, 1626731280678), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78317), (RL, 318), (_id, 1063), (user_id, 1257645477408972802), (username, carved_from), (name, Carved From Unallocated), (image_url, https://pbs.twimg.com/profile_images/1257646316596985856/WrHCJdMV_normal.jpg), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (updated, 1626731280601), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78318), (RL, 319), (_id, 1064), (user_id, 1276198357250310144), (username, stem_sadie), (name, Sadie Grace), (image_url, https://pbs.twimg.com/profile_images/1404911486821179395/EOhDC3u-_normal.jpg), (user_flags, 0), (friendship, 1032), (are_dms_muted, 0), (header_url, https://pbs.twimg.com/profile_banners/1276198357250310144/1593203867), (description, SgNqm1NURU0gcXVlZW4gLy8gUmFuZG9tIFRob3VnaHRzIEVudGh1c2lhc3QgLy8gQ2F0IE1vbSAvLyBORVJEIEFMRVJUOiBtYXRoLCBDUywgY3liZXIsIERGSVIsIGNyeXB0LCBpbmZvc2VjIC8vIEFsbCBvcGluaW9ucy90d2VldHMvdmlld3MgYXJlIG1pbmUgJiBtaW5lIGFsb25lSQgBWElNEVhJEBiCpIKkgqRYWA==), (link_color, -14835214), (url_entities, SU0RWEkRWIIBggGCAVg=), (bg_color, -657158), (followers, 206), (fast_followers, 0), (friends, 171), (statuses, 375), (favorites, 913), (profile_created, 1593104421000), (updated, 1626731280623), (pinned_tweet_id, -1), (advertiser_type, none), (hash, 1783953249), (translator_type, none), (profile_interstitial_type, 0), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78319), (RL, 320), (_id, 1065), (user_id, 1223779978459770880), (username, iearnfinance), (name, yearn.finance), (image_url, https://pbs.twimg.com/profile_images/1286204702338813952/X8fdf5p-_normal.png), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (updated, 1626731280599), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78320), (RL, 321), (_id, 1067), (user_id, 219783628), (username, ChrisWondo), (name, Chris Wondolowski), (image_url, https://pbs.twimg.com/profile_images/1222597447215669250/424jgGRp_normal.jpg), (user_flags, 2), (friendship, 1024), (are_dms_muted, 0), (location, California), (updated, 1626731280627), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78321), (RL, 322), (_id, 1068), (user_id, 17912774), (username, tgonser), (name, Tom Gonser), (image_url, https://pbs.twimg.com/profile_images/563137246040059904/SH932tEG_normal.jpeg), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (location, San Francisco, CA & Bend, Or), (updated, 1626731280626), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78322), (RL, 323), (_id, 1069), (user_id, 184313387), (username, AshtonJEaton), (name, Ashton Eaton), (image_url, https://pbs.twimg.com/profile_images/1053818632466137088/tz94bQcM_normal.jpg), (user_flags, 2), (friendship, 1024), (are_dms_muted, 0), (location, Earth), (updated, 1626731280623), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78323), (RL, 324), (_id, 1070), (user_id, 94302279), (username, nikefootfrance), (name, Nike Football France), (image_url, https://pbs.twimg.com/profile_images/691206826055065600/QYipk8q2_normal.jpg), (user_flags, 0), (friendship, 1032), (are_dms_muted, 0), (location, France), (updated, 1626731280676), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78324), (RL, 325), (_id, 1071), (user_id, 2939451880), (username, loquaciousloka), (name, ca$s:e cage ðŸ’«), (image_url, https://pbs.twimg.com/profile_images/1410634568793837574/YsGfWOct_normal.jpg), (user_flags, 0), (friendship, 8), (are_dms_muted, 0), (location, âˆž), (updated, 1626731280653), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78325), (RL, 326), (_id, 1072), (user_id, 41992038), (username, shanejoneill), (name, Shane Oneill), (image_url, https://pbs.twimg.com/profile_images/1378468056872067074/rVpR6CKf_normal.jpg), (user_flags, 2), (friendship, 8), (are_dms_muted, 0), (location, Melbourne, Aus/LA), (updated, 1626731280750), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78326), (RL, 327), (_id, 1073), (user_id, 982710309461921802), (username, j_duffy01), (name, .), (image_url, https://pbs.twimg.com/profile_images/1414632943625060356/8eUMP3ag_normal.jpg), (user_flags, 20481), (user_label_data, SThY), (friendship, 8), (are_dms_muted, 0), (header_url, https://pbs.twimg.com/profile_banners/982710309461921802/1612374792), (description, SgNCoDIwIHkvbyDigKIgdW5pdmVyc2l0eSBzdHVkZW50IOKAoiByZXNlYXJjaCBARHVmZnlBUFBfSVQg4oCiIHNvZnR3YXJlIGVuZ2luZWVyaW5nIPCfmoDigKIgZm9sbG93IOKJoCBlbmRvcnNlbWVudCDigKIgZGZpciDigKIgbmV1cm9kaXZlcmdlbnQg4oCiIGF1dGhvciDwn5OaSQgCTRICSgISJxInEjMZagtEdWZmeUFQUF9JVDhYWEkSJxIzWFhJTRFYSRFYSRIBgr1YguGC4VhY), (link_color, -15085690), (web_url, https://t.co/yXK7WD6nTs), (url_entities, SUkSAUoIERESF2oXaHR0cHM6Ly90LmNvL3lYSzdXRDZuVHNqEWh0dHBzOi8vZHVmZnkuYXBwaglkdWZmeS5hcHBYWEkRWEkRWEkRWEkRWFg=), (bg_color, -16777216), (followers, 8099), (fast_followers, 0), (friends, 876), (statuses, 366), (favorites, 14520), (media_count, 34), (profile_created, 1523131370000), (updated, 1626731280600), (pinned_tweet_id, 1366476581728886785), (advertiser_type, promotable_user), (hash, -1547334916), (translator_type, none), (profile_interstitial_type, 0), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78327), (RL, 409), (_id, 1158), (user_id, 1174196863785930754), (username, niko4n6), (name, Niko), (image_url, https://pbs.twimg.com/profile_images/1309653345590632448/s0VOnp65_normal.jpg), (user_flags, 1), (friendship, 8), (are_dms_muted, 0), (location, California, USA), (updated, 1626731280804), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78328), (RL, 410), (_id, 1159), (user_id, 1143244552880427008), (username, LinkForest_io), (name, LinkForest.io), (image_url, https://pbs.twimg.com/profile_images/1144860921229205504/4zYMWAG6_normal.png), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (location, Austria), (updated, 1626731280651), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78329), (RL, 411), (_id, 1160), (user_id, 13867012), (username, robtlee), (name, Rob Lee), (image_url, https://pbs.twimg.com/profile_images/77609987/Who_dat_normal.JPG), (user_flags, 16384), (user_label_data, SThY), (friendship, 1024), (are_dms_muted, 0), (header_url, https://pbs.twimg.com/profile_banners/13867012/1449943248), (description, SgNqbERGSVIgYW5kIEluZm9TZWMgUHJvZmVzc2lvbmFsLiBFbnRyZXByZW5ldXIuIEZhY3VsdHkgRmVsbG93LiBIdXNiYW5kLiBGYXRoZXIgb2YgdHdpbnMuIEJyb25jb3MgYW5kIE5hdHMgZmFuLkkIAVhJTRFYSRFYgnWCdYJ1WFg=), (link_color, -16737895), (web_url, https://t.co/WVAxR23oVQ), (url_entities, SUkSAUoIERESF2oXaHR0cHM6Ly90LmNvL1dWQXhSMjNvVlFqIWh0dHA6Ly9kaWdpdGFsLWZvcmVuc2ljcy5zYW5zLm9yZ2oaZGlnaXRhbC1mb3JlbnNpY3Muc2Fucy5vcmdYWEkRWEkRWEkRWEkRWFg=), (bg_color, -15526634), (location, Boston, MA), (followers, 26335), (fast_followers, 0), (friends, 1287), (statuses, 5378), (favorites, 1331), (media_count, 320), (profile_created, 1203780596000), (updated, 1626731280652), (pinned_tweet_id, 0), (advertiser_type, none), (hash, -2067186213), (translator_type, none), (profile_interstitial_type, 0), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78330), (RL, 412), (_id, 1161), (user_id, 381090926), (username, ShaneVictorino), (name, Shane Victorino), (image_url, https://pbs.twimg.com/profile_images/1404109128964788225/L17mK08v_normal.jpg), (user_flags, 2), (friendship, 1024), (are_dms_muted, 0), (location, MauiNoKaOi~LasVegas), (updated, 1626731280655), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78331), (RL, 413), (_id, 1162), (user_id, 1215057734703468545), (username, Karla93582000), (name, Karla), (image_url, https://pbs.twimg.com/profile_images/1215058177026334720/NvoYU1ld_normal.jpg), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (updated, 1626731280726), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78332), (RL, 414), (_id, 1163), (user_id, 15421234), (username, ChrisGastardi), (name, ChrisGastardi), (image_url, https://pbs.twimg.com/profile_images/1405510585442258949/wMuIiuFt_normal.jpg), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (location, ÃœT: 37.363229,-79.190603), (updated, 1626731280652), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78333), (RL, 415), (_id, 1164), (user_id, 880535878724009985), (username, keydet89), (name, Harlanoscopy), (image_url, https://pbs.twimg.com/profile_images/1199287043739672576/DIhoJRp8_normal.jpg), (user_flags, 0), (user_label_data, SThY), (friendship, 1024), (are_dms_muted, 0), (header_url, https://pbs.twimg.com/profile_banners/880535878724009985/1611754069), (description, SgNqXFNyIERGSVIgQWR2aXNvciwgUmVzZWFyY2hlciwgUHJhY3RpdGlvbmVyLiBVU01DIHZldC4gQXV0aG9yLiBPcGluaW9ucyA9IG93bi4gI0ludHJ1c2lvbkludGVsSQgCTRIDSgMSTRJNElxqDkludHJ1c2lvbkludGVsWFhJEk0SXFhYSU0RWEkRWIKISRIBgmNYgohYWA==), (link_color, -14835214), (url_entities, SU0RWEkRWIIBggGCAVg=), (bg_color, -657158), (location, Planet Earth), (followers, 3912), (fast_followers, 0), (friends, 28), (statuses, 9064), (favorites, 901), (profile_created, 1498771087000), (updated, 1626731280962), (pinned_tweet_id, -1), (advertiser_type, none), (hash, -1660369536), (translator_type, none), (profile_interstitial_type, 0), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78334), (RL, 416), (_id, 1165), (user_id, 2192681835), (username, zybercop), (name, Peter G), (image_url, https://pbs.twimg.com/profile_images/1183727873229807616/eaAZI_IL_normal.jpg), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (updated, 1626731280650), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78335), (RL, 417), (_id, 1166), (user_id, 825029623), (username, Danyakotov), (name, The Deposed Dictator), (image_url, https://pbs.twimg.com/profile_images/1370266322081300481/AQR6mbiO_normal.jpg), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (updated, 1626731280651), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78336), (RL, 418), (_id, 1167), (user_id, 822825713615175680), (username, redditSpacePorn), (name, Space Porn), (image_url, https://pbs.twimg.com/profile_images/866317371820191749/_BP2j9Cw_normal.jpg), (user_flags, 262144), (user_label_data, SThY), (friendship, 1024), (are_dms_muted, 0), (header_url, https://pbs.twimg.com/profile_banners/822825713615175680/1485012606), (description, SgNqYldlbGNvbWUsIHRoaXMgYWNjb3VudCBpcyBkZXZvdGVkIHRvIGhpZ2gtcXVhbGl0eSBpbWFnZXMgb2Ygc3BhY2UsIHNoYXJpbmcgcXVhbGl0eSBhc3Ryb3Bob3RvZ3JhcGh5SQgBWElNEVhJEViCa4JrgmtYWA==), (link_color, -14969376), (web_url, https://t.co/wNZyLe4uCq), (url_entities, SUkSAUoIERESF2oXaHR0cHM6Ly90LmNvL3dOWnlMZTR1Q3FqJmh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vc3BhY2VfYmlibGUvahppbnN0YWdyYW0uY29tL3NwYWNlX2JpYmxlL1hYSRFYSRFYSRFYSRFYWA==), (bg_color, -16777216), (location, Universe), (followers, 172391), (fast_followers, 0), (friends, 1559), (statuses, 13648), (favorites, 1013), (media_count, 13449), (profile_created, 1485011912000), (updated, 1626731280599), (pinned_tweet_id, 1362943828240531456), (advertiser_type, promotable_user), (hash, -359936541), (translator_type, none), (profile_interstitial_type, 0), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78337), (RL, 419), (_id, 1168), (user_id, 2803191), (username, intel), (name, Intel), (image_url, https://pbs.twimg.com/profile_images/1301199561713541120/7dPeX1gK_normal.png), (user_flags, 2), (friendship, 1032), (are_dms_muted, 0), (location, Santa Clara, California), (updated, 1626731280655), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78338), (RL, 420), (_id, 1169), (user_id, 10780742), (username, JohnnyCiocca), (name, Herder of Noobs), (image_url, https://pbs.twimg.com/profile_images/1416805867194703873/0Ot5BdVO_normal.png), (user_flags, 0), (friendship, 1032), (are_dms_muted, 0), (location, BrasÃ­lia, Brasil), (updated, 1626731280652), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78339), (RL, 421), (_id, 1170), (user_id, 2800656396), (username, iCrypto_), (name, Jim.btc), (image_url, https://pbs.twimg.com/profile_images/1391206833906409472/inaM3Exc_normal.jpg), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (updated, 1626731280655), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78340), (RL, 422), (_id, 1171), (user_id, 14681605), (username, ThatKevinSmith), (name, KevinSmith), (image_url, https://pbs.twimg.com/profile_images/107763943/twitter_normal.jpg), (user_flags, 2), (friendship, 1024), (are_dms_muted, 0), (location, Body? L.A. Mind? N.J.), (updated, 1626731280782), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78341), (RL, 423), (_id, 1172), (user_id, 15813140), (username, GoogleCloudTech), (name, Google Cloud Tech), (image_url, https://pbs.twimg.com/profile_images/1219725421962571779/_qstUQx__normal.jpg), (user_flags, 2), (friendship, 8), (are_dms_muted, 0), (updated, 1626731280653), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78342), (RL, 424), (_id, 1173), (user_id, 773529298250629120), (username, dgreer64_Tech), (name, dgreer64), (image_url, https://pbs.twimg.com/profile_images/776082887804391425/mNr6Tgt9_normal.jpg), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (location, Georgia, USA), (updated, 1626731280656), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78343), (RL, 425), (_id, 1174), (user_id, 464136514), (username, BoJackson), (name, Bo Jackson), (image_url, https://pbs.twimg.com/profile_images/438754728059469824/E2GbfD-H_normal.jpeg), (user_flags, 2), (friendship, 0), (are_dms_muted, 0), (updated, 1626731280654), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78344), (RL, 426), (_id, 1175), (user_id, 268563435), (username, HopelessHannah1), (name, Hopeless Hannah), (image_url, https://pbs.twimg.com/profile_images/732197377302495232/Jjd7xhgl_normal.jpg), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (location, England), (updated, 1626731280627), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78345), (RL, 427), (_id, 1176), (user_id, 921479936), (username, thaconnecter), (name, thaconnecterðŸ‡¨ðŸ‡¦), (image_url, https://pbs.twimg.com/profile_images/611887060555841536/GjWQJ88s_normal.jpg), (user_flags, 0), (friendship, 0), (are_dms_muted, 0), (location, MontrÃ©al, QuÃ©bec), (updated, 1626731280704), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78346), (RL, 428), (_id, 1177), (user_id, 4230101712), (username, jagarikin), (name, ã˜ã‚ƒãŒã‚Šã ã‚“), (image_url, https://pbs.twimg.com/profile_images/666406258451152896/ROaK4lhC_normal.png), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (location, moon), (updated, 1626731280699), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78347), (RL, 429), (_id, 1178), (user_id, 441951136), (username, WesWelker), (name, Wes Welker), (image_url, https://pbs.twimg.com/profile_images/1116435678194221057/zSwUyBV-_normal.jpg), (user_flags, 2), (friendship, 1024), (are_dms_muted, 0), (location, Houston, TX), (updated, 1626731280650), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78348), (RL, 430), (_id, 1179), (user_id, 474208955), (username, MarcMethot3), (name, Marc Methot), (image_url, https://pbs.twimg.com/profile_images/1207854058494554113/9YrAo07-_normal.jpg), (user_flags, 2), (friendship, 1024), (are_dms_muted, 0), (location, Ottawa, Ontario), (updated, 1626731280888), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78349), (RL, 431), (_id, 1180), (user_id, 1254877870595457024), (username, PS5Updates), (name, PlayStation 5 - PS5 Restock News), (image_url, https://pbs.twimg.com/profile_images/1293947106181423111/jSEpKE2c_normal.jpg), (user_flags, 0), (friendship, 1032), (are_dms_muted, 0), (updated, 1626731280724), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78350), (RL, 432), (_id, 1181), (user_id, 79650494), (username, CodySimpson), (name, Cody Simpson), (image_url, https://pbs.twimg.com/profile_images/1399572558383443968/EEfIDmjG_normal.jpg), (user_flags, 2), (friendship, 1024), (are_dms_muted, 0), (location, Gold Coast, Queensland), (updated, 1626731280678), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78351), (RL, 433), (_id, 1182), (user_id, 139556944), (username, delpotrojuan), (name, Juan M. del Potro), (image_url, https://pbs.twimg.com/profile_images/696440730982739968/7rhcxFve_normal.jpg), (user_flags, 2), (friendship, 0), (are_dms_muted, 0), (location, Tandil, Argentina), (updated, 1626731280681), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78352), (RL, 434), (_id, 1183), (user_id, 279154337), (username, tmwhitmore), (name, Teresa), (image_url, https://pbs.twimg.com/profile_images/1188920312680849408/Mf7X8DoA_normal.jpg), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (location, NC), (updated, 1626731280676), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78353), (RL, 435), (_id, 1184), (user_id, 169339410), (username, teeltech), (name, Teel Technologies), (image_url, https://pbs.twimg.com/profile_images/834502053850329088/rtnWHGHk_normal.jpg), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (location, Norwalk, CT), (updated, 1626731280676), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78354), (RL, 436), (_id, 1185), (user_id, 176774540), (username, cgpgrey), (name, CGP Grey ðŸ), (image_url, https://pbs.twimg.com/profile_images/1220438277796352001/jhrzYrf5_normal.jpg), (user_flags, 2), (friendship, 1024), (are_dms_muted, 0), (location, London), (updated, 1626731280678), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78355), (RL, 437), (_id, 1186), (user_id, 243418245), (username, JimBridenstine), (name, Jim Bridenstine), (image_url, https://pbs.twimg.com/profile_images/1351953180784001024/K9SMnUtL_normal.jpg), (user_flags, 2), (friendship, 1024), (are_dms_muted, 0), (location, Tulsa, OK), (updated, 1626731280679), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78356), (RL, 438), (_id, 1187), (user_id, 74561891), (username, columhiggins), (name, Colum Higgins), (image_url, https://pbs.twimg.com/profile_images/1161952736507768838/_ewilY6U_normal.png), (user_flags, 0), (friendship, 1024), (are_dms_muted, 0), (location, Dublin City, Ireland), (updated, 1626731280680), (pinned_tweet_id, -1), (business_id, 0), (smart_blocking_expiration, -1)
+
+
+(LID, 78357), (RL, 1), (_id, 1), (type, 2), (name, Heather Mahalik), (query, HeatherMahalik), (query_id, 475222380), (time, 1623285646831), (priority, 3), (user_search_suggestion, SgIcHFNRbGoOSGVhdGhlck1haGFsaWtqD0hlYXRoZXIgTWFoYWxpa2pMaHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyMTkwMTYzNTE3MTQ2Mjc1ODYvWmcxUTRfSVZfbm9ybWFsLmpwZzARMFg=), (score, 2.9984408333552963)
+
+
+(LID, 78358), (RL, 2), (_id, 2), (type, 0), (name, marsha mellos), (query, marsha mellos), (query_id, 2006423246), (time, 1617501323714), (priority, 3), (score, 0.0)
+
+
+(LID, 78359), (RL, 3), (_id, 3), (type, 2), (name, Ronen Engler), (query, TheNewMyself), (query_id, 1246522656016359424), (time, 1617501343812), (priority, 3), (user_search_suggestion, SgIdEUyJwFRU4ABqDFRoZU5ld015c2VsZmoMUm9uZW4gRW5nbGVyakxodHRwczovL3Bicy50d2ltZy5jb20vcHJvZmlsZV9pbWFnZXMvMTI0NzM1MzQ3NjAyNTM2ODU3Ni8tR2l3MDRVdF9ub3JtYWwuanBnMBEwWA==), (score, 8.264434319016848e-12)
+
+
+(LID, 78360), (RL, 4), (_id, 4), (type, 2), (name, Paul Scurvy), (query, PaulScurvy), (query_id, 522777613), (time, 1617501354974), (priority, 3), (user_search_suggestion, SgIcHyj0DWoKUGF1bFNjdXJ2eWoLUGF1bCBTY3VydnlqS2h0dHBzOi8vcGJzLnR3aW1nLmNvbS9wcm9maWxlX2ltYWdlcy83NTA0OTk5MjAxMTc5MTk3NDQvWHZ1eHpiRkJfbm9ybWFsLmpwZzARMFg=), (score, 8.265926242556669e-12)
+
+
+(LID, 78361), (RL, 5), (_id, 5), (type, 2), (name, Matt Goeckel), (query, mattforensic), (query_id, 992125797241643008), (time, 1617501373671), (priority, 3), (user_search_suggestion, SgIdDcS9J/UW4ABqDG1hdHRmb3JlbnNpY2oMTWF0dCBHb2Vja2VsakxodHRwczovL3Bicy50d2ltZy5jb20vcHJvZmlsZV9pbWFnZXMvMTM1MDgwOTIwMDM4MTg2MTg4OS9YMy1WMnd4d19ub3JtYWwuanBnMBEwWA==), (score, 8.267750070418584e-12)
+
+
+(LID, 78590), (RL, 1), (query, crying), (timestamp, 1623900701673)
+
+
+(LID, 78591), (RL, 2), (query, sad), (timestamp, 1623900734220)
+
+
+(LID, 78592), (RL, 3), (query, i will be there), (timestamp, 1625114199563)
+
+
+(LID, 78593), (RL, 4), (query, i will be there too), (timestamp, 1625114125028)
+
+
+(LID, 78594), (RL, 5), (query, are you ready?), (timestamp, 1626731604861)
+
+

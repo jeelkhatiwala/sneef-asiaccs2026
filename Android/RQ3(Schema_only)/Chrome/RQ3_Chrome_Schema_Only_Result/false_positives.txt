@@ -1,0 +1,246 @@
+(LID, 77967); (7, App Name, Rent.com, 10);
+
+(LID, 77968); (8, App Name, Rent.com, 10);
+
+(LID, 77969); (9, App Name, Rent.com, 10);
+
+(LID, 77982); (22, App Name, T-Mobile Hotels, 10);
+
+(LID, 77983); (23, App Name, T-Mobile Hotels, 10);
+
+(LID, 77984); (24, App Name, T-Mobile Hotels, 10);
+
+(LID, 77985); (25, App Name, T-Mobile Hotels, 10);
+
+(LID, 77986); (26, App Name, T-Mobile Travel, 10);
+
+(LID, 77987); (27, App Name, T-Mobile Travel, 10);
+
+(LID, 77988); (28, App Name, T-Mobile Travel, 10);
+
+(LID, 77989); (29, App Name, T-Mobile Travel, 10);
+
+(LID, 77990); (30, App Name, T-Mobile Travel, 10);
+
+(LID, 77994); (34, App Name, Google, 10);
+
+(LID, 77995); (35, App Name, Google, 10);
+
+(LID, 77996); (36, App Name, Google, 10);
+
+(LID, 77997); (37, App Name, Google, 10);
+
+(LID, 77998); (38, App Name, Google, 10);
+
+(LID, 77999); (39, App Name, Google, 10);
+
+(LID, 78000); (40, Human Name, LG, 6); (40, App Name, Amazon, 10); (40, Human Name, HTC, 6); (40, Human Name, Pixel, 5);
+
+(LID, 78030); (70, App Name, Italianos Pizza, 9);
+
+(LID, 78045); (85, Timestamp, 2017-12-23 03:34:41 UTC, 9);
+
+(LID, 78047); (87, App Name, Twitter, 9);
+
+(LID, 78048); (88, App Name, Twitter, 9);
+
+(LID, 78049); (89, Search keyword, Corroboration. That Is All., 9); (89, Timestamp, 2017-12-24 03:20:39 UTC, 9); (89, App Name, Twitter, 9);
+
+(LID, 78052); (92, App Name, CarGurus, 9);
+
+(LID, 78053); (93, App Name, CARFAX, 10); (93, Search keyword, 5J6RW2H81HL075693, 9);
+
+(LID, 78054); (94, App Name, CARFAX, 10); (94, Search keyword, 5J6RW2H81HL075693, 9);
+
+(LID, 78055); (95, Search keyword, Sign in - Google Accounts, 8); (95, App Name, Google, 10);
+
+(LID, 78056); (96, App Name, Google, 10); (96, Search keyword, Sign in, 8);
+
+(LID, 78057); (97, App Name, Google, 10); (97, Search keyword, Sign in, 8);
+
+(LID, 78058); (98, Search keyword, Log into Facebook, 9);
+
+(LID, 78059); (99, Search keyword, Log into Facebook, 9);
+
+(LID, 78060); (100, Search keyword, Log into Facebook, 9);
+
+(LID, 78062); (102, App Name, Google, 10);
+
+(LID, 78063); (103, App Name, Google, 10);
+
+(LID, 78064); (104, App Name, Google, 10);
+
+(LID, 78134); (174, Search keyword, cheap odb, 9);
+
+(LID, 78135); (175, Search keyword, cheap odb, 9);
+
+(LID, 78136); (176, Search keyword, cheap odb, 9);
+
+(LID, 78137); (177, Search keyword, cheap odb, 9);
+
+(LID, 78138); (178, Search keyword, cheap odb, 9);
+
+(LID, 78139); (179, Search keyword, cheap odb, 9);
+
+(LID, 78140); (180, Search keyword, cheap odb, 9);
+
+(LID, 78141); (181, Search keyword, cheap odb, 9);
+
+(LID, 78142); (182, Search keyword, cheap odb, 9);
+
+(LID, 78143); (183, Search keyword, cheap odb, 9);
+
+(LID, 78144); (184, Search keyword, cheap odb, 9);
+
+(LID, 78145); (185, Search keyword, cheap odb, 9);
+
+(LID, 78146); (186, Search keyword, cheap odb, 9);
+
+(LID, 78147); (187, Search keyword, cheap odb, 9);
+
+(LID, 78155); (195, Search keyword, cheap odb, 9); (195, Address, Samsung Electronics, South Korea, 7);
+
+(LID, 78156); (196, App Name, Google Ads, 10);
+
+(LID, 78157); (197, App Name, Google Ads, 10);
+
+(LID, 78158); (198, App Name, Google DoubleClick, 10);
+
+(LID, 78159); (199, App Name, Walmart, 10);
+
+(LID, 78160); (200, App Name, Google DoubleClick, 10);
+
+(LID, 78161); (201, Address, Samsung Electronics, Suwon-si, South Korea, 7); (201, Search keyword, cheap odb, 9); (201, Timestamp, 2022-01-27 05:23:32 UTC, 9);
+
+(LID, 78162); (202, Timestamp, 2022-01-07 04:34:20 UTC, 8); (202, Search keyword, cheap odb, 9);
+
+(LID, 78163); (203, Timestamp, 2022-01-07 04:34:22 UTC, 8); (203, Search keyword, cheap odb, 9);
+
+(LID, 78164); (204, Search keyword, cheap odb, 9); (204, Timestamp, 2022-01-07 05:13:45 UTC, 8);
+
+(LID, 78165); (205, Timestamp, 2022-01-07 05:10:04 UTC, 8); (205, Search keyword, cheap odb, 9);
+
+(LID, 78166); (206, Search keyword, WiFi Car Code Reader, 9); (206, App Name, Amazon, 10); (206, Timestamp, 2022-01-07 04:34:55 UTC, 8); (206, Search keyword, OBD2 Scanner, 10); (206, Search keyword, Wireless Car Diagnostic Scanner, 9);
+
+(LID, 78167); (207, App Name, Amazon, 10);
+
+(LID, 78168); (208, App Name, Amazon, 10);
+
+(LID, 78169); (209, App Name, Total Car Diagnostics, 9);
+
+(LID, 78172); (212, App Name, Chrome, 10);
+
+(LID, 78174); (214, Search keyword, blanton, 9);
+
+(LID, 78175); (215, Search keyword, blanton, 9);
+
+(LID, 78176); (216, Search keyword, blanton, 9);
+
+(LID, 78177); (217, Search keyword, blanton, 9);
+
+(LID, 78178); (218, Search keyword, blanton, 9);
+
+(LID, 78179); (219, Search keyword, blanton, 9);
+
+(LID, 78180); (220, Search keyword, blanton, 9);
+
+(LID, 78181); (221, Search keyword, blanton, 9);
+
+(LID, 78182); (222, Search keyword, blanton, 9);
+
+(LID, 78183); (223, Search keyword, blanton, 9);
+
+(LID, 78184); (224, Search keyword, blanton, 9);
+
+(LID, 78185); (225, Search keyword, blanton, 9);
+
+(LID, 78187); (227, Search keyword, blanton, 9);
+
+(LID, 78188); (228, Search keyword, blanton, 9);
+
+(LID, 78189); (229, Search keyword, blanton, 9);
+
+(LID, 78190); (230, Search keyword, blanton, 9);
+
+(LID, 78191); (231, Search keyword, blanton, 9);
+
+(LID, 78192); (232, Search keyword, blanton, 9);
+
+(LID, 78193); (233, Search keyword, blanton, 9);
+
+(LID, 78195); (235, App Name, Instacart, 10);
+
+(LID, 78198); (238, Search keyword, blanton, 9); (238, Address, Blanton's Bourbon Wine Store, 9);
+
+(LID, 78200); (240, Search keyword, blanton, 9);
+
+(LID, 78201); (241, Search keyword, blanton, 9);
+
+(LID, 78202); (242, App Name, Google Ads (via browser); 9); (242, Search keyword, Blanton's - Wooden Cork #1 Online Liquor Store, 9);
+
+(LID, 78206); (246, Timestamp, 2022-01-19 22:43:10 UTC, 9);
+
+(LID, 78207); (247, Search keyword, blantons bourbon, 9); (247, Address, United States, 8);
+
+(LID, 78208); (248, Search keyword, blantons bourbon, 9); (248, Timestamp, 2022-01-08 13:32:54 UTC, 9);
+
+(LID, 78212); (252, Search keyword, blanton, 9);
+
+(LID, 78213); (253, Search keyword, blanton, 9);
+
+(LID, 78214); (254, Search keyword, blanton, 9);
+
+(LID, 78215); (255, Search keyword, blanton, 9);
+
+(LID, 78216); (256, Search keyword, blanton, 9);
+
+(LID, 78217); (257, Search keyword, blanton, 9);
+
+(LID, 78218); (258, Search keyword, blanton, 9);
+
+(LID, 78219); (259, Search keyword, blanton, 9);
+
+(LID, 78220); (260, Search keyword, blanton, 9);
+
+(LID, 78223); (263, Search keyword, blanton, 9);
+
+(LID, 78224); (264, Search keyword, blanton, 9);
+
+(LID, 78225); (265, Search keyword, blanton, 9);
+
+(LID, 78226); (266, Search keyword, blanton, 9);
+
+(LID, 78227); (267, Search keyword, blanton, 9);
+
+(LID, 78228); (268, Search keyword, blanton, 9);
+
+(LID, 78229); (269, Search keyword, blanton, 9);
+
+(LID, 78230); (270, Search keyword, blanton, 9);
+
+(LID, 78231); (271, Search keyword, blanton, 9);
+
+(LID, 78232); (272, Search keyword, blanton, 9);
+
+(LID, 78233); (273, Search keyword, blanton, 9);
+
+(LID, 78234); (274, Search keyword, blanton, 9);
+
+(LID, 78235); (275, Search keyword, blanton, 9);
+
+(LID, 78236); (276, Search keyword, blanton, 9);
+
+(LID, 78237); (277, Search keyword, blanton, 9);
+
+(LID, 78238); (278, Search keyword, blanton, 9);
+
+(LID, 78239); (279, Search keyword, blanton, 9);
+
+(LID, 78240); (280, Search keyword, blanton, 9);
+
+(LID, 78241); (281, Search keyword, blanton, 9);
+
+(LID, 78242); (282, Search keyword, blanton, 9);
+
+(LID, 78249); (289, Search keyword, blanton, 9);
+

@@ -1,0 +1,220 @@
+(LID, 12719); (392, App Name, Google Photos, 10);
+
+(LID, 12720); (195, App Name, Gmail, 10);
+
+(LID, 12884); (2022, App Name, Gmail, 10);
+
+(LID, 12885); (1, App Name, Google Play Services, 10);
+
+(LID, 12886); (1, App Name, Google Play Services, 10);
+
+(LID, 19153); (47213, App Name, Google Search, 10);
+
+(LID, 19154); (47283, App Name, Google Search, 10);
+
+(LID, 19164); (50884, App Name, Google Play Services, 10);
+
+(LID, 19166); (51530, App Name, Google Contacts, 10); (51530, App Name, Google Play Services, 10);
+
+(LID, 19171); (54384, App Name, Google Search, 10);
+
+(LID, 19172); (54440, App Name, Google Search, 10);
+
+(LID, 19173); (54839, App Name, Google Search, 10);
+
+(LID, 19174); (54965, App Name, Google Search, 10);
+
+(LID, 19190); (58616, App Name, Google Play Services, 10);
+
+(LID, 78264); (11, App Name, Google Photos, 10);
+
+(LID, 78265); (12, App Name, Google Photos, 10);
+
+(LID, 78266); (13, App Name, Google Photos, 10);
+
+(LID, 78267); (14, App Name, Google Photos, 10);
+
+(LID, 78268); (15, App Name, Google Photos, 10);
+
+(LID, 78269); (16, App Name, Google Photos, 10);
+
+(LID, 78270); (17, App Name, Google Photos, 10);
+
+(LID, 78271); (18, App Name, Google Photos, 10);
+
+(LID, 78272); (26, App Name, Google Photos, 10);
+
+(LID, 78273); (27, App Name, Google Photos, 10);
+
+(LID, 78274); (28, App Name, Google Photos, 10);
+
+(LID, 78275); (29, App Name, Google Photos, 10);
+
+(LID, 78416); (3, App Name, Google Play Services, 10); (3, App Name, Samsung Fast, 8);
+
+(LID, 78417); (4, App Name, Samsung CMH, 8); (4, App Name, Google Play Services, 10);
+
+(LID, 78418); (5, App Name, Bixby Agent, 8); (5, App Name, Google Play Services, 10);
+
+(LID, 78419); (6, App Name, Google Play Services, 10);
+
+(LID, 78420); (7, App Name, Knox Manage, 8); (7, App Name, Google Play Services, 10);
+
+(LID, 78421); (8, App Name, Samsung Quick Share, 8); (8, App Name, Google Play Services, 10);
+
+(LID, 78422); (9, App Name, Google Play Services, 10);
+
+(LID, 78423); (10, App Name, Samsung Blockchain Wallet, 8); (10, App Name, Google Play Services, 10);
+
+(LID, 78424); (11, App Name, Google Play Services, 10);
+
+(LID, 78425); (12, App Name, Google Play Services, 10);
+
+(LID, 78426); (13, App Name, Google Play Services, 10);
+
+(LID, 78428); (15, App Name, Google Play Services, 10); (15, App Name, Samsung KGClient, 8);
+
+(LID, 78429); (16, App Name, Google Play Services, 10);
+
+(LID, 78430); (17, App Name, Galaxy Store, 8); (17, App Name, Google Play Services, 10);
+
+(LID, 78431); (18, App Name, Samsung SSU, 8); (18, App Name, Google Play Services, 10);
+
+(LID, 78432); (19, App Name, Google Play Services, 10);
+
+(LID, 78433); (20, App Name, Google Play Services, 10);
+
+(LID, 78434); (21, App Name, Google Play Services, 10); (21, App Name, Samsung Free, 8);
+
+(LID, 78435); (22, App Name, Samsung Billing, 8); (22, App Name, Google Play Services, 10);
+
+(LID, 78436); (23, App Name, Google Quick Search Box, 10); (23, App Name, Google Play Services, 10);
+
+(LID, 78437); (24, App Name, Google Play Services, 10);
+
+(LID, 78438); (25, App Name, Google Play Services, 10);
+
+(LID, 78439); (26, App Name, Google Play Services, 10);
+
+(LID, 78440); (27, App Name, Google Play Services, 10);
+
+(LID, 78441); (28, App Name, Google Play Services, 10);
+
+(LID, 78442); (29, App Name, Twitter, 10); (29, App Name, Google Play Services, 10);
+
+(LID, 78443); (30, App Name, Samsung SREE, 8); (30, App Name, Google Play Services, 10);
+
+(LID, 78444); (31, App Name, Google Play Services, 10);
+
+(LID, 78445); (32, App Name, Google Play Services, 10);
+
+(LID, 78446); (33, App Name, Google Play Services, 10);
+
+(LID, 78447); (34, App Name, Google Play Services, 10);
+
+(LID, 78448); (35, App Name, Google Play Services, 10);
+
+(LID, 78449); (36, App Name, SSL Capture, 8); (36, App Name, Google Play Services, 10);
+
+(LID, 78450); (37, App Name, Google Play Services, 10);
+
+(LID, 78451); (38, App Name, Google Play Services, 10);
+
+(LID, 78452); (39, App Name, Google Play Services, 10);
+
+(LID, 78453); (40, App Name, Google Play Services, 10);
+
+(LID, 78454); (41, App Name, Google Play Services, 10);
+
+(LID, 78455); (42, App Name, Google Play Services, 10);
+
+(LID, 78456); (43, App Name, Google Play Services, 10);
+
+(LID, 78457); (44, App Name, Google Play Services, 10);
+
+(LID, 78458); (45, App Name, Flatfish Calendar, 8); (45, App Name, Google Play Services, 10);
+
+(LID, 78459); (46, App Name, Google Play Services, 10);
+
+(LID, 78460); (47, App Name, NFS No Limits, 8); (47, App Name, Google Play Services, 10);
+
+(LID, 78461); (48, App Name, Google Play Services, 10);
+
+(LID, 78462); (49, App Name, Google Play Services, 10);
+
+(LID, 78463); (50, App Name, Google Play Services, 10);
+
+(LID, 78464); (51, App Name, Google Play Services, 10);
+
+(LID, 78465); (52, App Name, Orto USA, 8); (52, App Name, Google Play Services, 10);
+
+(LID, 78466); (53, App Name, Google Play Services, 10);
+
+(LID, 78467); (54, App Name, Google Play Services, 10);
+
+(LID, 78853); (90, App Name, Google Play Instant, 9);
+
+(LID, 78864); (101, App Name, Google Search, 10); (101, App Name, Google App Indexing, 10);
+
+(LID, 78865); (102, App Name, Google App, 10);
+
+(LID, 78866); (103, App Name, Google One, 10); (103, App Name, Google Play Services, 10);
+
+(LID, 78867); (104, App Name, Google Play Services for Car, 10);
+
+(LID, 78868); (105, App Name, Google App, 10); (105, App Name, Android Auto, 10);
+
+(LID, 78869); (106, Email, heisenbergcarro@gmail.com, 10); (106, App Name, Google Play Services, 10);
+
+(LID, 78870); (107, Email, heisenbergcarro@gmail.com, 10); (107, App Name, Google App, 10); (107, App Name, Android Auto, 10);
+
+(LID, 78871); (108, App Name, Google App, 10); (108, App Name, Google Play Services, 10);
+
+(LID, 78872); (109, App Name, Google App, 10); (109, App Name, Google Search Indexing, 9);
+
+(LID, 78873); (110, App Name, Google App, 10);
+
+(LID, 78874); (111, App Name, Google App, 10);
+
+(LID, 78875); (112, App Name, Google App, 10); (112, App Name, Google Play Services, 10);
+
+(LID, 78876); (113, App Name, Google App, 10); (113, App Name, Google Search Indexing, 9);
+
+(LID, 78877); (114, App Name, Google App, 10);
+
+(LID, 78878); (115, App Name, Google App, 10); (115, App Name, Google Search Indexing, 9);
+
+(LID, 78879); (116, App Name, Google App, 10);
+
+(LID, 78880); (117, App Name, Google App, 10);
+
+(LID, 78881); (118, App Name, Digital Wellbeing, 10); (118, App Name, Google Play Log Uploader, 9);
+
+(LID, 78884); (121, App Name, Google Lens OCR, 9);
+
+(LID, 78885); (122, App Name, Google Lens OCR, 9);
+
+(LID, 78888); (125, App Name, Google Lens OCR, 9);
+
+(LID, 78889); (126, App Name, Google Lens OCR, 9);
+
+(LID, 78890); (127, App Name, Google Account Manager, 9); (127, App Name, Google Nearby Share, 10);
+
+(LID, 78891); (128, App Name, Google Device Setup, 9); (128, App Name, Google Nearby Share, 10);
+
+(LID, 78892); (129, App Name, Google Search, 10); (129, App Name, Google Play Services for Car, 9);
+
+(LID, 78893); (130, App Name, Google Play Services for Car, 9);
+
+(LID, 78894); (131, App Name, Google Search, 10); (131, Email, heisenbergcarro@gmail.com, 10); (131, App Name, Google App Indexing, 9);
+
+(LID, 78895); (132, App Name, Google Search, 10); (132, Email, heisenbergcarro@gmail.com, 10); (132, App Name, Android Auto, 10);
+
+(LID, 78896); (77, App Name, Google Play Log Uploader, 9);
+
+(LID, 78897); (78, App Name, Westworld, 8); (78, App Name, Google Play Services, 10);
+
+(LID, 78904); (85, App Name, Google Icing, 9);
+
+(LID, 78905); (86, App Name, Android Auto, 10);
+

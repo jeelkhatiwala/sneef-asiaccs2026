@@ -1,0 +1,600 @@
+(LID, 78595); (1, Human Name, Jane, 7); (1, Message, speed trap reported ahead, 9);
+
+
+(LID, 78596); (2, Human Name, Jane, 7); (2, Message, heavy traffic reported ahead, 9);
+
+
+(LID, 78597); (3, Human Name, Jane, 7); (3, Message, watch out, accident reported ahead, 9);
+
+
+(LID, 78598); (4, Human Name, Jane, 7); (4, Message, watch out, hazard reported ahead, 9);  
+
+
+(LID, 78599); (5, Human Name, Jane, 7); (5, Message, You are entering an enforcement zone, 9);
+
+
+(LID, 78600); (6, Human Name, Jane, 7); (6, Message, You are leaving an enforcement zone, 9); 
+
+
+(LID, 78601); (7, Human Name, Jane, 7); (7, Message, Entering a crime risk area, 9);
+
+
+(LID, 78602); (8, Human Name, Jane, 7); (8, Message, Crime risk area, 9); 
+
+
+(LID, 78603); (9, Human Name, Jane, 7); (9, Message, watch out, object on road ahead, 9);
+
+
+(LID, 78604); (10, Human Name, Jane, 7); (10, Message, watch out, pothole on road ahead, 9);
+
+
+(LID, 78605); (11, Human Name, Jane, 7); (11, Message, watch out, road kill on road ahead, 9); 
+
+
+(LID, 78606); (12, Human Name, Jane, 7); (12, Message, watch out, vehicle stopped on shoulder ahead, 9); 
+
+
+(LID, 78607); (13, Human Name, Jane, 7); (13, Message, red light camera reported ahead, 9);
+
+
+(LID, 78608); (14, Human Name, Jane, 7); (14, Message, Approaching a railroad crossing, 9);
+
+
+(LID, 78609); (15, Human Name, Jane, 7); (15, Message, Beep from a friend, 9); 
+
+
+(LID, 78610); (16, Human Name, Jane, 7); (16, Message, Message from a friend, 9);  
+
+
+(LID, 78611); (17, Human Name, Jane, 7); (17, Message, watch out, animal on shoulder ahead, 9);
+
+
+(LID, 78612); (18, Human Name, Jane, 7); (18, Message, watch out, fog reported ahead, 9);
+
+
+(LID, 78613); (19, Message, watch out, hail reported ahead, 9); (19, Human Name, Jane, 8);
+
+
+(LID, 78614); (20, Message, watch out, rain reported ahead, 9); (20, Human Name, Jane, 8);
+
+
+(LID, 78615); (21, Message, Average speed enforcement zone ahead, 9); (21, Human Name, Jane, 8);
+
+
+(LID, 78616); (22, Message, Entering speed enforcement zone, 9); (22, Human Name, Jane, 8);  
+
+
+(LID, 78617); (23, Message, Exiting average speed enforcement zone, 9); (23, Human Name, Jane, 8);
+
+
+(LID, 78618); (24, Message, Entering high risk or illegal area, 9); (24, Human Name, Jane, 8);
+
+
+(LID, 78619); (25, Message, watch out, snow reported ahead, 9); (25, Human Name, Jane, 8);
+
+
+(LID, 78620); (26, Message, watch out, Construction on road ahead, 9); (26, Human Name, Jane, 8);
+
+
+(LID, 78621); (27, Message, watch out, vehicle stopped on road ahead, 9); (27, Human Name, Jane, 8);; 
+
+
+(LID, 78622); (28, Message, police reported ahead, 9); (28, Human Name, Jane, 8);  
+
+
+(LID, 78623); (29, Message, in, 3); (29, Human Name, Jane, 8); 
+
+
+(LID, 78624); (30, Message, to, 3); (30, Human Name, Jane, 8); 
+
+
+(LID, 78625); (31, Message, on, 3); (31, Human Name, Jane, 8); 
+
+
+(LID, 78626); (32, Message, meters, 3); (32, Human Name, Jane, 8); 
+
+
+(LID, 78627); (33, Message, Approaching stop point, 9); (33, Human Name, Jane, 8); 
+
+
+(LID, 78628); (34, Message, Did you drop off your rider?, 9); (34, Human Name, Jane, 8);
+
+
+(LID, 78629); (35, Message, you've arrived at, 8); (35, Human Name, Jane, 8);
+
+
+(LID, 78630); (36, Message, within, 3); (36, Human Name, Jane, 8);
+
+
+(LID, 78631); (37, Message, Reminder, turn on your headlights., 9); (37, Human Name, Jane, 8);
+
+
+(LID, 78632); (38, Message, Wazer needs help, 9); (38, Human Name, Jane, 8);
+
+
+(LID, 78633); (39, Message, Let's go, 9); (39, Human Name, Jane, 8);
+
+
+(LID, 78634); (40, Message, All set, let's go!, 9); (40, Human Name, Jane, 8);
+
+
+(LID, 78635); (41, Message, We're all set, let's go!, 9); (41, Human Name, Jane, 8);
+
+
+(LID, 78636); (42, Message, We're all set, drive safely, 9); (42, Human Name, Jane, 8);
+
+
+(LID, 78637); (43, Message, Let's get started, drive safely, 9); (43, Human Name, Jane, 8);  
+
+
+(LID, 78638); (44, Message, Let’s Carpool today, 9); (44, Human Name, Jane, 8); 
+
+
+(LID, 78639); (45, Message, Entering a high crime area2, 9); (45, Human Name, Jane, 8);
+
+
+(LID, 78640); (46, Message, Your drive passes through a high risk or illegal area, 9); (46, Human Name, Jane, 8); 
+
+
+(LID, 78641); (47, Message, High crime area2, 8); (47, Human Name, Jane, 8);
+
+
+(LID, 78642); (48, Message, Entering a road that requires headlights. Don't forget to turn them on., 9); (48, Human Name, Jane, 8); 
+
+
+(LID, 78643); (49, Message, at, 3); (49, Human Name, Jane, 8);
+
+
+(LID, 78644); (50, Message, in two hundred meters, 5); (50, Human Name, Jane, 8);
+
+
+(LID, 78645); (51, Message, in four hundred meters, 5); (51, Human Name, Jane, 8); 
+
+
+(LID, 78646); (52, Message, in five hundred meters, 5); (52, Human Name, Jane, 8);
+
+
+(LID, 78647); (53, Message, in eight hundred meters, 5); (53, Human Name, Jane, 8);
+
+
+(LID, 78648); (54, Message, in one kilometer, 5); (54, Human Name, Jane, 8); 
+
+
+(LID, 78649); (55, Message, in one point five kilometers, 5); (55, Human Name, Jane, 8);
+
+
+(LID, 78650); (56, Message, in 500 feet, 5); (56, Human Name, Jane, 8);
+
+
+(LID, 78651); (57, Message, miles, 3); (57, Human Name, Jane, 8); 
+
+
+(LID, 78652); (58, Message, take the, 4); (58, Human Name, Jane, 8);
+
+
+(LID, 78653); (59, Message, exit, 4); (59, Human Name, Jane, 8);
+
+
+(LID, 78654); (60, Message, then, 3); (60, Human Name, Jane, 8);
+
+
+(LID, 78655); (61, Message, in a quarter of a mile, 5); (61, Human Name, Jane, 8);
+
+
+(LID, 78656); (62, Message, in O point three miles, 5); (62, Human Name, Jane, 8); 
+
+
+(LID, 78657); (63, Message, in half a mile, 5); (63, Human Name, Jane, 8);
+
+
+(LID, 78658); (64, Message, in O point six miles, 5); (64, Human Name, Jane, 8);
+
+
+(LID, 78659); (65, Message, in one mile, 5); (65, Human Name, Jane, 8);  
+
+
+(LID, 78660); (66, Message, the coupon was saved in your inbox, 7); (66, Human Name, Jane, 8);
+
+
+(LID, 78661); (67, Message, don't forget to check out your coupon before purchase, 7); (67, Human Name, Jane, 8);
+
+
+(LID, 78662); (68, Message, you're approaching your destination, 8); (68, Human Name, Jane, 8);
+
+
+(LID, 78663); (69, Message, you'll arrive, 7); (69, Human Name, Jane, 8);
+
+
+(LID, 78664); (70, Message, take the first exit, 8); (70, Human Name, Jane, 8);
+
+
+(LID, 78665); (71, Message, take the second exit, 8); (71, Human Name, Jane, 8);
+
+
+(LID, 78666); (72, Message, take the third exit, 8); (72, Human Name, Jane, 8);
+
+
+(LID, 78667); (73, Message, continue straight, 8); (73, Human Name, Jane, 8); 
+
+
+(LID, 78668); (74, Message, at the roundabout, 7); (74, Human Name, Jane, 8); 
+
+
+(LID, 78669); (75, Message, at the roundabout, turn left, 8); (75, Human Name, Jane, 8);
+
+
+(LID, 78670); (76, Message, at the roundabout, continue straight, 8); (76, Human Name, Jane, 8);
+
+
+(LID, 78671); (77, Message, at the roundabout, turn right, 8); (77, Human Name, Jane, 8);
+
+
+(LID, 78672); (78, Message, at the roundabout, make a u-turn, 8); (78, Human Name, Jane, 8);
+
+
+(LID, 78673); (79, Message, you've arrived at your destination, 9); (79, Human Name, Jane, 8);
+
+
+(LID, 78674); (80, Message, exit left, 7); (80, Human Name, Jane, 8);
+
+
+(LID, 78675); (81, Message, turn left, 8); (81, Human Name, Jane, 8); 
+
+
+(LID, 78676); (82, Message, turn right, 8); (82, Human Name, Jane, 8);
+
+
+(LID, 78677); (83, Message, stay to the left, 7); (83, Human Name, Jane, 8);
+
+
+(LID, 78678); (84, Message, stay to the right, 7); (84, Human Name, Jane, 8);
+
+
+(LID, 78679); (85, Message, take the fourth exit, 8); (85, Human Name, Jane, 8);
+
+
+(LID, 78680); (86, Message, take the fifth exit, 8); (86, Human Name, Jane, 8);
+
+
+(LID, 78681); (87, Message, take the sixth exit, 8); (87, Human Name, Jane, 8);
+
+
+(LID, 78682); (88, Message, take the seventh exit, 8); (88, Human Name, Jane, 8);
+
+
+(LID, 78683); (89, Message, continue straight for 8 minutes, 8); (89, Human Name, Jane, 8);
+
+
+(LID, 78684); (90, Message, continue straight for 9 minutes, 8); (90, Human Name, Jane, 8);
+
+
+(LID, 78685); (91, Message, continue straight for 10 minutes, 8); (91, Human Name, Jane, 8);
+
+
+(LID, 78686); (92, Message, continue straight for 11 minutes, 8); (92, Human Name, Jane, 8); 
+
+
+(LID, 78687); (93, Message, continue straight for 12 minutes, 8); (93, Human Name, Jane, 8); 
+
+
+(LID, 78688); (94, Message, continue straight for 13 minutes, 8); (94, Human Name, Jane, 8); 
+
+
+(LID, 78689); (95, Message, continue straight for 14 minutes, 8); (95, Human Name, Jane, 8);
+
+
+(LID, 78690); (96, Message, continue straight for 15 minutes, 8); (96, Human Name, Jane, 8); 
+
+
+(LID, 78691); (97, Message, in 3 minutes, 7); (97, Human Name, Jane, 8);
+
+
+(LID, 78692); (98, Message, in 4 minutes, 7); (98, Human Name, Jane, 8);
+
+
+(LID, 78693); (99, Message, continue straight for 6 minutes, 8); (99, Human Name, Jane, 8);
+
+
+(LID, 78694); (100, Message, continue straight for 7 minutes, 8); (100, Human Name, Jane, 8); 
+
+
+(LID, 78695); (101, Message, exit right, 8); (101, Human Name, Jane, 8);
+
+
+(LID, 78696); (102, Message, make a u-turn, 8); (102, Human Name, Jane, 8); 
+
+
+(LID, 78697); (103, Message, you've arrived at your first stop, 8); (103, Human Name, Jane, 8);
+
+
+(LID, 78698); (104, Message, continue straight for 5 minutes, 8); (104, Human Name, Jane, 8);
+
+
+(LID, 78699); (105, Message, continue straight for 20 minutes, 8); (105, Human Name, Jane, 8); 
+
+
+(LID, 78700); (106, Message, continue straight for 25 minutes, 8); (106, Human Name, Jane, 8);
+
+
+(LID, 78701); (107, Message, continue straight for 30 minutes, 8); (107, Human Name, Jane, 8); 
+
+
+(LID, 78702); (108, Message, continue straight for 35 minutes, 8); (108, Human Name, Jane, 8);
+
+
+(LID, 78703); (109, Message, continue straight for 40 minutes, 8); (109, Human Name, Jane, 8);
+
+
+(LID, 78704); (110, Message, continue straight for 45 minutes, 8); (110, Human Name, Jane, 8);
+
+
+(LID, 78705); (111, Message, continue straight for 50 minutes, 8); (111, Human Name, Jane, 8); 
+
+
+(LID, 78706); (112, Message, continue straight for 1 hour, 8); (112, Human Name, Jane, 8);
+
+
+(LID, 78707); (113, Message, continue straight for 1 hour and 15 minutes, 8); (113, Human Name, Jane, 8);
+
+
+(LID, 78708); (114, Message, continue straight for 1 hour and 30 minutes, 8); (114, Human Name, Jane, 8);
+
+
+(LID, 78709); (115, Message, continue straight for 1 hour and 45 minutes, 8); (115, Human Name, Jane, 8);
+
+
+(LID, 78710); (116, Message, continue straight for 2 hours, 8); (116, Human Name, Jane, 8); 
+
+
+(LID, 78711); (117, Message, continue straight for 2 hours and 15 minutes, 8); (117, Human Name, Jane, 8); 
+
+
+(LID, 78712); (118, Message, continue straight for 2 hours and 30 minutes, 8); (118, Human Name, Jane, 8);  
+
+
+(LID, 78713); (119, Message, continue straight for 2 hours and 45 minutes, 8); (119, Human Name, Jane, 8); 
+
+
+(LID, 78714); (120, Message, continue straight for 3 hours, 8); (120, Human Name, Jane, 8);
+
+
+(LID, 78715); (121, Message, continue straight for 3 hours and 15 minutes, 8); (121, Human Name, Jane, 8);
+
+
+(LID, 78716); (122, Message, continue straight for 3 hours and 30 minutes, 8); (122, Human Name, Jane, 8);
+
+
+(LID, 78772); (123, Message, continue straight for 3 hours and 45 minutes, 8); (123, Human Name, Jane, 8); 
+
+
+(LID, 78773); (124, Message, continue straight for 4 hours, 8); (124, Human Name, Jane, 8);
+
+
+(LID, 78774); (125, Message, continue straight for 4 hours and 15 minutes, 8); (125, Human Name, Jane, 8);
+
+
+(LID, 78775); (126, Message, continue straight for 4 hours and 30 minutes, 8); (126, Human Name, Jane, 8);
+
+
+(LID, 78776); (127, Message, continue straight for 4 hours and 45 minutes, 8); (127, Human Name, Jane, 8);
+
+
+(LID, 78777); (128, Message, continue straight for 5 hours, 8); (128, Human Name, Jane, 8);
+
+
+(LID, 78778); (129, Message, continue straight for 6 hours and 15 minutes, 8); (129, Human Name, Jane, 8);
+
+
+(LID, 78779); (130, Message, continue straight for 6 hours and 30 minutes, 8); (130, Human Name, Jane, 8);
+
+
+(LID, 78780); (131, Message, continue straight for 6 hours and 45 minutes, 8); (131, Human Name, Jane, 8);
+
+
+(LID, 78781); (132, Message, continue straight for 7 hours, 8); (132, Human Name, Jane, 8); 
+
+
+(LID, 78782); (133, Message, continue straight for 7 hours and 15 minutes, 8); (133, Human Name, Jane, 8); 
+
+
+(LID, 78783); (134, Message, continue straight for 7 hours and 30 minutes, 8); (134, Human Name, Jane, 8);
+
+
+(LID, 78784); (135, Message, continue straight for 7 hours and 45 minutes, 8); (135, Human Name, Jane, 8);
+
+
+(LID, 78785); (136, Message, continue straight for 8 hours, 8); (136, Human Name, Jane, 8);
+
+
+(LID, 78786); (137, Message, continue straight for 8 hours and 15 minutes, 8); (137, Human Name, Jane, 8);
+
+
+(LID, 78787); (138, Message, continue straight for 8 hours and 30 minutes, 8); (138, Human Name, Jane, 8);
+
+
+(LID, 78788); (139, Message, continue straight for 8 hours and 45 minutes, 8); (139, Human Name, Jane, 8);
+
+
+(LID, 78789); (140, Message, continue straight for 9 hours, 8); (140, Human Name, Jane, 8);
+
+
+(LID, 78790); (141, Message, continue straight for 5 hours and 15 minutes, 8); (141, Human Name, Jane, 8); 
+
+
+(LID, 78791); (142, Message, continue straight for 5 hours and 30 minutes, 8); (142, Human Name, Jane, 8); 
+
+
+(LID, 78792); (143, Message, continue straight for 5 hours and 45 minutes, 8); (143, Human Name, Jane, 8);
+
+
+(LID, 78793); (144, Message, continue straight for 6 hours, 8); (144, Human Name, Jane, 8);
+
+
+(LID, 78794); (145, Message, continue straight for 9 hours and 15 minutes, 8); (145, Human Name, Jane, 8);
+
+
+(LID, 78795); (146, Message, continue straight for 9 hours and 30 minutes, 8); (146, Human Name, Jane, 8);
+
+
+(LID, 78796); (147, Message, continue straight for 9 hours and 45 minutes, 8); (147, Human Name, Jane, 8);
+
+
+(LID, 78797); (148, Message, continue straight for 10 hours, 8); (148, Human Name, Jane, 8); 
+
+
+(LID, 78798); (149, Message, in three quarters of a mile, 7); (149, Human Name, Jane, 8);
+
+
+(LID, 78799); (150, Message, in 0.2 miles, 7); (150, Human Name, Jane, 8);
+
+
+(LID, 78800); (151, Message, in 1000 feet, 8); (151, Human Name, Jane, 8);
+
+
+(LID, 78801); (152, Message, in 300 yards, 8); (152, Human Name, Jane, 8);
+
+
+(LID, 78802); (153, Message, in 5 minutes, 8); (153, Human Name, Jane, 8);
+
+
+(LID, 78803); (154, Message, in less than a minute, 8); (154, Human Name, Jane, 8);
+
+
+(LID, 78804); (155, Message, in about a minute, 8); (155, Human Name, Jane, 8);
+
+
+(LID, 78805); (156, Message, in 2 minutes, 8); (156, Human Name, Jane, 8);
+
+
+(LID, 78806); (157, Message, in 100 feet, 8); (157, Human Name, Jane, 8);
+
+
+(LID, 78807); (158, Message, in 200 feet, 8); (158, Human Name, Jane, 8);
+
+
+(LID, 78808); (159, Message, in 300 feet, 8); (159, Human Name, Jane, 8);
+
+
+(LID, 78809); (160, Message, in 400 feet, 8); (160, Human Name, Jane, 8);
+
+
+(LID, 78810); (161, Message, in 600 feet, 8); (161, Human Name, Jane, 8); 
+
+
+(LID, 78811); (162, Message, in 700 feet, 8); (162, Human Name, Jane, 8);
+
+
+(LID, 78812); (163, Message, in 800 feet, 8); (163, Human Name, Jane, 8);  
+
+
+(LID, 78813); (164, Message, in 900 feet, 8); (164, Human Name, Jane, 8); 
+
+
+(LID, 78814); (165, Message, in 1 mile, 8); (165, Human Name, Jane, 8);
+
+
+(LID, 78815); (166, Message, in 1.1 miles, 8); (166, Human Name, Jane, 8); 
+
+
+(LID, 78818); (169, Message, in 1.4 miles, 8); (169, Human Name, Jane, 8); 
+
+
+(LID, 78819); (170, Message, in 1.5 miles, 8); (170, Human Name, Jane, 8);
+
+
+(LID, 78820); (171, Message, in 1.6 miles, 8); (171, Human Name, Jane, 8); 
+
+
+(LID, 78821); (172, Message, in 1.7 miles, 8); (172, Human Name, Jane, 8);
+
+
+(LID, 78822); (173, Message, in 1.8 miles, 8); (173, Human Name, Jane, 8);
+
+
+(LID, 78823); (174, Message, in 1.9 miles, 8); (174, Human Name, Jane, 8);
+
+
+(LID, 78824); (175, Message, in 2.4 miles, 8); (175, Human Name, Jane, 8);
+
+
+(LID, 78825); (176, Message, in 2.5 miles, 8); (176, Human Name, Jane, 8);
+
+
+(LID, 78826); (177, Message, in 2.6 miles, 8); (177, Human Name, Jane, 8); 
+
+
+(LID, 78827); (178, Message, in 2.7 miles, 8); (178, Human Name, Jane, 8); 
+
+
+(LID, 78828); (179, Message, in 2 miles, 8); (179, Human Name, Jane, 8); 
+
+
+(LID, 78829); (180, Message, in 2.1 miles, 8); (180, Human Name, Jane, 8);
+
+
+(LID, 78830); (181, Message, in 2.2 miles, 8); (181, Human Name, Jane, 8); 
+
+
+(LID, 78831); (182, Message, in 2.3 miles, 8); (182, Human Name, Jane, 8);
+
+
+(LID, 78832); (183, Message, in 2.8 miles, 8); (183, Human Name, Jane, 8);
+
+
+(LID, 78833); (184, Message, in 2.9 miles, 8); (184, Human Name, Jane, 8);
+
+
+(LID, 78834); (185, Message, in 3 miles, 8); (185, Human Name, Jane, 8);
+
+
+(LID, 78835); (186, Message, in 3.1 miles, 8); (186, Human Name, Jane, 8); 
+
+
+(LID, 78836); (187, Message, in 3.2 miles, 8); (187, Human Name, Jane, 8); 
+
+
+(LID, 78837); (188, Message, in 3.3 miles, 8); (188, Human Name, Jane, 8); 
+
+
+(LID, 78838); (189, Message, in 3.4 miles, 8); (189, Human Name, Jane, 8);
+
+
+(LID, 78839); (190, Message, in 3.5 miles, 8); (190, Human Name, Jane, 8); 
+
+
+(LID, 78840); (191, Message, in 3.6 miles, 8); (191, Human Name, Jane, 8);
+
+
+(LID, 78841); (192, Message, in 3.7 miles, 8); (192, Human Name, Jane, 8); 
+
+
+(LID, 78842); (193, Message, in 3.8 miles, 8); (193, Human Name, Jane, 8);
+
+
+(LID, 78843); (194, Message, in 3.9 miles, 8); (194, Human Name, Jane, 8);
+
+
+(LID, 78844); (195, Message, keep left, 8); (195, Human Name, Jane, 8);
+
+
+(LID, 78845); (196, Message, keep right, 8); (196, Human Name, Jane, 8); 
+
+
+(LID, 78846); (197, Message, Average speed check zone ahead, 8); (197, Human Name, Jane, 8); 
+
+
+(LID, 78847); (198, Message, Entering average speed check zone, 8); (198, Human Name, Jane, 8); 
+
+
+(LID, 78848); (199, Message, speed camera ahead, 8); (199, Human Name, Jane, 8); 
+
+
+(LID, 78849); (200, Message, watch out, crash reported ahead, 9); (200, Human Name, Jane, 8); 
+
+
+(LID, 78850); (201, Message, watch out, vehicle on shoulder ahead, 9); (201, Human Name, Jane, 8);
+
+
+(LID, 78851); (202, Message, red light camera ahead, 8); (202, Human Name, Jane, 8); 
+
+

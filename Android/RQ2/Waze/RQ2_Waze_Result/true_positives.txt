@@ -1,0 +1,400 @@
+(LID, 78595); (1, App Name, Waze, 10); (1, Message, speed trap reported ahead, 10); (1, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78596); (2, App Name, Waze, 10); (2, Message, heavy traffic reported ahead, 10); (2, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78597); (3, App Name, Waze, 10); (3, Message, watch out, accident reported ahead, 10);
+
+(LID, 78598); (4, App Name, Waze, 10); (4, Message, watch out, hazard reported ahead, 10);
+
+(LID, 78599); (5, Message, You are entering an enforcement zone, 9); (5, App Name, Waze, 10); (5, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78600); (6, App Name, Waze, 10); (6, Message, You are leaving an enforcement zone, 9); (6, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78601); (7, Message, Entering a crime risk area, 9); (7, App Name, Waze, 10); (7, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78602); (8, App Name, Waze, 10); (8, Message, Crime risk area, 9); (8, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78603); (9, Message, watch out, object on road ahead, 9); (9, App Name, Waze, 10); (9, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78604); (10, Message, watch out, pothole on road ahead, 9); (10, App Name, Waze, 10); (10, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78605); (11, App Name, Waze, 10); (11, Timestamp, 2021-07-03 19:20:55, 10); (11, Message, watch out, road kill on road ahead, 9);
+
+(LID, 78606); (12, App Name, Waze, 10); (12, Message, watch out, vehicle stopped on shoulder ahead, 9); (12, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78607); (13, Message, red light camera reported ahead, 9); (13, App Name, Waze, 10); (13, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78608); (14, Message, Approaching a railroad crossing, 9); (14, App Name, Waze, 10); (14, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78609); (15, Message, Beep from a friend, 8); (15, App Name, Waze, 10); (15, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78610); (16, App Name, Waze, 10); (16, Timestamp, 2021-07-03 19:20:55, 10); (16, Message, Message from a friend, 8);
+
+(LID, 78611); (17, App Name, Waze, 10); (17, Message, watch out, animal on shoulder ahead, 9); (17, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78612); (18, App Name, Waze, 10); (18, Message, watch out, fog reported ahead, 9); (18, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78613); (19, App Name, Waze, 10); (19, Message, watch out, hail reported ahead, 9); (19, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78614); (20, Message, watch out, rain reported ahead, 9); (20, App Name, Waze, 10); (20, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78615); (21, App Name, Waze, 10); (21, Timestamp, 2021-07-03 19:20:55, 10); (21, Message, Average speed enforcement zone ahead, 9);
+
+(LID, 78616); (22, App Name, Waze, 10); (22, Message, Entering speed enforcement zone, 9); (22, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78617); (23, App Name, Waze, 10); (23, Timestamp, 2021-07-03 19:20:55, 10); (23, Message, Exiting average speed enforcement zone, 9);
+
+(LID, 78618); (24, App Name, Waze, 10); (24, Message, Entering high risk or illegal area, 9); (24, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78619); (25, App Name, Waze, 10); (25, Message, watch out, snow reported ahead, 9); (25, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78620); (26, App Name, Waze, 10); (26, Timestamp, 2021-07-03 19:20:55, 10); (26, Message, watch out, Construction on road ahead, 9);
+
+(LID, 78621); (27, App Name, Waze, 10); (27, Message, watch out, vehicle stopped on road ahead, 9); (27, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78622); (28, Message, police reported ahead, 9); (28, App Name, Waze, 10); (28, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78623); (29, App Name, Waze, 10); (29, Message, in, 3); (29, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78624); (30, App Name, Waze, 10); (30, Message, to, 2); (30, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78625); (31, App Name, Waze, 10); (31, Timestamp, 2021-07-03 19:20:55, 10); (31, Message, on, 2);
+
+(LID, 78626); (32, App Name, Waze, 10); (32, Message, meters, 2); (32, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78627); (33, App Name, Waze, 10); (33, Message, Approaching stop point, 9); (33, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78628); (34, App Name, Waze, 10); (34, Message, Did you drop off your rider?, 9); (34, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78629); (35, Message, you've arrived at, 9); (35, App Name, Waze, 10); (35, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78630); (36, Message, within, 2); (36, App Name, Waze, 10); (36, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78631); (37, App Name, Waze, 10); (37, Message, Reminder, turn on your headlights., 9); (37, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78632); (38, Message, Wazer needs help, 9); (38, App Name, Waze, 10); (38, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78633); (39, App Name, Waze, 10); (39, Message, Let's go, 9); (39, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78634); (40, App Name, Waze, 10); (40, Timestamp, 2021-07-03 19:20:55, 10); (40, Message, All set, let's go!, 9);
+
+(LID, 78635); (41, App Name, Waze, 10); (41, Message, We're all set, let's go!, 9); (41, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78636); (42, App Name, Waze, 10); (42, Message, We're all set, drive safely, 9); (42, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78637); (43, App Name, Waze, 10); (43, Timestamp, 2021-07-03 19:20:55, 10); (43, Message, Let's get started, drive safely, 9);
+
+(LID, 78638); (44, App Name, Waze, 10); (44, Message, Let’s Carpool today, 9); (44, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78639); (45, App Name, Waze, 10); (45, Message, Entering a high crime area2, 9); (45, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78640); (46, Message, Your drive passes through a high risk or illegal area, 9); (46, App Name, Waze, 10); (46, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78641); (47, Message, High crime area2, 9); (47, App Name, Waze, 10); (47, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78642); (48, App Name, Waze, 10); (48, Timestamp, 2021-07-03 19:20:55, 10); (48, Message, Entering a road that requires headlights. Don't forget to turn them on., 9);
+
+(LID, 78643); (49, App Name, Waze, 10); (49, Message, at, 5); (49, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78644); (50, App Name, Waze, 10); (50, Message, in two hundred meters, 9); (50, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78645); (51, App Name, Waze, 10); (51, Message, in four hundred meters, 9); (51, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78646); (52, App Name, Waze, 10); (52, Timestamp, 2021-07-03 19:20:55, 10); (52, Message, in five hundred meters, 9);
+
+(LID, 78647); (53, App Name, Waze, 10); (53, Timestamp, 2021-07-03 19:20:55, 10); (53, Message, in eight hundred meters, 9);
+
+(LID, 78648); (54, App Name, Waze, 10); (54, Timestamp, 2021-07-03 19:20:55, 10); (54, Message, in one kilometer, 9);
+
+(LID, 78649); (55, App Name, Waze, 10); (55, Message, in one point five kilometers, 9); (55, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78650); (56, App Name, Waze, 10); (56, Timestamp, 2021-07-03 19:20:55, 10); (56, Message, in 500 feet, 9);
+
+(LID, 78651); (57, App Name, Waze, 10); (57, Timestamp, 2021-07-03 19:20:55, 10); (57, Message, miles, 5);
+
+(LID, 78652); (58, Message, take the, 6); (58, App Name, Waze, 10); (58, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78653); (59, App Name, Waze, 10); (59, Message, exit, 6); (59, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78654); (60, Message, then, 5); (60, App Name, Waze, 10);
+
+(LID, 78655); (61, Message, in a quarter of a mile, 9); (61, App Name, Waze, 10); (61, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78656); (62, Message, in O point three miles, 8); (62, App Name, Waze, 10); (62, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78657); (63, App Name, Waze, 10); (63, Message, in half a mile, 9); (63, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78658); (64, Message, in O point six miles, 8); (64, App Name, Waze, 10); (64, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78659); (65, App Name, Waze, 10); (65, Timestamp, 2021-07-03 19:20:55, 10); (65, Message, in one mile, 9);
+
+(LID, 78660); (66, App Name, Waze, 10); (66, Timestamp, 2021-07-03 19:20:55, 10); (66, Message, the coupon was saved in your inbox, 9);
+
+(LID, 78661); (67, App Name, Waze, 10); (67, Message, don't forget to check out your coupon before purchase, 9); (67, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78662); (68, App Name, Waze, 10); (68, Message, you're approaching your destination, 9); (68, Timestamp, 2021-07-03 19:20:55, 10);
+
+(LID, 78663); (69, App Name, Waze, 10); (69, Message, you'll arrive, 7); (69, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78664); (70, App Name, Waze, 10); (70, Message, take the first exit, 9); (70, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78665); (71, App Name, Waze, 10); (71, Message, take the second exit, 9); (71, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78666); (72, App Name, Waze, 10); (72, Message, take the third exit, 9); (72, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78667); (73, App Name, Waze, 10); (73, Timestamp, 2021-07-03 19:20:56, 10); (73, Message, continue straight, 9);
+
+(LID, 78668); (74, App Name, Waze, 10); (74, Timestamp, 2021-07-03 19:20:56, 10); (74, Message, at the roundabout, 9);
+
+(LID, 78669); (75, App Name, Waze, 10); (75, Message, at the roundabout, turn left, 9); (75, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78670); (76, App Name, Waze, 10); (76, Message, at the roundabout, continue straight, 9); (76, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78671); (77, Message, at the roundabout, turn right, 9); (77, App Name, Waze, 10); (77, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78672); (78, Message, at the roundabout, make a u-turn, 9); (78, App Name, Waze, 10); (78, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78673); (79, Message, you've arrived at your destination, 10); (79, App Name, Waze, 10); (79, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78674); (80, Message, exit left, 10); (80, App Name, Waze, 10); (80, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78675); (81, App Name, Waze, 10); (81, Message, turn left, 10); (81, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78676); (82, App Name, Waze, 10); (82, Message, turn right, 10); (82, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78677); (83, App Name, Waze, 10); (83, Message, stay to the left, 10); (83, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78678); (84, App Name, Waze, 10); (84, Message, stay to the right, 10); (84, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78679); (85, App Name, Waze, 10); (85, Message, take the fourth exit, 10); (85, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78680); (86, App Name, Waze, 10); (86, Message, take the fifth exit, 10); (86, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78681); (87, App Name, Waze, 10); (87, Message, take the sixth exit, 10); (87, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78682); (88, App Name, Waze, 10); (88, Timestamp, 2021-07-03 19:20:56, 10); (88, Message, take the seventh exit, 10);
+
+(LID, 78683); (89, App Name, Waze, 10); (89, Message, continue straight for 8 minutes, 10); (89, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78684); (90, App Name, Waze, 10); (90, Message, continue straight for 9 minutes, 10); (90, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78685); (91, App Name, Waze, 10); (91, Message, continue straight for 10 minutes, 10); (91, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78686); (92, Message, continue straight for 11 minutes, 10); (92, App Name, Waze, 10); (92, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78687); (93, App Name, Waze, 10); (93, Timestamp, 2021-07-03 19:20:56, 10); (93, Message, continue straight for 12 minutes, 10);
+
+(LID, 78688); (94, Message, continue straight for 13 minutes, 10); (94, App Name, Waze, 10); (94, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78689); (95, App Name, Waze, 10); (95, Message, continue straight for 14 minutes, 10); (95, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78690); (96, App Name, Waze, 10); (96, Timestamp, 2021-07-03 19:20:56, 10); (96, Message, continue straight for 15 minutes, 10);
+
+(LID, 78691); (97, Message, in 3 minutes, 10); (97, App Name, Waze, 10); (97, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78692); (98, Timestamp, 2021-07-02 18:40:55, 10); (98, App Name, Waze, 10); (98, Message, in 4 minutes, 8); (98, Timestamp, 2021-07-02 18:40:56, 10);
+
+(LID, 78693); (99, App Name, Waze, 10); (99, Message, continue straight for 6 minutes, 8); (99, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78694); (100, App Name, Waze, 10); (100, Message, continue straight for 7 minutes, 8); (100, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78695); (101, App Name, Waze, 10); (101, Timestamp, 2021-07-03 19:20:56, 10); (101, Message, exit right, 8);
+
+(LID, 78696); (102, Message, make a u-turn, 8); (102, App Name, Waze, 10); (102, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78697); (103, Message, you've arrived at your first stop, 9); (103, App Name, Waze, 10); (103, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78698); (104, App Name, Waze, 10); (104, Timestamp, 2021-07-03 19:20:56, 10); (104, Message, continue straight for 5 minutes, 8);
+
+(LID, 78699); (105, App Name, Waze, 10); (105, Message, continue straight for 20 minutes, 8); (105, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78700); (106, App Name, Waze, 10); (106, Message, continue straight for 25 minutes, 8); (106, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78701); (107, App Name, Waze, 10); (107, Message, continue straight for 30 minutes, 8); (107, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78702); (108, App Name, Waze, 10); (108, Timestamp, 2021-07-03 19:20:56, 10); (108, Message, continue straight for 35 minutes, 8);
+
+(LID, 78703); (109, Message, continue straight for 40 minutes, 8); (109, App Name, Waze, 10); (109, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78704); (110, Message, continue straight for 45 minutes, 8); (110, App Name, Waze, 10); (110, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78705); (111, App Name, Waze, 10); (111, Message, continue straight for 50 minutes, 8); (111, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78706); (112, App Name, Waze, 10); (112, Message, continue straight for 1 hour, 8); (112, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78707); (113, App Name, Waze, 10); (113, Timestamp, 2021-07-03 19:20:56, 10); (113, Message, continue straight for 1 hour and 15 minutes, 8);
+
+(LID, 78708); (114, App Name, Waze, 10); (114, Message, continue straight for 1 hour and 30 minutes, 8); (114, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78709); (115, App Name, Waze, 10); (115, Message, continue straight for 1 hour and 45 minutes, 8); (115, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78710); (116, Message, continue straight for 2 hours, 8); (116, App Name, Waze, 10); (116, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78711); (117, App Name, Waze, 10); (117, Message, continue straight for 2 hours and 15 minutes, 8); (117, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78712); (118, App Name, Waze, 10); (118, Timestamp, 2021-07-03 19:20:56, 10); (118, Message, continue straight for 2 hours and 30 minutes, 8);
+
+(LID, 78713); (119, Message, continue straight for 2 hours and 45 minutes, 8); (119, App Name, Waze, 10); (119, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78714); (120, Message, continue straight for 3 hours, 9); (120, App Name, Waze, 10); (120, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78715); (121, App Name, Waze, 10); (121, Message, continue straight for 3 hours and 15 minutes, 9); (121, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78716); (122, Message, continue straight for 3 hours and 30 minutes, 9); (122, App Name, Waze, 10); (122, Timestamp, 2021-07-03 19:20:56, 10);
+
+(LID, 78772); (123, App Name, Waze, 10); (123, Message, continue straight for 3 hours and 45 minutes, 9); (123, Timestamp, 2021-07-02 17:40:56 UTC, 10);
+
+(LID, 78773); (124, App Name, Waze, 10); (124, Message, continue straight for 4 hours, 9); (124, Timestamp, 2021-07-02 17:40:56 UTC, 10);
+
+(LID, 78774); (125, App Name, Waze, 10); (125, Message, continue straight for 4 hours and 15 minutes, 9); (125, Timestamp, 2021-07-02 17:40:56 UTC, 10);
+
+(LID, 78775); (126, App Name, Waze, 10); (126, Timestamp, 2021-07-02 17:40:56 UTC, 10); (126, Message, continue straight for 4 hours and 30 minutes, 9);
+
+(LID, 78776); (127, Message, continue straight for 4 hours and 45 minutes, 9); (127, App Name, Waze, 10); (127, Timestamp, 2021-07-02 17:40:56 UTC, 10);
+
+(LID, 78777); (128, Message, continue straight for 5 hours, 9); (128, App Name, Waze, 10); (128, Timestamp, 2021-07-02 17:40:56 UTC, 10);
+
+(LID, 78778); (129, App Name, Waze, 10); (129, Message, continue straight for 6 hours and 15 minutes, 9); (129, Timestamp, 2021-07-02 17:40:56 UTC, 10);
+
+(LID, 78779); (130, App Name, Waze, 10); (130, Timestamp, 2021-07-02 17:40:56 UTC, 10); (130, Message, continue straight for 6 hours and 30 minutes, 9);
+
+(LID, 78780); (131, App Name, Waze, 10); (131, Message, continue straight for 6 hours and 45 minutes, 9); (131, Timestamp, 2021-07-02 17:40:56 UTC, 10);
+
+(LID, 78781); (132, App Name, Waze, 10); (132, Timestamp, 2021-07-02 17:40:56 UTC, 10); (132, Message, continue straight for 7 hours, 9);
+
+(LID, 78782); (133, App Name, Waze, 10); (133, Message, continue straight for 7 hours and 15 minutes, 9); (133, Timestamp, 2021-07-02 17:40:56 UTC, 10);
+
+(LID, 78783); (134, App Name, Waze, 10); (134, Message, continue straight for 7 hours and 30 minutes, 9); (134, Timestamp, 2021-07-02 17:40:56 UTC, 10);
+
+(LID, 78784); (135, Message, continue straight for 7 hours and 45 minutes, 9); (135, App Name, Waze, 10); (135, Timestamp, 2021-07-02 17:40:56 UTC, 10);
+
+(LID, 78785); (136, App Name, Waze, 10); (136, Timestamp, 2021-07-02 18:40:56 UTC, 10); (136, Message, continue straight for 8 hours, 9);
+
+(LID, 78786); (137, Message, continue straight for 8 hours and 15 minutes, 9); (137, App Name, Waze, 10); (137, Timestamp, 2021-07-02 18:40:56 UTC, 10);
+
+(LID, 78787); (138, App Name, Waze, 10); (138, Message, continue straight for 8 hours and 30 minutes, 9); (138, Timestamp, 2021-07-02 18:40:56 UTC, 10);
+
+(LID, 78788); (139, App Name, Waze, 10); (139, Timestamp, 2021-07-02 18:40:56 UTC, 10); (139, Message, continue straight for 8 hours and 45 minutes, 9);
+
+(LID, 78789); (140, App Name, Waze, 10); (140, Timestamp, 2021-07-02 18:40:56 UTC, 10); (140, Message, continue straight for 9 hours, 9);
+
+(LID, 78790); (141, App Name, Waze, 10); (141, Message, continue straight for 5 hours and 15 minutes, 9); (141, Timestamp, 2021-07-02 18:40:56 UTC, 10);
+
+(LID, 78791); (142, App Name, Waze, 10); (142, Timestamp, 2021-07-02 18:40:56 UTC, 10); (142, Message, continue straight for 5 hours and 30 minutes, 9);
+
+(LID, 78792); (143, Message, continue straight for 5 hours and 45 minutes, 9); (143, App Name, Waze, 10); (143, Timestamp, 2021-07-02 18:40:56 UTC, 10);
+
+(LID, 78793); (144, Message, continue straight for 6 hours, 9); (144, App Name, Waze, 10); (144, Timestamp, 2021-07-02 18:40:56 UTC, 10);
+
+(LID, 78794); (145, App Name, Waze, 10); (145, Message, continue straight for 9 hours and 15 minutes, 9); (145, Timestamp, 2021-07-02 18:40:57 UTC, 10);
+
+(LID, 78795); (146, Message, continue straight for 9 hours and 30 minutes, 9); (146, App Name, Waze, 10); (146, Timestamp, 2021-07-02 18:40:57 UTC, 10);
+
+(LID, 78796); (147, App Name, Waze, 10); (147, Timestamp, 2021-07-02 18:40:57 UTC, 10); (147, Message, continue straight for 9 hours and 45 minutes, 9);
+
+(LID, 78797); (148, Message, continue straight for 10 hours, 9); (148, App Name, Waze, 10); (148, Timestamp, 2021-07-02 18:40:57 UTC, 10);
+
+(LID, 78798); (149, Message, in three quarters of a mile, 9); (149, App Name, Waze, 10); (149, Timestamp, 2021-07-02 18:40:57 UTC, 10);
+
+(LID, 78799); (150, App Name, Waze, 10); (150, Message, in 0.2 miles, 9); (150, Timestamp, 2021-07-02 18:40:57 UTC, 10);
+
+(LID, 78800); (151, App Name, Waze, 10); (151, Message, in 1000 feet, 9); (151, Timestamp, 2021-07-02 18:40:57 UTC, 10);
+
+(LID, 78801); (152, App Name, Waze, 10); (152, Message, in 300 yards, 9); (152, Timestamp, 2021-07-02 18:40:57 UTC, 10);
+
+(LID, 78802); (153, App Name, Waze, 10); (153, Timestamp, 2021-07-02 18:40:57 UTC, 10); (153, Message, in 5 minutes, 9);
+
+(LID, 78803); (154, App Name, Waze, 10); (154, Message, in less than a minute, 9); (154, Timestamp, 2021-07-02 18:40:57 UTC, 10);
+
+(LID, 78804); (155, Message, in about a minute, 9); (155, App Name, Waze, 10); (155, Timestamp, 2021-07-02 18:40:57 UTC, 10);
+
+(LID, 78805); (156, App Name, Waze, 10); (156, Timestamp, 2021-07-02 18:40:57 UTC, 10); (156, Message, in 2 minutes, 9);
+
+(LID, 78806); (157, App Name, Waze, 10); (157, Timestamp, 2021-07-02 18:40:56 UTC, 10); (157, Message, in 100 feet, 9);
+
+(LID, 78807); (158, App Name, Waze, 10); (158, Timestamp, 2021-07-02 18:40:56 UTC, 10); (158, Message, in 200 feet, 9);
+
+(LID, 78808); (159, App Name, Waze, 10); (159, Timestamp, 2021-07-02 18:40:56 UTC, 10); (159, Message, in 300 feet, 9);
+
+(LID, 78809); (160, App Name, Waze, 10); (160, Timestamp, 2021-07-02 18:40:56 UTC, 10); (160, Message, in 400 feet, 9);
+
+(LID, 78810); (161, App Name, Waze, 10); (161, Timestamp, 2021-07-02 18:40:56 UTC, 10); (161, Message, in 600 feet, 9);
+
+(LID, 78811); (162, App Name, Waze, 10); (162, Message, in 700 feet, 9); (162, Timestamp, 2021-07-02 18:40:56 UTC, 10);
+
+(LID, 78812); (163, App Name, Waze, 10); (163, Timestamp, 2021-07-02 18:40:56 UTC, 10); (163, Message, in 800 feet, 9);
+
+(LID, 78813); (164, App Name, Waze, 10); (164, Timestamp, 2021-07-02 18:40:56 UTC, 10); (164, Message, in 900 feet, 9);
+
+(LID, 78814); (165, App Name, Waze, 10); (165, Timestamp, 2021-07-02 18:41:14 UTC, 10); (165, Message, in 1 mile, 9);
+
+(LID, 78815); (166, Message, in 1.1 miles, 9); (166, App Name, Waze, 10); (166, Timestamp, 2021-07-02 18:41:14 UTC, 10);
+
+(LID, 78818); (169, App Name, Waze, 10); (169, Message, in 1.4 miles, 9); (169, Timestamp, 2021-07-02 18:41:14 UTC, 10);
+
+(LID, 78819); (170, App Name, Waze, 10); (170, Message, in 1.5 miles, 9); (170, Timestamp, 2021-07-02 18:41:14 UTC, 10);
+
+(LID, 78820); (171, App Name, Waze, 10); (171, Message, in 1.6 miles, 9); (171, Timestamp, 2021-07-02 18:41:15 UTC, 10);
+
+(LID, 78821); (172, Message, in 1.7 miles, 9); (172, App Name, Waze, 10); (172, Timestamp, 2021-07-02 18:41:15 UTC, 10);
+
+(LID, 78822); (173, App Name, Waze, 10); (173, Message, in 1.8 miles, 9); (173, Timestamp, 2021-07-02 18:41:15 UTC, 10);
+
+(LID, 78823); (174, App Name, Waze, 10); (174, Message, in 1.9 miles, 9); (174, Timestamp, 2021-07-02 18:41:15 UTC, 10);
+
+(LID, 78824); (175, App Name, Waze, 10); (175, Message, in 2.4 miles, 9); (175, Timestamp, 2021-07-02 18:41:35 UTC, 10);
+
+(LID, 78825); (176, Message, in 2.5 miles, 9); (176, App Name, Waze, 10); (176, Timestamp, 2021-07-02 18:41:35 UTC, 10);
+
+(LID, 78826); (177, App Name, Waze, 10); (177, Timestamp, 2021-07-02 18:41:35 UTC, 10); (177, Message, in 2.6 miles, 9);
+
+(LID, 78827); (178, Message, in 2.7 miles, 9); (178, App Name, Waze, 10); (178, Timestamp, 2021-07-02 18:41:35 UTC, 10);
+
+(LID, 78828); (179, Message, in 2 miles, 9); (179, App Name, Waze, 10); (179, Timestamp, 2021-07-02 18:41:35 UTC, 10);
+
+(LID, 78829); (180, App Name, Waze, 10); (180, Timestamp, 2021-07-02 18:41:35 UTC, 10); (180, Message, in 2.1 miles, 9);
+
+(LID, 78830); (181, App Name, Waze, 10); (181, Timestamp, 2021-07-02 18:41:35 UTC, 10); (181, Message, in 2.2 miles, 9);
+
+(LID, 78831); (182, Message, in 2.3 miles, 9); (182, App Name, Waze, 10); (182, Timestamp, 2021-07-02 18:41:35 UTC, 10);
+
+(LID, 78832); (183, App Name, Waze, 10); (183, Timestamp, 2021-07-02 18:41:35 UTC, 10); (183, Message, in 2.8 miles, 9);
+
+(LID, 78833); (184, App Name, Waze, 10); (184, Message, in 2.9 miles, 9); (184, Timestamp, 2021-07-02 18:41:35 UTC, 10);
+
+(LID, 78834); (185, Message, in 3 miles, 9); (185, App Name, Waze, 10); (185, Timestamp, 2021-07-02 18:41:55 UTC, 10);
+
+(LID, 78835); (186, App Name, Waze, 10); (186, Message, in 3.1 miles, 9); (186, Timestamp, 2021-07-02 18:41:55 UTC, 10);
+
+(LID, 78836); (187, Message, in 3.2 miles, 9); (187, App Name, Waze, 10); (187, Timestamp, 2021-07-02 18:41:55 UTC, 10);
+
+(LID, 78837); (188, Message, in 3.3 miles, 9); (188, App Name, Waze, 10); (188, Timestamp, 2021-07-02 18:41:55 UTC, 10);
+
+(LID, 78838); (189, App Name, Waze, 10); (189, Message, in 3.4 miles, 9); (189, Timestamp, 2021-07-02 18:41:55 UTC, 10);
+
+(LID, 78839); (190, Message, in 3.5 miles, 9); (190, App Name, Waze, 10); (190, Timestamp, 2021-07-02 18:41:55 UTC, 10);
+
+(LID, 78840); (191, App Name, Waze, 10); (191, Message, in 3.6 miles, 9); (191, Timestamp, 2021-07-02 18:41:55 UTC, 10);
+
+(LID, 78841); (192, App Name, Waze, 10); (192, Message, in 3.7 miles, 9); (192, Timestamp, 2021-07-02 18:41:55 UTC, 10);
+
+(LID, 78842); (193, App Name, Waze, 10); (193, Message, in 3.8 miles, 9); (193, Timestamp, 2021-07-02 18:41:55 UTC, 10);
+
+(LID, 78843); (194, App Name, Waze, 10); (194, Message, in 3.9 miles, 9); (194, Timestamp, 2021-07-02 18:41:55 UTC, 10);
+
+(LID, 78844); (195, App Name, Waze, 10); (195, Message, keep left, 9); (195, Timestamp, 2021-07-05 18:36:45 UTC, 10);
+
+(LID, 78845); (196, Message, keep right, 9); (196, App Name, Waze, 10); (196, Timestamp, 2021-07-05 18:36:45 UTC, 10);
+
+(LID, 78846); (197, App Name, Waze, 10); (197, Timestamp, 2021-07-05 18:36:45 UTC, 10); (197, Message, Average speed check zone ahead, 9);
+
+(LID, 78847); (198, App Name, Waze, 10); (198, Message, Entering average speed check zone, 9); (198, Timestamp, 2021-07-05 18:56:45 UTC, 10);
+
+(LID, 78848); (199, App Name, Waze, 10); (199, Message, speed camera ahead, 9); (199, Timestamp, 2021-07-05 18:56:45 UTC, 10);
+
+(LID, 78849); (200, App Name, Waze, 10); (200, Timestamp, 2021-07-05 18:56:45 UTC, 10); (200, Message, watch out, crash reported ahead, 9);
+
+(LID, 78850); (201, App Name, Waze, 10); (201, Message, watch out, vehicle on shoulder ahead, 9); (201, Timestamp, 2021-07-05 18:56:45 UTC, 10);
+
+(LID, 78851); (202, App Name, Waze, 10); (202, Message, red light camera ahead, 9); (202, Timestamp, 2021-07-05 18:56:45 UTC, 10);
+

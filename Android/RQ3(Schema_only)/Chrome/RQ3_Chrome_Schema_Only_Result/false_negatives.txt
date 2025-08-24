@@ -1,0 +1,136 @@
+(LID, 77967); (7, App Name, Google Chrome, 10);
+
+(LID, 77968); (8, App Name, Google Chrome, 10);
+
+(LID, 77969); (9, App Name, Google Chrome, 10);
+
+(LID, 77981); (21, App Name, Google Chrome, 10);
+
+(LID, 77982); (22, App Name, T-Mobile Travel, 9); (22, App Name, Google Chrome, 10);
+
+(LID, 77983); (23, App Name, T-Mobile Travel, 9); (23, App Name, Google Chrome, 10);
+
+(LID, 77984); (24, App Name, T-Mobile Travel, 9); (24, App Name, Google Chrome, 10);
+
+(LID, 77985); (25, App Name, T-Mobile Travel, 9); (25, App Name, Google Chrome, 10);
+
+(LID, 77986); (26, App Name, Google Chrome, 10); (26, App Name, T-Mobile Hotels, 9);
+
+(LID, 77987); (27, App Name, Google Chrome, 10); (27, App Name, T-Mobile Hotels, 9);
+
+(LID, 77988); (28, App Name, Google Chrome, 10); (28, App Name, T-Mobile Hotels, 9);
+
+(LID, 77989); (29, App Name, Google Chrome, 10); (29, App Name, T-Mobile Hotels, 9);
+
+(LID, 77990); (30, App Name, Google Chrome, 10); (30, App Name, T-Mobile Hotels, 9);
+
+(LID, 77991); (31, Timestamp, 2021-12-05 20:12:52, 10); (31, App Name, Google Chrome, 10);
+
+(LID, 77992); (32, App Name, Google Chrome, 10);
+
+(LID, 77993); (33, App Name, Google Chrome, 10);
+
+(LID, 77994); (34, App Name, Google Chrome, 10);
+
+(LID, 77995); (35, App Name, Google Chrome, 10);
+
+(LID, 77996); (36, App Name, Google Chrome, 10);
+
+(LID, 77997); (37, App Name, Google Chrome, 10);
+
+(LID, 77998); (38, App Name, Google Chrome, 10);
+
+(LID, 77999); (39, App Name, Google Chrome, 10);
+
+(LID, 78000); (40, App Name, Google Chrome, 10);
+
+(LID, 78027); (67, App Name, Google Chrome, 10);
+
+(LID, 78030); (70, App Name, Google Chrome, 10);
+
+(LID, 78031); (71, App Name, Google Chrome, 10);
+
+(LID, 78032); (72, App Name, Google Chrome, 10);
+
+(LID, 78040); (80, App Name, Google Chrome, 9);
+
+(LID, 78041); (81, App Name, Google Chrome, 9);
+
+(LID, 78043); (83, Search keyword, Ken Johnson Scholarship 2021, 10);
+
+(LID, 78044); (84, Search keyword, Ken Johnson Scholarship 2021, 10);
+
+(LID, 78045); (85, Timestamp, 2021-01-08 17:48:01, 10); (85, Search keyword, Qualtrics Experience Management, 9); (85, App Name, Qualtrics, 10);
+
+(LID, 78046); (86, App Name, Google Chrome, 10);
+
+(LID, 78047); (87, App Name, Google Chrome, 9);
+
+(LID, 78048); (88, App Name, Google Chrome, 9);
+
+(LID, 78049); (89, Search keyword, corroboration, 9); (89, App Name, Google Chrome, 10);
+
+(LID, 78050); (90, Address, Norfolk, Virginia, USA, 8); (90, App Name, Google Chrome, 10);
+
+(LID, 78052); (92, App Name, Google Chrome, 10);
+
+(LID, 78053); (93, App Name, Google Chrome, 10);
+
+(LID, 78054); (94, App Name, Google Chrome, 10);
+
+(LID, 78055); (95, App Name, Google Chrome, 10);
+
+(LID, 78056); (96, App Name, Google Chrome, 10);
+
+(LID, 78057); (97, App Name, Google Chrome, 10);
+
+(LID, 78058); (98, App Name, Google Chrome, 10);
+
+(LID, 78059); (99, App Name, Google Chrome, 10);
+
+(LID, 78060); (100, App Name, Google Chrome, 10);
+
+(LID, 78061); (101, App Name, Google Chrome, 10);
+
+(LID, 78062); (102, App Name, Google Chrome, 10);
+
+(LID, 78063); (103, App Name, Google Chrome, 10);
+
+(LID, 78064); (104, Search keyword, sign in, 9); (104, App Name, Google Chrome, 10);
+
+(LID, 78156); (196, App Name, Google Chrome, 10);
+
+(LID, 78157); (197, App Name, Google Chrome, 10);
+
+(LID, 78158); (198, App Name, Google Chrome, 10);
+
+(LID, 78159); (199, App Name, Google Chrome, 10);
+
+(LID, 78160); (200, App Name, Google Chrome, 10);
+
+(LID, 78161); (201, Timestamp, 2021-07-05 18:48:12, 10);
+
+(LID, 78162); (202, Timestamp, 2021-07-05 18:48:12, 10);
+
+(LID, 78163); (203, Timestamp, 2021-07-05 18:48:12, 10);
+
+(LID, 78164); (204, Timestamp, 2021-07-05 18:52:05, 10);
+
+(LID, 78165); (205, Timestamp, 2021-07-05 18:51:45, 10);
+
+(LID, 78166); (206, Timestamp, 2021-07-05 18:48:15, 10);
+
+(LID, 78172); (212, App Name, Google Chrome, 10);
+
+(LID, 78195); (235, App Name, Google Chrome, 10);
+
+(LID, 78196); (236, App Name, Google Chrome, 10);
+
+(LID, 78197); (237, App Name, Google Chrome, 10);
+
+(LID, 78202); (242, Search keyword, Blanton's - Wooden Cork #1 Online Liquor Store, 9); (242, App Name, Google Chrome, 10);
+
+(LID, 78250); (290, Search keyword, modernliquors.com, 8);
+
+(LID, 78251); (291, Search keyword, modernliquors.com, 8);
+

@@ -1,0 +1,47 @@
+Q2 Summary:
+
+Total Row: 1000
+
+Application Selected 200 Column Each:
+Snapchat
+Twitter
+Chrome
+Waze
+Google Play Services (Google App, Google Autofill, Google Docs, Google Duo, Google Location Services, Google Maps, Google Metrics, Google Nearby, Google People, Google Photos Google Play Music, Google Play Store, Google Quick Search Box, Google Search, Google Services, Google Settings Platform, Google Wallet, Google Westworld)
+
+
+
+Total Rows: 1000
+
+Total App Entries:1117
+Total Unique App Names: 82
+
+Total Timestamps Entries: 721
+Total Unique Timestamps: 373
+
+Total Person Name Entries: 169
+Total Unique Person Name: 158
+
+Total Username Entries: 279
+Total Unique Username: 256
+
+Total Email Entries: 96
+Total Unique Email:6
+
+Total Search keyword Entries: 142
+Total Unique Search keyword:23
+
+Total Address Entries: 92
+Total Unique Address: 20
+
+Total Message Entries: 201
+Total Unique Message: 176
+
+Total Longitude Entries: 14
+Total Unique Longitude: 7
+
+Total Latitude Entries: 14
+Total Unique Longitude: 8
+
+Total Phone Number Entries: 1
+Total Unique Phone Number: 1

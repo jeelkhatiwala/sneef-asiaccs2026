@@ -1,0 +1,585 @@
+(LID, 12719); (392, App Name, Google Photos, 10); (392, Timestamp, 2021-07-20 03:44:32, 10); 
+
+
+(LID, 12720); (195, App Name, Gmail, 10); (195, Email, cargurus@em.cargurus.com, 10); (195, Search keyword, Subaru Legacy, 9); (195, Message, Check out this 2017 Subaru Legacy at $16,276 — Check out these listings near you --- CarGurus is a leading online automotive shopping destination focused on bringing transparency and efficiency to the car research and shopping experience. USED CARS#, 9); (195, Timestamp, 2021-03-30 23:18:20, 9);
+
+
+(LID, 12884); (2022, App Name, Gmail, 10); (2022, Timestamp, 2021-07-02 14:27:27, 10);
+
+
+(LID, 12885); (1, App Name, Google Play Services, 10); (1, Email, heisenbergcarro@gmail.com, 10); (1, Timestamp, 2021-04-03 21:44:35, 10); (1, Timestamp, 2021-04-03 21:44:35, 10);
+
+
+(LID, 12886); (1, App Name, Google Play Services, 10); (1, Timestamp, 2021-04-03 21:44:31, 10);
+
+
+(LID, 19145); (44898, App Name, Google Search, 10); (44898, Email, heisenbergcarro@gmail.com, 10); (44898, Timestamp, 2019-01-22, 10); (44898, Search keyword, 2019-01-22, 10);
+
+
+(LID, 19146); (44910, App Name, Google Search, 10); (44910, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19147); (44941, App Name, Google Search, 10); (44941, Email, heisenbergcarro@gmail.com, 10); (44941, Message, Oriole, 8); (44941, Message, oriole, 8); (44941, Message, Raven, 8);
+
+
+(LID, 19148); (44956, App Name, Google Search, 10); (44956, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19149); (44995, App Name, Google Search, 10); (44995, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19150); (45346, App Name, Google Search, 10); (45346, Message, One moment, 9); (45346, Message, Working on it, 9); (45346, Message, Still in progress, 9); (45346, Message, Almost there, 9); (45346, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19151); (47013, App Name, Google Search, 10); (47013, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19152); (47039, App Name, Google Search, 10); (47039, Email, heisenbergcarro@gmail.com, 10); (47039, Search keyword, lens, 7);
+
+
+(LID, 19153); (47213, App Name, Google Search, 10); (47213, Email, heisenbergcarro@gmail.com, 10); (47213, Message, Bearer %1$s, 6);
+
+
+(LID, 19154); (47283, App Name, Google Search, 10); (47283, Email, heisenbergcarro@gmail.com, 10); (47283, Message, Creating your face model on this Google Nest Hub Max, 9); (47283, Message, This should take less than a minute, 9);
+
+
+(LID, 19164); (50884, App Name, Google Maps, 10); (50884, App Name, Google Play Services, 10); (50884, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19166); (51530, App Name, Google Play Services, 10); (51530, App Name, Google Contacts, 10); (51530, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19167); (52018, App Name, Google Wallet, 10); (52018, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19171); (54384, App Name, Google Search, 10); (54384, Timestamp, 2019-01-22, 10); (54384, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19172); (54440, App Name, Google Search, 10); (54440, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19173); (54839, App Name, Google Search, 10); (54839, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19174); (54965, App Name, Google Search, 10); (54965, Email, heisenbergcarro@gmail.com, 10); (54965, Timestamp, 2021-01-09 00:00:00, 10); (54965, Timestamp, 2021-03-01 00:00:00, 10); (54965, Timestamp, 2021-03-22 00:00:00, 10); (54965, Timestamp, 2021-04-05 00:00:00, 10); (54965, Timestamp, 2021-05-19 00:00:00, 10); (54965, Timestamp, 2021-05-21 00:00:00, 10); (54965, Timestamp, 2021-05-22 00:00:00, 10); (54965, Timestamp, 2021-05-31 00:00:00, 10); (54965, Timestamp, 2021-06-03 00:00:00, 10); (54965, Timestamp, 2021-06-10 00:00:00, 10); (54965, Timestamp, 2021-06-18 00:00:00, 10); (54965, Timestamp, 2021-06-21 00:00:00, 10); (54965, Timestamp, 2021-06-24 00:00:00, 10); (54965, Timestamp, 2021-07-01 00:00:00, 10); (54965, Timestamp, 2021-07-12 00:00:00, 10); (54965, Timestamp, 2021-07-17 00:00:00, 10); (54965, Timestamp, 2021-07-21 00:00:00, 10); (54965, Timestamp, 2021-07-21 00:00:00, 10);
+
+
+(LID, 19175); (55232, App Name, Google Search, 10); (55232, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19176); (55235, App Name, Google Search, 10); (55235, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19177); (55578, App Name, Google Search, 10); (55578, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19178); (55694, App Name, Google Search, 10); (55694, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19179); (55970, App Name, Google Search, 10); (55970, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19180); (56147, App Name, Google Search, 10); (56147, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19181); (56512, App Name, Google Search, 10); (56512, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19182); (56842, App Name, Google Search, 10); (56842, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19183); (56948, App Name, Google Search, 10); (56948, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19184); (57052, App Name, Google Search, 10); (57052, Email, heisenbergcarro@gmail.com, 10); (57052, Message, One moment, 9); (57052, Message, Working on it, 9); (57052, Message, Still in progress, 9); (57052, Message, Almost there, 9);
+
+
+(LID, 19185); (57473, App Name, Google Search, 10); (57473, Email, heisenbergcarro@gmail.com, 10); (57473, Message, Oriole, 7); (57473, Message, oriole, 7); (57473, Message, Raven, 7);
+
+
+(LID, 19186); (57528, App Name, Google Search, 10); (57528, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19187); (57775, App Name, Google Search, 10); (57775, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19188); (57890, App Name, Google Search, 10); (57890, Message, Creating your face model on this Google Nest Hub Max, 9); (57890, Message, This should take less than a minute, 9); (57890, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19189); (58517, App Name, Google Search, 10); (58517, Message, Bearer %1$s, 7); (58517, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 19190); (58616, App Name, Google Play Services, 10); (58616, App Name, Google Lighter, 8); (58616, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 78206); (246, App Name, Google Chrome, 10); (246, Search keyword, chester springs pa zip code, 10); (246, Address, Chester Springs, PA, 8); (246, Timestamp, 2021-07-09 17:20:03, 10);
+
+
+(LID, 78264); (11, App Name, Google Photos, 10); (11, Timestamp, 2021-04-11 23:56:04, 10); (11, Timestamp, 2021-04-12 03:56:04, 10); (11, Latitude, 37.2355, 10); (11, Longitude, -80.4369, 10); (11, Address, Blacksburg, Virginia, United States, 9);
+
+
+(LID, 78265); (12, App Name, Google Photos, 10); (12, Timestamp, 2021-04-15 06:27:52, 10); (12, Timestamp, 2021-04-15 10:27:52, 10); (12, Latitude, 38.7119, 10); (12, Longitude, -81.9676, 10); (12, Address, Ripley, West Virginia, United States, 9);
+
+
+(LID, 78266); (13, App Name, Google Photos, 10); (13, Timestamp, 2021-04-15 06:27:37, 10); (13, Timestamp, 2021-04-15 10:27:37, 10); (13, Latitude, 38.708, 10); (13, Longitude, -81.9672, 10); (13, Address, Ripley, West Virginia, United States, 9);
+
+
+(LID, 78267); (14, App Name, Google Photos, 10); (14, Timestamp, 2021-05-15 20:04:00, 10); (14, Timestamp, 2021-05-15 23:44:00, 10); (14, Latitude, 37.3493, 10); (14, Longitude, -80.5386, 10); (14, Address, Christiansburg, Virginia, United States, 9);
+
+
+(LID, 78268); (15, App Name, Google Photos, 10); (15, Timestamp, 2021-05-15 20:03:56, 10); (15, Timestamp, 2021-05-15 23:43:56, 10); (15, Latitude, 37.3493, 10); (15, Longitude, -80.5386, 10); (15, Address, Christiansburg, Virginia, United States, 9);
+
+
+(LID, 78269); (16, App Name, Google Photos, 10); (16, Timestamp, 2021-05-15 20:03:53, 10); (16, Timestamp, 2021-05-15 23:43:53, 10); (16, Latitude, 37.3493, 10); (16, Longitude, -80.5386, 10); (16, Address, Christiansburg, Virginia, United States, 9);
+
+
+(LID, 78270); (17, App Name, Google Photos, 10); (17, Timestamp, 2021-05-15 20:03:51, 10); (17, Timestamp, 2021-05-15 23:43:51, 10); (17, Latitude, 37.3493, 10); (17, Longitude, -80.5386, 10); (17, Address, Christiansburg, Virginia, United States, 9);
+
+
+(LID, 78271); (18, App Name, Google Photos, 10); (18, Timestamp, 2021-05-15 20:13:32, 10); (18, Timestamp, 2021-05-15 23:53:32, 10); (18, Latitude, 37.3493, 10); (18, Longitude, -80.5386, 10); (18, Address, Christiansburg, Virginia, United States, 9);
+
+
+(LID, 78272); (26, App Name, Google Photos, 10); (26, Timestamp, 2021-05-19 20:53:05, 10); (26, Timestamp, 2021-05-20 00:33:05, 10); (26, Latitude, 37.224, 10); (26, Longitude, -80.4176, 10); (26, Address, Blacksburg, Virginia, United States, 9);
+
+
+(LID, 78273); (27, App Name, Google Photos, 10); (27, Timestamp, 2021-06-06 21:21:09, 10); (27, Timestamp, 2021-06-07 01:41:09, 10); (27, Latitude, 33.7969, 10); (27, Longitude, -78.7421, 10); (27, Address, Myrtle Beach, South Carolina, United States, 9);
+
+
+(LID, 78274); (28, App Name, Google Photos, 10); (28, Timestamp, 2021-06-06 21:21:07, 10); (28, Timestamp, 2021-06-07 01:41:07, 10); (28, Latitude, 33.7969, 10); (28, Longitude, -78.7421, 10); (28, Address, Myrtle Beach, South Carolina, United States, 9);
+
+
+(LID, 78275); (29, App Name, Google Photos, 10); (29, Timestamp, 2021-06-06 21:20:55, 10); (29, Timestamp, 2021-06-07 01:40:55, 10); (29, Latitude, 33.7969, 10); (29, Longitude, -78.7421, 10); (29, Address, Myrtle Beach, South Carolina, United States, 9);
+
+
+(LID, 78377); (2, App Name, Google Drive, 10); (2, Email, heisenbergcarro@gmail.com, 10); (2, Timestamp, 2021-06-21 06:15:03, 10);
+
+
+(LID, 78378); (3, App Name, Google Drive, 10); (3, Email, heisenbergcarro@gmail.com, 10); (3, Timestamp, 2021-06-21 06:15:03, 10);
+
+
+(LID, 78379); (5, App Name, Google Drive, 10); (5, Email, heisenbergcarro@gmail.com, 10); (5, Timestamp, 2021-06-21 06:15:04, 10);
+
+
+(LID, 78380); (6, App Name, Google Drive, 10); (6, Email, heisenbergcarro@gmail.com, 10); (6, Timestamp, 2021-06-21 06:15:05, 10);
+
+
+(LID, 78381); (7, App Name, Google Drive, 10); (7, Email, heisenbergcarro@gmail.com, 10); (7, Timestamp, 2021-06-21 06:15:06, 10);
+
+
+(LID, 78382); (8, App Name, Google Drive, 10); (8, Email, heisenbergcarro@gmail.com, 10); (8, Timestamp, 2021-06-21 06:15:47, 10);
+
+
+(LID, 78383); (11, App Name, Google Drive, 10); (11, Email, heisenbergcarro@gmail.com, 10); (11, Timestamp, 2021-06-21 06:15:47, 10);
+
+
+(LID, 78384); (12, App Name, Google Drive, 10); (12, Email, heisenbergcarro@gmail.com, 10); (12, Timestamp, 2021-06-21 06:15:47, 10);
+
+
+(LID, 78385); (13, App Name, Google Drive, 10); (13, Email, heisenbergcarro@gmail.com, 10); (13, Timestamp, 2021-06-21 06:15:47, 10);
+
+
+(LID, 78386); (14, App Name, Google Drive, 10); (14, Email, heisenbergcarro@gmail.com, 10); (14, Timestamp, 2021-06-21 14:17:10, 10);
+
+
+(LID, 78387); (16, App Name, Google Drive, 10); (16, Email, heisenbergcarro@gmail.com, 10); (16, Timestamp, 2021-06-21 14:17:10, 10);
+
+
+(LID, 78388); (18, App Name, Google Drive, 10); (18, Email, heisenbergcarro@gmail.com, 10); (18, Timestamp, 2021-06-21 14:17:12, 10);
+
+
+(LID, 78389); (19, App Name, Google Drive, 10); (19, Email, heisenbergcarro@gmail.com, 10); (19, Timestamp, 2021-06-21 14:17:12, 10);
+
+
+(LID, 78390); (20, App Name, Google Drive, 10); (20, Email, heisenbergcarro@gmail.com, 10); (20, Timestamp, 2021-06-21 14:18:05, 10);
+
+
+(LID, 78391); (23, App Name, Google Drive, 10); (23, Email, heisenbergcarro@gmail.com, 10); (23, Timestamp, 2021-06-21 14:18:06, 10);
+
+
+(LID, 78392); (24, App Name, Google Drive, 10); (24, Email, heisenbergcarro@gmail.com, 10); (24, Timestamp, 2021-06-21 14:18:07, 10);
+
+
+(LID, 78393); (25, App Name, Google Drive, 10); (25, Email, heisenbergcarro@gmail.com, 10); (25, Timestamp, 2021-06-21 14:18:07, 10);
+
+
+(LID, 78394); (26, App Name, Google Drive, 10); (26, Email, heisenbergcarro@gmail.com, 10); (26, Timestamp, 2021-06-21 16:59:02, 10);
+
+
+(LID, 78395); (28, App Name, Google Drive, 10); (28, Email, heisenbergcarro@gmail.com, 10); (28, Timestamp, 2021-06-21 16:59:02, 10);
+
+
+(LID, 78396); (30, App Name, Google Drive, 10); (30, Email, heisenbergcarro@gmail.com, 10); (30, Timestamp, 2021-06-21 16:59:03, 10);
+
+
+(LID, 78397); (31, App Name, Google Drive, 10); (31, Email, heisenbergcarro@gmail.com, 10); (31, Timestamp, 2021-06-21 16:59:03, 10);
+
+
+(LID, 78398); (32, App Name, Google Drive, 10); (32, Email, heisenbergcarro@gmail.com, 10); (32, Timestamp, 2021-06-21 18:55:27, 10);
+
+
+(LID, 78399); (34, App Name, Google Drive, 10); (34, Email, heisenbergcarro@gmail.com, 10); (34, Timestamp, 2021-06-22 05:45:46, 10);
+
+
+(LID, 78400); (35, App Name, Google Drive, 10); (35, Email, heisenbergcarro@gmail.com, 10); (35, Timestamp, 2021-06-22 05:45:46, 10);
+
+
+(LID, 78401); (37, App Name, Google Drive, 10); (37, Email, heisenbergcarro@gmail.com, 10); (37, Timestamp, 2021-06-22 05:45:47, 10);
+
+
+(LID, 78402); (38, App Name, Google Drive, 10); (38, Email, heisenbergcarro@gmail.com, 10); (38, Timestamp, 2021-06-22 05:45:47, 10);
+
+
+(LID, 78403); (39, App Name, Google Drive, 10); (39, Email, heisenbergcarro@gmail.com, 10); (39, Timestamp, 2021-06-22 05:45:47, 10);
+
+
+(LID, 78404); (40, App Name, Google Drive, 10); (40, Email, heisenbergcarro@gmail.com, 10); (40, Timestamp, 2021-06-22 11:27:06, 10);
+
+
+(LID, 78405); (42, App Name, Google Drive, 10); (42, Email, heisenbergcarro@gmail.com, 10); (42, Timestamp, 2021-06-22 11:27:07, 10);
+
+
+(LID, 78406); (43, App Name, Google Drive, 10); (43, Email, heisenbergcarro@gmail.com, 10); (43, Timestamp, 2021-06-22 11:27:07, 10);
+
+
+(LID, 78407); (45, App Name, Google Drive, 10); (45, Email, heisenbergcarro@gmail.com, 10); (45, Timestamp, 2021-06-22 11:27:10, 10);
+
+
+(LID, 78408); (47, App Name, Google Drive, 10); (47, Email, heisenbergcarro@gmail.com, 10); (47, Timestamp, 2021-06-22 15:29:05, 10);
+
+
+(LID, 78409); (48, App Name, Google Drive, 10); (48, Email, heisenbergcarro@gmail.com, 10); (48, Timestamp, 2021-06-22 15:29:05, 10);
+
+
+(LID, 78410); (50, App Name, Google Drive, 10); (50, Email, heisenbergcarro@gmail.com, 10); (50, Timestamp, 2021-06-22 15:29:06, 10);
+
+
+(LID, 78411); (51, App Name, Google Drive, 10); (51, Email, heisenbergcarro@gmail.com, 10); (51, Timestamp, 2021-06-22 15:29:06, 10);
+
+
+(LID, 78412); (52, App Name, Google Drive, 10); (52, Email, heisenbergcarro@gmail.com, 10); (52, Timestamp, 2021-06-22 16:50:40, 10);
+
+
+(LID, 78413); (54, App Name, Google Drive, 10); (54, Email, heisenbergcarro@gmail.com, 10); (54, Timestamp, 2021-06-22 16:50:40, 10);
+
+
+(LID, 78416); (3, App Name, Samsung FAST App (com.samsung.android.fast); 9); (3, Timestamp, 2021-01-21 03:55:40, 10); (3, Timestamp, 2021-06-22 00:42:36, 10); (3, Timestamp, 2021-04-15 19:42:55, 10);
+
+
+(LID, 78417); (4, App Name, Samsung Context-aware Manager (CMH); 9); (4, Timestamp, 2021-04-04 19:09:11, 10); (4, Timestamp, 2021-04-03 06:09:41, 10);
+
+
+(LID, 78418); (5, App Name, Samsung Bixby Agent, 10); (5, Timestamp, 2021-01-21 03:55:47, 10); (5, Timestamp, 2021-04-03 06:09:36, 10);
+			
+
+(LID, 78419); (6, App Name, Samsung Notes, 10);  
+
+
+(LID, 78420); (7, App Name, Samsung Software Update, 10); (7, Timestamp, 2021-07-22 03:33:38, 10); (7, Timestamp, 2021-04-15 21:31:10, 10); (7, Timestamp, 2021-07-22 03:47:22, 10);
+
+
+(LID, 78421); (8, App Name, Samsung Quick Share, 10); (8, Timestamp, 2021-04-04 19:09:17, 10); (8, Timestamp, 2021-04-03 18:49:34, 10);  
+
+
+(LID, 78422); (9, App Name, Microsoft OneDrive, 10); (9, Timestamp, 2021-04-03 18:49:23, 10); (9, Timestamp, 2021-04-04 19:09:23, 10); (9, Timestamp, 2021-06-02 18:37:10, 10); (9, Timestamp, 2021-04-15 20:03:32, 10);
+
+
+(LID, 78423); (10, App Name, Samsung Blockchain Keystore, 10); (10, Timestamp, 2021-04-03 18:49:31, 10); (10, Timestamp, 2021-04-04 19:09:31, 10); (10, Timestamp, 2021-04-03 18:49:39, 10); (10, Timestamp, 2021-04-15 20:22:59, 10);  
+
+
+(LID, 78424); (11, App Name, Samsung Game Launcher, 10); (11, Timestamp, 2021-07-09 06:45:16, 10) (11, Timestamp, 2021-07-09 06:25:20, 10); (11, Timestamp, 2021-07-09 06:25:20, 10); (11, Timestamp, 2021-07-09 06:25:20, 10); (11, Timestamp, 2021-07-09 06:25:20, 10);
+
+
+(LID, 78425); (12, App Name, YouTube, 10); (12, Timestamp, 2021-07-15 19:58:56, 10); (12, Timestamp, 2021-07-15 19:58:58, 10); (12, Timestamp, 2021-07-23 23:18:56, 10); (12, Timestamp, 2021-07-02 06:44:39, 9); (12, Timestamp, 2021-07-15 23:03:20, 10);  
+
+
+(LID, 78426); (13, App Name, Samsung Device Care (MATE Agent); 10);
+
+
+(LID, 78427); (14, App Name, Samsung OMC Agent, 10); (14, Timestamp, 2021-05-05 11:30:14, 10); (14, Timestamp, 2021-04-04 19:09:28, 10); (14, Timestamp, 2021-04-15 20:52:21, 10);  
+
+
+(LID, 78428); (15, App Name, Samsung KG Client, 10); (15, Timestamp, 2021-04-04 19:09:35, 10); (15, Timestamp, 2021-06-21 22:42:36, 10); (15, Timestamp, 2021-04-15 18:57:12, 10);
+
+
+(LID, 78429); (16, App Name, Samsung Theme Store, 10); (16, Timestamp, 2021-05-24 18:21:27, 10); (16, Timestamp, 2021-05-24 20:01:27, 10); (16, Timestamp, 2021-04-15 21:40:13, 10);
+
+
+(LID, 78430); (17, App Name, Galaxy Store, 10); (17, Timestamp, 2021-04-04 19:09:39, 10); (17, Timestamp, 2021-04-04 19:09:42, 10);
+
+
+(LID, 78431); (18, App Name, Samsung Smart Upgrade, 10); (18, Timestamp, 2021-04-04 19:09:41, 10); (18, Timestamp, 2021-06-21 22:42:37, 10);
+
+
+(LID, 78432); (19, App Name, Google Play Store, 10); (19, Timestamp, 2021-04-04 19:09:59, 10); (19, Timestamp, 2021-07-20 19:44:33, 10); (19, Timestamp, 2020-10-28 16:56:05, 10);
+
+
+(LID, 78433); (20, App Name, Samsung Rubin App, 9);
+
+
+(LID, 78434); (21, App Name, Samsung Daily (Samsung Free / Bixby Home); 10); (21, Timestamp, 2021-07-14 19:58:01, 10); (21, Timestamp, 2021-07-14 19:58:11, 10); (21, Timestamp, 2021-07-12 19:48:21, 10);
+
+
+(LID, 78435); (22, App Name, Samsung Billing, 10); (22, Timestamp, 2021-04-04 19:10:56, 10); (22, Timestamp, 2021-05-05 11:30:14, 10); (22, Timestamp, 2021-04-15 23:09:53, 10);
+
+
+(LID, 78436); (23, App Name, Google Search, 10); (23, Timestamp, 2021-07-09 06:45:17, 10); (23, Timestamp, 2021-07-09 06:45:19, 10); (23, Timestamp, 2020-12-03 00:25:29, 10);
+
+
+(LID, 78437); (24, App Name, Samsung Pass, 10); (24, Timestamp, 2021-04-04 19:23:01, 10); (24, Timestamp, 2021-04-04 19:23:12, 10);
+
+
+(LID, 78438); (25, App Name, Google Play Music, 10); (25, Timestamp, 2021-04-11 00:44:44, 10); (25, Timestamp, 2021-04-11 00:44:52, 10);
+
+
+(LID, 78439); (26, App Name, Microsoft Outlook, 10); (26, Timestamp, 2021-04-04 19:25:26, 10); (26, Timestamp, 2021-06-14 02:20:44, 10); (26, Timestamp, 2021-04-15 19:31:43, 10);
+
+
+(LID, 78440); (27, App Name, Samsung Pay, 10);
+
+
+(LID, 78441); (28, App Name, Spotify, 10); (28, Timestamp, 2021-07-03 22:17:45, 10); (28, Timestamp, 2021-07-03 22:17:48, 10); (28, Timestamp, 2021-04-15 20:33:31, 10);
+
+
+(LID, 78442); (29, App Name, Twitter, 10); (29, Timestamp, 2021-07-21 14:39:54, 10); (29, Timestamp, 2021-07-21 16:03:12, 10); (29, Timestamp, 2021-07-01 06:00:58, 10); (29, Timestamp, 2021-04-15 18:16:01, 10);
+
+
+(LID, 78443); (30, App Name, Samsung Sree, 10); (30, Timestamp, 2021-04-04 02:32:09, 10); (30, Timestamp, 2021-06-03 06:24:02, 10); (30, Timestamp, 2021-04-15 22:00:34, 10);
+
+
+(LID, 78444); (31, App Name, Google Duo, 10); (31, Timestamp, 2021-07-20 21:15:21, 10); (31, Timestamp, 2021-07-20 21:15:22, 10); (31, Timestamp, 2020-07-06 16:36:52, 10);
+
+
+(LID, 78445); (32, App Name, TikTok, 10); (32, Timestamp, 2021-07-22 19:37:36, 10); (32, Timestamp, 2021-07-22 19:58:58, 10); (32, Timestamp, 2021-06-04 06:38:57, 10); (32, Timestamp, 2021-07-22 09:48:24, 10);
+
+
+(LID, 78446); (33, App Name, Venmo, 10); (33, Timestamp, 2021-07-17 18:25:13, 10); (33, Timestamp, 2021-07-17 19:26:01, 10); (33, Timestamp, 2021-04-15 21:59:39, 10);
+
+
+(LID, 78447); (34, App Name, Google Photos, 10); (34, Timestamp, 2021-07-20 19:05:50, 10); (34, Timestamp, 2021-07-20 21:15:22, 10); (34, Timestamp, 2020-09-09 01:23:24, 10);
+
+
+(LID, 78448); (35, App Name, T-Mobile Tuesdays, 10); (35, Timestamp, 2021-07-21 16:13:57, 10); (35, Timestamp, 2021-07-21 16:03:11, 10); (35, Timestamp, 2021-04-15 19:44:59, 10);
+
+
+(LID, 78449); (36, App Name, SSL Capture, 10); (36, Timestamp, 2021-04-10 18:09:37, 10); (36, Timestamp, 2021-04-10 18:05:15, 10); (36, Timestamp, 2021-04-10 17:31:19, 10);
+
+
+(LID, 78450); (37, App Name, Netflix, 10);
+
+
+(LID, 78451); (38, App Name, Upside, 10); (38, Timestamp, 2021-07-08 04:38:27, 10); (38, Timestamp, 2021-07-08 04:38:13, 10); (38, Timestamp, 2021-04-15 21:14:43, 10);
+
+
+(LID, 78452); (39, App Name, Too Good To Go, 10); (39, Timestamp, 2021-06-25 20:44:45, 10); (39, Timestamp, 2021-06-25 20:44:52, 10); (39, Timestamp, 2021-04-15 22:06:17, 10);
+
+
+(LID, 78453); (40, App Name, BeenVerified, 10); (40, Timestamp, 2021-06-02 02:44:51, 10); (40, Timestamp, 2021-06-02 02:38:39, 10); (40, Timestamp, 2021-04-15 21:58:08, 10);
+
+
+(LID, 78454); (41, App Name, Instant Checkmate, 10); (41, Timestamp, 2021-06-06 07:48:54, 10); (41, Timestamp, 2021-06-06 07:49:11, 10); (41, Timestamp, 2021-04-15 22:01:43, 10);
+
+
+(LID, 78455); (42, App Name, Reddit, 10); (42, Timestamp, 2021-07-10 17:13:09, 10); (42, Timestamp, 2021-07-10 18:11:02, 10); (42, Timestamp, 2021-07-03 02:02:57, 10); (42, Timestamp, 2021-04-15 20:12:53, 10);
+
+
+(LID, 78456); (43, App Name, Google Maps, 10); (43, Timestamp, 2021-07-22 05:25:36, 10); (43, Timestamp, 2021-07-22 06:00:52, 10); (43, Timestamp, 2021-06-26 03:21:54, 10); (43, Timestamp, 2020-10-13 21:06:18, 10);
+
+
+(LID, 78457); (44, App Name, Voice Changer, 10); (44, Timestamp, 2021-07-05 19:03:52, 10); (44, Timestamp, 2021-07-05 19:12:34, 10); (44, Timestamp, 2021-03-14 11:08:00, 10);
+
+
+(LID, 78458); (45, App Name, Smart Hide Calculator, 10); (45, Timestamp, 2021-07-08 04:36:57, 10); (45, Timestamp, 2021-07-08 04:36:17, 10); (45, Timestamp, 2021-04-22 10:23:23, 10);
+
+
+(LID, 78459); (46, App Name, BlueDriver OBD2 Scan Tool, 10); (46, Timestamp, 2021-07-05 19:20:37, 10); (46, Timestamp, 2021-07-05 19:20:51, 10); (46, Timestamp, 2021-04-15 20:23:22, 10);
+
+
+(LID, 78460); (47, App Name, Need for Speed Most Wanted, 10); (47, Timestamp, 2021-07-02 04:28:08, 10); (47, Timestamp, 2021-07-02 04:28:21, 10); (47, Timestamp, 2021-06-08 13:44:46, 10);
+
+
+(LID, 78461); (48, App Name, CarGurus, 10); (48, Timestamp, 2021-07-20 18:43:20, 10); (48, Timestamp, 2021-07-20 18:43:36, 10); (48, Timestamp, 2021-04-15 18:31:27, 10);
+
+
+(LID, 78462); (49, App Name, Autotrader, 10); (49, Timestamp, 2021-07-02 04:45:15, 10); (49, Timestamp, 2021-07-02 04:40:50, 10); (49, Timestamp, 2021-04-15 19:14:59, 10);
+
+
+(LID, 78463); (50, App Name, RealDash, 10); (50, Timestamp, 2021-07-05 19:03:41, 10); (50, Timestamp, 2021-07-05 19:20:51, 10); (50, Timestamp, 2021-04-15 21:28:30, 10);
+
+
+(LID, 78464); (51, App Name, Cartomizer, 10); (51, Timestamp, 2021-07-05 18:56:26, 10); (51, Timestamp, 2021-07-05 18:56:39, 10); (51, Timestamp, 2021-04-15 21:26:01, 10);
+
+
+(LID, 78465); (52, App Name, ORTO, 10); (52, Timestamp, 2021-07-05 18:56:42, 10); (52, Timestamp, 2021-07-05 18:56:39, 10); (52, Timestamp, 2021-05-26 16:02:28, 10);
+
+
+(LID, 78466); (53, App Name, CARFAX, 10); (53, Timestamp, 2021-07-09 19:56:13, 10); (53, Timestamp, 2021-07-09 22:30:02, 10); (53, Timestamp, 2021-04-15 20:16:02, 10);
+
+
+(LID, 78467); (54, App Name, Waze, 10); (54, Timestamp, 2021-07-08 04:27:12, 10); (54, Timestamp, 2021-07-08 04:27:25, 10); (54, Timestamp, 2020-06-16 00:27:37, 10);
+
+
+(LID, 78852), (89, App Name, Google Play Services, 10); (89, App Name, Google App (Icing), 9);
+												
+
+(LID, 78853), (90, App Name, Google Play Services, 10); (90, App Name, Google Play Instant, 9)
+												
+
+(LID, 78854), (91, App Name, Google Play Services, 10); (91, App Name, Google Kids Space, 9)	
+											
+
+(LID, 78855), (92, App Name, Google Play Services, 10); (92, App Name, Google OCR, 9)	
+											
+
+(LID, 78856), (93, App Name, Google Play Services, 10); (93, App Name, Google Phenotype, 9)	
+											
+
+(LID, 78857), (94, App Name, Google Play Services, 10); (94, App Name, Google Playlog Uploader, 9)		
+										
+
+(LID, 78858), (95, App Name, Google Play Services, 10); (95, App Name, Google Vision, 9)
+												
+
+(LID, 78859), (96, App Name, Google Play Services, 10); (96, App Name, Google Location Services, 10)
+												
+
+(LID, 78860), (97, App Name, Google Play Services, 10); (97, App Name, Google Location Services, 10)
+												
+
+(LID, 78861), (98, App Name, Google Play Services, 10); (98, App Name, Google Location Services, 10); (98, Email, heisenbergcarro@gmail.com, 10);
+											
+
+(LID, 78862), (99, App Name, Google Play Services, 10); (99, App Name, Google Location Services, 10)
+												
+
+(LID, 78863), (100, App Name, Google Play Services, 10); (100, App Name, Google Location Services, 10)	
+											
+
+(LID, 78864), (101, App Name, Google App Indexing, 10); (101, App Name, Google Search, 10)
+											
+
+(LID, 78865), (102, App Name, Android Auto, 10); (102, App Name, Google App, 10)
+												
+
+(LID, 78866), (103, App Name, Google One, 10); (103, App Name, Google Play Services, 10)	
+											
+
+(LID, 78867), (104, App Name, Android Auto, 10); (104, App Name, Google Play Services for Car, 10)
+												
+
+(LID, 78868), (105, App Name, Google App, 10); (105, App Name, Android Auto, 10)
+												
+
+(LID, 78869), (106, App Name, Google Play Services, 10); (106, App Name, Android Auto, 10); (106, Email, heisenbergcarro@gmail.com, 10)
+											
+
+(LID, 78870), (107, App Name, Google App, 10); (107, App Name, Android Auto, 10); (107, Email, heisenbergcarro@gmail.com, 10)
+											
+
+(LID, 78871), (108, App Name, Google Play Services, 10); (108, App Name, Google App, 10)												
+
+
+(LID, 78872), (109, App Name, Google App, 10); (109, App Name, Google Search Indexing, 9)												
+
+
+(LID, 78873), (110, App Name, Android Auto, 10); (110, App Name, Google App, 10)
+												
+
+(LID, 78874), (111, App Name, Google Photos, 10); (111, App Name, Google App, 10); (111, Email, heisenbergcarro@gmail.com, 10)											
+
+(LID, 78875), (112, App Name, Google Play Services, 10); (112, App Name, Google App, 10); (112, Email, heisenbergcarro@gmail.com, 10)											
+
+(LID, 78876), (113, App Name, Google App, 10); (113, App Name, Google Search Indexing, 9); (113, Email, heisenbergcarro@gmail.com, 10)								
+
+
+(LID, 78877), (114, App Name, Android Auto, 10); (114, App Name, Google App, 10); (114, Email, heisenbergcarro@gmail.com, 10)
+											
+
+(LID, 78878), (115, App Name, Google Search Indexing, 9); (115, App Name, Google App, 10)												
+
+
+(LID, 78879), (116, App Name, Android Auto, 10); (116, App Name, Google App, 10)												
+
+
+(LID, 78880), (117, App Name, Google Photos, 10); (117, App Name, Google App, 10); (117, Email, heisenbergcarro@gmail.com, 10									
+
+
+(LID, 78881), (118, App Name, Digital Wellbeing, 10); (118, App Name, Google Play Log Uploader, 9)
+												
+
+(LID, 78882), (119, App Name, Google Autofill, 10); (119, App Name, Google Wallet, 10)												
+
+
+(LID, 78883), (120, App Name, Google Autofill, 10); (120, App Name, Google Wallet, 10); (120, Email, heisenbergcarro@gmail.com, 10)								
+
+
+(LID, 78884), (121, App Name, Google Play Services, 10); (121, App Name, Google Lens OCR, 9)
+												
+
+(LID, 78885), (122, App Name, Google Play Services, 10); (122, App Name, Google Lens OCR, 9); (122, Email, heisenbergcarro@gmail.com, 10)							
+
+
+(LID, 78886), (123, App Name, Google Autofill, 10); (123, App Name, Google Wallet, 10)												
+
+
+(LID, 78887), (124, App Name, Google Autofill, 10); (124, App Name, Google Wallet, 10)												
+
+
+(LID, 78888), (125, App Name, Google Play Services, 10); (125, App Name, Google Lens OCR, 9)
+												
+
+(LID, 78889), (126, App Name, Google Play Services, 10); (126, App Name, Google Lens OCR, 9)	
+											
+
+(LID, 78890), (127, App Name, Google Nearby Share, 10); (127, App Name, Google Account Manager, 9)												
+
+
+(LID, 78891), (128, App Name, Google Nearby Share, 10); (128, App Name, Google Device Setup, 9)												
+
+
+(LID, 78892), (129, App Name, Google Play Services for Car, 9); (129, App Name, Google Search, 10)												
+
+
+(LID, 78893), (130, App Name, Google Play Services for Car, 9); (130, App Name, Android Auto, 10)												
+
+
+(LID, 78894), (131, App Name, Google Search, 10); (131, App Name, Google App Indexing, 9); (131, Email, heisenbergcarro@gmail.com, 10)											
+
+(LID, 78895), (132, App Name, Google Search, 10); (132, App Name, Android Auto, 10); (132, Email, heisenbergcarro@gmail.com, 10)
+
+
+(LID, 78896), (77, App Name, Google Metrics, 9); (77, App Name, Google Play Log Uploader, 9); (77, Email, heisenbergcarro@gmail.com, 10)											
+
+(LID, 78897), (78, App Name, Google Play Services, 10); (78, App Name, Google Playlog Uploader, 9); (78, App Name, Westworld, 8); (78, Email, heisenbergcarro@gmail.com, 10)
+																				
+
+(LID, 78898), (79, App Name, Google Play Services, 10); (79, App Name, Google Phenotype, 9)																					
+
+(LID, 78899), (80, App Name, Google Settings Platform, 9); (80, App Name, Google Phenotype, 9)																					
+
+(LID, 78900), (81, App Name, Google Play Services, 10); (81, App Name, Google Phenotype, 9); (81, Email, heisenbergcarro@gmail.com, 10)																				
+
+(LID, 78901), (82, App Name, Google Settings Platform, 9); (82, App Name, Google Phenotype, 9); (82, Email, heisenbergcarro@gmail.com, 10)																				
+
+(LID, 78902), (83, App Name, Google Metrics, 9); (83, App Name, Google Playlog Uploader, 9)																					
+
+(LID, 78903), (84, App Name, Google Metrics, 9); (84, App Name, Google Playlog Uploader, 9)																					
+
+(LID, 78904), (85, App Name, Google Icing, 9); (85, App Name, Google App (Search & Assistant), 10)																					
+
+(LID, 78905), (86, App Name, Android Auto, 10); (86, App Name, Google App (Search & Assistant), 10)																					
+
+(LID, 78906), (87, App Name, Google Settings Platform, 9); (87, App Name, Google Phenotype, 9)																					
+
+(LID, 78907), (88, App Name, Google Play Services, 10); (88, App Name, Google Auth Account, 9)																																
+
+(LID, 78908), (76, App Name, Google Play Services, 10); (76, App Name, Google Playlog Uploader, 9); (76, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 78909), (77, App Name, Google Metrics, 9); (77, App Name, Google Playlog Uploader, 9); (77, Email, heisenbergcarro@gmail.com, 10);
+
+
+(LID, 78910), (78, App Name, Google Westworld, 9); (78, App Name, Google Playlog Uploader, 9); (78, Email, heisenbergcarro@gmail.com, 10);
+	
+
+(LID, 78911), (79, App Name, Google Play Services, 10); (79, App Name, Google Phenotype, 9);															
+

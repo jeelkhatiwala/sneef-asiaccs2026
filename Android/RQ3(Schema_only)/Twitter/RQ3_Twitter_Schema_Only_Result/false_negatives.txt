@@ -1,0 +1,388 @@
+(LID, 13114); (107, App Name, Twitter, 10);
+
+(LID, 13115); (114, App Name, Twitter, 10);
+
+(LID, 13116); (127, App Name, Twitter, 10);
+
+(LID, 13117); (132, App Name, Twitter, 10);
+
+(LID, 13118); (145, App Name, Twitter, 10);
+
+(LID, 13119); (202, App Name, Twitter, 10);
+
+(LID, 13120); (223, App Name, Twitter, 10);
+
+(LID, 13121); (250, App Name, Twitter, 10);
+
+(LID, 13122); (275, App Name, Twitter, 10);
+
+(LID, 13123); (301, App Name, Twitter, 10);
+
+(LID, 13124); (309, App Name, Twitter, 10);
+
+(LID, 13125); (320, App Name, Twitter, 10);
+
+(LID, 13126); (323, App Name, Twitter, 10);
+
+(LID, 13127); (331, App Name, Twitter, 10);
+
+(LID, 13128); (343, App Name, Twitter, 10);
+
+(LID, 13129); (371, App Name, Twitter, 10);
+
+(LID, 13130); (390, App Name, Twitter, 10);
+
+(LID, 13131); (404, App Name, Twitter, 10);
+
+(LID, 13132); (1, App Name, Twitter, 10);
+
+(LID, 13133); (2, App Name, Twitter, 10);
+
+(LID, 13134); (3, App Name, Twitter, 10);
+
+(LID, 13135); (4, App Name, Twitter, 10);
+
+(LID, 13136); (5, App Name, Twitter, 10);
+
+(LID, 13333); (552, App Name, Twitter, 10);
+
+(LID, 13334); (556, App Name, Twitter, 10);
+
+(LID, 13335); (557, App Name, Twitter, 10);
+
+(LID, 13336); (575, App Name, Twitter, 10);
+
+(LID, 13337); (578, App Name, Twitter, 10);
+
+(LID, 13338); (579, App Name, Twitter, 10);
+
+(LID, 13339); (580, App Name, Twitter, 10);
+
+(LID, 13340); (581, App Name, Twitter, 10);
+
+(LID, 13341); (582, App Name, Twitter, 10);
+
+(LID, 13342); (584, App Name, Twitter, 10);
+
+(LID, 13343); (585, App Name, Twitter, 10);
+
+(LID, 13344); (586, App Name, Twitter, 10);
+
+(LID, 13345); (587, App Name, Twitter, 10);
+
+(LID, 13346); (591, App Name, Twitter, 10);
+
+(LID, 13347); (592, App Name, Twitter, 10);
+
+(LID, 13348); (595, App Name, Twitter, 10);
+
+(LID, 13349); (597, App Name, Twitter, 10);
+
+(LID, 13350); (598, App Name, Twitter, 10);
+
+(LID, 13351); (603, App Name, Twitter, 10);
+
+(LID, 13352); (606, App Name, Twitter, 10);
+
+(LID, 13353); (608, App Name, Twitter, 10);
+
+(LID, 13354); (616, App Name, Twitter, 10);
+
+(LID, 13355); (617, App Name, Twitter, 10);
+
+(LID, 13356); (619, App Name, Twitter, 10);
+
+(LID, 13357); (620, App Name, Twitter, 10);
+
+(LID, 13358); (628, App Name, Twitter, 10);
+
+(LID, 13359); (629, App Name, Twitter, 10);
+
+(LID, 13360); (631, App Name, Twitter, 10);
+
+(LID, 13361); (632, App Name, Twitter, 10);
+
+(LID, 13362); (637, App Name, Twitter, 10);
+
+(LID, 13363); (638, App Name, Twitter, 10);
+
+(LID, 13364); (639, App Name, Twitter, 10);
+
+(LID, 13365); (646, App Name, Twitter, 10);
+
+(LID, 13366); (647, App Name, Twitter, 10);
+
+(LID, 13367); (649, App Name, Twitter, 10);
+
+(LID, 13368); (651, App Name, Twitter, 10);
+
+(LID, 13369); (652, App Name, Twitter, 10);
+
+(LID, 13370); (656, App Name, Twitter, 10);
+
+(LID, 13371); (657, App Name, Twitter, 10);
+
+(LID, 13372); (661, App Name, Twitter, 10);
+
+(LID, 13373); (663, App Name, Twitter, 10);
+
+(LID, 13374); (667, App Name, Twitter, 10);
+
+(LID, 13375); (670, App Name, Twitter, 10);
+
+(LID, 13376); (671, App Name, Twitter, 10);
+
+(LID, 13377); (672, App Name, Twitter, 10);
+
+(LID, 13378); (674, App Name, Twitter, 10);
+
+(LID, 13379); (678, App Name, Twitter, 10);
+
+(LID, 13380); (680, App Name, Twitter, 10);
+
+(LID, 13381); (682, App Name, Twitter, 10);
+
+(LID, 13382); (688, App Name, Twitter, 10);
+
+(LID, 13383); (690, App Name, Twitter, 10);
+
+(LID, 14634); (6226, App Name, Twitter, 10);
+
+(LID, 14635); (6228, App Name, Twitter, 10);
+
+(LID, 14636); (6247, App Name, Twitter, 10);
+
+(LID, 14637); (6251, App Name, Twitter, 10);
+
+(LID, 14638); (6253, App Name, Twitter, 10);
+
+(LID, 14639); (6255, App Name, Twitter, 10);
+
+(LID, 14640); (6270, App Name, Twitter, 10);
+
+(LID, 14641); (6271, App Name, Twitter, 10);
+
+(LID, 14642); (6274, App Name, Twitter, 10);
+
+(LID, 14643); (6279, App Name, Twitter, 10);
+
+(LID, 14644); (6283, App Name, Twitter, 10);
+
+(LID, 14645); (6284, App Name, Twitter, 10);
+
+(LID, 14646); (6288, App Name, Twitter, 10);
+
+(LID, 14647); (6293, App Name, Twitter, 10);
+
+(LID, 14648); (6294, App Name, Twitter, 10);
+
+(LID, 14649); (6296, App Name, Twitter, 10);
+
+(LID, 14650); (6297, App Name, Twitter, 10);
+
+(LID, 14651); (6306, App Name, Twitter, 10);
+
+(LID, 14652); (6307, App Name, Twitter, 10);
+
+(LID, 14653); (6312, App Name, Twitter, 10);
+
+(LID, 14654); (6316, App Name, Twitter, 10);
+
+(LID, 14655); (6320, App Name, Twitter, 10);
+
+(LID, 14656); (6322, App Name, Twitter, 10);
+
+(LID, 14657); (6323, App Name, Twitter, 10);
+
+(LID, 14658); (6324, App Name, Twitter, 10);
+
+(LID, 14659); (6325, App Name, Twitter, 10);
+
+(LID, 14660); (6327, App Name, Twitter, 10);
+
+(LID, 14661); (6330, App Name, Twitter, 10);
+
+(LID, 14662); (6332, App Name, Twitter, 10);
+
+(LID, 14663); (6336, App Name, Twitter, 10);
+
+(LID, 14664); (6338, App Name, Twitter, 10);
+
+(LID, 14665); (6339, App Name, Twitter, 10);
+
+(LID, 14666); (6350, App Name, Twitter, 10);
+
+(LID, 14667); (6351, App Name, Twitter, 10);
+
+(LID, 14668); (6353, App Name, Twitter, 10);
+
+(LID, 14669); (6358, App Name, Twitter, 10);
+
+(LID, 14670); (6373, App Name, Twitter, 10);
+
+(LID, 14671); (6384, App Name, Twitter, 10);
+
+(LID, 78254); (960, App Name, Twitter, 10);
+
+(LID, 78286); (217, App Name, Twitter, 10);
+
+(LID, 78287); (218, App Name, Twitter, 10);
+
+(LID, 78288); (219, App Name, Twitter, 10);
+
+(LID, 78289); (220, App Name, Twitter, 10);
+
+(LID, 78290); (221, App Name, Twitter, 10);
+
+(LID, 78291); (222, App Name, Twitter, 10);
+
+(LID, 78292); (223, App Name, Twitter, 10);
+
+(LID, 78293); (224, App Name, Twitter, 10);
+
+(LID, 78294); (225, App Name, Twitter, 10);
+
+(LID, 78295); (226, App Name, Twitter, 10);
+
+(LID, 78296); (227, App Name, Twitter, 10);
+
+(LID, 78297); (298, App Name, Twitter, 10);
+
+(LID, 78298); (299, App Name, Twitter, 10);
+
+(LID, 78299); (300, App Name, Twitter, 10);
+
+(LID, 78300); (301, App Name, Twitter, 10);
+
+(LID, 78301); (302, App Name, Twitter, 10);
+
+(LID, 78302); (303, App Name, Twitter, 10);
+
+(LID, 78303); (304, App Name, Twitter, 10);
+
+(LID, 78304); (305, App Name, Twitter, 10);
+
+(LID, 78305); (306, App Name, Twitter, 10);
+
+(LID, 78306); (307, App Name, Twitter, 10);
+
+(LID, 78307); (308, App Name, Twitter, 10);
+
+(LID, 78308); (309, App Name, Twitter, 10);
+
+(LID, 78309); (310, App Name, Twitter, 10);
+
+(LID, 78310); (311, App Name, Twitter, 10);
+
+(LID, 78311); (312, App Name, Twitter, 10);
+
+(LID, 78312); (313, App Name, Twitter, 10);
+
+(LID, 78313); (314, App Name, Twitter, 10);
+
+(LID, 78314); (315, App Name, Twitter, 10);
+
+(LID, 78315); (316, App Name, Twitter, 10);
+
+(LID, 78316); (317, App Name, Twitter, 10);
+
+(LID, 78317); (318, App Name, Twitter, 10);
+
+(LID, 78318); (319, App Name, Twitter, 10);
+
+(LID, 78319); (320, App Name, Twitter, 10);
+
+(LID, 78320); (321, App Name, Twitter, 10);
+
+(LID, 78321); (322, App Name, Twitter, 10);
+
+(LID, 78322); (323, App Name, Twitter, 10);
+
+(LID, 78323); (324, App Name, Twitter, 10);
+
+(LID, 78324); (325, App Name, Twitter, 10);
+
+(LID, 78325); (326, App Name, Twitter, 10);
+
+(LID, 78326); (327, App Name, Twitter, 10);
+
+(LID, 78327); (409, App Name, Twitter, 10);
+
+(LID, 78328); (410, App Name, Twitter, 10);
+
+(LID, 78329); (411, App Name, Twitter, 10);
+
+(LID, 78330); (412, App Name, Twitter, 10); (412, Address, Las Vegas, Nevada, 8);
+
+(LID, 78331); (413, App Name, Twitter, 10);
+
+(LID, 78332); (414, App Name, Twitter, 10);
+
+(LID, 78333); (415, App Name, Twitter, 10);
+
+(LID, 78334); (416, App Name, Twitter, 10);
+
+(LID, 78335); (417, App Name, Twitter, 10);
+
+(LID, 78336); (418, App Name, Twitter, 10);
+
+(LID, 78337); (419, App Name, Twitter, 10);
+
+(LID, 78338); (420, App Name, Twitter, 10);
+
+(LID, 78339); (421, App Name, Twitter, 10);
+
+(LID, 78340); (422, App Name, Twitter, 10);
+
+(LID, 78341); (423, App Name, Twitter, 10);
+
+(LID, 78342); (424, App Name, Twitter, 10);
+
+(LID, 78343); (425, App Name, Twitter, 10);
+
+(LID, 78344); (426, App Name, Twitter, 10);
+
+(LID, 78345); (427, App Name, Twitter, 10);
+
+(LID, 78346); (428, App Name, Twitter, 10);
+
+(LID, 78347); (429, App Name, Twitter, 10);
+
+(LID, 78348); (430, App Name, Twitter, 10);
+
+(LID, 78349); (431, App Name, Twitter, 10);
+
+(LID, 78350); (432, App Name, Twitter, 10);
+
+(LID, 78351); (433, App Name, Twitter, 10);
+
+(LID, 78352); (434, App Name, Twitter, 10);
+
+(LID, 78353); (435, App Name, Twitter, 10);
+
+(LID, 78354); (436, App Name, Twitter, 10);
+
+(LID, 78355); (437, App Name, Twitter, 10);
+
+(LID, 78356); (438, App Name, Twitter, 10);
+
+(LID, 78357); (1, Search keyword, Heather Mahalik, 9); (1, App Name, Twitter, 10);
+
+(LID, 78358); (2, App Name, Twitter, 10);
+
+(LID, 78359); (3, App Name, Twitter, 10); (3, Search keyword, TheNewMyself, 10);
+
+(LID, 78360); (4, Search keyword, Paul Scurvy, 9); (4, App Name, Twitter, 10);
+
+(LID, 78361); (5, App Name, Twitter, 10); (5, Search keyword, Matt Goeckel, 9);
+
+(LID, 78590); (1, App Name, Twitter, 10);
+
+(LID, 78591); (2, App Name, Twitter, 10);
+
+(LID, 78592); (3, App Name, Twitter, 10);
+
+(LID, 78593); (4, App Name, Twitter, 10);
+
+(LID, 78594); (5, App Name, Twitter, 10);
+

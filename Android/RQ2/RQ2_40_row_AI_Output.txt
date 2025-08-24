@@ -1,0 +1,85 @@
+(LID, 78249); (289, App Name, Google Chrome, 10); (289, Search keyword, blanton's bourbon, 10); (289, Timestamp, 2022-01-10 07:09:18, 9);
+
+(LID, 78250); (290, App Name, Google Chrome, 10); (290, Search keyword, blantons bourbon single barrel, 9); (290, Timestamp, 2022-01-10 07:09:12, 9);
+
+(LID, 78251); (291, App Name, Google Chrome, 10); (291, Search keyword, blantons bourbon single barrel, 9); (291, Timestamp, 2022-01-10 07:09:14, 9);
+
+(LID, 78233); (273, App Name, Google Chrome, 10); (273, Search keyword, blantons bourbon, 10); (273, Timestamp, 2022-01-10 07:09:00, 9);
+
+(LID, 78211); (251, App Name, Google Chrome, 10); (251, Search keyword, liquor stores in blacksburg va, 10); (251, Address, Blacksburg, VA, 9); (251, Timestamp, 2022-01-10 07:05:42, 9);  
+
+(LID, 78212); (252, App Name, Google Chrome, 10); (252, Search keyword, blantons bourbon, 10); (252, Timestamp, 2022-01-10 07:07:18, 9);
+
+(LID, 78197); (237, App Name, Google Chrome, 10); (237, Search keyword, blantons whiskey bourbon original single barrel, 9); (237, Timestamp, 2022-01-10 06:50:10, 9);
+
+(LID, 78174); (214, App Name, Google Chrome, 10); (214, Search keyword, blantons bourbon, 10); (214, Timestamp, 2022-01-10 06:50:06, 9);
+
+(LID, 77981); (21, App Name, Google Chrome, 10); (21, Search keyword, t-mobile travel save on accommodations and rental cars, 9); (21, Timestamp, 2021-11-27 22:42:44, 9);
+
+(LID, 77982); (22, App Name, Google Chrome, 10); (22, Search keyword, myrtle beach sc usa hotel search, 10); (22, Address, Myrtle Beach, SC, USA, 10); (22, Latitude, 33.6890603, 10); (22, Longitude, -78.8866943, 10); (22, Timestamp, 2021-11-27 22:42:40, 9);
+
+(LID, 77983); (23, App Name, Google Chrome, 10); (23, Search keyword, myrtle beach sc usa hotel search, 10); (23, Address, Myrtle Beach, SC, USA, 10); (23, Latitude, 33.6890603, 10); (23, Longitude, -78.8866943, 10); (23, Timestamp, 2021-11-27 22:42:42, 9);
+
+(LID, 77984); (24, App Name, Google Chrome, 10); (24, Search keyword, myrtle beach sc usa hotel search, 10); (24, Address, Myrtle Beach, SC, USA, 10); (24, Latitude, 33.6890603, 10); (24, Longitude, -78.8866943, 10); (24, Timestamp, 2021-11-27 22:42:43, 9);
+
+(LID, 77967); (7, App Name, Google Chrome, 10); (7, Search keyword, boston ma houses for rent, 10); (7, Address, Boston, MA, USA, 10); (7, Timestamp, 2021-10-06 21:43:28, 9);
+
+(LID, 77968); (8, App Name, Google Chrome, 10); (8, Search keyword, 24060 houses for rent, 10); (8, Address, Blacksburg, VA 24060, USA, 9); (8, Timestamp, 2021-10-06 21:43:27, 9);
+
+(LID, 77638); (1423, App Name, Snapchat, 10); (1423, Username, idgaflina, 10); (1423, Human Name, lina, 8);
+
+(LID, 77639); (1424, App Name, Snapchat, 10); (1424, Username, summm165, 10); (1424, Human Name, Summer Easton, 10);
+
+(LID, 78362); (19, App Name, Snapchat, 10); (19, Username, heisenbergcarro, 10); (19, Human Name, Heisenberg W, 9); (19, Timestamp, 1990-01-31, 10); (19, Email, heisenbergcarro@gmail.com, 10); (19, Phone Number, +16506808040, 10);
+
+(LID, 78491); (1, App Name, Snapchat, 10); (1, Username, heisenbergcarro, 10); (1, Username, heisenbergcarro, 10); (1, Username, heisenbergcarro|heisenbergcarro, 8);
+
+(LID, 78253); (76, App Name, Twitter, 10); (76, Username, TheCryptoDog, 10); (76, Human Name, The Crypto Dog, 8); (76, Email, thecryptodog@gmail.com, 10); (76, Timestamp, 2017-07-19 21:16:38, 9); (76, Timestamp, 2021-07-20 21:08:00, 9);
+
+(LID, 78254); (960, App Name, Twitter, 10); (960, Username, JGODYT, 10); (960, Human Name, James, 9); (960, Email, jgodgamingyt@gmail.com, 10); (960, Timestamp, 2012-12-01 18:00:13, 9); (960, Timestamp, 2021-07-20 21:08:00, 9);
+
+(LID, 78296); (227, App Name, Twitter, 10); (227, Username, ChaincodeLabs, 10); (227, Human Name, Chaincode Labs, 5); (227, Address, Manhattan, NY, USA, 9); (227, Timestamp, 2021-07-20 21:08:00, 9);
+
+(LID, 78297); (298, App Name, Twitter, 10); (298, Username, BarrySanders, 10); (298, Human Name, Barry Sanders, 10); (298, Address, Detroit, MI, USA, 9); (298, Timestamp, 2021-07-20 21:08:00, 9);
+
+(LID, 78314); (315, App Name, Twitter, 10); (315, Username, Stevo2510, 10); (315, Human Name, Stephen Hagan, 10); (315, Latitude, 36.12802, 10); (315, Longitude, -86.643836, 10); (315, Address, Nashville, TN, USA, 9); (315, Timestamp, 2021-07-20 21:08:00, 9);
+
+(LID, 78315); (316, App Name, Twitter, 10); (316, Username, JimmyRollins11, 10); (316, Human Name, Jimmy Rollins, 10); (316, Address, Florida, USA, 9); (316, Timestamp, 2021-07-20 21:08:00, 9);
+
+(LID, 78321); (322, App Name, Twitter, 10); (322, Username, tgonser, 10); (322, Human Name, Tom Gonser, 10); (322, Address, San Francisco, CA, USA, 9); (322, Address, Bend, OR, USA, 9); (322, Timestamp, 2021-07-20 21:08:00, 9);
+
+(LID, 78322); (323, App Name, Twitter, 10); (323, Username, AshtonJEaton, 10); (323, Human Name, Ashton Eaton, 10); (323, Address, Earth, 6); (323, Timestamp, 2021-07-20 21:08:00, 9);
+
+(LID, 14634); (6226, App Name, Twitter, 10); (6226, Human Name, Sarah, 7); (6226, Search keyword, sarah, 8);
+
+(LID, 14635);(6228, App Name, Twitter, 10); (6228, Human Name, Sarah Oloumi, 9); (6228, Search keyword, sarah oloumi, 8);
+
+(LID, 78595); (1, App Name, Waze, 10); (1, Message, speed trap reported ahead, 10); (1, Timestamp, 2021-07-02 16:00:55, 9);
+
+(LID, 78596); (2, App Name, Waze, 10); (2, Message, heavy traffic reported ahead, 10); (2, Timestamp, 2021-07-02 16:00:55, 9);
+
+(LID, 78861); (98, App Name, Google Play Services, 10); (98, App Name, Google Location Services, 10); (98, Email, heisenbergcarro@gmail.com, 10);
+											
+(LID, 78862); (99, App Name, Google Play Services, 10); (99, App Name, Google Location Services, 10);	
+
+(LID, 19164); (50884, App Name, Google Lighter, 9); (50884, App Name, Google Maps, 10); (50884, Email, heisenbergcarro@gmail.com, 10);
+
+(LID, 19166); (51530, App Name, Google People, 10); (51530, Email, heisenbergcarro@gmail.com, 10);
+
+(LID, 19184); (57052, App Name, Google Search, 10); (57052, Email, heisenbergcarro@gmail.com, 10); (57052, Message, One moment, 9); (57052, Message, Working on it, 9); (57052, Message, Still in progress, 9); (57052, Message, Almost there, 9);
+
+(LID, 19185); (57473, App Name, Google Search, 10); (57473, Email, heisenbergcarro@gmail.com, 10); (57473, Message, Oriole, 7); (57473, Message, oriole, 7); (57473, Message, Raven, 7);
+
+(LID, 78264); (11, App Name, Google Photos, 10); (11, Timestamp, 2021-04-11 23:56:04, 10); (11, Timestamp, 2021-04-12 03:56:04, 10); (11, Timestamp, 2021-04-12 22:44:57, 10); (11, Latitude, 37.2355, 10); (11, Longitude, -80.4369, 10); (11, Address, Blacksburg, Virginia, United States, 9);
+
+(LID, 78265); (12, App Name, Google Photos, 10); (12, Timestamp, 2021-04-15 06:27:52, 10); (12, Timestamp, 2021-04-15 10:47:52, 10); (12, Timestamp, 2021-04-15 12:50:38, 10); (12, Latitude, 38.7119, 10); (12, Longitude, -81.9676, 10); (12, Address, Charleston, West Virginia, United States, 9);
+
+(LID, 78597); (3, App Name, Waze, 10); (3, Message, watch out, 10); (3, Message, accident reported ahead, 10); (3, Timestamp, 2021-07-02 15:47:35, 10);
+
+(LID, 78598); (4, App Name, Waze, 10); (4, Message, watch out, 10); (4, Message, hazard reported ahead, 10); (4, Timestamp, 2021-07-02 15:47:35, 10);
+
+(LID, 78599); (5, App Name, Waze, 10); (5, Message, You are entering an enforcement zone, 10); (5, Timestamp, 2021-07-02 15:47:35, 10);
+
+(LID, 78600); (6, App Name, Waze, 10); (6, Message, You are leaving an enforcement zone, 10); (6, Timestamp, 2021-07-02 15:47:35, 10);
+
+
