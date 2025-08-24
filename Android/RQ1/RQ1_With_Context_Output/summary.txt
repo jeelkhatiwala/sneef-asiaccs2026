@@ -1,0 +1,26 @@
+RQ1 EVALUATION SUMMARY
+---------------------------
+Total Rows in Ground Truth: 1007
+Total Schemas in Ground Truth: 3150
+Total Rows in AI File: 1007
+Total Schemas in AI File: 3199
+
+
+True Positives (TP): 3003
+False Positives (FP): 173
+False Negatives (FN): 226
+
+
+Precision = TP / (TP + FP)
+Precision = 3003 / (3003 + 173)
+Precision = 3003 / 3176 ≈ 0.9456 
+
+
+Recall = TP / (TP + FN)
+Recall = 3003 / (3003 + 226)
+Recall = 3003 / 3229 ≈ 0.9300 
+
+
+F1 = 2 × (Precision × Recall) / (Precision + Recall)
+F1 = 2 × (0.9456 × 0.9300) / (0.9456 + 0.9300)
+F1 = 2 × 0.8794 / 1.8756 ≈ 0.9378 

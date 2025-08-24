@@ -1,0 +1,157 @@
+Total Rows: 1008
+
+Total App Entries:1070
+Total Unique App Names: 72
+
+Total Timestamps Entries: 760
+Total Unique Timestamps: 452
+
+Total Person Name Entries: 201
+Total Unique Person Name: 186
+
+Total Username Entries: 308
+Total Unique Username: 283
+
+Total Email Entries: 77
+Total Unique Email:6
+
+Total Search keyword Entries: 148
+Total Unique Search keyword:24
+
+Total Address Entries: 95
+Total Unique Address: 22
+
+Total Message Entries: 135
+Total Unique Message: 110
+
+Total Longitude Entries: 15
+Total Unique Longitude: 8
+
+Total Latitude Entries: 35
+Total Unique Longitude: 8
+
+Total Phone Number Entries: 10
+Total Unique Phone Number: 5
+
+
+
+
+
+List of Unique App Names:
+- All Cars
+- Android Rocker Voice Changer
+- Autotrader
+- BeenVerified
+- Bixby Agent
+- BlueDriver
+- CARFAX
+- CarGurus
+- Cartomizer
+- Catching Cheating Spouse App
+- Chrome
+- DuckDuckGo
+- Facebook Services
+- Flatfish Calendar
+- Flatfish Privacy Hider
+- Galaxy Store
+- Gallery (Samsung)
+- Gmail
+- Google Docs
+- Google Duo
+- Google Maps
+- Google People
+- Google Photos
+- Google Play Music
+- Google Play Services
+- Google Play Store
+- Google Quick Search Box
+- Google Search
+- Google Services
+- Google Wallet
+- Instagram
+- Instant Checkmate
+- Knox Manage
+- Microsoft OneDrive
+- Microsoft Outlook
+- NFS No Limits
+- Netflix
+- Orto USA
+- RealDash
+- Reddit
+- SSL Capture
+- Samsung Billing
+- Samsung Blockchain Wallet
+- Samsung CMH
+- Samsung Fast
+- Samsung Free
+- Samsung Game Launcher
+- Samsung KGClient
+- Samsung Mate Agent
+- Samsung Notes
+- Samsung OMC Agent
+- Samsung Pass
+- Samsung Pay
+- Samsung Quick Share
+- Samsung Rubin App
+- Samsung SREE
+- Samsung SSU
+- Samsung Theme Store
+- Snapchat
+- Spotify
+- T-Mobile TRAVEL
+- T-Mobile Tuesdays
+- TikTok
+- Too Good To Go
+- Twitter
+- Upside
+- Venmo
+- Voice Changer
+- Waze
+- WhatsApp
+- YouTube
+- snapshots
+
+
+
+Total Application from data and user folder (package.xml): 73
+
+Explement pick up application mainly from user installed and google service: 50
+
+
+
+
+
+
+Total DB in Dump(Whole Image): 2864
+Total Table in Dump(Whole Image): 8404
+
+Total DB in Data/Data: 899
+Total Table in Data/Data:2605
+
+Total DB in Data/User: 899
+Total Table in Data/User: 2605
+
+Total DB in Experiment Packages: 1046	
+Total Table in Experiment Packages: 2575
+
+
+
+
+
+
+Comparison Summary:
+ - Total schemas in Human file: 2671
+ - Total schemas in AI file: 3221
+ - Total schemas matched with AI: 1960
+ - Additional schemas found by AI: 1261
+ - Total rows with additional schema: 
+
+
+
+
+
+
+
+
+
+
