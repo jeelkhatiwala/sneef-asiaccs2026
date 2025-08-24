@@ -1,0 +1,402 @@
+
+(LID, 1001), (RL, 1), (ROWID, 2), (First, Matt), (Last, G), (Kind, 0), (FirstSort, B*PP6Ü Ü), (LastSort, 6B*PPÜÜ ), (CreationDate, 634085201), (ModificationDate, 634085201), (ExternalIdentifier, /carddav/v1/principals/tornadobeth%40gmail.com/lists/default/7c92cc5913c1f7d7), (ExternalModificationTag, "2020-12-10T10:59:42.258-08:00"), (ExternalUUID, 7c92cc5913c1f7d7), (StoreID, 1), (FirstSortSection, B), (LastSortSection, 6), (FirstSortLanguageIndex, 0), (LastSortLanguageIndex, 0), (PersonLink, -1), (IsPreferredName, 1), (guid, 6094F2BB-44A9-427F-84C8-8F648C0DCB65)
+
+(LID, 1002), (RL, 2), (ROWID, 3), (First, Paul), (Last, L), (Organization, CB At 3:43), (Note, More changes to Paul.), (Kind, 0), (FirstSort, H*R@@.,*PÜ ÜÜÜÜ), (LastSort, @H*R@.,*PÜÜ ÜÜÜ), (CreationDate, 634085201), (ModificationDate, 634085201), (ExternalIdentifier, /carddav/v1/principals/tornadobeth%40gmail.com/lists/default/2eab520596577aa2), (ExternalModificationTag, "2020-12-10T12:43:09.964-08:00"), (ExternalUUID, 2eab520596577aa2), (StoreID, 1), (FirstSortSection, H), (LastSortSection, @), (FirstSortLanguageIndex, 0), (LastSortLanguageIndex, 0), (PersonLink, -1), (IsPreferredName, 1), (guid, 1B7AA424-858C-4143-A177-06C4F817C1C3), (ImageType, PHOTO)
+
+(LID, 1003), (RL, 3), (ROWID, 5), (First, Marsha), (Organization, Sis), (Kind, 0), (FirstSort, B*LN8*N:N  Ü	Ü), (LastSort, B*LN8*N:N  Ü	Ü), (CreationDate, 634086270), (ModificationDate, 634086270), (ExternalIdentifier, /carddav/v1/principals/tornadobeth%40gmail.com/lists/default/48fd714d1496a81b), (ExternalModificationTag, "2021-02-03T15:04:29.988-08:00"), (ExternalUUID, 48fd714d1496a81b), (StoreID, 1), (FirstSortSection, B), (LastSortSection, B), (FirstSortLanguageIndex, 0), (LastSortLanguageIndex, 0), (PersonLink, -1), (IsPreferredName, 1), (guid, 27D70CC6-0E17-4F37-A9E8-9AC422E457A9)
+
+(LID, 1004), (RL, 4), (ROWID, 7), (First, Marsha), (Last, M), (Organization, Sis), (Kind, 0), (FirstSort, B*LN8*BN:N  Ü	ÜÜ), (LastSort, BB*LN8*N:N  ÜÜ	Ü), (CreationDate, 634087273), (ModificationDate, 634087273), (ExternalIdentifier, /carddav/v1/principals/tornadobeth%40gmail.com/lists/default/471b06bc10b60b23), (ExternalModificationTag, "2021-02-03T15:21:13.455-08:00"), (ExternalUUID, 471b06bc10b60b23), (StoreID, 1), (FirstSortSection, B), (LastSortSection, B), (FirstSortLanguageIndex, 0), (LastSortLanguageIndex, 0), (PersonLink, -1), (IsPreferredName, 1), (guid, 333B0346-114D-4CE4-8D8A-FE8A6837F917)
+
+(LID, 1005), (RL, 5), (ROWID, 9), (First, Me), (Kind, 0), (FirstSort, B2Ü), (LastSort, B2Ü), (CreationDate, 635282333), (ModificationDate, 641746538), (ExternalIdentifier, /carddav/v1/principals/tornadobeth%40gmail.com/lists/default/272df8e196c6c529), (ExternalModificationTag, "2021-04-29T19:05:45.642-07:00"), (ExternalUUID, 272df8e196c6c529), (StoreID, 1), (FirstSortSection, B), (LastSortSection, B), (FirstSortLanguageIndex, 0), (LastSortLanguageIndex, 0), (PersonLink, -1), (IsPreferredName, 1), (guid, 3D585E3C-1053-4E83-A4E0-EB7121D600CC), (ImageType, PHOTO)
+
+(LID, 1006), (RL, 6), (ROWID, 11), (First, Shark), (Kind, 0), (FirstSort, N8*L>	Ü), (LastSort, N8*L>	Ü), (CreationDate, 639781991), (ModificationDate, 639781992), (ExternalIdentifier, /carddav/v1/principals/tornadobeth%40gmail.com/lists/default/6b6c98ff9469d0bf), (ExternalModificationTag, "2021-04-10T14:13:10.709-07:00"), (ExternalUUID, 6b6c98ff9469d0bf), (StoreID, 1), (FirstSortSection, N), (LastSortSection, N), (FirstSortLanguageIndex, 0), (LastSortLanguageIndex, 0), (PersonLink, -1), (IsPreferredName, 1), (guid, 139C09F3-6619-4553-9A66-F993D53F9AA4)
+
+(LID, 1007), (RL, 7), (ROWID, 13), (First, Martin), (Last, Jackson), (Organization, Nissan), (Kind, 0)
+
+(CreationDate, 645413619), (ModificationDate, 645413619), (ExternalIdentifier, /carddav/v1/principals/tornadobeth%40gmail.com/lists/default/642337b41175eb21), (ExternalModificationTag, "2021-06-14T18:33:39.566-07:00"), (ExternalUUID, 642337b41175eb21), (StoreID, 1), (FirstSortSection, B), (LastSortSection, <), (FirstSortLanguageIndex, 0), (LastSortLanguageIndex, 0), (PersonLink, -1), (IsPreferredName, 1), (guid, 943516A8-1A65-4020-895C-9A19901E6493)
+
+(LID, 1008), (RL, 1), (docid, 2), (c0First, Matt), (c1Last, G), (c16Phone, (845)
+
+(LID, 1009), (RL, 2), (docid, 3), (c0First, Paul), (c1Last, L), (c6Organization, CB At 3:43), (c9Note, More changes to Paul.), (c16Phone, (571), (c17Email, plaw@gmail.com)
+
+(LID, 1010), (RL, 3), (docid, 5), (c0First, Marsha), (c6Organization, Sis)
+
+(LID, 1011), (RL, 4), (docid, 7), (c0First, Marsha), (c1Last, M), (c6Organization, Sis), (c16Phone, +19735203731 +19735203731 01119735203731 0019735203731 19735203731 9735203731 5203731)
+
+(LID, 1012), (RL, 5), (docid, 9), (c0First, Me), (c18Address, 425 Old Morehead Road 19355 PA United States Malvern 181 Pottstown Pike Apt 1117 19341 PA United States Exton)
+
+(LID, 1013), (RL, 6), (docid, 11), (c0First, Shark), (c16Phone, +18053272961 +18053272961 01118053272961 0018053272961 18053272961 8053272961 3272961)
+
+(LID, 1014), (RL, 7), (docid, 13), (c0First, Martin), (c1Last, Jackson), (c6Organization, Nissan), (c16Phone, +14086926525 +14086926525 01114086926525 0014086926525 14086926525 4086926525 6926525)
+
+(LID, 1015), (RL, 2), (ROWID, 1), (Name, Address Book), (ExternalIdentifier, /carddav/v1/principals/tornadobeth%40gmail.com/lists/default/), (Type, 4), (ExternalSyncTag, https://www.googleapis.com/carddav/v1/synctoken/08011001189B8BB496C988F202), (AccountID, 1), (Enabled, 1), (SyncData, b'bplist00\xd2\x01\x02\x03\x04^max-image-size_\x10\x11max-resource-size\x12\x00\x06\x00\x00\x12\x00\x10\x00\x00\x08\r\x1c05\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00:'), (MeIdentifier, 9), (Capabilities, 0), (guid, 8EEB5356-6AF2-43E9-B118-6FE7208503C3), (LastSyncDate, 629301675.169633)
+
+(LID, 1016), (RL, 3), (ROWID, 2), (Name, Card), (ExternalIdentifier, /17551872901/carddavhome/card/), (Type, 4), (ExternalModificationTag, HwoQEgwAAAAAAAAAAAAAAAAYARgAIhYIkoSRwbvXmNGwARDd7ovM8tXihYgBKAA=), (ExternalSyncTag, HwoQEgwAAAAAAAAAAAAAAAAYARgAIhYIkoSRwbvXmNGwARDd7ovM8tXihYgBKAA=), (AccountID, 2), (Enabled, 1), (SyncData, b'bplist00\xd4\x01\x02\x03\x04\x05\x06\x07\x17^max-image-size_\x10\x0fNeedInitialSync\\BulkRequests_\x10\x11max-resource-size\x12\x00\x03\x80\x00\x08\xd2\x08\t\n\x15TcrudVsimple\xd5\x0b\x0c\r\x0e\x0f\x10\x11\x12\x12\x12Xmax-size]max-resourcesVupdateVinsertVdelete\x12\x00\xa0\x00\x00\x10\x19\t\t\t\xd3\x0c\x0e\x0b\x11\x12\x10\t\x12\x00\x08\x98\x00\x08\x11 2?SXY^cju~\x8c\x93\x9a\xa1\xa6\xa8\xa9\xaa\xab\xb2\xb3\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x18\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xb8'), (MeIdentifier, -1), (Capabilities, 0), (guid, 5CB3CCD6-F228-4CE8-A0D4-D2C4D4D179C0), (LastSyncDate, 634085202.910922)
+
+(LID, 1017), (RL, 1), (ROWID, 29), (store_id, 0), (latest_consumed_sequence_number, -1), (latest_consumed_timestamp, 634085177.553032), (client_identifier, com.apple.mobilesync)
+
+(LID, 1018), (RL, 2), (ROWID, 2783), (store_id, -1), (latest_consumed_sequence_number, 966), (latest_consumed_timestamp, 649259280.376473), (client_identifier, com.apple.suggestions.suggestd.cntosgcontacts)
+
+(LID, 1019), (RL, 3), (ROWID, 2784), (store_id, 1), (latest_consumed_sequence_number, 762), (latest_consumed_timestamp, 649259345.179003), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2)
+
+(LID, 1020), (RL, 4), (ROWID, 2785), (store_id, 2), (latest_consumed_sequence_number, 25), (latest_consumed_timestamp, 649259345.825155), (client_identifier, com.apple.dataaccessd-FB8FF29B-9D55-414E-9084-7FE4B21B280B)
+
+(LID, 1021), (RL, 5), (ROWID, 2791), (store_id, -1), (latest_consumed_sequence_number, 950), (latest_consumed_timestamp, 649265730.175891), (client_identifier, com.apple.contact.people)
+
+(LID, 1022), (RL, 6), (ROWID, 2792), (store_id, -1), (latest_consumed_sequence_number, 930), (latest_consumed_timestamp, 649265734.915066), (client_identifier, com.apple.contacts.corespotlight)
+
+(LID, 1023), (RL, 7), (ROWID, 2794), (store_id, -1), (latest_consumed_sequence_number, 949), (latest_consumed_timestamp, 649268775.552834), (client_identifier, com.apple.sharingd.airdrop.hashmanager)
+
+(LID, 1024), (RL, 1), (sequence_number, 92), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635206443.692737)
+
+(LID, 1025), (RL, 2), (sequence_number, 93), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635209453.363839)
+
+(LID, 1026), (RL, 3), (sequence_number, 94), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635213670.349867)
+
+(LID, 1027), (RL, 4), (sequence_number, 95), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635217988.821402)
+
+(LID, 1028), (RL, 5), (sequence_number, 96), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635222308.89127)
+
+(LID, 1029), (RL, 6), (sequence_number, 97), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635226853.411991)
+
+(LID, 1030), (RL, 7), (sequence_number, 98), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635231128.882239)
+
+(LID, 1031), (RL, 8), (sequence_number, 99), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635235493.949772)
+
+(LID, 1032), (RL, 9), (sequence_number, 100), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635239640.999463)
+
+(LID, 1033), (RL, 10), (sequence_number, 101), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635243908.885111)
+
+(LID, 1034), (RL, 11), (sequence_number, 102), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635248269.34787)
+
+(LID, 1035), (RL, 12), (sequence_number, 103), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635252924.00745)
+
+(LID, 1036), (RL, 13), (sequence_number, 104), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635257147.387624)
+
+(LID, 1037), (RL, 14), (sequence_number, 105), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635261189.035216)
+
+(LID, 1038), (RL, 15), (sequence_number, 106), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635265525.543401)
+
+(LID, 1039), (RL, 16), (sequence_number, 107), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635269934.008866)
+
+(LID, 1040), (RL, 17), (sequence_number, 108), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635274256.010111)
+
+(LID, 1041), (RL, 52), (sequence_number, 143), (client_identifier, com.apple.mobilephone), (save_timestamp, 635282639.900624)
+
+(LID, 1042), (RL, 53), (sequence_number, 144), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635282640.803436)
+
+(LID, 1043), (RL, 54), (sequence_number, 145), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635282640.96581)
+
+(LID, 1044), (RL, 55), (sequence_number, 146), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635282640.994489)
+
+(LID, 1045), (RL, 56), (sequence_number, 147), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635282716.012513)
+
+(LID, 1046), (RL, 57), (sequence_number, 148), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635282716.021585)
+
+(LID, 1047), (RL, 58), (sequence_number, 149), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635282716.357631)
+
+(LID, 1048), (RL, 59), (sequence_number, 150), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635282716.359775)
+
+(LID, 1049), (RL, 60), (sequence_number, 151), (client_identifier, com.apple.mobilephone), (save_timestamp, 635282759.666848)
+
+(LID, 1050), (RL, 61), (sequence_number, 152), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635282760.951976)
+
+(LID, 1051), (RL, 62), (sequence_number, 153), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635282761.063892)
+
+(LID, 1052), (RL, 63), (sequence_number, 154), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635282761.091242)
+
+(LID, 1053), (RL, 64), (sequence_number, 155), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635282796.728986)
+
+(LID, 1054), (RL, 65), (sequence_number, 156), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635282796.742821)
+
+(LID, 1055), (RL, 66), (sequence_number, 157), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635287383.502475)
+
+(LID, 1056), (RL, 67), (sequence_number, 158), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635287383.513825)
+
+(LID, 1057), (RL, 68), (sequence_number, 159), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635291428.970492)
+
+(LID, 1058), (RL, 69), (sequence_number, 160), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635295849.94114)
+
+(LID, 1059), (RL, 70), (sequence_number, 161), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635300085.510043)
+
+(LID, 1060), (RL, 71), (sequence_number, 162), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635304395.603911)
+
+(LID, 1061), (RL, 72), (sequence_number, 163), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 635308754.02084)
+
+(LID, 1062), (RL, 764), (sequence_number, 855), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646104685.42117)
+
+(LID, 1063), (RL, 765), (sequence_number, 856), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646109016.223813)
+
+(LID, 1064), (RL, 766), (sequence_number, 857), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646113336.064422)
+
+(LID, 1065), (RL, 767), (sequence_number, 858), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646117644.190897)
+
+(LID, 1066), (RL, 768), (sequence_number, 859), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646121964.5777)
+
+(LID, 1067), (RL, 769), (sequence_number, 860), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646126287.915251)
+
+(LID, 1068), (RL, 770), (sequence_number, 861), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646130606.534139)
+
+(LID, 1069), (RL, 771), (sequence_number, 862), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646134947.150144)
+
+(LID, 1070), (RL, 772), (sequence_number, 863), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646139251.014383)
+
+(LID, 1071), (RL, 773), (sequence_number, 864), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646143565.776844)
+
+(LID, 1072), (RL, 774), (sequence_number, 865), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646147887.995942)
+
+(LID, 1073), (RL, 775), (sequence_number, 866), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646152205.595321)
+
+(LID, 1074), (RL, 776), (sequence_number, 867), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646156539.628319)
+
+(LID, 1075), (RL, 777), (sequence_number, 868), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646160847.704312)
+
+(LID, 1076), (RL, 778), (sequence_number, 869), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646492573.88421)
+
+(LID, 1077), (RL, 779), (sequence_number, 870), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646567999.801834)
+
+(LID, 1078), (RL, 780), (sequence_number, 871), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646675656.920659)
+
+(LID, 1079), (RL, 781), (sequence_number, 872), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646675657.628044)
+
+(LID, 1080), (RL, 782), (sequence_number, 873), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646675801.001952)
+
+(LID, 1081), (RL, 783), (sequence_number, 874), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646675801.5052)
+
+(LID, 1082), (RL, 784), (sequence_number, 875), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646675820.719821)
+
+(LID, 1083), (RL, 785), (sequence_number, 876), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646675821.315502)
+
+(LID, 1084), (RL, 786), (sequence_number, 877), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646685616.009279)
+
+(LID, 1085), (RL, 787), (sequence_number, 878), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646685616.524541)
+
+(LID, 1086), (RL, 788), (sequence_number, 879), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646685659.289333)
+
+(LID, 1087), (RL, 789), (sequence_number, 880), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646685659.856138)
+
+(LID, 1088), (RL, 790), (sequence_number, 881), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646685765.63299)
+
+(LID, 1089), (RL, 791), (sequence_number, 882), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646685766.341095)
+
+(LID, 1090), (RL, 792), (sequence_number, 883), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646686181.666068)
+
+(LID, 1091), (RL, 793), (sequence_number, 884), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646686182.3041)
+
+(LID, 1092), (RL, 794), (sequence_number, 885), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646686185.990305)
+
+(LID, 1093), (RL, 795), (sequence_number, 886), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646686186.569954)
+
+(LID, 1094), (RL, 796), (sequence_number, 887), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646709954.767746)
+
+(LID, 1095), (RL, 797), (sequence_number, 888), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646713555.17265)
+
+(LID, 1096), (RL, 798), (sequence_number, 889), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646717159.918246)
+
+(LID, 1097), (RL, 799), (sequence_number, 890), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646720782.98364)
+
+(LID, 1098), (RL, 800), (sequence_number, 891), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646724383.808443)
+
+(LID, 1099), (RL, 801), (sequence_number, 892), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646727984.166396)
+
+(LID, 1100), (RL, 802), (sequence_number, 893), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646731586.156124)
+
+(LID, 1101), (RL, 803), (sequence_number, 894), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646735256.19632)
+
+(LID, 1102), (RL, 804), (sequence_number, 895), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646736435.84968)
+
+(LID, 1103), (RL, 805), (sequence_number, 896), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646736438.567596)
+
+(LID, 1104), (RL, 806), (sequence_number, 897), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646736440.221742)
+
+(LID, 1105), (RL, 807), (sequence_number, 898), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646738761.504954)
+
+(LID, 1106), (RL, 808), (sequence_number, 899), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646743331.992547)
+
+(LID, 1107), (RL, 809), (sequence_number, 900), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646747425.018287)
+
+(LID, 1108), (RL, 810), (sequence_number, 901), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646751732.030252)
+
+(LID, 1109), (RL, 811), (sequence_number, 902), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646756232.258726)
+
+(LID, 1110), (RL, 812), (sequence_number, 903), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646760431.204107)
+
+(LID, 1111), (RL, 813), (sequence_number, 904), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646764932.046488)
+
+(LID, 1112), (RL, 814), (sequence_number, 905), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646769132.051701)
+
+(LID, 1113), (RL, 815), (sequence_number, 906), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646773341.544906)
+
+(LID, 1114), (RL, 816), (sequence_number, 907), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646777738.03556)
+
+(LID, 1115), (RL, 817), (sequence_number, 908), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646781963.119113)
+
+(LID, 1116), (RL, 818), (sequence_number, 909), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646786366.889662)
+
+(LID, 1117), (RL, 819), (sequence_number, 910), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646788862.336528)
+
+(LID, 1118), (RL, 820), (sequence_number, 911), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646788863.482496)
+
+(LID, 1119), (RL, 821), (sequence_number, 912), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646790723.110464)
+
+(LID, 1120), (RL, 822), (sequence_number, 913), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646794998.394015)
+
+(LID, 1121), (RL, 823), (sequence_number, 914), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646799432.033179)
+
+(LID, 1122), (RL, 824), (sequence_number, 915), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646803829.916832)
+
+(LID, 1123), (RL, 825), (sequence_number, 916), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646808046.196858)
+
+(LID, 1124), (RL, 826), (sequence_number, 917), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646812238.127008)
+
+(LID, 1125), (RL, 827), (sequence_number, 918), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646816611.215925)
+
+(LID, 1126), (RL, 828), (sequence_number, 919), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646821032.106844)
+
+(LID, 1127), (RL, 829), (sequence_number, 920), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646825166.219595)
+
+(LID, 1128), (RL, 830), (sequence_number, 921), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646829731.210197)
+
+(LID, 1129), (RL, 831), (sequence_number, 922), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 646835139.532689)
+
+(LID, 1130), (RL, 832), (sequence_number, 923), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647269808.692147)
+
+(LID, 1131), (RL, 833), (sequence_number, 924), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647269811.381151)
+
+(LID, 1132), (RL, 834), (sequence_number, 925), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647270312.456139)
+
+(LID, 1133), (RL, 835), (sequence_number, 926), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647273933.873253)
+
+(LID, 1134), (RL, 836), (sequence_number, 927), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647277764.810031)
+
+(LID, 1135), (RL, 837), (sequence_number, 928), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647282090.673106)
+
+(LID, 1136), (RL, 838), (sequence_number, 929), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647545924.765727)
+
+(LID, 1137), (RL, 839), (sequence_number, 930), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647546645.810904)
+
+(LID, 1138), (RL, 840), (sequence_number, 931), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647551020.192908)
+
+(LID, 1139), (RL, 841), (sequence_number, 932), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647555285.305572)
+
+(LID, 1140), (RL, 842), (sequence_number, 933), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647559695.192138)
+
+(LID, 1141), (RL, 843), (sequence_number, 934), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647564010.128172)
+
+(LID, 1142), (RL, 844), (sequence_number, 935), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647568335.267452)
+
+(LID, 1143), (RL, 845), (sequence_number, 936), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647572620.245563)
+
+(LID, 1144), (RL, 846), (sequence_number, 937), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647576910.228555)
+
+(LID, 1145), (RL, 847), (sequence_number, 938), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647581205.331827)
+
+(LID, 1146), (RL, 848), (sequence_number, 939), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647585615.260748)
+
+(LID, 1147), (RL, 849), (sequence_number, 940), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647589935.273204)
+
+(LID, 1148), (RL, 850), (sequence_number, 941), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647594255.277963)
+
+(LID, 1149), (RL, 851), (sequence_number, 942), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647598575.260736)
+
+(LID, 1150), (RL, 852), (sequence_number, 943), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647602857.086312)
+
+(LID, 1151), (RL, 853), (sequence_number, 944), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647607129.507738)
+
+(LID, 1152), (RL, 854), (sequence_number, 945), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647611535.460046)
+
+(LID, 1153), (RL, 855), (sequence_number, 946), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647615799.790701)
+
+(LID, 1154), (RL, 856), (sequence_number, 947), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647620167.736298)
+
+(LID, 1155), (RL, 857), (sequence_number, 948), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647624495.480174)
+
+(LID, 1156), (RL, 858), (sequence_number, 949), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 647628725.525355)
+
+(LID, 1157), (RL, 859), (sequence_number, 950), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 648270567.988408)
+
+(LID, 1158), (RL, 860), (sequence_number, 951), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 648271089.402905)
+
+(LID, 1159), (RL, 861), (sequence_number, 952), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 648274924.229234)
+
+(LID, 1160), (RL, 862), (sequence_number, 953), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 648278525.08878)
+
+(LID, 1161), (RL, 863), (sequence_number, 954), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 648307033.299754)
+
+(LID, 1162), (RL, 864), (sequence_number, 955), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 648310633.411956)
+
+(LID, 1163), (RL, 865), (sequence_number, 956), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 648314257.795235)
+
+(LID, 1164), (RL, 866), (sequence_number, 957), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 648317924.774001)
+
+(LID, 1165), (RL, 867), (sequence_number, 958), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 648321524.312179)
+
+(LID, 1166), (RL, 868), (sequence_number, 959), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 648325124.973509)
+
+(LID, 1167), (RL, 869), (sequence_number, 960), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 648328724.949)
+
+(LID, 1168), (RL, 870), (sequence_number, 961), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 648332534.331039)
+
+(LID, 1169), (RL, 871), (sequence_number, 962), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 648336425.06564)
+
+(LID, 1170), (RL, 872), (sequence_number, 963), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 648505482.409788)
+
+(LID, 1171), (RL, 873), (sequence_number, 964), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 648505482.857657)
+
+(LID, 1172), (RL, 874), (sequence_number, 965), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 649257802.194166)
+
+(LID, 1173), (RL, 875), (sequence_number, 966), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 649258109.182363)
+
+(LID, 1174), (RL, 876), (sequence_number, 967), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 649259345.901255)
+
+(LID, 1175), (RL, 877), (sequence_number, 968), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 649261456.61052)
+
+(LID, 1176), (RL, 878), (sequence_number, 969), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 649265729.82992)
+
+(LID, 1177), (RL, 234), (sequence_number, 325), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639316498.432722)
+
+(LID, 1178), (RL, 235), (sequence_number, 326), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639320398.81964)
+
+(LID, 1179), (RL, 236), (sequence_number, 327), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639324808.463389)
+
+(LID, 1180), (RL, 237), (sequence_number, 328), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639328982.589818)
+
+(LID, 1181), (RL, 238), (sequence_number, 329), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639333598.571129)
+
+(LID, 1182), (RL, 239), (sequence_number, 330), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639337933.405739)
+
+(LID, 1183), (RL, 240), (sequence_number, 331), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639342178.47687)
+
+(LID, 1184), (RL, 241), (sequence_number, 332), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639346388.627154)
+
+(LID, 1185), (RL, 242), (sequence_number, 333), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639414741.35899)
+
+(LID, 1186), (RL, 243), (sequence_number, 334), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639414741.705405)
+
+(LID, 1187), (RL, 244), (sequence_number, 335), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639421825.523832)
+
+(LID, 1188), (RL, 245), (sequence_number, 336), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639440683.628662)
+
+(LID, 1189), (RL, 246), (sequence_number, 337), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639440683.995747)
+
+(LID, 1190), (RL, 247), (sequence_number, 338), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639441211.176731)
+
+(LID, 1191), (RL, 248), (sequence_number, 339), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639502436.647779)
+
+(LID, 1192), (RL, 249), (sequence_number, 340), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639620786.427905)
+
+(LID, 1193), (RL, 250), (sequence_number, 341), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639620787.665814)
+
+(LID, 1194), (RL, 251), (sequence_number, 342), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639620788.10667)
+
+(LID, 1195), (RL, 252), (sequence_number, 343), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639622290.092425)
+
+(LID, 1196), (RL, 253), (sequence_number, 344), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639624727.178614)
+
+(LID, 1197), (RL, 254), (sequence_number, 345), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639624727.934324)
+
+(LID, 1198), (RL, 255), (sequence_number, 346), (client_identifier, contactsd), (save_timestamp, 639781985.717074)
+
+(LID, 1199), (RL, 256), (sequence_number, 347), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639781990.250665)
+
+(LID, 1200), (RL, 257), (sequence_number, 348), (client_identifier, com.apple.dataaccessd-96126593-51F7-40B0-8085-BCC1AF0CB6B2), (save_timestamp, 639781990.828947)

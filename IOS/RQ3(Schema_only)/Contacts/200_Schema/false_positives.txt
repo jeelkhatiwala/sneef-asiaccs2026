@@ -1,0 +1,28 @@
+(LID, 1001); (1, Email, tornadobeth@gmail.com), 10);
+
+(LID, 1002); (2, Email, tornadobeth@gmail.com), 10);
+
+(LID, 1003); (3, Email, tornadobeth@gmail.com), 10);
+
+(LID, 1004); (4, Email, tornadobeth@gmail.com), 10);
+
+(LID, 1005); (5, Email, tornadobeth@gmail.com), 10);
+
+(LID, 1006); (6, Email, tornadobeth@gmail.com), 10);
+
+(LID, 1008); (1, Phone Number, 845, 5);
+
+(LID, 1009); (2, Phone Number, 571, 5); (2, Email, [plaw@gmail.com](mailto:plaw@gmail.com), 10);
+
+(LID, 1011); (4, Phone Number, 19735203731, 9); (4, Human Name, M, 9); (4, Phone Number, 9735203731, 9);
+
+(LID, 1012); (5, Address, 181 Pottstown Pike Apt 1117, Exton, PA 19341, United States, 10); (5, Address, 425 Old Morehead Road, Malvern, PA 19355, United States, 10); (5, Human Name, Me, 6);
+
+(LID, 1013); (6, Phone Number, 8053272961, 9); (6, Phone Number, 18053272961, 9);
+
+(LID, 1014); (7, Phone Number, 14086926525, 9); (7, Phone Number, 4086926525, 9);
+
+(LID, 1015); (2, Human Name, Address Book, 7); (2, Email, tornadobeth@gmail.com), 10);
+
+(LID, 1016); (3, Human Name, Card, 6);
+

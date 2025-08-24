@@ -1,0 +1,40 @@
+(LID, 1001); (1, Timestamp, 2020-12-10 10:59:42, 10); (1, Human Name, G, 9); (1, Email, tornadobeth@gmail.com, 10); (1, Human Name, Matt G, 10); (1, Human Name, Matt, 10);
+
+(LID, 1002); (2, Human Name, Paul L, 10); (2, Human Name, Paul, 10); (2, Timestamp, 2020-12-10 12:43:09, 10); (2, Email, tornadobeth@gmail.com, 10); (2, Human Name, L, 9);
+
+(LID, 1003); (3, Human Name, Marsha, 10); (3, Timestamp, 2021-02-03 15:04:29, 10); (3, Email, tornadobeth@gmail.com, 10);
+
+(LID, 1004); (4, Human Name, Marsha, 10); (4, Timestamp, 2021-02-03 15:21:13, 10); (4, Email, tornadobeth@gmail.com, 10); (4, Human Name, M, 8);
+
+(LID, 1005); (5, Email, tornadobeth@gmail.com, 10); (5, Human Name, Me, 9); (5, Timestamp, 2021-04-29 19:05:45, 10);
+
+(LID, 1006); (6, Email, tornadobeth@gmail.com, 10); (6, Timestamp, 2021-04-10 14:13:10, 10); (6, Human Name, Shark, 9);
+
+(LID, 1007); (7, Timestamp, 2021-06-14 18:33:39, 10); (7, Human Name, Jackson, 10); (7, Human Name, Martin Jackson, 10); (7, Human Name, Martin, 10);
+
+(LID, 1008); (1, Human Name, Matt G, 10); (1, Human Name, Matt, 10); (1, Human Name, G, 9);
+
+(LID, 1009); (2, Human Name, Paul L, 10); (2, Human Name, L, 9); (2, Human Name, Paul, 10); (2, Message, More changes to Paul., 9);
+
+(LID, 1010); (3, Human Name, Marsha, 10);
+
+(LID, 1011); (4, Human Name, Marsha, 10); (4, Phone Number, +19735203731, 10); (4, Human Name, Sis, 8);
+
+(LID, 1013); (6, Phone Number, +18053272961, 10); (6, Human Name, Shark, 9);
+
+(LID, 1014); (7, Human Name, Martin Jackson, 10); (7, Human Name, Jackson, 10); (7, Human Name, Martin, 10); (7, Phone Number, +14086926525, 10);
+
+(LID, 1016); (3, App Name, Card, 9);
+
+(LID, 1017); (1, App Name, MobileSync, 10);
+
+(LID, 1021); (5, App Name, Contacts, 10);
+
+(LID, 1022); (6, App Name, Contacts, 10);
+
+(LID, 1041); (52, App Name, Phone, 10);
+
+(LID, 1049); (60, App Name, Phone, 10);
+
+(LID, 1198); (255, App Name, Contacts, 10);
+

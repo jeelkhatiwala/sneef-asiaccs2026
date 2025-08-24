@@ -1,0 +1,16 @@
+📊 RQ1 EVALUATION SUMMARY
+---------------------------
+Total Rows in Ground Truth: 200
+Total Schemas in Ground Truth: 500
+Total Rows in AI File: 200
+Total Schemas in AI File: 394
+
+✅ True Positives (TP): 286
+❌ False Positives (FP): 108
+❌ False Negatives (FN): 215
+
+
+
+Precision: 0.73
+Recall: 0.57
+F1: 0.64

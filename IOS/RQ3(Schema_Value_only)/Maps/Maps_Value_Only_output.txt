@@ -1,0 +1,400 @@
+
+(LID, 4001), (RL, 327), (then turn left on Canal Rd), (database//Jane//1624905763-863990-10.tts), (2), (1), (1624905766)
+
+(LID, 4002), (RL, 328), (then use either lane to keep right), (database//Jane//1624905763-866363-15.tts), (2), (0), (1624905766)
+
+(LID, 4003), (RL, 329), (keep right to Ronald Reagan Pkwy / to Ameriplex Pkwy), (database//Jane//1624905763-866364-16.tts), (2), (1), (1624905766)
+
+(LID, 4004), (RL, 330), (use the right four lanes to keep right), (database//Jane//1624905763-866365-17.tts), (2), (0), (1624905766)
+
+(LID, 4005), (RL, 331), (use the right four lanes to keep right to Ronald Reagan Pkwy / to Ameriplex Pkwy), (database//Jane//1624905763-866365-18.tts), (2), (1), (1624905766)
+
+(LID, 4006), (RL, 332), (use the left three lanes to keep left), (database//Jane//1624905763-865870-11.tts), (2), (0), (1624905766)
+
+(LID, 4007), (RL, 333), (use the right two lanes to exit right), (database//Jane//1624905763-865871-12.tts), (2), (0), (1624905766)
+
+(LID, 4008), (RL, 334), (use the right two lanes to exit), (database//Jane//1624905763-865871-13.tts), (2), (0), (1624905766)
+
+(LID, 4009), (RL, 335), (use either lane to keep right), (database//Jane//1624905763-865872-14.tts), (2), (0), (1624905766)
+
+(LID, 4010), (RL, 336), (7800 Col. H. Weir Cook Memorial Dr), (database//Jane//1624905763-813154-0.tts), (2), (2), (1624905766)
+
+(LID, 4011), (RL, 337), (Indianapolis International Airport (IND), (database//Jane//1624905763-813662-1.tts), (2), (0), (1624905766)
+
+(LID, 4012), (RL, 338), (Let's take I-65 S), (database//Jane//1624905763-813663-2.tts), (2), (1), (1624905766)
+
+(LID, 4013), (RL, 339), (then use the right two lanes to keep right), (database//Jane//1624905763-867248-23.tts), (2), (0), (1624905766)
+
+(LID, 4014), (RL, 340), (then use the right two lanes to keep right to Indianapolis Int'l Airport), (database//Jane//1624905763-867249-24.tts), (2), (1), (1624905766)
+
+(LID, 4015), (RL, 341), (keep left to Arrivals / Baggage Claim), (database//Jane//1624905763-867249-25.tts), (2), (1), (1624905766)
+
+(LID, 4016), (RL, 342), (you'll arrive at Indianapolis International Airport (IND), (database//Jane//1624905763-867250-26.tts), (2), (3), (1624905766)
+
+(LID, 4017), (RL, 343), (turn left on N 9th St), (database//Jane//1624905766-529600-28.tts), (2), (1), (1624905766)
+
+(LID, 4018), (RL, 344), (turn right to I-65 S / Indianapolis), (database//Jane//1624905766-522295-27.tts), (2), (1), (1624905766)
+
+(LID, 4019), (RL, 345), (turn left on Schuyler Ave), (database//Jane//1624905766-577239-31.tts), (2), (1), (1624905767)
+
+(LID, 4020), (RL, 346), (turn left on Duncan Rd), (database//Jane//1624905766-540098-29.tts), (2), (1), (1624905767)
+
+(LID, 4021), (RL, 347), (turn right on N Sagamore Pkwy), (database//Jane//1624905766-540098-30.tts), (2), (1), (1624905767)
+
+(LID, 4022), (RL, 348), (keep left to I-65 S / to I-465 S), (database//Jane//1624905766-694720-32.tts), (2), (1), (1624905767)
+
+(LID, 4023), (RL, 349), (use the left three lanes to keep left to I-65 S / to I-465 S), (database//Jane//1624905766-694722-33.tts), (2), (1), (1624905767)
+
+(LID, 4024), (RL, 350), (exit to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport), (database//Jane//1624905767-624683-42.tts), (2), (1), (1624905769)
+
+(LID, 4025), (RL, 351), (exit right to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport), (database//Jane//1624905767-624684-43.tts), (2), (1), (1624905769)
+
+(LID, 4026), (RL, 352), (use the right two lanes to exit right to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport), (database//Jane//1624905767-624685-44.tts), (2), (1), (1624905769)
+
+(LID, 4027), (RL, 353), (use the right two lanes to exit to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport), (database//Jane//1624905767-624685-45.tts), (2), (1), (1624905769)
+
+(LID, 4028), (RL, 354), (exit to Exit 123: I-465 S / Indianapolis Int'l Airport), (database//Jane//1624905767-610181-38.tts), (2), (1), (1624905770)
+
+(LID, 4029), (RL, 355), (exit right to Exit 123: I-465 S / Indianapolis Int'l Airport), (database//Jane//1624905767-610183-39.tts), (2), (1), (1624905770)
+
+(LID, 4030), (RL, 356), (use the right two lanes to exit right to Exit 123: I-465 S / Indianapolis Int'l Airport), (database//Jane//1624905767-610184-40.tts), (2), (1), (1624905770)
+
+(LID, 4031), (RL, 357), (use the right two lanes to exit to Exit 123: I-465 S / Indianapolis Int'l Airport), (database//Jane//1624905767-610184-41.tts), (2), (1), (1624905770)
+
+(LID, 4032), (RL, 358), (keep right to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport), (database//Jane//1624905767-551699-34.tts), (2), (1), (1624905770)
+
+(LID, 4033), (RL, 359), (then keep right to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport), (database//Jane//1624905767-551703-35.tts), (2), (1), (1624905770)
+
+(LID, 4034), (RL, 360), (use either lane to keep right to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport), (database//Jane//1624905767-551705-36.tts), (2), (1), (1624905770)
+
+(LID, 4035), (RL, 361), (then use either lane to keep right to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport), (database//Jane//1624905767-551706-37.tts), (2), (1), (1624905770)
+
+(LID, 4036), (RL, 362), (Let's take US-231 S, and US-52 E; I-65 S), (database//Jane//1624905787-992864-46.tts), (2), (1), (1624905790)
+
+(LID, 4037), (RL, 363), (keep right to Northwestern Ave), (database//Jane//1624905788-15669-47.tts), (2), (1), (1624905790)
+
+(LID, 4038), (RL, 364), (then keep right to Northwestern Ave), (database//Jane//1624905788-15672-48.tts), (2), (1), (1624905790)
+
+(LID, 4039), (RL, 365), (turn left on W State St), (database//Jane//1624905788-15672-49.tts), (2), (1), (1624905790)
+
+(LID, 4040), (RL, 366), (turn right on S River Rd), (database//Jane//1624905788-15673-50.tts), (2), (1), (1624905790)
+
+(LID, 4041), (RL, 367), (use either lane to continue straight), (database//Jane//1624905788-22052-55.tts), (2), (0), (1624905790)
+
+(LID, 4042), (RL, 368), (use either lane to continue straight to I-65 S), (database//Jane//1624905788-22053-56.tts), (2), (1), (1624905790)
+
+(LID, 4043), (RL, 369), (you'll arrive at Indianapolis International Airport (IND), (database//Jane//1624905788-22054-57.tts), (2), (3), (1624905790)
+
+(LID, 4044), (RL, 370), (turn right on US-52 E), (database//Jane//1624905789-571698-58.tts), (2), (1), (1624905790)
+
+(LID, 4045), (RL, 371), (turn left on IN-28), (database//Jane//1624905789-853395-59.tts), (2), (1), (1624905790)
+
+(LID, 4046), (RL, 372), (at the roundabout, continue straight on S River Rd), (database//Jane//1624905788-17567-51.tts), (2), (1), (1624905790)
+
+(LID, 4047), (RL, 373), (continue straight on S River Rd), (database//Jane//1624905788-17568-52.tts), (2), (1), (1624905790)
+
+(LID, 4048), (RL, 374), (turn left on US-231 S), (database//Jane//1624905788-17569-53.tts), (2), (1), (1624905790)
+
+(LID, 4049), (RL, 375), (continue straight to I-65 S), (database//Jane//1624905788-17570-54.tts), (2), (1), (1624905790)
+
+(LID, 4050), (RL, 376), (turn right on W Stadium Ave), (database//Jane//1624905961-94473-60.tts), (2), (1), (1624905961)
+
+(LID, 4051), (RL, 377), (turn right on Robinson St), (database//Jane//1624905961-94477-61.tts), (2), (1), (1624905961)
+
+(LID, 4052), (RL, 378), (turn right on N River Rd), (database//Jane//1624905961-94478-62.tts), (2), (1), (1624905961)
+
+(LID, 4053), (RL, 379), (turn left on Williams St), (database//Jane//1624906033-486149-63.tts), (2), (1), (1624906033)
+
+(LID, 4054), (RL, 380), (at the roundabout take the first exit on S River Rd), (database//Jane//1624906033-486151-64.tts), (2), (1), (1624906033)
+
+(LID, 4055), (RL, 381), (at the roundabout take the first exit), (database//Jane//1624906033-486152-65.tts), (2), (0), (1624906033)
+
+(LID, 4056), (RL, 382), (take the first exit on S River Rd), (database//Jane//1624906033-486152-66.tts), (2), (1), (1624906033)
+
+(LID, 4057), (RL, 383), (turn left on Vine St), (database//Jane//1624906336-368027-4.tts), (2), (1), (1624906336)
+
+(LID, 4058), (RL, 384), (turn right on Wiggins St), (database//Jane//1624906336-368028-5.tts), (2), (1), (1624906336)
+
+(LID, 4059), (RL, 385), (then turn right on Wiggins St), (database//Jane//1624906336-368028-6.tts), (2), (1), (1624906336)
+
+(LID, 4060), (RL, 386), (turn right on N Grant St), (database//Jane//1624906336-363111-0.tts), (2), (1), (1624906336)
+
+(LID, 4061), (RL, 387), (then turn right on N Grant St), (database//Jane//1624906336-363433-1.tts), (2), (1), (1624906336)
+
+(LID, 4062), (RL, 388), (turn right on North St), (database//Jane//1624906336-363434-2.tts), (2), (1), (1624906336)
+
+(LID, 4063), (RL, 389), (then turn right on North St), (database//Jane//1624906336-363434-3.tts), (2), (1), (1624906336)
+
+(LID, 4064), (RL, 390), (then at the roundabout, continue straight on S River Rd), (database//Jane//1624906362-927482-11.tts), (2), (1), (1624906363)
+
+(LID, 4065), (RL, 391), (turn left on N Grant St), (database//Jane//1624906362-924908-7.tts), (2), (1), (1624906363)
+
+(LID, 4066), (RL, 392), (then turn left on N Grant St), (database//Jane//1624906362-924910-8.tts), (2), (1), (1624906363)
+
+(LID, 4067), (RL, 393), (turn left on W Wood St), (database//Jane//1624906362-924910-9.tts), (2), (1), (1624906363)
+
+(LID, 4068), (RL, 394), (then at the roundabout, continue straight), (database//Jane//1624906362-924910-10.tts), (2), (0), (1624906363)
+
+(LID, 4069), (RL, 395), (turn right to I-74 E / Indianapolis), (database//Jane//1624906363-393548-14.tts), (2), (1), (1624906363)
+
+(LID, 4070), (RL, 396), (keep left to I-465 S / I-74 E), (database//Jane//1624906363-354477-12.tts), (2), (1), (1624906363)
+
+(LID, 4071), (RL, 397), (use the left two lanes to keep left to I-465 S / I-74 E), (database//Jane//1624906363-354480-13.tts), (2), (1), (1624906363)
+
+(LID, 4072), (RL, 398), (continue straight for 30 minutes to I-74 E / Indianapolis), (database//Jane//1624906746-197599-15.tts), (2), (1), (1624906746)
+
+(LID, 4073), (RL, 399), (continue straight for 30 minutes to I-465 S / I-74 E), (database//Jane//1624908275-224285-16.tts), (2), (1), (1624908275)
+
+(LID, 4074), (RL, 400), (in 5.8 miles), (database//Jane//1624909796-207044-17.tts), (2), (0), (1624909796)
+
+(LID, 4075), (RL, 401), (in 5.7 miles), (database//Jane//1624909796-207047-18.tts), (2), (0), (1624909796)
+
+(LID, 4076), (RL, 402), (in 5.6 miles), (database//Jane//1624909796-207049-19.tts), (2), (0), (1624909796)
+
+(LID, 4077), (RL, 403), (in 5.5 miles), (database//Jane//1624909796-207051-20.tts), (2), (0), (1624909796)
+
+(LID, 4078), (RL, 404), (continue straight for 10 minutes to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport), (database//Jane//1624910058-199221-21.tts), (2), (1), (1624910058)
+
+(LID, 4079), (RL, 405), (Estimated time in traffic, 8 minutes), (database//Jane//1624910126-257089-22.tts), (2), (0), (1624910126)
+
+(LID, 4080), (RL, 406), (turn left to Indianapolis Int'l Airport), (database//Jane//1624910919-945422-31.tts), (2), (1), (1624910921)
+
+(LID, 4081), (RL, 407), (then keep left to Indianapolis Int'l Airport), (database//Jane//1624910919-945423-32.tts), (2), (1), (1624910921)
+
+(LID, 4082), (RL, 408), (turn left on Bridgeport Rd), (database//Jane//1624910919-943899-27.tts), (2), (1), (1624910921)
+
+(LID, 4083), (RL, 409), (turn right on Stafford Rd), (database//Jane//1624910919-943900-28.tts), (2), (1), (1624910921)
+
+(LID, 4084), (RL, 410), (turn left on Ronald Reagan Pkwy), (database//Jane//1624910919-943901-29.tts), (2), (1), (1624910921)
+
+(LID, 4085), (RL, 411), (keep left to Indianapolis Int'l Airport), (database//Jane//1624910919-943901-30.tts), (2), (1), (1624910921)
+
+(LID, 4086), (RL, 412), (keep right to S Perimeter Rd / S Service Rd), (database//Jane//1624910919-942974-23.tts), (2), (1), (1624910921)
+
+(LID, 4087), (RL, 413), (then keep right to S Perimeter Rd / S Service Rd), (database//Jane//1624910919-942975-24.tts), (2), (1), (1624910921)
+
+(LID, 4088), (RL, 414), (turn right on W Perimeter Rd), (database//Jane//1624910919-942976-25.tts), (2), (1), (1624910921)
+
+(LID, 4089), (RL, 415), (then turn right on W Perimeter Rd), (database//Jane//1624910919-942976-26.tts), (2), (1), (1624910921)
+
+(LID, 4090), (RL, 416), (turn left on Terminal), (database//Jane//1624910933-450696-33.tts), (2), (1), (1624910933)
+
+(LID, 4091), (RL, 417), (then turn left on Terminal), (database//Jane//1624910933-450698-34.tts), (2), (1), (1624910933)
+
+(LID, 4092), (RL, 418), (turn left to Terminal), (database//Jane//1624910933-450698-35.tts), (2), (1), (1624910933)
+
+(LID, 4093), (RL, 419), (then turn left to Terminal), (database//Jane//1624910933-450699-36.tts), (2), (1), (1624910933)
+
+(LID, 4094), (RL, 420), (Exiting average speed enforcement zone), (database//Jane//1625141632-395089-0.tts), (2), (0), (1625141632)
+
+(LID, 4095), (RL, 421), (exit right to Exit 331A: I-476 S / Chester), (database//Jane//1625141636-897733-6.tts), (2), (1), (1625141637)
+
+(LID, 4096), (RL, 422), (use the right lane to exit right to Exit 331A: I-476 S / Chester), (database//Jane//1625141636-897734-7.tts), (2), (1), (1625141637)
+
+(LID, 4097), (RL, 423), (use the right lane to exit to Exit 331A: I-476 S / Chester), (database//Jane//1625141636-897734-8.tts), (2), (1), (1625141637)
+
+(LID, 4098), (RL, 424), (turn left to US-202 N), (database//Jane//1625141636-896684-2.tts), (2), (1), (1625141637)
+
+(LID, 4099), (RL, 425), (use the left two lanes to turn left), (database//Jane//1625141636-896686-3.tts), (2), (0), (1625141637)
+
+(LID, 4100), (RL, 426), (use the left two lanes to turn left to US-202 N), (database//Jane//1625141636-896686-4.tts), (2), (1), (1625141637)
+
+(LID, 4101), (RL, 427), (exit to Exit 331A: I-476 S / Chester), (database//Jane//1625141636-896687-5.tts), (2), (1), (1625141637)
+
+(LID, 4102), (RL, 428), (keep right to I-76 E / Philadelphia / Devon Park Dr), (database//Jane//1625141637-39362-9.tts), (2), (1), (1625141637)
+
+(LID, 4103), (RL, 429), (use the right two lanes to keep right to I-76 E / Philadelphia / Devon Park Dr), (database//Jane//1625141637-39367-10.tts), (2), (1), (1625141637)
+
+(LID, 4104), (RL, 430), (keep left to I-76 E / Philadelphia), (database//Jane//1625141637-39368-11.tts), (2), (1), (1625141637)
+
+(LID, 4105), (RL, 431), (then keep left to I-76 E / Philadelphia), (database//Jane//1625141637-39370-12.tts), (2), (1), (1625141637)
+
+(LID, 4106), (RL, 432), (Let's take US-202 N, and I-476 S. Arrival time on this route, is similar to US-202 S; I-476 S), (database//Jane//1625141636-883748-1.tts), (2), (1), (1625141637)
+
+(LID, 4107), (RL, 433), (Let's take US-202 N, and I-476 S), (database//Jane//1625141657-704117-13.tts), (2), (1), (1625141657)
+
+(LID, 4108), (RL, 434), (you'll arrive at Philadelphia International Airport (PHL), (database//Jane//1625141657-727570-14.tts), (2), (3), (1625141657)
+
+(LID, 4109), (RL, 435), (continue straight for 9 minutes to US-202 N), (database//Jane//1625142268-168746-15.tts), (2), (1), (1625142268)
+
+(LID, 4110), (RL, 436), (continue straight for 7 minutes to I-76 E / Philadelphia / Devon Park Dr), (database//Jane//1625142792-191619-16.tts), (2), (1), (1625142792)
+
+(LID, 4111), (RL, 437), (continue straight for 15 minutes to I-95 N » Philadelphia), (database//Jane//1625143602-193967-17.tts), (2), (1), (1625143602)
+
+(LID, 4112), (RL, 1), (1), (FLL Airport - Car Rental Center), (Terminal Dr), (Fort Lauderdale), (Florida), (600), (-80137022), (26071610), (venues.183435525.1834093103.1118006), (1618143129), (CAAQAyiWz8uDBjAB)
+
+(LID, 4113), (RL, 2), (2), (Amani's BYOB), (E Lancaster Ave), (Downingtown), (US), (105), (-75702966), (40006823), (venues.186319248.1863192481.797753), (1623969666), (CAAQAyj3oK-GBjAB)
+
+(LID, 4114), (RL, 3), (3), (Philadelphia International Airport (PHL), (Essington Ave), (Philadelphia), (Pennsylvania), (8000), (-75258627), (39875019), (venues.186646927.1866207123.250891), (1624874928), (CAAQAyiuv-aGBjAB)
+
+(LID, 4115), (RL, 4), (4), (Indianapolis International Airport (IND), (Col. H. Weir Cook Memorial Dr), (Indianapolis), (Indiana), (7800), (-86298491), (39714518), (venues.179372429.1793724292.261807), (1624905761), (CAAQAyiZsOiGBjAB)
+
+(LID, 4116), (RL, 1), (1), (1), (FLL Airport - Car Rental Center), (1618143129), (1618143129), (0), (0)
+
+(LID, 4117), (RL, 2), (2), (2), (Amani's BYOB), (1623969666), (1623969666), (0), (0)
+
+(LID, 4118), (RL, 3), (3), (3), (Philadelphia International Airport (PHL), (1624874928), (1625141635), (0), (0)
+
+(LID, 4119), (RL, 4), (4), (4), (Indianapolis International Airport (IND), (1624905761), (1624905761), (0), (0)
+
+(LID, 4120), (RL, 1), (PLACES), (4)
+
+(LID, 4121), (RL, 2), (RECENTS), (4)
+
+(LID, 4122), (RL, 276), (use the right lane to exit), (database//Jane//1624874930-215132-7.tts), (2), (0), (1624874930)
+
+(LID, 4123), (RL, 277), (then keep right), (database//Jane//1624874930-215134-8.tts), (2), (0), (1624874930)
+
+(LID, 4124), (RL, 278), (use the right lane to turn right), (database//Jane//1624874930-215134-9.tts), (2), (0), (1624874930)
+
+(LID, 4125), (RL, 279), (use the left lane to turn left), (database//Jane//1624874930-215135-10.tts), (2), (0), (1624874930)
+
+(LID, 4126), (RL, 280), (8000 Essington Ave), (database//Jane//1624874930-120254-0.tts), (2), (2), (1624874931)
+
+(LID, 4127), (RL, 281), (Philadelphia International Airport (PHL), (database//Jane//1624874930-120688-1.tts), (2), (0), (1624874931)
+
+(LID, 4128), (RL, 282), (Let's take US-202 S, and West Chester Pike Willistown), (database//Jane//1624874930-120689-2.tts), (2), (1), (1624874931)
+
+(LID, 4129), (RL, 283), (turn left to US-1 N), (database//Jane//1624874930-662243-23.tts), (2), (1), (1624874931)
+
+(LID, 4130), (RL, 284), (use the left lane to turn left to US-1 N), (database//Jane//1624874930-662247-24.tts), (2), (1), (1624874931)
+
+(LID, 4131), (RL, 285), (turn right on N Providence Rd), (database//Jane//1624874930-689157-25.tts), (2), (1), (1624874931)
+
+(LID, 4132), (RL, 286), (use the right lane to turn right on N Providence Rd), (database//Jane//1624874930-689161-26.tts), (2), (1), (1624874931)
+
+(LID, 4133), (RL, 287), (turn right to I-476 S » Chester), (database//Jane//1624874930-645451-19.tts), (2), (1), (1624874931)
+
+(LID, 4134), (RL, 288), (then turn right to I-476 S » Chester), (database//Jane//1624874930-645453-20.tts), (2), (1), (1624874931)
+
+(LID, 4135), (RL, 289), (use the right lane to turn right to I-476 S » Chester), (database//Jane//1624874930-645454-21.tts), (2), (1), (1624874931)
+
+(LID, 4136), (RL, 290), (then use the right lane to turn right to I-476 S » Chester), (database//Jane//1624874930-645455-22.tts), (2), (1), (1624874931)
+
+(LID, 4137), (RL, 291), (exit to I-476 » Plymouth Meeting / Chester), (database//Jane//1624874930-622895-15.tts), (2), (1), (1624874931)
+
+(LID, 4138), (RL, 292), (exit right to I-476 » Plymouth Meeting / Chester), (database//Jane//1624874930-622897-16.tts), (2), (1), (1624874931)
+
+(LID, 4139), (RL, 293), (use the right lane to exit right to I-476 » Plymouth Meeting / Chester), (database//Jane//1624874930-622897-17.tts), (2), (1), (1624874931)
+
+(LID, 4140), (RL, 294), (use the right lane to exit to I-476 » Plymouth Meeting / Chester), (database//Jane//1624874930-622898-18.tts), (2), (1), (1624874931)
+
+(LID, 4141), (RL, 295), (exit to US-202 S), (database//Jane//1624874930-936554-35.tts), (2), (1), (1624874931)
+
+(LID, 4142), (RL, 296), (exit right to US-202 S), (database//Jane//1624874930-936557-36.tts), (2), (1), (1624874931)
+
+(LID, 4143), (RL, 297), (exit to Exit 10: SR-291 E » Bartram Ave / Cargo City), (database//Jane//1624874931-130563-37.tts), (2), (1), (1624874931)
+
+(LID, 4144), (RL, 298), (exit right to Exit 10: SR-291 E » Bartram Ave / Cargo City), (database//Jane//1624874931-130566-38.tts), (2), (1), (1624874931)
+
+(LID, 4145), (RL, 299), (use the right lane to exit right to Exit 10: SR-291 E » Bartram Ave / Cargo City), (database//Jane//1624874931-130567-39.tts), (2), (1), (1624874931)
+
+(LID, 4146), (RL, 300), (use the right lane to exit to Exit 10: SR-291 E » Bartram Ave / Cargo City), (database//Jane//1624874931-130567-40.tts), (2), (1), (1624874931)
+
+(LID, 4147), (RL, 301), (keep left to I-95 N » Philadelphia), (database//Jane//1624874931-209027-41.tts), (2), (1), (1624874931)
+
+(LID, 4148), (RL, 302), (use the left two lanes to keep left to I-95 N » Philadelphia), (database//Jane//1624874931-209030-42.tts), (2), (1), (1624874931)
+
+(LID, 4149), (RL, 303), (turn right on Providence Rd), (database//Jane//1624874930-929076-27.tts), (2), (1), (1624874931)
+
+(LID, 4150), (RL, 304), (use the right lane to turn right on Providence Rd), (database//Jane//1624874930-929079-28.tts), (2), (1), (1624874931)
+
+(LID, 4151), (RL, 305), (exit to SR-3 / Newtown Square), (database//Jane//1624874930-929079-29.tts), (2), (1), (1624874931)
+
+(LID, 4152), (RL, 306), (exit right to SR-3 / Newtown Square), (database//Jane//1624874930-929080-30.tts), (2), (1), (1624874931)
+
+(LID, 4153), (RL, 307), (use the right lane to exit right to SR-3 / Newtown Square), (database//Jane//1624874930-932631-31.tts), (2), (1), (1624874931)
+
+(LID, 4154), (RL, 308), (use the right lane to exit to SR-3 / Newtown Square), (database//Jane//1624874930-932635-32.tts), (2), (1), (1624874931)
+
+(LID, 4155), (RL, 309), (keep right to SR-3 E / Newtown Square), (database//Jane//1624874930-932635-33.tts), (2), (1), (1624874931)
+
+(LID, 4156), (RL, 310), (then keep right to SR-3 E / Newtown Square), (database//Jane//1624874930-932636-34.tts), (2), (1), (1624874931)
+
+(LID, 4157), (RL, 311), (in 4.2 miles), (database//Jane//1624875431-207074-43.tts), (2), (0), (1624875431)
+
+(LID, 4158), (RL, 312), (in 4.1 miles), (database//Jane//1624875431-207079-44.tts), (2), (0), (1624875431)
+
+(LID, 4159), (RL, 313), (in 4 miles), (database//Jane//1624875431-207081-45.tts), (2), (0), (1624875431)
+
+(LID, 4160), (RL, 314), (continue straight for 5 minutes to SR-3 / Newtown Square), (database//Jane//1624875431-207082-46.tts), (2), (1), (1624875431)
+
+(LID, 4161), (RL, 315), (continue straight for 9 minutes to Providence Rd), (database//Jane//1624875794-201378-47.tts), (2), (1), (1624875794)
+
+(LID, 4162), (RL, 316), (keep left to Wiggins St), (database//Jane//1624905763-863284-3.tts), (2), (1), (1624905765)
+
+(LID, 4163), (RL, 317), (then keep left), (database//Jane//1624905763-863286-4.tts), (2), (0), (1624905765)
+
+(LID, 4164), (RL, 318), (then keep left to Wiggins St), (database//Jane//1624905763-863287-5.tts), (2), (1), (1624905765)
+
+(LID, 4165), (RL, 319), (exit to Canal Rd), (database//Jane//1624905763-863287-6.tts), (2), (1), (1624905765)
+
+(LID, 4166), (RL, 320), (keep right to Indianapolis Int'l Airport), (database//Jane//1624905763-866820-19.tts), (2), (1), (1624905766)
+
+(LID, 4167), (RL, 321), (then keep right to Indianapolis Int'l Airport), (database//Jane//1624905763-866821-20.tts), (2), (1), (1624905766)
+
+(LID, 4168), (RL, 322), (use the right two lanes to keep right), (database//Jane//1624905763-866821-21.tts), (2), (0), (1624905766)
+
+(LID, 4169), (RL, 323), (use the right two lanes to keep right to Indianapolis Int'l Airport), (database//Jane//1624905763-866822-22.tts), (2), (1), (1624905766)
+
+(LID, 4170), (RL, 324), (exit right to Canal Rd), (database//Jane//1624905763-863989-7.tts), (2), (1), (1624905766)
+
+(LID, 4171), (RL, 325), (turn left on Canal Rd), (database//Jane//1624905763-863989-8.tts), (2), (1), (1624905766)
+
+(LID, 4172), (RL, 326), (then turn left), (database//Jane//1624905763-863990-9.tts), (2), (0), (1624905766)
+
+(LID, 4173), (RL, 243), (in 1.5 miles), (database//Jane//1623969715-29823-181.tts), (2), (0), (1623969715)
+
+(LID, 4174), (RL, 244), (in 1.6 miles), (database//Jane//1623969715-29824-182.tts), (2), (0), (1623969716)
+
+(LID, 4175), (RL, 245), (in 1.7 miles), (database//Jane//1623969715-29824-183.tts), (2), (0), (1623969716)
+
+(LID, 4176), (RL, 246), (in 2.2 miles), (database//Jane//1623969715-30149-188.tts), (2), (0), (1623969716)
+
+(LID, 4177), (RL, 247), (in 2.3 miles), (database//Jane//1623969715-30149-189.tts), (2), (0), (1623969716)
+
+(LID, 4178), (RL, 248), (in 2.4 miles), (database//Jane//1623969715-30150-190.tts), (2), (0), (1623969716)
+
+(LID, 4179), (RL, 249), (in 2.5 miles), (database//Jane//1623969715-30150-191.tts), (2), (0), (1623969716)
+
+(LID, 4180), (RL, 250), (make a u-turn on Haverhill Rd), (database//Jane//1623969715-31782-196.tts), (2), (1), (1623969716)
+
+(LID, 4181), (RL, 251), (then make a u-turn), (database//Jane//1623969715-31783-197.tts), (2), (0), (1623969716)
+
+(LID, 4182), (RL, 252), (then make a u-turn on Haverhill Rd), (database//Jane//1623969715-31783-198.tts), (2), (1), (1623969716)
+
+(LID, 4183), (RL, 253), (in 2.6 miles), (database//Jane//1623969715-30317-192.tts), (2), (0), (1623969716)
+
+(LID, 4184), (RL, 254), (in 2.7 miles), (database//Jane//1623969715-30318-193.tts), (2), (0), (1623969716)
+
+(LID, 4185), (RL, 255), (in 2.8 miles), (database//Jane//1623969715-30318-194.tts), (2), (0), (1623969716)
+
+(LID, 4186), (RL, 256), (in 2.9 miles), (database//Jane//1623969715-30319-195.tts), (2), (0), (1623969716)
+
+(LID, 4187), (RL, 257), (in 3 miles), (database//Jane//1623969916-181277-199.tts), (2), (0), (1623969916)
+
+(LID, 4188), (RL, 258), (in 3.1 miles), (database//Jane//1623969916-181282-200.tts), (2), (0), (1623969916)
+
+(LID, 4189), (RL, 259), (in 3.2 miles), (database//Jane//1623969916-181284-201.tts), (2), (0), (1623969916)
+
+(LID, 4190), (RL, 260), (in 3.3 miles), (database//Jane//1623969916-181285-202.tts), (2), (0), (1623969916)
+
+(LID, 4191), (RL, 261), (in 3.4 miles), (database//Jane//1623969916-182100-203.tts), (2), (0), (1623969916)
+
+(LID, 4192), (RL, 262), (in 3.5 miles), (database//Jane//1623969916-182104-204.tts), (2), (0), (1623969916)
+
+(LID, 4193), (RL, 263), (in 3.6 miles), (database//Jane//1623969916-182106-205.tts), (2), (0), (1623969916)
+
+(LID, 4194), (RL, 264), (in 3.7 miles), (database//Jane//1623969916-182107-206.tts), (2), (0), (1623969916)
+
+(LID, 4195), (RL, 265), (in 3.8 miles), (database//Jane//1623969916-552085-207.tts), (2), (0), (1623969916)
+
+(LID, 4196), (RL, 266), (in 3.9 miles), (database//Jane//1623969916-552095-208.tts), (2), (0), (1623969916)
+
+(LID, 4197), (RL, 267), (continue straight for 12 minutes to E Lancaster Ave), (database//Jane//1623969916-552098-209.tts), (2), (1), (1623969916)
+
+(LID, 4198), (RL, 240), (in 2 miles), (database//Jane//1623969715-30007-186.tts), (2), (0), (1623969715)
+
+(LID, 4199), (RL, 241), (in 2.1 miles), (database//Jane//1623969715-30008-187.tts), (2), (0), (1623969715)
+
+(LID, 4200), (RL, 242), (in 1.4 miles), (database//Jane//1623969715-29822-180.tts), (2), (0), (1623969715)

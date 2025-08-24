@@ -1,0 +1,402 @@
+(LID, 4001); (327, Address, Canal Rd, 9); (327, Timestamp, 2021-06-28 15:42:46, 10)
+
+(LID, 4002); (328, Timestamp, 2021-06-28 15:42:46, 10)
+
+(LID, 4003); (329, Address, Ronald Reagan Pkwy, 9); (329, Address, Ameriplex Pkwy, 9); (329, Timestamp, 2021-06-28 15:42:46, 10)
+
+(LID, 4004); (330, Timestamp, 2021-06-28 15:42:46, 10)
+
+(LID, 4005); (331, Address, Ronald Reagan Pkwy, 9); (331, Address, Ameriplex Pkwy, 9); (331, Timestamp, 2021-06-28 15:42:46, 10)
+
+(LID, 4006); (332, Timestamp, 2021-06-28 15:42:46, 10)
+
+(LID, 4007); (333, Timestamp, 2021-06-28 15:42:46, 10)
+
+(LID, 4008); (334, Timestamp, 2021-06-28 15:42:46, 10)
+
+(LID, 4009); (335, Timestamp, 2021-06-28 15:42:46, 10)
+
+(LID, 4010); (336, Address, 7800 Col. H. Weir Cook Memorial Dr, 10); (336, Timestamp, 2021-06-28 15:42:46, 10)
+
+(LID, 4011); (337, Address, Indianapolis International Airport, 10); (337, Timestamp, 2021-06-28 15:42:46, 10)
+
+(LID, 4012); (338, Timestamp, 2021-06-28 15:42:46, 10)
+
+(LID, 4013); (339, Timestamp, 2021-06-28 15:42:46, 10)
+
+(LID, 4014); (340, Address, Indianapolis International Airport, 10); (340, Timestamp, 2021-06-28 15:42:46, 10)
+
+(LID, 4015); (341, Address, Arrivals, 8); (341, Address, Baggage Claim, 8); (341, Timestamp, 2021-06-28 15:42:46, 10)
+
+(LID, 4016); (342, Address, Indianapolis International Airport, 10); (342, Timestamp, 2021-06-28 15:42:46, 10)
+
+(LID, 4017); (343, Address, N 9th St, 9); (343, Timestamp, 2021-06-28 15:42:46, 10)
+
+(LID, 4018); (344, Address, Indianapolis, 9); (344, Timestamp, 2021-06-28 15:42:46, 10)
+
+(LID, 4019); (345, Address, Schuyler Ave, 9); (345, Timestamp, 2021-06-28 15:42:47, 10)
+
+(LID, 4020); (346, Address, Duncan Rd, 9); (346, Timestamp, 2021-06-28 15:42:47, 10)
+
+(LID, 4021); (347, Address, N Sagamore Pkwy, 9); (347, Timestamp, 2021-06-28 15:42:47, 10)
+
+(LID, 4022); (348, Timestamp, 2021-06-28 15:42:47, 10)
+
+(LID, 4023); (349, Timestamp, 2021-06-28 15:42:47, 10)
+
+(LID, 4024); (350, Address, St. Louis, 10); (350, Address, Indianapolis International Airport, 10); (350, Timestamp, 2021-06-28 15:42:49, 10)
+
+(LID, 4025); (351, Address, St. Louis, 10); (351, Address, Indianapolis International Airport, 10); (351, Timestamp, 2021-06-28 15:42:49, 10)
+
+(LID, 4026); (352, Address, St. Louis, 10); (352, Address, Indianapolis International Airport, 10); (352, Timestamp, 2021-06-28 15:42:49, 10)
+
+(LID, 4027); (353, Address, St. Louis, 10); (353, Address, Indianapolis International Airport, 10); (353, Timestamp, 2021-06-28 15:42:49, 10)
+
+(LID, 4028); (354, Address, Indianapolis International Airport, 10); (354, Timestamp, 2021-06-28 15:42:50, 10)
+
+(LID, 4029); (355, Address, Indianapolis International Airport, 10); (355, Timestamp, 2021-06-28 15:42:50, 10)
+
+(LID, 4030); (356, Address, Indianapolis International Airport, 10); (356, Timestamp, 2021-06-28 15:42:50, 10)
+
+(LID, 4031); (357, Address, Indianapolis International Airport, 10); (357, Timestamp, 2021-06-28 15:42:50, 10)
+
+(LID, 4032); (358, Address, St. Louis, 10); (358, Address, Indianapolis International Airport, 10); (358, Timestamp, 2021-06-28 15:42:50, 10)
+
+(LID, 4033); (359, Address, St. Louis, 10); (359, Address, Indianapolis International Airport, 10); (359, Timestamp, 2021-06-28 15:42:50, 10)
+
+(LID, 4034); (360, Address, St. Louis, 10); (360, Address, Indianapolis International Airport, 10); (360, Timestamp, 2021-06-28 15:42:50, 10)
+
+(LID, 4035); (361, Address, St. Louis, 10); (361, Address, Indianapolis International Airport, 10); (361, Timestamp, 2021-06-28 15:42:50, 10)
+
+(LID, 4036); (362, Timestamp, 2021-06-28 15:43:10, 10)
+
+(LID, 4037); (363, Address, Northwestern Ave, 9); (363, Timestamp, 2021-06-28 15:43:10, 10)
+
+(LID, 4038); (364, Address, Northwestern Ave, 9); (364, Timestamp, 2021-06-28 15:43:10, 10)
+
+(LID, 4039); (365, Address, W State St, 9); (365, Timestamp, 2021-06-28 15:43:10, 10)
+
+(LID, 4040); (366, Address, S River Rd, 9); (366, Timestamp, 2021-06-28 15:43:10, 10)
+
+(LID, 4041); (367, Timestamp, 2021-06-28 15:43:10, 10)
+
+(LID, 4042); (368, Timestamp, 2021-06-28 15:43:10, 10)
+
+(LID, 4043); (369, Address, Indianapolis International Airport, 10); (369, Timestamp, 2021-06-28 15:43:10, 10)
+
+(LID, 4044); (370, Timestamp, 2021-06-28 15:43:10, 10)
+
+(LID, 4045); (371, Timestamp, 2021-06-28 15:43:10, 10)
+
+(LID, 4046); (372, Address, S River Rd, 9); (372, Timestamp, 2021-06-28 15:43:10, 10)
+
+(LID, 4047); (373, Address, S River Rd, 9); (373, Timestamp, 2021-06-28 15:43:10, 10)
+
+(LID, 4048); (374, Timestamp, 2021-06-28 15:43:10, 10)
+
+(LID, 4049); (375, Timestamp, 2021-06-28 15:43:10, 10)
+
+(LID, 4050); (376, Address, W Stadium Ave, 9); (376, Timestamp, 2021-06-28 15:46:01, 10)
+
+(LID, 4051); (377, Address, Robinson St, 9); (377, Timestamp, 2021-06-28 15:46:01, 10)
+
+(LID, 4052); (378, Address, N River Rd, 9); (378, Timestamp, 2021-06-28 15:46:01, 10)
+
+(LID, 4053); (379, Address, Williams St, 9); (379, Timestamp, 2021-06-28 15:47:13, 10)
+
+(LID, 4054); (380, Address, S River Rd, 9); (380, Timestamp, 2021-06-28 15:47:13, 10)
+
+(LID, 4055); (381, Timestamp, 2021-06-28 15:47:13, 10)
+
+(LID, 4056); (382, Address, S River Rd, 9); (382, Timestamp, 2021-06-28 15:47:13, 10)
+
+(LID, 4057); (383, Address, Vine St, 9); (383, Timestamp, 2021-06-28 15:52:16, 10)
+
+(LID, 4058); (384, Address, Wiggins St, 9); (384, Timestamp, 2021-06-28 15:52:16, 10)
+
+(LID, 4059); (385, Address, Wiggins St, 9); (385, Timestamp, 2021-06-28 15:52:16, 10)
+
+(LID, 4060); (386, Address, N Grant St, 9); (386, Timestamp, 2021-06-28 15:52:16, 10)
+
+(LID, 4061); (387, Address, N Grant St, 9); (387, Timestamp, 2021-06-28 15:52:16, 10)
+
+(LID, 4062); (388, Address, North St, 9); (388, Timestamp, 2021-06-28 15:52:16, 10)
+
+(LID, 4063); (389, Address, North St, 9); (389, Timestamp, 2021-06-28 15:52:16, 10)
+
+(LID, 4064); (390, Address, S River Rd, 9); (390, Timestamp, 2021-06-28 15:52:43, 10)
+
+(LID, 4065); (391, Address, N Grant St, 9); (391, Timestamp, 2021-06-28 15:52:43, 10)
+
+(LID, 4066); (392, Address, N Grant St, 9); (392, Timestamp, 2021-06-28 15:52:43, 10)
+
+(LID, 4067); (393, Address, W Wood St, 9); (393, Timestamp, 2021-06-28 15:52:43, 10)
+
+(LID, 4068); (394, Timestamp, 2021-06-28 15:52:43, 10)
+
+(LID, 4069); (395, Address, Indianapolis, 9); (395, Timestamp, 2021-06-28 15:52:43, 10)
+
+(LID, 4070); (396, Timestamp, 2021-06-28 15:52:43, 10)
+
+(LID, 4071); (397, Timestamp, 2021-06-28 15:52:43, 10)
+
+(LID, 4072); (398, Address, Indianapolis, 9); (398, Timestamp, 2021-06-28 15:59:06, 10)
+
+(LID, 4073); (399, Timestamp, 2021-06-28 16:24:35, 10)
+
+(LID, 4074); (400, Timestamp, 2021-06-28 16:49:56, 10)
+
+(LID, 4075); (401, Timestamp, 2021-06-28 16:49:56, 10)
+
+(LID, 4076); (402, Timestamp, 2021-06-28 16:49:56, 10)
+
+(LID, 4077); (403, Timestamp, 2021-06-28 16:49:56, 10)
+
+(LID, 4078); (404, Address, St. Louis, 10); (404, Address, Indianapolis International Airport, 10); (404, Timestamp, 2021-06-28 16:54:18, 10)
+
+(LID, 4079); (405, Timestamp, 2021-06-28 16:55:26, 10)
+
+(LID, 4080); (406, Address, Indianapolis International Airport, 10); (406, Timestamp, 2021-06-28 17:08:41, 10)
+
+(LID, 4081); (407, Address, Indianapolis International Airport, 10); (407, Timestamp, 2021-06-28 17:08:41, 10)
+
+(LID, 4082); (408, Address, Bridgeport Rd, 9); (408, Timestamp, 2021-06-28 17:08:41, 10)
+
+(LID, 4083); (409, Address, Stafford Rd, 9); (409, Timestamp, 2021-06-28 17:08:41, 10)
+
+(LID, 4084); (410, Address, Ronald Reagan Pkwy, 9); (410, Timestamp, 2021-06-28 17:08:41, 10)
+
+(LID, 4085); (411, Address, Indianapolis International Airport, 10); (411, Timestamp, 2021-06-28 17:08:41, 10)
+
+(LID, 4086); (412, Address, S Perimeter Rd, 9); (412, Address, S Service Rd, 9); (412, Timestamp, 2021-06-28 17:08:41, 10)
+
+(LID, 4087); (413, Address, S Perimeter Rd, 9); (413, Address, S Service Rd, 9); (413, Timestamp, 2021-06-28 17:08:41, 10)
+
+(LID, 4088); (414, Address, W Perimeter Rd, 9); (414, Timestamp, 2021-06-28 17:08:41, 10)
+
+(LID, 4089); (415, Address, W Perimeter Rd, 9); (415, Timestamp, 2021-06-28 17:08:41, 10)
+
+(LID, 4090); (416, Address, Terminal, 8); (416, Timestamp, 2021-06-28 17:08:53, 10)
+
+(LID, 4091); (417, Address, Terminal, 8); (417, Timestamp, 2021-06-28 17:08:53, 10)
+
+(LID, 4092); (418, Address, Terminal, 8); (418, Timestamp, 2021-06-28 17:08:53, 10)
+
+(LID, 4093); (419, Address, Terminal, 8); (419, Timestamp, 2021-06-28 17:08:53, 10)
+
+(LID, 4094); (420, Timestamp, 2021-07-01 04:53:52, 10)
+
+(LID, 4095); (421, Address, Chester, 9); (421, Timestamp, 2021-07-01 04:53:57, 10)
+
+(LID, 4096); (422, Address, Chester, 9); (422, Timestamp, 2021-07-01 04:53:57, 10)
+
+(LID, 4097); (423, Address, Chester, 9); (423, Timestamp, 2021-07-01 04:53:57, 10)
+
+(LID, 4098); (424, Timestamp, 2021-07-01 04:53:57, 10)
+
+(LID, 4099); (425, Timestamp, 2021-07-01 04:53:57, 10)
+
+(LID, 4100); (426, Timestamp, 2021-07-01 04:53:57, 10)
+
+(LID, 4101); (427, Address, Chester, 9); (427, Timestamp, 2021-07-01 04:53:57, 10)
+
+(LID, 4102); (428, Address, Philadelphia, 10); (428, Address, Devon Park Dr, 9); (428, Timestamp, 2021-07-01 04:53:57, 10)
+
+(LID, 4103); (429, Address, Philadelphia, 10); (429, Address, Devon Park Dr, 9); (429, Timestamp, 2021-07-01 04:53:57, 10)
+
+(LID, 4104); (430, Address, Philadelphia, 10); (430, Timestamp, 2021-07-01 04:53:57, 10)
+
+(LID, 4105); (431, Address, Philadelphia, 10); (431, Timestamp, 2021-07-01 04:53:57, 10)
+
+(LID, 4106); (432, Timestamp, 2021-07-01 04:53:57, 10)
+
+(LID, 4107); (433, Timestamp, 2021-07-01 04:54:17, 10)
+
+(LID, 4108); (434, Address, Philadelphia International Airport, 10); (434, Timestamp, 2021-07-01 04:54:17, 10)
+
+(LID, 4109); (435, Timestamp, 2021-07-01 05:04:28, 10)
+
+(LID, 4110); (436, Address, Philadelphia, 10); (436, Address, Devon Park Dr, 9); (436, Timestamp, 2021-07-01 05:13:12, 10)
+
+(LID, 4111); (437, Address, Philadelphia, 10); (437, Timestamp, 2021-07-01 05:26:42, 10)
+
+(LID, 4112); (1, Address, 600 Terminal Dr, Fort Lauderdale, Florida, 10); (1, Longitude, -80.137022, 10); (1, Latitude, 26.071610, 10); (1, Timestamp, 2021-04-11 09:12:09, 10)
+
+(LID, 4113); (2, Address, 105 E Lancaster Ave, Downingtown, US, 10); (2, Longitude, -75.702966, 10); (2, Latitude, 40.006823, 10); (2, Timestamp, 2021-06-17 02:21:06, 10)
+
+(LID, 4114); (3, Address, 8000 Essington Ave, Philadelphia, Pennsylvania, 10); (3, Longitude, -75.258627, 10); (3, Latitude, 39.875019, 10); (3, Timestamp, 2021-06-28 18:48:48, 10)
+
+(LID, 4115); (4, Address, 7800 Col. H. Weir Cook Memorial Dr, Indianapolis, Indiana, 10); (4, Longitude, -86.298491, 10); (4, Latitude, 39.714518, 10); (4, Timestamp, 2021-06-28 15:42:41, 10)
+
+(LID, 4116); (1, Timestamp, 2021-04-11 09:12:09, 10); (1, Timestamp, 2021-04-11 09:12:09, 10)
+
+(LID, 4117); (2, Timestamp, 2021-06-17 02:21:06, 10); (2, Timestamp, 2021-06-17 02:21:06, 10)
+
+(LID, 4118); (3, Timestamp, 2021-06-28 18:48:48, 10); (3, Timestamp, 2021-07-01 04:53:55, 10)
+
+(LID, 4119); (4, Timestamp, 2021-06-28 15:42:41, 10); (4, Timestamp, 2021-06-28 15:42:41, 10)
+
+(LID, 4120)
+
+(LID, 4121)
+
+(LID, 4122); (276, Timestamp, 2021-06-28 18:48:50, 10)
+
+(LID, 4123); (277, Timestamp, 2021-06-28 18:48:50, 10)
+
+(LID, 4124); (278, Timestamp, 2021-06-28 18:48:50, 10)
+
+(LID, 4125); (279, Timestamp, 2021-06-28 18:48:50, 10)
+
+(LID, 4126); (280, Address, 8000 Essington Ave, 10); (280, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4127); (281, Address, Philadelphia International Airport, 10); (281, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4128); (282, Address, West Chester Pike, 9); (282, Address, Willistown, 9); (282, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4129); (283, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4130); (284, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4131); (285, Address, N Providence Rd, 9); (285, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4132); (286, Address, N Providence Rd, 9); (286, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4133); (287, Address, Chester, 9); (287, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4134); (288, Address, Chester, 9); (288, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4135); (289, Address, Chester, 9); (289, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4136); (290, Address, Chester, 9); (290, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4137); (291, Address, Plymouth Meeting, 9); (291, Address, Chester, 9); (291, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4138); (292, Address, Plymouth Meeting, 9); (292, Address, Chester, 9); (292, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4139); (293, Address, Plymouth Meeting, 9); (293, Address, Chester, 9); (293, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4140); (294, Address, Plymouth Meeting, 9); (294, Address, Chester, 9); (294, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4141); (295, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4142); (296, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4143); (297, Address, Bartram Ave, 9); (297, Address, Cargo City, 9); (297, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4144); (298, Address, Bartram Ave, 9); (298, Address, Cargo City, 9); (298, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4145); (299, Address, Bartram Ave, 9); (299, Address, Cargo City, 9); (299, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4146); (300, Address, Bartram Ave, 9); (300, Address, Cargo City, 9); (300, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4147); (301, Address, Philadelphia, 10); (301, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4148); (302, Address, Philadelphia, 10); (302, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4149); (303, Address, Providence Rd, 9); (303, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4150); (304, Address, Providence Rd, 9); (304, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4151); (305, Address, Newtown Square, 9); (305, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4152); (306, Address, Newtown Square, 9); (306, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4153); (307, Address, Newtown Square, 9); (307, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4154); (308, Address, Newtown Square, 9); (308, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4155); (309, Address, Newtown Square, 9); (309, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4156); (310, Address, Newtown Square, 9); (310, Timestamp, 2021-06-28 18:48:51, 10)
+
+(LID, 4157); (311, Timestamp, 2021-06-28 18:57:11, 10)
+
+(LID, 4158); (312, Timestamp, 2021-06-28 18:57:11, 10)
+
+(LID, 4159); (313, Timestamp, 2021-06-28 18:57:11, 10)
+
+(LID, 4160); (314, Address, Newtown Square, 9); (314, Timestamp, 2021-06-28 18:57:11, 10)
+
+(LID, 4161); (315, Address, Providence Rd, 9); (315, Timestamp, 2021-06-28 18:49:54, 10)
+
+(LID, 4162); (316, Address, Wiggins St, 9); (316, Timestamp, 2021-06-28 23:42:45, 10)
+
+(LID, 4163); (317, Timestamp, 2021-06-28 23:42:45, 10)
+
+(LID, 4164); (318, Address, Wiggins St, 9); (318, Timestamp, 2021-06-28 23:42:45, 10)
+
+(LID, 4165); (319, Address, Canal Rd, 9); (319, Timestamp, 2021-06-28 23:42:45, 10)
+
+(LID, 4166); (320, Address, Indianapolis Int'l Airport, 10); (320, Timestamp, 2021-06-28 23:42:46, 10)
+
+(LID, 4167); (321, Address, Indianapolis Int'l Airport, 10); (321, Timestamp, 2021-06-28 23:42:46, 10)
+
+(LID, 4168); (322, Timestamp, 2021-06-28 23:42:46, 10)
+
+(LID, 4169); (323, Address, Indianapolis Int'l Airport, 10); (323, Timestamp, 2021-06-28 23:42:46, 10)
+
+(LID, 4170); (324, Address, Canal Rd, 9); (324, Timestamp, 2021-06-28 23:42:46, 10)
+
+(LID, 4171); (325, Address, Canal Rd, 9); (325, Timestamp, 2021-06-28 23:42:46, 10)
+
+(LID, 4172); (326, Timestamp, 2021-06-28 23:42:46, 10)
+
+(LID, 4173); (243, Timestamp, 2021-06-17 09:41:55, 10)
+
+(LID, 4174); (244, Timestamp, 2021-06-17 09:41:56, 10)
+
+(LID, 4175); (245, Timestamp, 2021-06-17 09:41:56, 10)
+
+(LID, 4176); (246, Timestamp, 2021-06-17 09:41:56, 10)
+
+(LID, 4177); (247, Timestamp, 2021-06-17 09:41:56, 10)
+
+(LID, 4178); (248, Timestamp, 2021-06-17 09:41:56, 10)
+
+(LID, 4179); (249, Timestamp, 2021-06-17 09:41:56, 10)
+
+(LID, 4180); (250, Address, Haverhill Rd, 9); (250, Timestamp, 2021-06-17 09:41:56, 10)
+
+(LID, 4181); (251, Timestamp, 2021-06-17 09:41:56, 10)
+
+(LID, 4182); (252, Address, Haverhill Rd, 9); (252, Timestamp, 2021-06-17 09:41:56, 10)
+
+(LID, 4183); (253, Timestamp, 2021-06-17 09:41:56, 10)
+
+(LID, 4184); (254, Timestamp, 2021-06-17 09:41:56, 10)
+
+(LID, 4185); (255, Timestamp, 2021-06-17 09:41:56, 10)
+
+(LID, 4186); (256, Timestamp, 2021-06-17 09:41:56, 10)
+
+(LID, 4187); (257, Timestamp, 2021-06-17 09:45:16, 10)
+
+(LID, 4188); (258, Timestamp, 2021-06-17 09:45:16, 10)
+
+(LID, 4189); (259, Timestamp, 2021-06-17 09:45:16, 10)
+
+(LID, 4190); (260, Timestamp, 2021-06-17 09:45:16, 10)
+
+(LID, 4191); (261, Timestamp, 2021-06-17 09:45:16, 10)
+
+(LID, 4192); (262, Timestamp, 2021-06-17 09:45:16, 10)
+
+(LID, 4193); (263, Timestamp, 2021-06-17 09:45:16, 10)
+
+(LID, 4194); (264, Timestamp, 2021-06-17 09:45:16, 10)
+
+(LID, 4195); (265, Timestamp, 2021-06-17 09:45:16, 10)
+
+(LID, 4196); (266, Timestamp, 2021-06-17 09:45:16, 10)
+
+(LID, 4197); (267, Address, E Lancaster Ave, 9); (267, Timestamp, 2021-06-17 09:45:16, 10)
+
+(LID, 4198); (240, Timestamp, 2021-06-17 09:41:55, 10)
+
+(LID, 4199); (241, Timestamp, 2021-06-17 09:41:55, 10)
+
+(LID, 4200); (242, Timestamp, 2021-06-17 09:41:55, 10)
+
+
+

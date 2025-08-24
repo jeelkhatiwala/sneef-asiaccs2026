@@ -1,0 +1,160 @@
+(LID, 2002); (1, App Name, DuckDuckGo, 10);
+
+(LID, 2003); (2, App Name, DuckDuckGo, 10);
+
+(LID, 2004); (3, App Name, DuckDuckGo, 10);
+
+(LID, 2005); (4, App Name, DuckDuckGo, 10);
+
+(LID, 2006); (5, App Name, DuckDuckGo, 10);
+
+(LID, 2007); (6, App Name, DuckDuckGo, 10);
+
+(LID, 2008); (7, App Name, DuckDuckGo, 10);
+
+(LID, 2009); (8, App Name, DuckDuckGo, 10);
+
+(LID, 2010); (9, App Name, DuckDuckGo, 10);
+
+(LID, 2011); (10, App Name, DuckDuckGo, 10);
+
+(LID, 2012); (11, App Name, DuckDuckGo, 10);
+
+(LID, 2013); (12, App Name, DuckDuckGo, 10);
+
+(LID, 2014); (13, App Name, DuckDuckGo, 10);
+
+(LID, 2015); (14, App Name, DuckDuckGo, 10);
+
+(LID, 2016); (15, App Name, DuckDuckGo, 10);
+
+(LID, 2017); (16, App Name, DuckDuckGo, 10);
+
+(LID, 2018); (17, App Name, DuckDuckGo, 10);
+
+(LID, 2019); (18, App Name, DuckDuckGo, 10);
+
+(LID, 2020); (19, App Name, DuckDuckGo, 10);
+
+(LID, 2021); (20, App Name, DuckDuckGo, 10); (20, Search keyword, m dx s ios phone, 9);
+
+(LID, 2024); (23, App Name, DuckDuckGo, 10); (23, Search keyword, m dx wo ios phone, 9);
+
+(LID, 2025); (24, App Name, DuckDuckGo, 10); (24, Search keyword, mt bm ios phone, 9);
+
+(LID, 2026); (25, App Name, DuckDuckGo, 10); (25, Search keyword, mb ios phone, 9);
+
+(LID, 2027); (26, App Name, DuckDuckGo, 10); (26, Search keyword, mb af ios phone, 9);
+
+(LID, 2028); (27, App Name, DuckDuckGo, 10);
+
+(LID, 2029); (28, App Name, DuckDuckGo, 10);
+
+(LID, 2030); (29, App Name, DuckDuckGo, 10);
+
+(LID, 2031); (30, App Name, DuckDuckGo, 10);
+
+(LID, 2032); (31, App Name, DuckDuckGo, 10);
+
+(LID, 2033); (32, App Name, DuckDuckGo, 10);
+
+(LID, 2034); (33, App Name, DuckDuckGo, 10);
+
+(LID, 2035); (34, App Name, DuckDuckGo, 10);
+
+(LID, 2036); (35, App Name, DuckDuckGo, 10);
+
+(LID, 2037); (36, App Name, DuckDuckGo, 10);
+
+(LID, 2038); (37, App Name, DuckDuckGo, 10);
+
+(LID, 2039); (38, App Name, DuckDuckGo, 10);
+
+(LID, 2040); (39, App Name, DuckDuckGo, 10);
+
+(LID, 2041); (40, Search keyword, rq 1, 8); (40, App Name, DuckDuckGo, 10);
+
+(LID, 2042); (41, App Name, SmarterForensics, 10);
+
+(LID, 2043); (42, App Name, SmarterForensics, 10);
+
+(LID, 2044); (43, App Name, DuckDuckGo, 10); (43, Search keyword, mb f ios phone, 9);
+
+(LID, 2045); (44, App Name, DuckDuckGo, 10); (44, Search keyword, m d cfgfetch ios phone, 9);
+
+(LID, 2046); (45, App Name, DuckDuckGo, 10); (45, Search keyword, mt tb ios phone, 9);
+
+(LID, 2047); (46, App Name, DuckDuckGo, 10); (46, Search keyword, m ts n ios phone, 9);
+
+(LID, 2048); (47, App Name, DuckDuckGo, 10);
+
+(LID, 2049); (48, App Name, DuckDuckGo, 10); (48, Search keyword, m d cfgfetch ios phone, 9);
+
+(LID, 2050); (49, App Name, DuckDuckGo, 10);
+
+(LID, 2051); (50, App Name, DuckDuckGo, 10); (50, Search keyword, do, 10);
+
+(LID, 2052); (51, App Name, DuckDuckGo, 10); (51, Search keyword, dow, 10);
+
+(LID, 2053); (52, App Name, DuckDuckGo, 10); (52, Search keyword, down, 10);
+
+(LID, 2054); (53, App Name, DuckDuckGo, 10); (53, Search keyword, downl, 10);
+
+(LID, 2055); (54, App Name, DuckDuckGo, 10); (54, Search keyword, downlo, 10);
+
+(LID, 2056); (55, Search keyword, downloa, 10); (55, App Name, DuckDuckGo, 10);
+
+(LID, 2057); (56, App Name, DuckDuckGo, 10); (56, Search keyword, download, 10);
+
+(LID, 2058); (57, App Name, DuckDuckGo, 10); (57, Search keyword, download, 10);
+
+(LID, 2059); (58, App Name, DuckDuckGo, 10); (58, Search keyword, download s, 10);
+
+(LID, 2060); (59, App Name, DuckDuckGo, 10); (59, Search keyword, download sm, 10);
+
+(LID, 2061); (60, App Name, DuckDuckGo, 10); (60, Search keyword, download sma, 10);
+
+(LID, 2062); (61, Search keyword, download smar, 10); (61, App Name, DuckDuckGo, 10);
+
+(LID, 2063); (62, App Name, DuckDuckGo, 10); (62, Search keyword, download smart, 10);
+
+(LID, 2064); (63, App Name, DuckDuckGo, 10); (63, Search keyword, download smarte, 10);
+
+(LID, 2065); (64, App Name, DuckDuckGo, 10); (64, Search keyword, download smarter, 10);
+
+(LID, 2073); (11, Search keyword, [www.macys.com](http://www.macys.com), 10);
+
+(LID, 2074); (12, Search keyword, [www.macys.com](http://www.macys.com), 10);
+
+(LID, 2091); (29, Search keyword, [www.smartsheet.com](http://www.smartsheet.com), 10);
+
+(LID, 2092); (30, Search keyword, [www.smartsheet.com](http://www.smartsheet.com), 10);
+
+(LID, 2093); (31, Search keyword, [www.smartsheet.com](http://www.smartsheet.com), 10);
+
+(LID, 2095); (33, Search keyword, [www.smartereveryday.com](http://www.smartereveryday.com), 10);
+
+(LID, 2109); (47, App Name, DuckDuckGo, 10);
+
+(LID, 2112); (50, Search keyword, [www.daum.net](http://www.daum.net), 10);
+
+(LID, 2118); (56, App Name, DuckDuckGo, 10);
+
+(LID, 2187); (2, Timestamp, 2021-03-26 15:53:35, 10);
+
+(LID, 2188); (3, Timestamp, 2021-03-26 15:53:35, 10);
+
+(LID, 2189); (4, Timestamp, 2021-03-26 15:53:57, 10); (4, Timestamp, 2021-03-26 15:53:55, 10);
+
+(LID, 2190); (5, Timestamp, 2021-03-26 15:53:35, 10);
+
+(LID, 2191); (6, Timestamp, 2021-04-07 17:06:45, 10);
+
+(LID, 2192); (7, Timestamp, 2021-04-07 17:06:45, 10);
+
+(LID, 2193); (8, Timestamp, 2021-04-07 17:06:45, 10);
+
+(LID, 2194); (9, Timestamp, 2021-04-07 17:06:45, 10);
+
+(LID, 2195); (10, Timestamp, 2021-03-26 15:54:25, 10); (10, Timestamp, 2021-03-26 15:54:27, 10);
+

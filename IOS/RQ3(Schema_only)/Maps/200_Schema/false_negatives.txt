@@ -1,0 +1,400 @@
+(LID, 4001); (327, Message, then turn left on Canal Rd, 9); (327, App Name, Apple Maps, 8);
+
+(LID, 4002); (328, App Name, Apple Maps, 8); (328, Message, then use either lane to keep right, 9);
+
+(LID, 4003); (329, Message, keep right to Ronald Reagan Pkwy / to Ameriplex Pkwy, 9); (329, App Name, Apple Maps, 8); (329, Address, Ronald Reagan Pkwy, Ameriplex Pkwy, 9);
+
+(LID, 4004); (330, Message, use the right four lanes to keep right, 9); (330, App Name, Apple Maps, 8);
+
+(LID, 4005); (331, Message, use the right four lanes to keep right to Ronald Reagan Pkwy / to Ameriplex Pkwy, 9); (331, App Name, Apple Maps, 8); (331, Address, Ronald Reagan Pkwy, Ameriplex Pkwy, 9);
+
+(LID, 4006); (332, Message, use the left three lanes to keep left, 9); (332, App Name, Apple Maps, 8);
+
+(LID, 4007); (333, App Name, Apple Maps, 8); (333, Message, use the right two lanes to exit right, 9);
+
+(LID, 4008); (334, App Name, Apple Maps, 8); (334, Message, use the right two lanes to exit, 9);
+
+(LID, 4009); (335, App Name, Apple Maps, 8); (335, Message, use either lane to keep right, 9);
+
+(LID, 4010); (336, Message, 7800 Col. H. Weir Cook Memorial Dr, 9); (336, App Name, Apple Maps, 8);
+
+(LID, 4011); (337, Message, Indianapolis International Airport (IND), 9); (337, App Name, Apple Maps, 8); (337, Address, Indianapolis International Airport (IND), 9);
+
+(LID, 4012); (338, Message, Let's take I-65 S, 9); (338, Address, I-65 S, 9); (338, App Name, Apple Maps, 8);
+
+(LID, 4013); (339, Message, then use the right two lanes to keep right, 9); (339, App Name, Apple Maps, 8);
+
+(LID, 4014); (340, Message, then use the right two lanes to keep right to Indianapolis Int'l Airport, 9); (340, App Name, Apple Maps, 8); (340, Address, Indianapolis International Airport (IND), 9);
+
+(LID, 4015); (341, Address, Arrivals / Baggage Claim (Indianapolis International Airport), 9); (341, App Name, Apple Maps, 8); (341, Message, keep left to Arrivals / Baggage Claim, 9);
+
+(LID, 4016); (342, App Name, Apple Maps, 8); (342, Message, you'll arrive at Indianapolis International Airport (IND), 9); (342, Address, Indianapolis International Airport (IND), 9);
+
+(LID, 4017); (343, App Name, Apple Maps, 8); (343, Message, turn left on N 9th St, 9);
+
+(LID, 4018); (344, Message, turn right to I-65 S / Indianapolis, 9); (344, App Name, Apple Maps, 8); (344, Address, I-65 S (Indianapolis), 9);
+
+(LID, 4019); (345, Message, turn left on Schuyler Ave, 9); (345, App Name, Apple Maps, 8);
+
+(LID, 4020); (346, App Name, Apple Maps, 8); (346, Message, turn left on Duncan Rd, 9);
+
+(LID, 4021); (347, Message, turn right on N Sagamore Pkwy, 9); (347, App Name, Apple Maps, 8);
+
+(LID, 4022); (348, Message, keep left to I-65 S / to I-465 S, 9); (348, App Name, Apple Maps, 8); (348, Address, I-65 S, I-465 S, 9);
+
+(LID, 4023); (349, Message, use the left three lanes to keep left to I-65 S / to I-465 S, 9); (349, App Name, Apple Maps, 8); (349, Address, I-65 S, I-465 S, 9);
+
+(LID, 4024); (350, Address, Exit 9B (I-70 W / St. Louis / Indianapolis Int'l Airport), 9); (350, Message, exit to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport, 9); (350, App Name, Apple Maps, 8);
+
+(LID, 4025); (351, Address, Exit 9B (I-70 W / St. Louis / Indianapolis Int'l Airport), 9); (351, Message, exit right to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport, 9); (351, App Name, Apple Maps, 8);
+
+(LID, 4026); (352, Address, Exit 9B (I-70 W / St. Louis / Indianapolis Int'l Airport), 9); (352, Message, use the right two lanes to exit right to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport, 9); (352, App Name, Apple Maps, 8);
+
+(LID, 4027); (353, Address, Exit 9B (I-70 W / St. Louis / Indianapolis Int'l Airport), 9); (353, App Name, Apple Maps, 8); (353, Message, use the right two lanes to exit to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport, 9);
+
+(LID, 4028); (354, Address, Exit 123 (I-465 S / Indianapolis Int'l Airport), 9); (354, App Name, Apple Maps, 8); (354, Message, exit to Exit 123: I-465 S / Indianapolis Int'l Airport, 9);
+
+(LID, 4029); (355, Address, Exit 123 (I-465 S / Indianapolis Int'l Airport), 9); (355, Message, exit right to Exit 123: I-465 S / Indianapolis Int'l Airport, 9); (355, App Name, Apple Maps, 8);
+
+(LID, 4030); (356, Address, Exit 123 (I-465 S / Indianapolis Int'l Airport), 9); (356, App Name, Apple Maps, 8); (356, Message, use the right two lanes to exit right to Exit 123: I-465 S / Indianapolis Int'l Airport, 9);
+
+(LID, 4031); (357, Address, Exit 123 (I-465 S / Indianapolis Int'l Airport), 9); (357, Message, use the right two lanes to exit to Exit 123: I-465 S / Indianapolis Int'l Airport, 9); (357, App Name, Apple Maps, 8);
+
+(LID, 4032); (358, Address, Exit 9B (I-70 W / St. Louis / Indianapolis Int'l Airport), 9); (358, App Name, Apple Maps, 8); (358, Message, keep right to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport, 9);
+
+(LID, 4033); (359, Address, Exit 9B (I-70 W / St. Louis / Indianapolis Int'l Airport), 9); (359, App Name, Apple Maps, 8); (359, Message, then keep right to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport, 9);
+
+(LID, 4034); (360, Message, use either lane to keep right to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport, 9); (360, Address, Exit 9B (I-70 W / St. Louis / Indianapolis Int'l Airport), 9); (360, App Name, Apple Maps, 8);
+
+(LID, 4035); (361, Address, Exit 9B (I-70 W / St. Louis / Indianapolis Int'l Airport), 9); (361, App Name, Apple Maps, 8); (361, Message, then use either lane to keep right to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport, 9);
+
+(LID, 4036); (362, Message, Let's take US-231 S, and US-52 E, I-65 S, 9); (362, App Name, Apple Maps, 8); (362, Address, US-231 S, US-52 E, I-65 S, 9);
+
+(LID, 4037); (363, Message, keep right to Northwestern Ave, 9); (363, App Name, Apple Maps, 8);
+
+(LID, 4038); (364, Message, then keep right to Northwestern Ave, 9); (364, App Name, Apple Maps, 8);
+
+(LID, 4039); (365, Message, turn left on W State St, 9); (365, App Name, Apple Maps, 8);
+
+(LID, 4040); (366, App Name, Apple Maps, 8); (366, Message, turn right on S River Rd, 9);
+
+(LID, 4041); (367, Message, use either lane to continue straight, 9); (367, App Name, Apple Maps, 8);
+
+(LID, 4042); (368, Address, I-65 S, 9); (368, App Name, Apple Maps, 8); (368, Message, use either lane to continue straight to I-65 S, 9);
+
+(LID, 4043); (369, App Name, Apple Maps, 8); (369, Message, you'll arrive at Indianapolis International Airport (IND), 9); (369, Address, Indianapolis International Airport (IND), 9);
+
+(LID, 4044); (370, Address, US-52 E, 9); (370, App Name, Apple Maps, 8); (370, Message, turn right on US-52 E, 9);
+
+(LID, 4045); (371, Address, IN-28, 9); (371, Message, turn left on IN-28, 9); (371, App Name, Apple Maps, 8);
+
+(LID, 4046); (372, Message, at the roundabout, continue straight on S River Rd, 9); (372, App Name, Apple Maps, 8);
+
+(LID, 4047); (373, Message, continue straight on S River Rd, 9); (373, App Name, Apple Maps, 8);
+
+(LID, 4048); (374, Message, turn left on US-231 S, 9); (374, App Name, Apple Maps, 8); (374, Address, US-231 S, 9);
+
+(LID, 4049); (375, Address, I-65 S, 9); (375, App Name, Apple Maps, 8); (375, Message, continue straight to I-65 S, 9);
+
+(LID, 4050); (376, Message, turn right on W Stadium Ave, 9); (376, App Name, Apple Maps, 8);
+
+(LID, 4051); (377, Message, turn right on Robinson St, 9); (377, App Name, Apple Maps, 8);
+
+(LID, 4052); (378, App Name, Apple Maps, 8); (378, Message, turn right on N River Rd, 9);
+
+(LID, 4053); (379, Message, turn left on Williams St, 9); (379, App Name, Apple Maps, 8);
+
+(LID, 4054); (380, Address, S River Rd (first exit at roundabout), 9); (380, App Name, Apple Maps, 8); (380, Message, at the roundabout take the first exit on S River Rd, 9);
+
+(LID, 4055); (381, Message, at the roundabout take the first exit, 9); (381, App Name, Apple Maps, 8);
+
+(LID, 4056); (382, App Name, Apple Maps, 8); (382, Message, take the first exit on S River Rd, 9); (382, Address, S River Rd (first exit), 9);
+
+(LID, 4057); (383, App Name, Apple Maps, 8); (383, Message, turn left on Vine St, 9);
+
+(LID, 4058); (384, App Name, Apple Maps, 8); (384, Message, turn right on Wiggins St, 9);
+
+(LID, 4059); (385, Message, then turn right on Wiggins St, 9); (385, App Name, Apple Maps, 8);
+
+(LID, 4060); (386, App Name, Apple Maps, 8); (386, Message, turn right on N Grant St, 9);
+
+(LID, 4061); (387, Message, then turn right on N Grant St, 9); (387, App Name, Apple Maps, 8);
+
+(LID, 4062); (388, App Name, Apple Maps, 8); (388, Message, turn right on North St, 9);
+
+(LID, 4063); (389, Message, then turn right on North St, 9); (389, App Name, Apple Maps, 8);
+
+(LID, 4064); (390, App Name, Apple Maps, 8); (390, Message, then at the roundabout, continue straight on S River Rd, 9);
+
+(LID, 4065); (391, App Name, Apple Maps, 8); (391, Message, turn left on N Grant St, 9);
+
+(LID, 4066); (392, Message, then turn left on N Grant St, 9); (392, App Name, Apple Maps, 8);
+
+(LID, 4067); (393, Message, turn left on W Wood St, 9); (393, App Name, Apple Maps, 8);
+
+(LID, 4068); (394, App Name, Apple Maps, 8); (394, Message, then at the roundabout, continue straight, 9);
+
+(LID, 4069); (395, Address, I-74 E (Indianapolis), 9); (395, App Name, Apple Maps, 8); (395, Message, turn right to I-74 E / Indianapolis, 9);
+
+(LID, 4070); (396, Message, keep left to I-465 S / I-74 E, 9); (396, Address, I-465 S, I-74 E, 9); (396, App Name, Apple Maps, 8);
+
+(LID, 4071); (397, Address, I-465 S, I-74 E, 9); (397, App Name, Apple Maps, 8); (397, Message, use the left two lanes to keep left to I-465 S / I-74 E, 9);
+
+(LID, 4072); (398, Address, I-74 E (Indianapolis), 9); (398, Message, continue straight for 30 minutes to I-74 E / Indianapolis, 9); (398, App Name, Apple Maps, 8);
+
+(LID, 4073); (399, Address, I-465 S, I-74 E, 9); (399, App Name, Apple Maps, 8); (399, Message, continue straight for 30 minutes to I-465 S / I-74 E, 9);
+
+(LID, 4074); (400, App Name, Apple Maps, 8); (400, Message, in 5.8 miles, 9);
+
+(LID, 4075); (401, Message, in 5.7 miles, 9); (401, App Name, Apple Maps, 8);
+
+(LID, 4076); (402, Message, in 5.6 miles, 9); (402, App Name, Apple Maps, 8);
+
+(LID, 4077); (403, Message, in 5.5 miles, 9); (403, App Name, Apple Maps, 8);
+
+(LID, 4078); (404, Address, Exit 9B (I-70 W / St. Louis / Indianapolis Int'l Airport), 9); (404, Message, continue straight for 10 minutes to Exit 9B: I-70 W / St. Louis / Indianapolis Int'l Airport, 9); (404, App Name, Apple Maps, 8);
+
+(LID, 4079); (405, Message, Estimated time in traffic, 8 minutes, 9); (405, App Name, Apple Maps, 8);
+
+(LID, 4080); (406, Message, turn left to Indianapolis Int'l Airport, 9); (406, App Name, Apple Maps, 8); (406, Address, Indianapolis International Airport (IND), 9);
+
+(LID, 4081); (407, Message, then keep left to Indianapolis Int'l Airport, 9); (407, App Name, Apple Maps, 8); (407, Address, Indianapolis International Airport (IND), 9);
+
+(LID, 4082); (408, Message, turn left on Bridgeport Rd, 9); (408, App Name, Apple Maps, 8);
+
+(LID, 4083); (409, App Name, Apple Maps, 8); (409, Message, turn right on Stafford Rd, 9);
+
+(LID, 4084); (410, Message, turn left on Ronald Reagan Pkwy, 9); (410, App Name, Apple Maps, 8);
+
+(LID, 4085); (411, Address, Indianapolis International Airport (IND), 9); (411, App Name, Apple Maps, 8); (411, Message, keep left to Indianapolis Int'l Airport, 9);
+
+(LID, 4086); (412, App Name, Apple Maps, 8); (412, Message, keep right to S Perimeter Rd / S Service Rd, 9); (412, Address, S Perimeter Rd / S Service Rd, 9);
+
+(LID, 4087); (413, Message, then keep right to S Perimeter Rd / S Service Rd, 9); (413, App Name, Apple Maps, 8); (413, Address, S Perimeter Rd / S Service Rd, 9);
+
+(LID, 4088); (414, Message, turn right on W Perimeter Rd, 9); (414, App Name, Apple Maps, 8);
+
+(LID, 4089); (415, App Name, Apple Maps, 8); (415, Message, then turn right on W Perimeter Rd, 9);
+
+(LID, 4090); (416, App Name, Apple Maps, 8); (416, Message, turn left on Terminal, 9);
+
+(LID, 4091); (417, App Name, Apple Maps, 8); (417, Message, then turn left on Terminal, 9);
+
+(LID, 4092); (418, Message, turn left to Terminal, 9); (418, App Name, Apple Maps, 8);
+
+(LID, 4093); (419, Message, then turn left to Terminal, 9); (419, App Name, Apple Maps, 8);
+
+(LID, 4094); (420, App Name, Apple Maps, 8); (420, Message, Exiting average speed enforcement zone, 9);
+
+(LID, 4095); (421, Message, exit right to Exit 331A: I-476 S / Chester, 9); (421, App Name, Apple Maps, 8); (421, Address, Exit 331A (I-476 S / Chester), 9);
+
+(LID, 4096); (422, Message, use the right lane to exit right to Exit 331A: I-476 S / Chester, 9); (422, App Name, Apple Maps, 8); (422, Address, Exit 331A (I-476 S / Chester), 9);
+
+(LID, 4097); (423, Message, use the right lane to exit to Exit 331A: I-476 S / Chester, 9); (423, App Name, Apple Maps, 8); (423, Address, Exit 331A (I-476 S / Chester), 9);
+
+(LID, 4098); (424, App Name, Apple Maps, 8); (424, Message, turn left to US-202 N, 9); (424, Address, US-202 N, 9);
+
+(LID, 4099); (425, Message, use the left two lanes to turn left, 9); (425, App Name, Apple Maps, 8);
+
+(LID, 4100); (426, Message, use the left two lanes to turn left to US-202 N, 9); (426, App Name, Apple Maps, 8); (426, Address, US-202 N, 9);
+
+(LID, 4101); (427, Message, exit to Exit 331A: I-476 S / Chester, 9); (427, App Name, Apple Maps, 8); (427, Address, Exit 331A (I-476 S / Chester), 9);
+
+(LID, 4102); (428, Message, keep right to I-76 E / Philadelphia / Devon Park Dr, 9); (428, App Name, Apple Maps, 8); (428, Address, I-76 E / Philadelphia / Devon Park Dr, 9);
+
+(LID, 4103); (429, App Name, Apple Maps, 8); (429, Address, I-76 E / Philadelphia / Devon Park Dr, 9); (429, Message, use the right two lanes to keep right to I-76 E / Philadelphia / Devon Park Dr, 9);
+
+(LID, 4104); (430, Message, keep left to I-76 E / Philadelphia, 9); (430, Address, I-76 E / Philadelphia, 9); (430, App Name, Apple Maps, 8);
+
+(LID, 4105); (431, Message, then keep left to I-76 E / Philadelphia, 9); (431, Address, I-76 E / Philadelphia, 9); (431, App Name, Apple Maps, 8);
+
+(LID, 4106); (432, Message, Let's take US-202 N, and I-476 S. Arrival time on this route, is similar to US-202 S, I-476 S, 9); (432, App Name, Apple Maps, 8); (432, Address, US-202 N, I-476 S, 9);
+
+(LID, 4107); (433, Address, US-202 N, I-476 S, 9); (433, App Name, Apple Maps, 8); (433, Message, Let's take US-202 N, and I-476 S, 9);
+
+(LID, 4108); (434, Address, Philadelphia International Airport (PHL), 9); (434, App Name, Apple Maps, 8); (434, Message, you'll arrive at Philadelphia International Airport (PHL), 9);
+
+(LID, 4109); (435, Address, US-202 N, 9); (435, App Name, Apple Maps, 8); (435, Message, continue straight for 9 minutes to US-202 N, 9);
+
+(LID, 4110); (436, App Name, Apple Maps, 8); (436, Address, I-76 E / Philadelphia / Devon Park Dr, 9); (436, Message, continue straight for 7 minutes to I-76 E / Philadelphia / Devon Park Dr, 9);
+
+(LID, 4111); (437, Message, continue straight for 15 minutes to I-95 N » Philadelphia, 9); (437, Address, I-95 N (Philadelphia), 9); (437, App Name, Apple Maps, 8);
+
+(LID, 4112); (1, Message, FLL Airport - Car Rental Center, 9); (1, App Name, Apple Maps, 8);
+
+(LID, 4113); (2, Message, Amani's BYOB, 9); (2, App Name, Apple Maps, 8);
+
+(LID, 4114); (3, App Name, Apple Maps, 8); (3, Message, Philadelphia International Airport (PHL), 9);
+
+(LID, 4115); (4, Message, Indianapolis International Airport (IND), 9); (4, App Name, Apple Maps, 8);
+
+(LID, 4116); (1, Message, RECENTS: FLL Airport - Car Rental Center, 9); (1, App Name, Apple Maps, 8);
+
+(LID, 4117); (2, App Name, Apple Maps, 8); (2, Message, RECENTS: Amani's BYOB, 9);
+
+(LID, 4118); (3, App Name, Apple Maps, 8); (3, Timestamp, 2021-06-28 10:08:48, 9); (3, Message, RECENTS: Philadelphia International Airport (PHL), 9);
+
+(LID, 4119); (4, App Name, Apple Maps, 8); (4, Message, RECENTS: Indianapolis International Airport (IND), 9);
+
+(LID, 4120); (1, App Name, Apple Maps, 8); (1, Message, sqlite_sequence: PLACES seq 4, 9);
+
+(LID, 4121); (2, App Name, Apple Maps, 8); (2, Message, sqlite_sequence: RECENTS seq 4, 9);
+
+(LID, 4122); (276, App Name, Apple Maps, 8); (276, Message, use the right lane to exit, 9);
+
+(LID, 4123); (277, Message, then keep right, 9); (277, App Name, Apple Maps, 8);
+
+(LID, 4124); (278, Message, use the right lane to turn right, 9); (278, App Name, Apple Maps, 8);
+
+(LID, 4125); (279, Message, use the left lane to turn left, 9); (279, App Name, Apple Maps, 8);
+
+(LID, 4126); (280, App Name, Apple Maps, 10);
+
+(LID, 4127); (281, Address, Philadelphia International Airport (PHL), 10); (281, App Name, Apple Maps, 10);
+
+(LID, 4128); (282, Search keyword, West Chester Pike Willistown, 9); (282, App Name, Apple Maps, 10); (282, Search keyword, US-202 S, 9);
+
+(LID, 4129); (283, Address, US-1 N, 9); (283, App Name, Apple Maps, 10);
+
+(LID, 4130); (284, Address, US-1 N, 9); (284, App Name, Apple Maps, 10);
+
+(LID, 4131); (285, App Name, Apple Maps, 10);
+
+(LID, 4132); (286, App Name, Apple Maps, 10);
+
+(LID, 4133); (287, Address, I-476 S » Chester, 9); (287, App Name, Apple Maps, 10);
+
+(LID, 4134); (288, Address, I-476 S » Chester, 9); (288, App Name, Apple Maps, 10);
+
+(LID, 4135); (289, Address, I-476 S » Chester, 9); (289, App Name, Apple Maps, 10);
+
+(LID, 4136); (290, Address, I-476 S » Chester, 9); (290, App Name, Apple Maps, 10);
+
+(LID, 4137); (291, Address, I-476 » Plymouth Meeting / Chester, 9); (291, App Name, Apple Maps, 10);
+
+(LID, 4138); (292, Address, I-476 » Plymouth Meeting / Chester, 9); (292, App Name, Apple Maps, 10);
+
+(LID, 4139); (293, Address, I-476 » Plymouth Meeting / Chester, 9); (293, App Name, Apple Maps, 10);
+
+(LID, 4140); (294, Address, I-476 » Plymouth Meeting / Chester, 9); (294, App Name, Apple Maps, 10);
+
+(LID, 4141); (295, Address, US-202 S, 9); (295, App Name, Apple Maps, 10);
+
+(LID, 4142); (296, Address, US-202 S, 9); (296, App Name, Apple Maps, 10);
+
+(LID, 4143); (297, App Name, Apple Maps, 10); (297, Address, Exit 10: SR-291 E » Bartram Ave / Cargo City, 9);
+
+(LID, 4144); (298, App Name, Apple Maps, 10); (298, Address, Exit 10: SR-291 E » Bartram Ave / Cargo City, 9);
+
+(LID, 4145); (299, App Name, Apple Maps, 10); (299, Address, Exit 10: SR-291 E » Bartram Ave / Cargo City, 9);
+
+(LID, 4146); (300, App Name, Apple Maps, 10); (300, Address, Exit 10: SR-291 E » Bartram Ave / Cargo City, 9);
+
+(LID, 4147); (301, Address, I-95 N » Philadelphia, 9); (301, App Name, Apple Maps, 10);
+
+(LID, 4148); (302, Address, I-95 N » Philadelphia, 9); (302, App Name, Apple Maps, 10);
+
+(LID, 4149); (303, App Name, Apple Maps, 10);
+
+(LID, 4150); (304, App Name, Apple Maps, 10);
+
+(LID, 4151); (305, Address, SR-3 / Newtown Square, 9); (305, App Name, Apple Maps, 10);
+
+(LID, 4152); (306, Address, SR-3 / Newtown Square, 9); (306, App Name, Apple Maps, 10);
+
+(LID, 4153); (307, Address, SR-3 / Newtown Square, 9); (307, App Name, Apple Maps, 10);
+
+(LID, 4154); (308, Address, SR-3 / Newtown Square, 9); (308, App Name, Apple Maps, 10);
+
+(LID, 4155); (309, Address, SR-3 E / Newtown Square, 9); (309, App Name, Apple Maps, 10);
+
+(LID, 4156); (310, Address, SR-3 E / Newtown Square, 9); (310, App Name, Apple Maps, 10);
+
+(LID, 4157); (311, Message, in 4.2 miles, 9); (311, App Name, Apple Maps, 10);
+
+(LID, 4158); (312, App Name, Apple Maps, 10); (312, Message, in 4.1 miles, 9);
+
+(LID, 4159); (313, Message, in 4 miles, 9); (313, App Name, Apple Maps, 10);
+
+(LID, 4160); (314, Address, SR-3 / Newtown Square, 9); (314, App Name, Apple Maps, 10);
+
+(LID, 4161); (315, App Name, Apple Maps, 10);
+
+(LID, 4162); (316, App Name, Apple Maps, 10);
+
+(LID, 4163); (317, App Name, Apple Maps, 10); (317, Message, then keep left, 9);
+
+(LID, 4164); (318, App Name, Apple Maps, 10);
+
+(LID, 4165); (319, App Name, Apple Maps, 10);
+
+(LID, 4166); (320, App Name, Apple Maps, 10); (320, Address, Indianapolis International Airport (IND), 9);
+
+(LID, 4167); (321, App Name, Apple Maps, 10); (321, Address, Indianapolis International Airport (IND), 9);
+
+(LID, 4168); (322, Message, use the right two lanes to keep right, 9); (322, App Name, Apple Maps, 10);
+
+(LID, 4169); (323, App Name, Apple Maps, 10); (323, Address, Indianapolis International Airport (IND), 9);
+
+(LID, 4170); (324, App Name, Apple Maps, 10);
+
+(LID, 4171); (325, App Name, Apple Maps, 10);
+
+(LID, 4172); (326, Message, then turn left, 9); (326, App Name, Apple Maps, 10);
+
+(LID, 4173); (243, App Name, Apple Maps, 10); (243, Message, in 1.5 miles, 9);
+
+(LID, 4174); (244, App Name, Apple Maps, 10); (244, Message, in 1.6 miles, 9);
+
+(LID, 4175); (245, Message, in 1.7 miles, 9); (245, App Name, Apple Maps, 10);
+
+(LID, 4176); (246, App Name, Apple Maps, 10); (246, Message, in 2.2 miles, 9);
+
+(LID, 4177); (247, App Name, Apple Maps, 10); (247, Message, in 2.3 miles, 9);
+
+(LID, 4178); (248, Message, in 2.4 miles, 9); (248, App Name, Apple Maps, 10);
+
+(LID, 4179); (249, Message, in 2.5 miles, 9); (249, App Name, Apple Maps, 10);
+
+(LID, 4180); (250, App Name, Apple Maps, 10);
+
+(LID, 4181); (251, App Name, Apple Maps, 10); (251, Message, then make a u-turn, 9);
+
+(LID, 4182); (252, App Name, Apple Maps, 10);
+
+(LID, 4183); (253, App Name, Apple Maps, 10); (253, Message, in 2.6 miles, 9);
+
+(LID, 4184); (254, Message, in 2.7 miles, 9); (254, App Name, Apple Maps, 10);
+
+(LID, 4185); (255, App Name, Apple Maps, 10); (255, Message, in 2.8 miles, 9);
+
+(LID, 4186); (256, Message, in 2.9 miles, 9); (256, App Name, Apple Maps, 10);
+
+(LID, 4187); (257, Message, in 3 miles, 9); (257, App Name, Apple Maps, 10);
+
+(LID, 4188); (258, App Name, Apple Maps, 10); (258, Message, in 3.1 miles, 9);
+
+(LID, 4189); (259, App Name, Apple Maps, 10); (259, Message, in 3.2 miles, 9);
+
+(LID, 4190); (260, App Name, Apple Maps, 10); (260, Message, in 3.3 miles, 9);
+
+(LID, 4191); (261, Message, in 3.4 miles, 9); (261, App Name, Apple Maps, 10);
+
+(LID, 4192); (262, App Name, Apple Maps, 10); (262, Message, in 3.5 miles, 9);
+
+(LID, 4193); (263, Message, in 3.6 miles, 9); (263, App Name, Apple Maps, 10);
+
+(LID, 4194); (264, Message, in 3.7 miles, 9); (264, App Name, Apple Maps, 10);
+
+(LID, 4195); (265, App Name, Apple Maps, 10); (265, Message, in 3.8 miles, 9);
+
+(LID, 4196); (266, Message, in 3.9 miles, 9); (266, App Name, Apple Maps, 10);
+
+(LID, 4197); (267, App Name, Apple Maps, 10);
+
+(LID, 4198); (240, Message, in 2 miles, 9); (240, App Name, Apple Maps, 10);
+
+(LID, 4199); (241, Message, in 2.1 miles, 9); (241, App Name, Apple Maps, 10);
+
+(LID, 4200); (242, Message, in 1.4 miles, 9); (242, App Name, Apple Maps, 10);
+

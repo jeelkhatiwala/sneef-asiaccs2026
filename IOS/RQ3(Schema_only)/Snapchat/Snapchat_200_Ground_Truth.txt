@@ -1,0 +1,399 @@
+(LID, 5001), (2, App Name, Charms, 9), (2, Message, Leos are the bright fiery stars of the zodiac! They are brave, creative and dramatic and they aren't afraid to put it all on the line when they go for something they believe in. This can lead them to be over-dramatic or over-the-top sometimes, but they act from the heart and strive to be as authentic and genuine as possible. They are very generous and attentive towards others and their pride can get wounded if they don't feel their efforts are appreciated, so it's always wise to show gratitude to a proud Leo. They also love to have a good time and when they're having fun they light up the room., 10)
+
+(LID, 5002), (3, App Name, Snapchat, 9), (3, App Name, Charms, 9), (3, Message, Those born with the Ruby birthstone know how to shine and achieve the objects of their hearts desire! They may move towards what they want in a subtle way, or they may put their heart on their sleeve, but either way, they don't hold back and will reach their goals eventually. Like the bright and passionate Ruby, July people have a zest for life that is contagious. Just as the fiery Ruby enjoys being admired, July people can become fussy if they don't think they are getting the respect they deserve. But at heart, Ruby people are steadfast and loving., 10)
+
+(LID, 5003), (4, App Name, Snapchat, 9), (4, App Name, Charms, 9), (4, Message, You admire each other's integrity and ambition. You are both very determined but you go about reaching your goals in different ways. One of you may be more cautious and calculated, while the other may be more enthusiastic and bold. You can both learn a lot from each other about different ways to strategize in reaching your dreams and goals. Emotionally you have different temperaments, so be communicative about your needs to avoid misunderstandings., 10)
+
+(LID, 5004), (5, App Name, Snapchat, 10), (5, App Name, Charms, 9), (5, Message, You and {{#}} have an average Snap Score of 1. You're just getting started!, 10)
+
+(LID, 5005), (1, App Name, Charms, 8)
+
+(LID, 5006)
+
+(LID, 5007)
+
+(LID, 5008)
+
+(LID, 5009)
+
+(LID, 5010)
+
+(LID, 5011)
+
+(LID, 5012)
+
+(LID, 5013)
+
+(LID, 5014)
+
+(LID, 5015)
+
+(LID, 5016)
+
+(LID, 5017)
+
+(LID, 5018)
+
+(LID, 5019), (1, App Name, Snapchat, 8), (1, Timestamp, 2021-06-10 17:49:43, 9), (1, Timestamp, 2021-06-13 11:51:26, 9), (1, Timestamp, 2021-06-17 13:04:21, 9), (1, Timestamp, 2021-05-27 21:05:11, 9), (1, Timestamp, 2021-06-08 22:52:31, 9), (1, Timestamp, 2021-06-15 22:39:19, 9), (1, Timestamp, 2021-06-14 21:58:40, 9), (1, Timestamp, 2021-06-17 12:33:03, 9), (1, Timestamp, 2021-06-16 14:10:35, 9), (1, Timestamp, 2021-06-13 22:15:07, 9), (1, Timestamp, 2021-06-14 14:41:53, 9), (1, Timestamp, 2021-06-11 22:23:16, 9), (1, Timestamp, 2021-06-17 11:44:54, 9), (1, Timestamp, 2021-06-13 02:56:56, 9), (1, Timestamp, 2021-06-15 23:10:37, 9), (1, Timestamp, 2021-06-15 21:19:12, 9), (1, Timestamp, 2021-05-29 13:01:57, 9), (1, Timestamp, 2021-06-17 12:36:12, 9), (1, Timestamp, 2021-06-13 12:52:35, 9), (1, Timestamp, 2021-06-14 01:43:14, 9), (1, Timestamp, 2021-06-13 17:30:16, 9), (1, Timestamp, 2021-06-13 15:19:34, 9), (1, Timestamp, 2021-06-16 11:44:37, 9), (1, Timestamp, 2021-05-15 23:48:15, 9), (1, Timestamp, 2021-06-12 02:41:54, 9)
+
+(LID, 5020)
+
+(LID, 5021)
+
+(LID, 5022)
+
+(LID, 5023), (1, App Name, Snapchat, 10), (1, Username, teamsnapchat, 10), (1, Username, b_dutton2021, 9), (1, Phone Number, 907055612454602861, 8)
+
+(LID, 5024), (1, App Name, Snapchat, 8)
+
+(LID, 5025), (2, App Name, Snapchat, 8)
+
+(LID, 5026), (3, App Name, Snapchat, 8)
+
+(LID, 5027), (4, App Name, Snapchat, 8)
+
+(LID, 5028), (5, App Name, Snapchat, 8)
+
+(LID, 5029), (6, App Name, Snapchat, 8)
+
+(LID, 5030), (1, App Name, Charms, 8)
+
+(LID, 5031), (2, App Name, Charms, 8)
+
+(LID, 5032), (3, App Name, Charms, 8)
+
+(LID, 5033), (4, App Name, Charms, 8)
+
+(LID, 5034), (5, App Name, Charms, 8)
+
+(LID, 5035), (1, App Name, Charms, 8)
+
+(LID, 5036), (2, App Name, Charms, 8)
+
+(LID, 5037), (3, App Name, Charms, 8)
+
+(LID, 5038), (4, App Name, Charms, 8)
+
+(LID, 5039), (5, App Name, Charms, 8)
+
+(LID, 5040), (1, App Name, Snapchat, 10), (1, Username, teamsnapchat, 10)
+
+(LID, 5041), (1, App Name, Snapchat, 8)
+
+(LID, 5042), (2, App Name, Snapchat, 8)
+
+(LID, 5043), (3, App Name, Snapchat, 8)
+
+(LID, 5044), (5304, App Name, Snapchat, 8)
+
+(LID, 5045), (5305, App Name, Snapchat, 8)
+
+(LID, 5046), (5306, App Name, Snapchat, 8)
+
+(LID, 5047), (5307, App Name, Snapchat, 8)
+
+(LID, 5048), (5308, App Name, Snapchat, 8)
+
+(LID, 5049), (5309, App Name, Snapchat, 8)
+
+(LID, 5050), (5310, App Name, Snapchat, 8)
+
+(LID, 5051), (5311, App Name, Snapchat, 8)
+
+(LID, 5052), (5312, App Name, Snapchat, 8)
+
+(LID, 5053), (5313, App Name, Snapchat, 8)
+
+(LID, 5054), (5314, App Name, Snapchat, 8)
+
+(LID, 5055), (5315, App Name, Snapchat, 8)
+
+(LID, 5056), (5316, App Name, Snapchat, 8)
+
+(LID, 5057), (5317, App Name, Snapchat, 8)
+
+(LID, 5058), (5318, App Name, Snapchat, 8)
+
+(LID, 5059), (5319, App Name, Snapchat, 8)
+
+(LID, 5060), (5320, App Name, Snapchat, 8)
+
+(LID, 5061), (5321, App Name, Snapchat, 8)
+
+(LID, 5062), (5322, App Name, Snapchat, 8)
+
+(LID, 5063), (5323, App Name, Snapchat, 8)
+
+(LID, 5064), (5324, App Name, Snapchat, 8)
+
+(LID, 5065), (5325, App Name, Snapchat, 8)
+
+(LID, 5066), (5326, App Name, Snapchat, 8)
+
+(LID, 5067), (5327, App Name, Snapchat, 8)
+
+(LID, 5068), (5328, App Name, Snapchat, 8)
+
+(LID, 5069), (5329, App Name, Snapchat, 8)
+
+(LID, 5070), (5330, App Name, Snapchat, 8)
+
+(LID, 5071), (5331, App Name, Snapchat, 8)
+
+(LID, 5072), (5332, App Name, Snapchat, 8)
+
+(LID, 5073), (5333, App Name, Snapchat, 8)
+
+(LID, 5074), (5334, App Name, Snapchat, 8)
+
+(LID, 5075), (5335, App Name, Snapchat, 8)
+
+(LID, 5076), (5336, App Name, Snapchat, 8)
+
+(LID, 5077), (5337, App Name, Snapchat, 8)
+
+(LID, 5078), (5338, App Name, Snapchat, 8)
+
+(LID, 5079), (5339, App Name, Snapchat, 8)
+
+(LID, 5080), (5340, App Name, Snapchat, 8)
+
+(LID, 5081), (5341, App Name, Snapchat, 8)
+
+(LID, 5082), (5342, App Name, Snapchat, 8)
+
+(LID, 5083), (5343, App Name, Snapchat, 8)
+
+(LID, 5084), (5344, App Name, Snapchat, 8)
+
+(LID, 5085), (5345, App Name, Snapchat, 8)
+
+(LID, 5086), (5346, App Name, Snapchat, 8)
+
+(LID, 5087), (5347, App Name, Snapchat, 8)
+
+(LID, 5088), (5348, App Name, Snapchat, 8)
+
+(LID, 5089), (5349, App Name, Snapchat, 8)
+
+(LID, 5090), (5350, App Name, Snapchat, 8)
+
+(LID, 5091), (5351, App Name, Snapchat, 8)
+
+(LID, 5092), (5352, App Name, Snapchat, 8)
+
+(LID, 5093), (5353, App Name, Snapchat, 8)
+
+(LID, 5094), (5354, App Name, Snapchat, 8)
+
+(LID, 5095), (5355, App Name, Snapchat, 8)
+
+(LID, 5096), (5356, App Name, Snapchat, 8)
+
+(LID, 5097), (5357, App Name, Snapchat, 8)
+
+(LID, 5098), (5358, App Name, Snapchat, 8)
+
+(LID, 5099), (5359, App Name, Snapchat, 8)
+
+(LID, 5100), (5360, App Name, Snapchat, 8)
+
+(LID, 5101), (5361, App Name, Snapchat, 8)
+
+(LID, 5102), (5362, App Name, Snapchat, 8)
+
+(LID, 5103), (5363, App Name, Snapchat, 8)
+
+(LID, 5104), (5364, App Name, Snapchat, 8)
+
+(LID, 5105), (5365, App Name, Snapchat, 8)
+
+(LID, 5106), (5366, App Name, Snapchat, 8)
+
+(LID, 5107), (5367, App Name, Snapchat, 8)
+
+(LID, 5108), (5368, App Name, Snapchat, 8)
+
+(LID, 5109), (5369, App Name, Snapchat, 8)
+
+(LID, 5110), (5370, App Name, Snapchat, 8)
+
+(LID, 5111), (5371, App Name, Snapchat, 8)
+
+(LID, 5112), (5372, App Name, Snapchat, 8)
+
+(LID, 5113), (5373, App Name, Snapchat, 8)
+
+(LID, 5114), (5374, App Name, Snapchat, 8)
+
+(LID, 5115), (5375, App Name, Snapchat, 8)
+
+(LID, 5116), (5376, App Name, Snapchat, 8)
+
+(LID, 5117), (5377, App Name, Snapchat, 8)
+
+(LID, 5118), (5378, App Name, Snapchat, 8)
+
+(LID, 5119), (5379, App Name, Snapchat, 8)
+
+(LID, 5120), (5380, App Name, Snapchat, 8)
+
+(LID, 5121), (5381, App Name, Snapchat, 8)
+
+(LID, 5122), (5382, App Name, Snapchat, 8)
+
+(LID, 5123), (5383, App Name, Snapchat, 8)
+
+(LID, 5124), (5384, App Name, Snapchat, 8)
+
+(LID, 5125), (5385, App Name, Snapchat, 8)
+
+(LID, 5126), (5386, App Name, Snapchat, 8)
+
+(LID, 5127), (5387, App Name, Snapchat, 8)
+
+(LID, 5128), (5388, App Name, Snapchat, 8)
+
+(LID, 5129), (5389, App Name, Snapchat, 8)
+
+(LID, 5130), (5390, App Name, Snapchat, 8)
+
+(LID, 5131), (5391, App Name, Snapchat, 8)
+
+(LID, 5132), (5392, App Name, Snapchat, 8)
+
+(LID, 5133), (5393, App Name, Snapchat, 8)
+
+(LID, 5134), (5394, App Name, Snapchat, 8)
+
+(LID, 5135), (5395, App Name, Snapchat, 8)
+
+(LID, 5136), (5396, App Name, Snapchat, 8)
+
+(LID, 5137), (5397, App Name, Snapchat, 8)
+
+(LID, 5138), (5398, App Name, Snapchat, 8)
+
+(LID, 5139), (5399, App Name, Snapchat, 8)
+
+(LID, 5140), (5400, App Name, Snapchat, 8)
+
+(LID, 5141), (5401, App Name, Snapchat, 8)
+
+(LID, 5142), (5402, App Name, Snapchat, 8)
+
+(LID, 5143), (5403, App Name, Snapchat, 8)
+
+(LID, 5144), (5404, App Name, Snapchat, 8)
+
+(LID, 5145), (5405, App Name, Snapchat, 8)
+
+(LID, 5146), (5406, App Name, Snapchat, 8)
+
+(LID, 5147), (5407, App Name, Snapchat, 8)
+
+(LID, 5148), (5408, App Name, Snapchat, 8)
+
+(LID, 5149), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-04-06 14:52:44, 9)
+
+(LID, 5150), (1, App Name, Google Lens, 8), (1, Timestamp, 2023-03-09 15:27:42, 9)
+
+(LID, 5151), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-04-07 15:55:27, 9)
+
+(LID, 5152), (1, App Name, Google Lens, 8), (1, Timestamp, 2023-03-09 15:42:07, 9)
+
+(LID, 5153), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-04-08 16:22:42, 9)
+
+(LID, 5154), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-04-09 16:49:23, 9)
+
+(LID, 5155), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-04-10 17:16:05, 9)
+
+(LID, 5156), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-04-11 17:42:47, 9)
+
+(LID, 5157), (1, App Name, Google Lens, 8), (1, Timestamp, 2023-04-15 18:09:29, 9)
+
+(LID, 5158), (1, App Name, Google Lens, 8), (1, Timestamp, 2023-03-09 18:36:11, 9)
+
+(LID, 5159), (1, App Name, Google Lens, 8), (1, Timestamp, 2023-03-10 19:02:53, 9)
+
+(LID, 5160), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:31:51, 9)
+
+(LID, 5161), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:32:14, 9)
+
+(LID, 5162), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:32:27, 9)
+
+(LID, 5163), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:32:36, 9)
+
+(LID, 5164), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:32:42, 9)
+
+(LID, 5165), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:32:44, 9)
+
+(LID, 5166), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:32:46, 9)
+
+(LID, 5167), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:32:48, 9)
+
+(LID, 5168), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:32:50, 9)
+
+(LID, 5169), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:32:52, 9)
+
+(LID, 5170), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:32:54, 9)
+
+(LID, 5171), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-06-21 10:58:29, 9)
+
+(LID, 5172), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-06-21 11:00:17, 9)
+
+(LID, 5173), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-06-21 11:01:09, 9)
+
+(LID, 5174), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-06-21 11:03:23, 9)
+
+(LID, 5175), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-06-21 11:04:51, 9)
+
+(LID, 5176), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-06-21 11:06:03, 9)
+
+(LID, 5177), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-06-21 11:07:23, 9)
+
+(LID, 5178), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-06-21 11:08:44, 9)
+
+(LID, 5179), (1, App Name, Google Lens, 8), (1, Timestamp, 2021-06-21 11:18:25, 9)
+
+(LID, 5180), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-06-16 12:34:56, 9)
+
+(LID, 5181), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:31:51, 9)
+
+(LID, 5182), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:33:01, 9)
+
+(LID, 5183), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:34:09, 9)
+
+(LID, 5184), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:35:17, 9)
+
+(LID, 5185), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:36:25, 9)
+
+(LID, 5186), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:37:33, 9)
+
+(LID, 5187), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:38:41, 9)
+
+(LID, 5188), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:39:49, 9)
+
+(LID, 5189), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:40:57, 9)
+
+(LID, 5190), (1, App Name, Google Lens, 8), (1, Timestamp, 2022-03-23 15:42:05, 9)
+
+(LID, 5191), (1, App Name, Google Lens, 8), (1, Timestamp, 2023-04-15 18:09:28, 9)
+
+(LID, 5192), (1, App Name, Google Lens, 8), (1, Timestamp, 2023-04-15 18:09:42, 9)
+
+(LID, 5193), (1, App Name, Google Lens, 8), (1, Timestamp, 2023-04-15 18:10:06, 9)
+
+(LID, 5194), (1, App Name, Google Lens, 8), (1, Timestamp, 2023-04-15 18:10:26, 9)
+
+(LID, 5195), (1, App Name, Google Lens, 8), (1, Timestamp, 2023-04-15 18:10:41, 9)
+
+(LID, 5196), (1, App Name, Google Lens, 8), (1, Timestamp, 2023-04-15 18:10:59, 9)
+
+(LID, 5197), (1, App Name, Google Lens, 8), (1, Timestamp, 2023-04-15 18:11:17, 9)
+
+(LID, 5198), (1, App Name, Google Lens, 8), (1, Timestamp, 2023-04-15 18:11:36, 9)
+
+(LID, 5199), (1, App Name, Google Lens, 8), (1, Timestamp, 2023-04-15 18:11:49, 9)
+
+(LID, 5200), (1, App Name, Google Lens, 8), (1, Timestamp, 2023-04-16 17:58:29, 9)

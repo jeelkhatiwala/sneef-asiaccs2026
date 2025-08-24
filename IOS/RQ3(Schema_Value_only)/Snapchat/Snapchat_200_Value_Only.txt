@@ -1,0 +1,402 @@
+(LID, 5001); (2, App Name, Snapchat, 10); (2, Message, Leos are the bright fiery stars of the zodiac! They are brave, creative and dramatic and they aren't afraid to put it all on the line when they go for something they believe in. This can lead them to be over-dramatic or over-the-top sometimes, but they act from the heart and strive to be as authentic and genuine as possible. They are very generous and attentive towards others and their pride can get wounded if they don't feel their efforts are appreciated, so it's always wise to show gratitude to a proud Leo. They also love to have a good time and when they're having fun they light up the room., 10)
+
+(LID, 5002); (3, App Name, Snapchat, 10); (3, Message, Those born with the Ruby birthstone know how to shine and achieve the objects of their hearts desire! They may move towards what they want in a subtle way, or they may put their heart on their sleeve, but either way, they don't hold back and will reach their goals eventually. Like the bright and passionate Ruby, July people have a zest for life that is contagious. Just as the fiery Ruby enjoys being admired, July people can become fussy if they don't think they are getting the respect they deserve. But at heart, Ruby people are steadfast and loving., 10)
+
+(LID, 5003); (4, App Name, Snapchat, 10); (4, Message, You admire each other's integrity and ambition. You are both very determined but you go about reaching your goals in different ways. One of you may be more cautious and calculated, while the other may be more enthusiastic and bold. You can both learn a lot from each other about different ways to strategize in reaching your dreams and goals. Emotionally you have different temperaments, so be communicative about your needs to avoid misunderstandings., 10)
+
+(LID, 5004); (5, App Name, Snapchat, 10); (5, Message, You and {{#}} have an average Snap Score of 1. You're just getting started!, 10)
+
+(LID, 5005)
+
+(LID, 5006)
+
+(LID, 5007)
+
+(LID, 5008)
+
+(LID, 5009)
+
+(LID, 5010)
+
+(LID, 5011)
+
+(LID, 5012)
+
+(LID, 5013)
+
+(LID, 5014)
+
+(LID, 5015)
+
+(LID, 5016)
+
+(LID, 5017)
+
+(LID, 5018)
+
+(LID, 5019)
+
+(LID, 5020)
+
+(LID, 5021)
+
+(LID, 5022)
+
+(LID, 5023); (1, App Name, Snapchat, 10); (1, Username, b\_dutton2021, 10)
+
+(LID, 5024)
+
+(LID, 5025)
+
+(LID, 5026)
+
+(LID, 5027)
+
+(LID, 5028)
+
+(LID, 5029)
+
+(LID, 5030)
+
+(LID, 5031)
+
+(LID, 5032)
+
+(LID, 5033)
+
+(LID, 5034)
+
+(LID, 5035)
+
+(LID, 5036)
+
+(LID, 5037)
+
+(LID, 5038)
+
+(LID, 5039)
+
+(LID, 5040); (1, App Name, Snapchat, 10)
+
+(LID, 5041)
+
+(LID, 5042)
+
+(LID, 5043)
+
+(LID, 5044); (5304, Search keyword, PIP PIP, 9)
+
+(LID, 5045); (5305, Search keyword, TA TA, 9)
+
+(LID, 5046); (5306, Search keyword, CHEERIO, 9)
+
+(LID, 5047); (5307, Search keyword, COFFEE SURPRISE, 9)
+
+(LID, 5048); (5308, Search keyword, COFFEE, 9)
+
+(LID, 5049); (5309, Search keyword, MUG, 9)
+
+(LID, 5050); (5310, Search keyword, COFFEE MUG, 9)
+
+(LID, 5051); (5311, Search keyword, COFFEE CUP, 9)
+
+(LID, 5052); (5312, Search keyword, GOOD MORNING, 9)
+
+(LID, 5053); (5313, Search keyword, MORNING, 9)
+
+(LID, 5054); (5314, Search keyword, TEA TIME, 9)
+
+(LID, 5055); (5315, Search keyword, BISCUITS, 9)
+
+(LID, 5056); (5316, Search keyword, TEA BREAK, 9)
+
+(LID, 5057); (5317, Search keyword, HIGH TEA, 9)
+
+(LID, 5058); (5318, Search keyword, CREAM, 9)
+
+(LID, 5059); (5319, Search keyword, MACARONS, 9)
+
+(LID, 5060); (5320, Search keyword, TEA, 9)
+
+(LID, 5061); (5321, Search keyword, DESSERT, 9)
+
+(LID, 5062); (5322, Search keyword, PARTY SANDWICH, 9)
+
+(LID, 5063); (5323, Search keyword, TEA POT, 9)
+
+(LID, 5064); (5324, Search keyword, JAM, 9)
+
+(LID, 5065); (5325, Search keyword, TART, 9)
+
+(LID, 5066); (5326, Search keyword, SNACK ATTACK, 9)
+
+(LID, 5067); (5327, Search keyword, FINE CHINA, 9)
+
+(LID, 5068); (5328, Search keyword, SUGAR, 9)
+
+(LID, 5069); (5329, Search keyword, TABLE, 9)
+
+(LID, 5070); (5330, Search keyword, CLIPPERS, 9)
+
+(LID, 5071); (5331, Address, Los Angeles, 10)
+
+(LID, 5072); (5332, Search keyword, NBA, 10)
+
+(LID, 5073); (5333, Message, HI, 9)
+
+(LID, 5074); (5334, Message, HI, 9)
+
+(LID, 5075); (5335, Message, GREETINGS, 9)
+
+(LID, 5076); (5336, Message, HI YA, 9)
+
+(LID, 5077); (5337, Message, SUP, 9)
+
+(LID, 5078); (5338, Message, HI YOU, 9)
+
+(LID, 5079); (5339, Message, HAI, 9)
+
+(LID, 5080); (5340, Message, ITS ME, 9)
+
+(LID, 5081); (5341, Message, YO, 9)
+
+(LID, 5082); (5342, Message, HIYA, 9)
+
+(LID, 5083); (5343, Message, HELLO, 9)
+
+(LID, 5084); (5344, Message, HEY, 9)
+
+(LID, 5085); (5345, Message, WHATS UP, 9)
+
+(LID, 5086); (5346, Message, SWING, 9)
+
+(LID, 5087); (5347, Message, HEY THERE, 9)
+
+(LID, 5088); (5348, Message, SWINGING, 9)
+
+(LID, 5089); (5349, Message, TRAPEZE, 9)
+
+(LID, 5090); (5350, Message, HI, 9)
+
+(LID, 5091); (5351, Search keyword, COYOTES, 9)
+
+(LID, 5092); (5352, Search keyword, HOCKEY, 9)
+
+(LID, 5093); (5353, Search keyword, NHL, 9)
+
+(LID, 5094); (5354, Address, Arizona, 9)
+
+(LID, 5095); (5355, Search keyword, BUCCANEERS, 9)
+
+(LID, 5096); (5356, Search keyword, NFL, 9)
+
+(LID, 5097); (5357, Search keyword, TOUCHDOWN, 9)
+
+(LID, 5098); (5358, Address, Tampa Bay, 9)
+
+(LID, 5099); (5359, Search keyword, FOOTBALL, 9)
+
+(LID, 5100); (5360, Search keyword, MUSIC, 9)
+
+(LID, 5101); (5361, Search keyword, AIR GUITAR, 9)
+
+(LID, 5102); (5362, Search keyword, ROCKING OUT, 9)
+
+(LID, 5103); (5363, Search keyword, ROCK OUT, 9)
+
+(LID, 5104); (5364, Search keyword, GUITAR, 9)
+
+(LID, 5105); (5365, Message, DROPPING PHONE, 9)
+
+(LID, 5106); (5366, Message, WERE DONE, 9)
+
+(LID, 5107); (5367, Message, PHONE DROP, 9)
+
+(LID, 5108); (5368, Search keyword, PIN CUSHION, 9)
+
+(LID, 5109); (5369, Search keyword, SEWING MACHINE, 9)
+
+(LID, 5110); (5370, Search keyword, THREAD, 9)
+
+(LID, 5111); (5371, Search keyword, CRAFTS, 9)
+
+(LID, 5112); (5372, Search keyword, HOBBIES, 9)
+
+(LID, 5113); (5373, Search keyword, CRAFTING, 9)
+
+(LID, 5114); (5374, Search keyword, SEWING, 9)
+
+(LID, 5115); (5375, Search keyword, HOBBY, 9)
+
+(LID, 5116); (5376, Search keyword, DIY, 9)
+
+(LID, 5117); (5377, Search keyword, SEW, 9)
+
+(LID, 5118); (5378, Search keyword, TAILOR, 9)
+
+(LID, 5119); (5379, Search keyword, SEAMSTRESS, 9)
+
+(LID, 5120); (5380, Search keyword, BRIDE, 9)
+
+(LID, 5121); (5381, Search keyword, GROOM, 9)
+
+(LID, 5122); (5382, Search keyword, JUST MARRIED, 9)
+
+(LID, 5123); (5383, Search keyword, MARRIAGE, 9)
+
+(LID, 5124); (5384, Search keyword, WEDDING, 9)
+
+(LID, 5125); (5385, Search keyword, MARRIED, 9)
+
+(LID, 5126); (5386, Message, STILL CRAZY, 9)
+
+(LID, 5127); (5387, Message, DO YOU STILL LOVE ME, 9)
+
+(LID, 5128); (5388, Search keyword, CRAZY, 9)
+
+(LID, 5129); (5389, Message, DO YOU LOVE ME, 9)
+
+(LID, 5130); (5390, Message, ARE YOU STILL CRAZY ABOUT ME, 9)
+
+(LID, 5131); (5391, Message, ARE YOU STILL CRAZY ABOUT ME, 9)
+
+(LID, 5132); (5392, Message, CRAZY ABOUT YOU, 9)
+
+(LID, 5133); (5393, Message, LET ME LOVE YOU, 9)
+
+(LID, 5134); (5394, Message, DO YOU LIKE ME, 9)
+
+(LID, 5135); (5395, Message, ARE YOU STILL CRAZY ABOUT ME, 9)
+
+(LID, 5136); (5396, Search keyword, TLDR, 9)
+
+(LID, 5137); (5397, Search keyword, READ, 9)
+
+(LID, 5138); (5398, Search keyword, TLDR, 9)
+
+(LID, 5139); (5399, Search keyword, TLDR, 9)
+
+(LID, 5140); (5400, Search keyword, TOO LONG DIDNT READ, 9)
+
+(LID, 5141); (5401, Search keyword, DIDNT READ, 9)
+
+(LID, 5142); (5402, Search keyword, TLDR, 9)
+
+(LID, 5143); (5403, Search keyword, MLB, 9)
+
+(LID, 5144); (5404, Search keyword, ROCKIES, 9)
+
+(LID, 5145); (5405, Search keyword, BASEBALL, 9)
+
+(LID, 5146); (5406, Address, Colorado, 9)
+
+(LID, 5147); (5407, Message, LISTEN TO ME, 9)
+
+(LID, 5148); (5408, Message, STOP IGNORING ME, 9)
+
+(LID, 5149)
+
+(LID, 5150)
+
+(LID, 5151)
+
+(LID, 5152)
+
+(LID, 5153)
+
+(LID, 5154)
+
+(LID, 5155)
+
+(LID, 5156)
+
+(LID, 5157)
+
+(LID, 5158)
+
+(LID, 5159)
+
+(LID, 5160)
+
+(LID, 5161); (391, App Name, Google Lens, 10)
+
+(LID, 5162); (392, App Name, Google Lens, 10)
+
+(LID, 5163); (393, App Name, Google Lens, 10)
+
+(LID, 5164); (394, App Name, Google Lens, 10)
+
+(LID, 5165); (395, App Name, Google Lens, 10)
+
+(LID, 5166); (396, App Name, Google Lens, 10)
+
+(LID, 5167); (397, App Name, Google Lens, 10)
+
+(LID, 5168); (398, App Name, Google Lens, 10)
+
+(LID, 5169); (399, App Name, Google Lens, 10)
+
+(LID, 5170); (400, App Name, Google Lens, 10)
+
+(LID, 5171); (401, App Name, Google Lens, 10)
+
+(LID, 5172); (402, App Name, Google Lens, 10)
+
+(LID, 5173); (403, App Name, Google Lens, 10)
+
+(LID, 5174); (404, App Name, Google Lens, 10)
+
+(LID, 5175); (405, App Name, Google Lens, 10)
+
+(LID, 5176); (406, App Name, Google Lens, 10)
+
+(LID, 5177); (407, App Name, Google Lens, 10)
+
+(LID, 5178); (408, App Name, Google Lens, 10)
+
+(LID, 5179); (1, Timestamp, 2021-06-21 00:00:00, 10); (1, Timestamp, 2021-06-21 14:38:25, 9)
+
+(LID, 5180); (357, App Name, Google Lens, 10)
+
+(LID, 5181); (358, App Name, Google Lens, 10)
+
+(LID, 5182); (359, App Name, Google Lens, 10)
+
+(LID, 5183); (360, App Name, Google Lens, 10)
+
+(LID, 5184); (361, App Name, Google Lens, 10)
+
+(LID, 5185); (362, App Name, Google Lens, 10)
+
+(LID, 5186); (363, App Name, Google Lens, 10)
+
+(LID, 5187); (364, App Name, Google Lens, 10)
+
+(LID, 5188); (365, App Name, Google Lens, 10)
+
+(LID, 5189); (366, App Name, Google Lens, 10)
+
+(LID, 5190); (367, App Name, Google Lens, 10)
+
+(LID, 5191); (368, App Name, Google Lens, 10)
+
+(LID, 5192); (369, App Name, Google Lens, 10)
+
+(LID, 5193); (370, App Name, Google Lens, 10)
+
+(LID, 5194); (371, App Name, Google Lens, 10)
+
+(LID, 5195); (372, App Name, Google Lens, 10)
+
+(LID, 5196); (373, App Name, Google Lens, 10)
+
+(LID, 5197); (374, App Name, Google Lens, 10)
+
+(LID, 5198); (375, App Name, Google Lens, 10)
+
+(LID, 5199); (376, App Name, Google Lens, 10)
+
+(LID, 5200); (377, App Name, Google Lens, 10)
+
+
+

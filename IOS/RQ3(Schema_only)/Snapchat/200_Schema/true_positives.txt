@@ -1,0 +1,118 @@
+(LID, 5001); (2, Message, Leos are the bright fiery stars of the zodiac! They are brave, creative and dramatic and they aren't afraid to put it all on the line when they go for something they believe in. This can lead them to be over-dramatic or over-the-top sometimes, but they act from the heart and strive to be as authentic and genuine as possible. They are very generous and attentive towards others and their pride can get wounded if they don't feel their efforts are appreciated, so it's always wise to show gratitude to a proud Leo. They also love to have a good time and when they're having fun they light up the room., 9);
+
+(LID, 5002); (3, Message, Those born with the Ruby birthstone know how to shine and achieve the objects of their hearts desire! They may move towards what they want in a subtle way, or they may put their heart on their sleeve, but either way, they don't hold back and will reach their goals eventually. Like the bright and passionate Ruby, July people have a zest for life that is contagious. Just as the fiery Ruby enjoys being admired, July people can become fussy if they don't think they are getting the respect they deserve. But at heart, Ruby people are steadfast and loving., 9);
+
+(LID, 5003); (4, Message, You admire each other's integrity and ambition. You are both very determined but you go about reaching your goals in different ways. One of you may be more cautious and calculated, while the other may be more enthusiastic and bold. You can both learn a lot from each other about different ways to strategize in reaching your dreams and goals. Emotionally you have different temperaments, so be communicative about your needs to avoid misunderstandings., 9);
+
+(LID, 5004); (5, Message, You and {{#}} have an average Snap Score of 1. You're just getting started!, 9); (5, App Name, Snapchat, 9);
+
+(LID, 5019); (1, Timestamp, 2021-06-17 16:33:03, 10); (1, Timestamp, 2021-06-14 00:12:35, 10); (1, Timestamp, 2021-06-13 07:51:26, 10); (1, Timestamp, 2021-06-12 15:01:42, 10); (1, Timestamp, 2021-06-14 10:39:10, 10); (1, Timestamp, 2021-06-17 07:42:35, 10); (1, Timestamp, 2021-06-15 10:59:19, 10); (1, Timestamp, 2021-06-14 19:18:55, 10); (1, Timestamp, 2021-06-13 05:12:35, 10); (1, Timestamp, 2021-06-15 14:55:35, 10); (1, Timestamp, 2021-06-17 09:29:26, 10); (1, Timestamp, 2021-06-13 02:55:07, 10); (1, Timestamp, 2021-06-15 15:01:43, 10); (1, Timestamp, 2021-06-17 21:53:03, 10); (1, Timestamp, 2021-06-11 10:41:57, 10); (1, Timestamp, 2021-06-09 07:32:31, 10); (1, Timestamp, 2021-06-12 09:42:58, 10); (1, Timestamp, 2021-06-13 20:52:35, 10); (1, Timestamp, 2021-06-16 15:30:25, 10); (1, Timestamp, 2021-06-17 15:42:52, 10); (1, Timestamp, 2021-06-17 01:57:41, 10); (1, Timestamp, 2021-06-11 05:48:15, 10); (1, Timestamp, 2021-05-28 06:05:11, 10); (1, Timestamp, 2021-06-12 01:41:54, 10); (1, Timestamp, 2021-06-10 05:49:43, 10); (1, Timestamp, 2021-06-11 04:08:15, 10); (1, Timestamp, 2021-06-14 10:38:40, 10); (1, Timestamp, 2021-06-13 06:12:54, 10);
+
+(LID, 5023); (1, Username, b_dutton2021, 10); (1, Username, teamsnapchat, 10); (1, App Name, Snapchat, 10);
+
+(LID, 5040); (1, Username, teamsnapchat, 10);
+
+(LID, 5149); (379, App Name, Google Lens, 10);
+
+(LID, 5150); (380, App Name, Google Lens, 10);
+
+(LID, 5151); (381, App Name, Google Lens, 10);
+
+(LID, 5152); (382, App Name, Google Lens, 10);
+
+(LID, 5153); (383, App Name, Google Lens, 10);
+
+(LID, 5154); (384, App Name, Google Lens, 10);
+
+(LID, 5155); (385, App Name, Google Lens, 10);
+
+(LID, 5156); (386, App Name, Google Lens, 10);
+
+(LID, 5157); (387, App Name, Google Lens, 10);
+
+(LID, 5158); (388, App Name, Google Lens, 10);
+
+(LID, 5159); (389, App Name, Google Lens, 10);
+
+(LID, 5160); (390, App Name, Google Lens, 10);
+
+(LID, 5161); (391, App Name, Google Lens, 10);
+
+(LID, 5162); (392, App Name, Google Lens, 10);
+
+(LID, 5163); (393, App Name, Google Lens, 10);
+
+(LID, 5164); (394, App Name, Google Lens, 10);
+
+(LID, 5165); (395, App Name, Google Lens, 10);
+
+(LID, 5166); (396, App Name, Google Lens, 10);
+
+(LID, 5167); (397, App Name, Google Lens, 10);
+
+(LID, 5168); (398, App Name, Google Lens, 10);
+
+(LID, 5169); (399, App Name, Google Lens, 10);
+
+(LID, 5170); (400, App Name, Google Lens, 10);
+
+(LID, 5171); (401, App Name, Google Lens, 10);
+
+(LID, 5172); (402, App Name, Google Lens, 10);
+
+(LID, 5173); (403, App Name, Google Lens, 10);
+
+(LID, 5174); (404, App Name, Google Lens, 10);
+
+(LID, 5175); (405, App Name, Google Lens, 10);
+
+(LID, 5176); (406, App Name, Google Lens, 10);
+
+(LID, 5177); (407, App Name, Google Lens, 10);
+
+(LID, 5178); (408, App Name, Google Lens, 10);
+
+(LID, 5179); (1, Timestamp, 2021-06-21 00:00:00, 10);
+
+(LID, 5180); (357, App Name, Google Lens, 10);
+
+(LID, 5181); (358, App Name, Google Lens, 10);
+
+(LID, 5182); (359, App Name, Google Lens, 10);
+
+(LID, 5183); (360, App Name, Google Lens, 10);
+
+(LID, 5184); (361, App Name, Google Lens, 10);
+
+(LID, 5185); (362, App Name, Google Lens, 10);
+
+(LID, 5186); (363, App Name, Google Lens, 10);
+
+(LID, 5187); (364, App Name, Google Lens, 10);
+
+(LID, 5188); (365, App Name, Google Lens, 10);
+
+(LID, 5189); (366, App Name, Google Lens, 10);
+
+(LID, 5190); (367, App Name, Google Lens, 10);
+
+(LID, 5191); (368, App Name, Google Lens, 10);
+
+(LID, 5192); (369, App Name, Google Lens, 10);
+
+(LID, 5193); (370, App Name, Google Lens, 10);
+
+(LID, 5194); (371, App Name, Google Lens, 10);
+
+(LID, 5195); (372, App Name, Google Lens, 10);
+
+(LID, 5196); (373, App Name, Google Lens, 10);
+
+(LID, 5197); (374, App Name, Google Lens, 10);
+
+(LID, 5198); (375, App Name, Google Lens, 10);
+
+(LID, 5199); (376, App Name, Google Lens, 10);
+
+(LID, 5200); (377, App Name, Google Lens, 10);
+

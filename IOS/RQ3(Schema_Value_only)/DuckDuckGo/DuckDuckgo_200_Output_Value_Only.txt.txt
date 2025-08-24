@@ -1,0 +1,399 @@
+(LID, 2001)
+
+(LID, 2002)
+
+(LID, 2003)
+
+(LID, 2004); (3, Search keyword, surrogates, 10)
+
+(LID, 2005)
+
+(LID, 2006); (5, App Name, DuckDuckGo, 10)
+
+(LID, 2007); (6, App Name, DuckDuckGo, 10); (6, Timestamp, 2021-04-15 17:27:19, 10); (6, Timestamp, 2021-04-19 02:07:43, 10); (6, Timestamp, 2021-04-19 02:07:44, 10)
+
+(LID, 2008); (7, App Name, DuckDuckGo, 10); (7, Timestamp, 2021-04-19 02:07:43, 10); (7, Timestamp, 2021-04-15 17:27:19, 10); (7, Timestamp, 2021-04-19 02:07:44, 10)
+
+(LID, 2009); (8, App Name, DuckDuckGo, 10)
+
+(LID, 2010); (9, App Name, DuckDuckGo, 10)
+
+(LID, 2011); (10, App Name, DuckDuckGo, 10)
+
+(LID, 2012); (11, App Name, DuckDuckGo, 10); (11, Search keyword, ma, 10)
+
+(LID, 2013); (12, App Name, DuckDuckGo, 10); (12, Search keyword, mac, 10)
+
+(LID, 2014); (13, App Name, DuckDuckGo, 10); (13, Search keyword, mac4, 10)
+
+(LID, 2015); (14, App Name, DuckDuckGo, 10); (14, Search keyword, mac4n, 10)
+
+(LID, 2016); (15, App Name, DuckDuckGo, 10); (15, Search keyword, mac4n6, 10)
+
+(LID, 2017); (16, App Name, DuckDuckGo, 10)
+
+(LID, 2018); (17, App Name, DuckDuckGo, 10)
+
+(LID, 2019); (18, App Name, DuckDuckGo, 10)
+
+(LID, 2020); (19, App Name, DuckDuckGo, 10)
+
+(LID, 2021); (20, App Name, DuckDuckGo, 10)
+
+(LID, 2022); (21, Timestamp, 2021-03-26 19:13:39, 10); (21, Timestamp, 2020-03-31 05:17:24, 10)
+
+(LID, 2023); (22, App Name, GitHub, 10)
+
+(LID, 2024); (23, App Name, DuckDuckGo, 10)
+
+(LID, 2025); (24, App Name, DuckDuckGo, 10)
+
+(LID, 2026); (25, App Name, DuckDuckGo, 10)
+
+(LID, 2027); (26, App Name, DuckDuckGo, 10)
+
+(LID, 2028); (27, App Name, DuckDuckGo, 10); (27, Search keyword, s, 10)
+
+(LID, 2029); (28, App Name, DuckDuckGo, 10); (28, Search keyword, sm, 10)
+
+(LID, 2030); (29, App Name, DuckDuckGo, 10); (29, Search keyword, sma, 10)
+
+(LID, 2031); (30, App Name, DuckDuckGo, 10); (30, Search keyword, smar, 10)
+
+(LID, 2032); (31, App Name, DuckDuckGo, 10); (31, Search keyword, smart, 10)
+
+(LID, 2033); (32, App Name, DuckDuckGo, 10); (32, Search keyword, smarte, 10)
+
+(LID, 2034); (33, App Name, DuckDuckGo, 10); (33, Search keyword, smarter, 10)
+
+(LID, 2035); (34, App Name, DuckDuckGo, 10); (34, Search keyword, smarterfor, 10)
+
+(LID, 2036); (35, Search keyword, smarterfore, 10); (35, App Name, DuckDuckGo, 10)
+
+(LID, 2037);
+
+(LID, 2038); (37, Search keyword, smarterforensi, 10); (37, App Name, DuckDuckGo, 10)
+
+(LID, 2039); (38, Search keyword, smarterforensic, 10); (38, App Name, DuckDuckGo, 10)
+
+(LID, 2040); (39, Search keyword, smarterforensics, 10); (39, App Name, DuckDuckGo, 10)
+
+(LID, 2041); (40, App Name, DuckDuckGo, 10)
+
+(LID, 2042); (41, App Name, Smarter Forensics, 10); (41, Timestamp, 2021-03-26 19:14:18, 10); (41, Timestamp, 1984-01-11 05:00:00, 10)
+
+(LID, 2043); (42, App Name, Smarter Forensics, 10); (42, Timestamp, 2021-04-25 19:14:20, 10); (42, Timestamp, 2021-03-26 19:14:20, 10); (42, Timestamp, 2020-06-11 01:54:08, 10)
+
+(LID, 2044); (43, App Name, DuckDuckGo, 10)
+
+(LID, 2045); (44, App Name, DuckDuckGo, 10)
+
+(LID, 2046); (45, App Name, DuckDuckGo, 10)
+
+(LID, 2047); (46, App Name, DuckDuckGo, 10)
+
+(LID, 2048); (47, App Name, DuckDuckGo, 10)
+
+(LID, 2049); (48, App Name, DuckDuckGo, 10)
+
+(LID, 2050); (49, Search keyword, d, 10); (49, App Name, DuckDuckGo, 10)
+
+(LID, 2051); (50, Search keyword, da, 10); (50, App Name, DuckDuckGo, 10)
+
+(LID, 2052); (51, Search keyword, dap, 10); (51, App Name, DuckDuckGo, 10)
+
+(LID, 2053); (52, Search keyword, daphne, 10); (52, App Name, DuckDuckGo, 10)
+
+(LID, 2054); (53, Search keyword, daphne b, 10); (53, App Name, DuckDuckGo, 10)
+
+(LID, 2055);
+
+(LID, 2056); (55, App Name, DuckDuckGo, 10)
+
+(LID, 2057); (56, App Name, DuckDuckGo, 10)
+
+(LID, 2058); (57, App Name, DuckDuckGo, 10)
+
+(LID, 2059); (58, App Name, DuckDuckGo, 10)
+
+(LID, 2060); (59, App Name, DuckDuckGo, 10)
+
+(LID, 2061); (60, App Name, DuckDuckGo, 10)
+
+(LID, 2062); (61, App Name, DuckDuckGo, 10)
+
+(LID, 2063);
+
+(LID, 2064);
+
+(LID, 2065);
+
+(LID, 2066);
+
+(LID, 2067);
+
+(LID, 2068);
+
+(LID, 2069);
+
+(LID, 2070);
+
+(LID, 2071);
+
+(LID, 2072);
+
+(LID, 2073); (11, Search keyword, maps, 10); (11, Search keyword, macy's, 10); (11, Search keyword, mapquest, 10); (11, Search keyword, mathway, 10); (11, Search keyword, mail, 10); (11, Search keyword, marketwatch, 10); (11, Search keyword, marriott, 10); (11, Search keyword, malwarebytes, 10)
+
+(LID, 2074); (12, Search keyword, macy's, 10); (12, Search keyword, machine gun kelly, 10); (12, Search keyword, macbook, 10); (12, Search keyword, machinery trader, 10); (12, Search keyword, macgyver, 10); (12, Search keyword, machine learning, 10); (12, Search keyword, macro, 10); (12, Search keyword, mac miller, 10)
+
+(LID, 2075); (13, Search keyword, mac47, 10); (13, Search keyword, mac4us, 10); (13, Search keyword, mac44, 10); (13, Search keyword, mac4e, 10); (13, Search keyword, mac4me, 10); (13, Search keyword, mac4r, 10); (13, Search keyword, mac4700, 10); (13, Search keyword, mac4280, 10)
+
+(LID, 2076); (14, Search keyword, mac4n6, 10); (14, Search keyword, mac4n6 apollo, 10); (14, Search keyword, mc4n-ecat, 10); (14, Search keyword, macungie pa, 10); (14, Search keyword, mic4nou, 9); (14, Search keyword, macn413at, 9); (14, Search keyword, macn422at, 9); (14, Search keyword, macenna xo, 9)
+
+(LID, 2077); (15, Search keyword, mac4n6, 10); (15, Search keyword, mac4n6 apollo, 10)
+
+(LID, 2078);
+
+(LID, 2079);
+
+(LID, 2080);
+
+(LID, 2081);
+
+(LID, 2082);
+
+(LID, 2083);
+
+(LID, 2084);
+
+(LID, 2085);
+
+(LID, 2086);
+
+(LID, 2087);
+
+(LID, 2088);
+
+(LID, 2089); (27, Search keyword, soap2day, 10); (27, Search keyword, soap2day.com, 10); (27, Search keyword, spotify, 10); (27, Search keyword, sunbiz, 10); (27, Search keyword, steam, 10); (27, Search keyword, southwest airlines, 10); (27, Search keyword, shein, 10); (27, Search keyword, soundcloud, 10); (27, Search keyword, sam's club, 10)
+
+(LID, 2090); (28, Search keyword, smartmusic, 10); (28, Search keyword, smokey bones, 10); (28, Search keyword, smokeybones.com, 10); (28, Search keyword, smartsheet, 10); (28, Search keyword, smile, 10); (28, Search keyword, smith and wesson, 10); (28, Search keyword, smite, 10); (28, Search keyword, smart tuition, 10); (28, Search keyword, smallpdf, 10)
+
+(LID, 2091); (29, Search keyword, smartmusic, 10); (29, Search keyword, smash karts, 10); (29, Search keyword, smartsheet, 10); (29, Search keyword, [www.smartsheet.com](http://www.smartsheet.com), 10); (29, Search keyword, small business administration, 10); (29, Search keyword, smallpdf, 10); (29, Search keyword, smart tv, 10); (29, Search keyword, smallville, 10); (29, Search keyword, smart watch, 10)
+
+(LID, 2092); (30, Search keyword, smartmusic, 10); (30, Search keyword, smartsheet, 10); (30, Search keyword, [www.smartsheet.com](http://www.smartsheet.com), 10); (30, Search keyword, smartsheet login, 10); (30, Search keyword, smart tv, 10); (30, Search keyword, smartbiz, 10); (30, Search keyword, smart watch, 10); (30, Search keyword, smartjailmail, 10); (30, Search keyword, smarty ants, 10)
+
+(LID, 2093); (31, Search keyword, smartmusic, 10); (31, Search keyword, smartsheet, 10); (31, Search keyword, [www.smartsheet.com](http://www.smartsheet.com), 10); (31, Search keyword, smart, 10); (31, Search keyword, smartsheet login, 10); (31, Search keyword, smart tv, 10); (31, Search keyword, smartmove, 10); (31, Search keyword, smartvault, 10); (31, Search keyword, smart watch, 10)
+
+(LID, 2094); (32, Search keyword, smartermail login, 10); (32, Search keyword, smartermail, 10); (32, Search keyword, smartest animals, 10); (32, Search keyword, smarterqueue, 10); (32, Search keyword, smartest person ever, 10); (32, Search keyword, smartest dog breeds, 10); (32, Search keyword, smartech, 10); (32, Search keyword, smarterselect, 10)
+
+(LID, 2095); (33, Search keyword, smartermail login, 10); (33, Search keyword, smartermail, 10); (33, Search keyword, smarter, 10); (33, Search keyword, smarterqueue, 10); (33, Search keyword, smarterselect, 10); (33, Search keyword, smarter every day, 10); (33, Search keyword, [www.smartereveryday.com](http://www.smartereveryday.com), 10); (33, Search keyword, smarter contact, 10); (33, Search keyword, smarters iptv, 10)
+
+(LID, 2096); (34, Search keyword, smarter format, 10); (34, Search keyword, smarter forensics, 10); (34, Search keyword, smarter for charters, 10); (34, Search keyword, smartforce, 10); (34, Search keyword, smartform, 10); (34, Search keyword, smartforce login, 10); (34, Search keyword, smarters for windows 10, 10); (34, Search keyword, smartfortwoforsale, 10)
+
+(LID, 2097); (35, Search keyword, smarter forensics, 10); (35, Search keyword, smartforest, 10); (35, Search keyword, smartforecasts, 10); (35, Search keyword, smartforest ventures, 10); (35, Search keyword, smartforecasts software, 10); (35, Search keyword, smarterfresh bidet, 10); (35, Search keyword, smarterfresh faucet, 10); (35, Search keyword, smarterfare, 10)
+
+(LID, 2098); (36, Search keyword, smarter forensics, 10)
+
+(LID, 2099); (37, Search keyword, smarter forensics, 10)
+
+(LID, 2100); (38, Search keyword, smarter forensics, 10)
+
+(LID, 2101); (39, Search keyword, smarter forensics, 10)
+
+(LID, 2102)
+
+(LID, 2103)
+
+(LID, 2104)
+
+(LID, 2105)
+
+(LID, 2106)
+
+(LID, 2107)
+
+(LID, 2108)
+
+(LID, 2109); (47, App Name, DuckDuckGo, 10)
+
+(LID, 2110)
+
+(LID, 2111); (49, Search keyword, discord, 10); (49, Search keyword, duckduckgo, 10); (49, Search keyword, disney plus, 10); (49, Search keyword, doordash, 10); (49, Search keyword, docs, 10); (49, Search keyword, desmos, 10); (49, Search keyword, discover card login, 10); (49, Search keyword, dropbox, 10)
+
+(LID, 2112); (50, Search keyword, daily mail, 10); (50, Search keyword, dashboard, 10); (50, Search keyword, daum, 10); (50, Search keyword, daily caller, 10); (50, Search keyword, dailymotion, 10); (50, Search keyword, dallas cowboys, 10); (50, Search keyword, dantdm, 10); (50, Search keyword, dayforce, 10)
+
+(LID, 2113); (51, Search keyword, daphne, 10); (51, Search keyword, dapper, 10); (51, Human Name, Daphne Zuniga, 10); (51, Human Name, Daphne Oz, 10); (51, Search keyword, daptomycin, 10); (51, Human Name, Daphne Blake, 10); (51, Search keyword, dapsone, 10); (51, Search keyword, dapagliflozin, 10)
+
+(LID, 2114); (52, Human Name, Daphne Zuniga, 10); (52, Human Name, Daphne Oz, 10); (52, Human Name, Daphne Blake, 10); (52, Search keyword, daphne bridgerton, 10); (52, Human Name, Daphne Joy, 10); (52, Human Name, Daphne Ashbrook, 10); (52, Human Name, Daphne Du Maurier, 10); (52, Search keyword, daphne scooby-doo, 10)
+
+(LID, 2115); (53, Human Name, Daphne Blake, 10); (53, Search keyword, daphne bridgerton, 10); (53, Human Name, Daphne Brogdon, 10); (53, Search keyword, daphne bridgerton actress, 10); (53, Search keyword, daphne baxter, 10); (53, Search keyword, daphne burkwoodii, 10); (53, Search keyword, daphne blue, 10); (53, Search keyword, daphne blake in real life, 10)
+
+(LID, 2116); (54, Search keyword, daphne bridgerton, 10); (54, Search keyword, daphne bridgerton actress, 10); (54, Search keyword, daphne bridgeton, 10); (54, Search keyword, daphne bridgerton wiki, 10); (54, Search keyword, daphne bridgerton bangs, 10); (54, Search keyword, daphne bridgerton marries, 10); (54, Search keyword, daphne bridgerton outfits, 10); (54, Search keyword, daphne bridgerton children, 10)
+
+(LID, 2117)
+
+(LID, 2118); (56, App Name, DuckDuckGo, 10)
+
+(LID, 2119); (57, App Name, DuckDuckGo, 10)
+
+(LID, 2120); (58, App Name, DuckDuckGo, 10)
+
+(LID, 2121)
+
+(LID, 2122)
+
+(LID, 2123); (61, App Name, DuckDuckGo, 10)
+
+(LID, 2124); (1, App Name, DuckDuckGo, 10); (1, Timestamp, 2021-03-26 19:13:01, 10)
+
+(LID, 2125); (2, App Name, DuckDuckGo, 10); (2, Timestamp, 2021-03-26 19:13:01, 10)
+
+(LID, 2126); (3, App Name, DuckDuckGo, 10); (3, Timestamp, 2021-03-26 19:13:01, 10)
+
+(LID, 2127); (4, App Name, DuckDuckGo, 10); (4, Timestamp, 2021-03-26 19:13:01, 10)
+
+(LID, 2128); (5, App Name, DuckDuckGo, 10); (5, Timestamp, 2021-03-26 19:13:01, 10)
+
+(LID, 2129); (6, App Name, DuckDuckGo, 10); (6, Timestamp, 2021-03-26 19:13:01, 10)
+
+(LID, 2130); (7, App Name, DuckDuckGo, 10); (7, Timestamp, 2021-03-26 19:13:01, 10)
+
+(LID, 2131); (8, App Name, DuckDuckGo, 10); (8, Timestamp, 2021-03-26 19:13:01, 10)
+
+(LID, 2132); (9, App Name, DuckDuckGo, 10); (9, Timestamp, 2021-03-26 19:13:02, 10)
+
+(LID, 2133); (10, App Name, DuckDuckGo, 10); (10, Timestamp, 2021-03-26 19:13:14, 10)
+
+(LID, 2134); (11, Search keyword, ma, 10); (11, App Name, DuckDuckGo, 10); (11, Timestamp, 2021-03-26 19:13:21, 10)
+
+(LID, 2135); (12, Search keyword, mac, 10); (12, App Name, DuckDuckGo, 10); (12, Timestamp, 2021-03-26 19:13:21, 10)
+
+(LID, 2136); (13, Search keyword, mac4, 10); (13, App Name, DuckDuckGo, 10); (13, Timestamp, 2021-03-26 19:13:23, 10)
+
+(LID, 2137); (14, Search keyword, mac4n, 10); (14, App Name, DuckDuckGo, 10); (14, Timestamp, 2021-03-26 19:13:24, 10)
+
+(LID, 2138); (15, Search keyword, mac4n6, 10); (15, App Name, DuckDuckGo, 10); (15, Timestamp, 2021-03-26 19:13:25, 10)
+
+(LID, 2139); (16, App Name, DuckDuckGo, 10); (16, Timestamp, 2021-03-26 19:13:27, 10)
+
+(LID, 2140); (17, App Name, DuckDuckGo, 10); (17, Timestamp, 2021-03-26 19:13:27, 10)
+
+(LID, 2141); (18, App Name, DuckDuckGo, 10); (18, Timestamp, 2021-03-26 19:13:27, 10)
+
+(LID, 2142); (19, App Name, DuckDuckGo, 10); (19, Timestamp, 2021-03-26 19:13:27, 10)
+
+(LID, 2143); (20, App Name, DuckDuckGo, 10); (20, Timestamp, 2021-03-26 19:13:30, 10)
+
+(LID, 2144); (21, Search keyword, github, 10); (21, Timestamp, 2021-03-26 19:13:39, 10)
+
+(LID, 2145); (22, Search keyword, github, 10); (22, Timestamp, 2021-03-26 19:13:39, 10)
+
+(LID, 2146); (23, App Name, DuckDuckGo, 10); (23, Timestamp, 2021-03-26 19:13:40, 10)
+
+(LID, 2147); (24, App Name, DuckDuckGo, 10); (24, Timestamp, 2021-03-26 19:13:44, 10)
+
+(LID, 2148); (25, App Name, DuckDuckGo, 10); (25, Timestamp, 2021-03-26 19:13:53, 10)
+
+(LID, 2149); (26, App Name, DuckDuckGo, 10); (26, Timestamp, 2021-03-26 19:13:56, 10)
+
+(LID, 2150); (27, Search keyword, s, 10); (27, App Name, DuckDuckGo, 10); (27, Timestamp, 2021-03-26 19:14:07, 10)
+
+(LID, 2151); (28, Search keyword, sm, 10); (28, Timestamp, 2021-03-26 19:14:07, 10)
+
+(LID, 2152); (29, Search keyword, sma, 10); (29, Timestamp, 2021-03-26 19:14:07, 10)
+
+(LID, 2153); (30, Search keyword, smar, 10); (30, Timestamp, 2021-03-26 19:14:08, 10)
+
+(LID, 2154); (31, Search keyword, smart, 10); (31, Timestamp, 2021-03-26 19:14:08, 10)
+
+(LID, 2155); (32, Search keyword, smarte, 10); (32, Timestamp, 2021-03-26 19:14:09, 10)
+
+(LID, 2156); (33, Search keyword, smarter, 10); (33, Timestamp, 2021-03-26 19:14:09, 10)
+
+(LID, 2157); (34, Search keyword, smarterfor, 10); (34, Timestamp, 2021-03-26 19:14:12, 10)
+
+(LID, 2158); (35, Search keyword, smarterfore, 10); (35, Timestamp, 2021-03-26 19:14:12, 10)
+
+(LID, 2159); (36, Search keyword, smarterforen, 10); (36, Timestamp, 2021-03-26 19:14:13, 10)
+
+(LID, 2160); (37, Search keyword, smarterforensi, 10); (37, Timestamp, 2021-03-26 19:14:13, 10)
+
+(LID, 2161); (38, Search keyword, smarterforensic, 10); (38, Timestamp, 2021-03-26 19:14:13, 10)
+
+(LID, 2162); (39, Search keyword, smarterforensics, 10); (39, Timestamp, 2021-03-26 19:14:13, 10)
+
+(LID, 2163); (40, Timestamp, 2021-03-26 19:14:14, 10)
+
+(LID, 2164); (41, Timestamp, 2021-03-26 19:14:19, 10)
+
+(LID, 2165); (42, Timestamp, 2021-03-26 19:14:20, 10)
+
+(LID, 2166); (43, Timestamp, 2021-03-26 19:14:25, 10)
+
+(LID, 2167); (44, Timestamp, 2021-03-27 13:30:28, 10)
+
+(LID, 2168); (45, Timestamp, 2021-03-27 13:30:33, 10)
+
+(LID, 2169); (46, Timestamp, 2021-03-27 13:30:33, 10)
+
+(LID, 2170); (47, Timestamp, 2021-04-07 16:26:45, 10)
+
+(LID, 2171); (48, Timestamp, 2021-04-07 16:26:45, 10)
+
+(LID, 2172); (49, Search keyword, d, 10); (49, Timestamp, 2021-04-07 16:26:48, 10)
+
+(LID, 2173); (50, Search keyword, da, 10); (50, Timestamp, 2021-04-07 16:26:48, 10)
+
+(LID, 2174); (51, Search keyword, dap, 10); (51, Timestamp, 2021-04-07 16:26:49, 10)
+
+(LID, 2175); (52, Search keyword, daphne, 10); (52, Timestamp, 2021-04-07 16:26:50, 10)
+
+(LID, 2176); (53, Search keyword, daphne b, 10); (53, Timestamp, 2021-04-07 16:26:50, 10)
+
+(LID, 2177); (54, Search keyword, daphne bri, 10); (54, Timestamp, 2021-04-07 16:26:50, 10)
+
+(LID, 2178); (55, Timestamp, 2021-04-07 16:26:51, 10)
+
+(LID, 2179); (56, Timestamp, 2021-04-11 13:44:23, 10)
+
+(LID, 2180); (57, Timestamp, 2021-04-12 01:45:39, 10)
+
+(LID, 2181); (58, Timestamp, 2021-04-12 17:02:56, 10)
+
+(LID, 2182); (59, Timestamp, 2021-04-14 12:32:59, 10)
+
+(LID, 2183); (60, Timestamp, 2021-04-14 12:32:59, 10)
+
+(LID, 2184); (61, Timestamp, 2021-04-18 14:07:39, 10)
+
+(LID, 2185)
+
+(LID, 2186); (1, App Name, DuckDuckGo, 10); (1, Timestamp, 2021-04-07 16:27:15, 10); (1, Timestamp, 2021-04-07 16:27:16, 10)
+
+(LID, 2187); (2, Timestamp, 2021-03-26 19:13:35, 10)
+
+(LID, 2188); (3, Timestamp, 2021-03-26 19:13:35, 10)
+
+(LID, 2189); (4, Timestamp, 2021-03-26 19:13:55, 10); (4, Timestamp, 2021-03-26 19:13:57, 10)
+
+(LID, 2190); (5, Timestamp, 2021-03-26 19:13:35, 10)
+
+(LID, 2191); (6, Timestamp, 2021-04-07 16:26:45, 10)
+
+(LID, 2192); (7, Timestamp, 2021-04-07 16:26:45, 10)
+
+(LID, 2193); (8, Timestamp, 2021-04-07 16:26:45, 10)
+
+(LID, 2194); (9, Timestamp, 2021-04-07 16:26:45, 10)
+
+(LID, 2195); (10, Search keyword, smarterforensics, 10); (10, Timestamp, 2021-03-26 19:14:25, 10); (10, Timestamp, 2021-03-26 19:14:27, 10)
+
+(LID, 2196)
+
+(LID, 2197)
+
+(LID, 2198)
+
+(LID, 2199)
+
+(LID, 2200)

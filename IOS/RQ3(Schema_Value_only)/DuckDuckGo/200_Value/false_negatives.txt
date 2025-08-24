@@ -1,0 +1,400 @@
+(LID, 2001); (1, App Name, GitHub, 10);
+
+(LID, 2002); (1, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2003); (2, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2004); (3, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2005); (4, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2006); (5, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2007); (6, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2008); (7, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2009); (8, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2010); (9, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2011); (10, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2012); (11, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2013); (12, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2014); (13, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2015); (14, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2016); (15, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2017); (16, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2018); (17, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2019); (18, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2020); (19, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2021); (20, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2022); (21, App Name, GitHub, 10); (21, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2023); (22, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2024); (23, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2025); (24, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2026); (25, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2027); (26, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2028); (27, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2029); (28, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2030); (29, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2031); (30, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2032); (31, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2033); (32, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2034); (33, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2035); (34, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2036); (35, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2037); (36, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2038); (37, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2039); (38, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2040); (39, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2041); (40, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2042); (41, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2043); (42, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2044); (43, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2045); (44, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2046); (45, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2047); (46, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2048); (47, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2049); (48, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2050); (49, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2051); (50, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2052); (51, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2053); (52, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2054); (53, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2055); (54, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2056); (55, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2057); (56, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2058); (57, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2059); (58, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2060); (59, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2061); (60, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2062); (61, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2063); (1, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2064); (2, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2065); (3, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2066); (4, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2067); (5, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2068); (6, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2069); (7, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2070); (8, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2071); (9, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2072); (10, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2073); (11, App Name, DuckDuckGo Privacy Browser, 10); (11, Search keyword, www.macys.com, 10);
+
+(LID, 2074); (12, App Name, DuckDuckGo Privacy Browser, 10); (12, Search keyword, www.macys.com, 10);
+
+(LID, 2075); (13, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2076); (14, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2077); (15, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2078); (16, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2079); (17, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2080); (18, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2081); (19, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2082); (20, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2083); (21, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2084); (22, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2085); (23, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2086); (24, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2087); (25, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2088); (26, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2089); (27, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2090); (28, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2091); (29, Search keyword, www.smartsheet.com, 10); (29, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2092); (30, Search keyword, www.smartsheet.com, 10); (30, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2093); (31, Search keyword, www.smartsheet.com, 10); (31, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2094); (32, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2095); (33, Search keyword, www.smartereveryday.com, 10); (33, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2096); (34, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2097); (35, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2098); (36, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2099); (37, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2100); (38, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2101); (39, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2102); (40, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2103); (41, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2104); (42, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2105); (43, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2106); (44, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2107); (45, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2108); (46, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2109); (47, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2110); (48, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2111); (49, Search keyword, duckduckgo.com, 10); (49, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2112); (50, App Name, DuckDuckGo Privacy Browser, 10); (50, Search keyword, www.daum.net, 10);
+
+(LID, 2113); (51, Search keyword, daphne blake, 10); (51, Search keyword, daphne zuniga, 10); (51, App Name, DuckDuckGo Privacy Browser, 10); (51, Search keyword, daphne oz, 10);
+
+(LID, 2114); (52, Search keyword, daphne blake, 10); (52, Search keyword, daphne du maurier, 10); (52, Search keyword, daphne zuniga, 10); (52, App Name, DuckDuckGo Privacy Browser, 10); (52, Search keyword, daphne oz, 10); (52, Search keyword, daphne ashbrook, 10); (52, Search keyword, daphne joy, 10);
+
+(LID, 2115); (53, Search keyword, daphne brogdon, 10); (53, Search keyword, daphne blake, 10); (53, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2116); (54, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2117); (55, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2118); (56, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2119); (57, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2120); (58, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2121); (59, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2122); (60, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2123); (61, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2124); (1, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2125); (2, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2126); (3, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2127); (4, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2128); (5, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2129); (6, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2130); (7, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2131); (8, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2132); (9, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2133); (10, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2134); (11, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2135); (12, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2136); (13, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2137); (14, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2138); (15, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2139); (16, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2140); (17, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2141); (18, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2142); (19, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2143); (20, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2144); (21, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2145); (22, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2146); (23, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2147); (24, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2148); (25, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2149); (26, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2150); (27, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2151); (28, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2152); (29, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2153); (30, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2154); (31, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2155); (32, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2156); (33, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2157); (34, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2158); (35, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2159); (36, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2160); (37, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2161); (38, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2162); (39, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2163); (40, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2164); (41, App Name, DuckDuckGo Privacy Browser, 10); (41, Geographic Address, SmarterForensics.com, 7);
+
+(LID, 2165); (42, App Name, DuckDuckGo Privacy Browser, 10); (42, Geographic Address, SmarterForensics.com, 7);
+
+(LID, 2166); (43, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2167); (44, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2168); (45, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2169); (46, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2170); (47, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2171); (48, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2172); (49, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2173); (50, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2174); (51, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2175); (52, App Name, DuckDuckGo Privacy Browser, 10); (52, Human name, Daphne, 9);
+
+(LID, 2176); (53, Human name, Daphne, 9); (53, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2177); (54, App Name, DuckDuckGo Privacy Browser, 10); (54, Human name, Daphne, 9);
+
+(LID, 2178); (55, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2179); (56, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2180); (57, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2181); (58, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2182); (59, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2183); (60, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2184); (61, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2185); (1, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2186); (1, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2187); (2, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2188); (3, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2189); (4, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2190); (5, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2191); (6, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2192); (7, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2193); (8, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2194); (9, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2195); (10, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2196); (1, Timestamp, 2021-02-26 00:00:00, 10); (1, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2197); (2, App Name, DuckDuckGo Privacy Browser, 10); (2, Timestamp, 2021-02-27 00:00:00, 10);
+
+(LID, 2198); (3, Timestamp, 2021-02-31 00:00:00, 10); (3, App Name, DuckDuckGo Privacy Browser, 10);
+
+(LID, 2199); (4, App Name, DuckDuckGo Privacy Browser, 10); (4, Timestamp, 2021-03-02 00:00:00, 10);
+
+(LID, 2200); (5, App Name, DuckDuckGo Privacy Browser, 10); (5, Timestamp, 2021-03-06 00:00:00, 10);
+

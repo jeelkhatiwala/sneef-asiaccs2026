@@ -1,0 +1,201 @@
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 237), (chat_id, 12), (message_id, 251), (message_date, 643912843864344064)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 238), (chat_id, 12), (message_id, 252), (message_date, 643912856461863936)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 239), (chat_id, 12), (message_id, 253), (message_date, 643931610686288896)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 240), (chat_id, 12), (message_id, 254), (message_date, 644111224369350016)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 241), (chat_id, 12), (message_id, 255), (message_date, 644278457833401984)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 242), (chat_id, 12), (message_id, 256), (message_date, 644370269031260032)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 243), (chat_id, 12), (message_id, 257), (message_date, 644523449801913984)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 244), (chat_id, 12), (message_id, 258), (message_date, 644623817658648960)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 245), (chat_id, 8), (message_id, 259), (message_date, 644720180823015168)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 246), (chat_id, 12), (message_id, 260), (message_date, 644720324775588992)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 247), (chat_id, 8), (message_id, 261), (message_date, 644896934941615104)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 248), (chat_id, 12), (message_id, 262), (message_date, 644935807880785024)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 249), (chat_id, 2), (message_id, 263), (message_date, 645020751572112000)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 250), (chat_id, 2), (message_id, 264), (message_date, 645192736867478912)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 251), (chat_id, 12), (message_id, 265), (message_date, 645245086647308928)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 252), (chat_id, 2), (message_id, 266), (message_date, 645278462072615040)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 253), (chat_id, 2), (message_id, 267), (message_date, 645394437576333952)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 254), (chat_id, 2), (message_id, 268), (message_date, 645394440269440000)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 255), (chat_id, 2), (message_id, 269), (message_date, 645394443466078976)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 256), (chat_id, 29), (message_id, 270), (message_date, 645408703277699968)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 257), (chat_id, 29), (message_id, 271), (message_date, 645411334126090112)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 258), (chat_id, 29), (message_id, 272), (message_date, 645411348674961024)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 259), (chat_id, 29), (message_id, 273), (message_date, 645411381483315968)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 260), (chat_id, 29), (message_id, 274), (message_date, 645411400104347904)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 261), (chat_id, 29), (message_id, 275), (message_date, 645411453574776960)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 262), (chat_id, 29), (message_id, 276), (message_date, 645411467661661952)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 263), (chat_id, 29), (message_id, 277), (message_date, 645411486442749952)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 264), (chat_id, 29), (message_id, 278), (message_date, 645411518861559040)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 265), (chat_id, 29), (message_id, 279), (message_date, 645411534156849920)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 266), (chat_id, 29), (message_id, 280), (message_date, 645411542955324032)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 267), (chat_id, 29), (message_id, 281), (message_date, 645411551963554944)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 268), (chat_id, 29), (message_id, 282), (message_date, 645411554072964992)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 269), (chat_id, 29), (message_id, 283), (message_date, 645411561248610944)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 270), (chat_id, 29), (message_id, 284), (message_date, 645411569677819904)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 271), (chat_id, 29), (message_id, 285), (message_date, 645411586682400000)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 272), (chat_id, 29), (message_id, 286), (message_date, 645411596282361984)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 273), (chat_id, 29), (message_id, 287), (message_date, 645411624100612992)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 274), (chat_id, 29), (message_id, 288), (message_date, 645411633642480000)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 275), (chat_id, 29), (message_id, 289), (message_date, 645411641351931008)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 276), (chat_id, 29), (message_id, 290), (message_date, 645411835085590016)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 277), (chat_id, 29), (message_id, 291), (message_date, 645411889767124992)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 278), (chat_id, 29), (message_id, 292), (message_date, 645411904141214976)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 279), (chat_id, 29), (message_id, 293), (message_date, 645411915515027968)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 280), (chat_id, 29), (message_id, 294), (message_date, 645412001466406912)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 281), (chat_id, 29), (message_id, 295), (message_date, 645412028273489024)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 282), (chat_id, 29), (message_id, 296), (message_date, 645412033419139968)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 283), (chat_id, 29), (message_id, 297), (message_date, 645412133864425984)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 284), (chat_id, 29), (message_id, 298), (message_date, 645412158640665088)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 285), (chat_id, 29), (message_id, 299), (message_date, 645412163553868032)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 286), (chat_id, 29), (message_id, 300), (message_date, 645412212607878016)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 287), (chat_id, 29), (message_id, 301), (message_date, 645412247154785024)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 288), (chat_id, 29), (message_id, 302), (message_date, 645412273971560960)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 289), (chat_id, 29), (message_id, 303), (message_date, 645412316279470976)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 290), (chat_id, 29), (message_id, 304), (message_date, 645412316842238976)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 291), (chat_id, 29), (message_id, 305), (message_date, 645412321714951040)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 292), (chat_id, 29), (message_id, 306), (message_date, 645412465346776064)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 293), (chat_id, 29), (message_id, 307), (message_date, 645412481428075008)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 294), (chat_id, 29), (message_id, 308), (message_date, 645412489570520960)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 295), (chat_id, 29), (message_id, 309), (message_date, 645412656694110080)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 296), (chat_id, 29), (message_id, 310), (message_date, 645412788335139968)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 297), (chat_id, 29), (message_id, 311), (message_date, 645412797923432960)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 298), (chat_id, 29), (message_id, 312), (message_date, 645413127135575040)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 299), (chat_id, 29), (message_id, 313), (message_date, 645413198221481984)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 300), (chat_id, 29), (message_id, 314), (message_date, 645413206097584000)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 301), (chat_id, 29), (message_id, 315), (message_date, 645413249406888960)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 302), (chat_id, 29), (message_id, 316), (message_date, 645413251688588032)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 303), (chat_id, 29), (message_id, 317), (message_date, 645413263641779968)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 304), (chat_id, 29), (message_id, 318), (message_date, 645413277368690944)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 305), (chat_id, 29), (message_id, 319), (message_date, 645413288373665024)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 306), (chat_id, 29), (message_id, 320), (message_date, 645413302867548928)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 307), (chat_id, 29), (message_id, 321), (message_date, 645413332975746048)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 308), (chat_id, 29), (message_id, 322), (message_date, 645413357017360000)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 309), (chat_id, 29), (message_id, 323), (message_date, 645413364890830976)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 310), (chat_id, 29), (message_id, 324), (message_date, 645413381036964096)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 311), (chat_id, 29), (message_id, 325), (message_date, 645413389476323072)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 312), (chat_id, 29), (message_id, 326), (message_date, 645413394593170048)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 313), (chat_id, 29), (message_id, 327), (message_date, 645413410857092992)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 314), (chat_id, 29), (message_id, 328), (message_date, 645413504149163904)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 315), (chat_id, 29), (message_id, 329), (message_date, 645413511236168960)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 316), (chat_id, 29), (message_id, 330), (message_date, 645413598921425024)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 317), (chat_id, 12), (message_id, 331), (message_date, 645504667811748992)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 318), (chat_id, 12), (message_id, 332), (message_date, 645625368533112064)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 319), (chat_id, 12), (message_id, 333), (message_date, 645860560625128960)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 320), (chat_id, 12), (message_id, 334), (message_date, 646191140274031104)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 321), (chat_id, 12), (message_id, 335), (message_date, 646358462418377088)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 322), (chat_id, 12), (message_id, 336), (message_date, 646448786018569984)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 323), (chat_id, 12), (message_id, 337), (message_date, 646537854816096000)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 324), (chat_id, 30), (message_id, 338), (message_date, 646779861071920000)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 325), (chat_id, 12), (message_id, 339), (message_date, 647041729443417984)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 326), (chat_id, 12), (message_id, 340), (message_date, 647145380266008960)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 327), (chat_id, 12), (message_id, 341), (message_date, 647288253439012096)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 328), (chat_id, 12), (message_id, 342), (message_date, 647375027147065984)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 329), (chat_id, 12), (message_id, 343), (message_date, 647530918614508928)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 330), (chat_id, 12), (message_id, 344), (message_date, 647621229027217024)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 331), (chat_id, 2), (message_id, 345), (message_date, 647699783053163008)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 332), (chat_id, 12), (message_id, 346), (message_date, 647716953155859968)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 333), (chat_id, 12), (message_id, 347), (message_date, 647826001735869056)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 334), (chat_id, 2), (message_id, 348), (message_date, 647873325718664064)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, chat_message_join), (RL, 335), (chat_id, 2), (message_id, 349), (message_date, 647956923219539072)
+
+(PID, SMS), (DN, sms.db), (DP, /home/kali/Desktop/RA/Beth iPhone/Apple_iPhone X (A1901)/filesystem1/private/var/mobile/Library/SMS/sms.db), (TN, handle), (RL, 1), (ROWID, 1), (id, 5116), (country, us), (service, SMS), (uncanonicalized_id, 5116.0)
+
+

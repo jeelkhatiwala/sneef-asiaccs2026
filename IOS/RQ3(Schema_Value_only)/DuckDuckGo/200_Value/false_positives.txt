@@ -1,0 +1,206 @@
+(LID, 2004); (3, Search keyword, surrogates, 10);
+
+(LID, 2006); (5, App Name, DuckDuckGo, 10);
+
+(LID, 2007); (6, App Name, DuckDuckGo, 10);
+
+(LID, 2008); (7, App Name, DuckDuckGo, 10);
+
+(LID, 2009); (8, App Name, DuckDuckGo, 10);
+
+(LID, 2010); (9, App Name, DuckDuckGo, 10);
+
+(LID, 2011); (10, App Name, DuckDuckGo, 10);
+
+(LID, 2012); (11, App Name, DuckDuckGo, 10);
+
+(LID, 2013); (12, App Name, DuckDuckGo, 10);
+
+(LID, 2014); (13, App Name, DuckDuckGo, 10);
+
+(LID, 2015); (14, App Name, DuckDuckGo, 10);
+
+(LID, 2016); (15, App Name, DuckDuckGo, 10);
+
+(LID, 2017); (16, App Name, DuckDuckGo, 10);
+
+(LID, 2018); (17, App Name, DuckDuckGo, 10);
+
+(LID, 2019); (18, App Name, DuckDuckGo, 10);
+
+(LID, 2020); (19, App Name, DuckDuckGo, 10);
+
+(LID, 2021); (20, App Name, DuckDuckGo, 10);
+
+(LID, 2024); (23, App Name, DuckDuckGo, 10);
+
+(LID, 2025); (24, App Name, DuckDuckGo, 10);
+
+(LID, 2026); (25, App Name, DuckDuckGo, 10);
+
+(LID, 2027); (26, App Name, DuckDuckGo, 10);
+
+(LID, 2028); (27, App Name, DuckDuckGo, 10);
+
+(LID, 2029); (28, App Name, DuckDuckGo, 10);
+
+(LID, 2030); (29, App Name, DuckDuckGo, 10);
+
+(LID, 2031); (30, App Name, DuckDuckGo, 10);
+
+(LID, 2032); (31, App Name, DuckDuckGo, 10);
+
+(LID, 2033); (32, App Name, DuckDuckGo, 10);
+
+(LID, 2034); (33, App Name, DuckDuckGo, 10);
+
+(LID, 2035); (34, App Name, DuckDuckGo, 10);
+
+(LID, 2036); (35, App Name, DuckDuckGo, 10);
+
+(LID, 2038); (37, App Name, DuckDuckGo, 10);
+
+(LID, 2039); (38, App Name, DuckDuckGo, 10);
+
+(LID, 2040); (39, App Name, DuckDuckGo, 10);
+
+(LID, 2041); (40, App Name, DuckDuckGo, 10);
+
+(LID, 2042); (41, App Name, Smarter Forensics, 10);
+
+(LID, 2043); (42, App Name, Smarter Forensics, 10);
+
+(LID, 2044); (43, App Name, DuckDuckGo, 10);
+
+(LID, 2045); (44, App Name, DuckDuckGo, 10);
+
+(LID, 2046); (45, App Name, DuckDuckGo, 10);
+
+(LID, 2047); (46, App Name, DuckDuckGo, 10);
+
+(LID, 2048); (47, App Name, DuckDuckGo, 10);
+
+(LID, 2049); (48, App Name, DuckDuckGo, 10);
+
+(LID, 2050); (49, App Name, DuckDuckGo, 10);
+
+(LID, 2051); (50, App Name, DuckDuckGo, 10);
+
+(LID, 2052); (51, App Name, DuckDuckGo, 10);
+
+(LID, 2053); (52, App Name, DuckDuckGo, 10);
+
+(LID, 2054); (53, App Name, DuckDuckGo, 10);
+
+(LID, 2056); (55, App Name, DuckDuckGo, 10);
+
+(LID, 2057); (56, App Name, DuckDuckGo, 10);
+
+(LID, 2058); (57, App Name, DuckDuckGo, 10);
+
+(LID, 2059); (58, App Name, DuckDuckGo, 10);
+
+(LID, 2060); (59, App Name, DuckDuckGo, 10);
+
+(LID, 2061); (60, App Name, DuckDuckGo, 10);
+
+(LID, 2062); (61, App Name, DuckDuckGo, 10);
+
+(LID, 2091); (29, Search keyword, [www.smartsheet.com](http://www.smartsheet.com), 10);
+
+(LID, 2092); (30, Search keyword, [www.smartsheet.com](http://www.smartsheet.com), 10);
+
+(LID, 2093); (31, Search keyword, [www.smartsheet.com](http://www.smartsheet.com), 10);
+
+(LID, 2095); (33, Search keyword, [www.smartereveryday.com](http://www.smartereveryday.com), 10);
+
+(LID, 2109); (47, App Name, DuckDuckGo, 10);
+
+(LID, 2113); (51, Human Name, Daphne Oz, 10); (51, Human Name, Daphne Zuniga, 10); (51, Human Name, Daphne Blake, 10);
+
+(LID, 2114); (52, Human Name, Daphne Oz, 10); (52, Human Name, Daphne Zuniga, 10); (52, Human Name, Daphne Ashbrook, 10); (52, Human Name, Daphne Joy, 10); (52, Human Name, Daphne Du Maurier, 10); (52, Human Name, Daphne Blake, 10);
+
+(LID, 2115); (53, Human Name, Daphne Brogdon, 10); (53, Human Name, Daphne Blake, 10);
+
+(LID, 2118); (56, App Name, DuckDuckGo, 10);
+
+(LID, 2119); (57, App Name, DuckDuckGo, 10);
+
+(LID, 2120); (58, App Name, DuckDuckGo, 10);
+
+(LID, 2123); (61, App Name, DuckDuckGo, 10);
+
+(LID, 2124); (1, App Name, DuckDuckGo, 10);
+
+(LID, 2125); (2, App Name, DuckDuckGo, 10);
+
+(LID, 2126); (3, App Name, DuckDuckGo, 10);
+
+(LID, 2127); (4, App Name, DuckDuckGo, 10);
+
+(LID, 2128); (5, App Name, DuckDuckGo, 10);
+
+(LID, 2129); (6, App Name, DuckDuckGo, 10);
+
+(LID, 2130); (7, App Name, DuckDuckGo, 10);
+
+(LID, 2131); (8, App Name, DuckDuckGo, 10);
+
+(LID, 2132); (9, App Name, DuckDuckGo, 10);
+
+(LID, 2133); (10, App Name, DuckDuckGo, 10);
+
+(LID, 2134); (11, App Name, DuckDuckGo, 10);
+
+(LID, 2135); (12, App Name, DuckDuckGo, 10);
+
+(LID, 2136); (13, App Name, DuckDuckGo, 10);
+
+(LID, 2137); (14, App Name, DuckDuckGo, 10);
+
+(LID, 2138); (15, App Name, DuckDuckGo, 10);
+
+(LID, 2139); (16, App Name, DuckDuckGo, 10);
+
+(LID, 2140); (17, App Name, DuckDuckGo, 10);
+
+(LID, 2141); (18, App Name, DuckDuckGo, 10);
+
+(LID, 2142); (19, App Name, DuckDuckGo, 10);
+
+(LID, 2143); (20, App Name, DuckDuckGo, 10);
+
+(LID, 2144); (21, Search keyword, github, 10);
+
+(LID, 2145); (22, Search keyword, github, 10);
+
+(LID, 2146); (23, App Name, DuckDuckGo, 10);
+
+(LID, 2147); (24, App Name, DuckDuckGo, 10);
+
+(LID, 2148); (25, App Name, DuckDuckGo, 10);
+
+(LID, 2149); (26, App Name, DuckDuckGo, 10);
+
+(LID, 2150); (27, App Name, DuckDuckGo, 10);
+
+(LID, 2186); (1, App Name, DuckDuckGo, 10);
+
+(LID, 2187); (2, Timestamp, 2021-03-26 19:13:35, 10);
+
+(LID, 2188); (3, Timestamp, 2021-03-26 19:13:35, 10);
+
+(LID, 2189); (4, Timestamp, 2021-03-26 19:13:57, 10); (4, Timestamp, 2021-03-26 19:13:55, 10);
+
+(LID, 2190); (5, Timestamp, 2021-03-26 19:13:35, 10);
+
+(LID, 2191); (6, Timestamp, 2021-04-07 16:26:45, 10);
+
+(LID, 2192); (7, Timestamp, 2021-04-07 16:26:45, 10);
+
+(LID, 2193); (8, Timestamp, 2021-04-07 16:26:45, 10);
+
+(LID, 2194); (9, Timestamp, 2021-04-07 16:26:45, 10);
+
+(LID, 2195); (10, Search keyword, smarterforensics, 10); (10, Timestamp, 2021-03-26 19:14:25, 10); (10, Timestamp, 2021-03-26 19:14:27, 10);
+

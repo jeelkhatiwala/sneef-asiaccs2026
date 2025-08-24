@@ -1,0 +1,92 @@
+(LID, 5001); (2, Message, Leos are the bright fiery stars of the zodiac! They are brave, creative and dramatic and they aren't afraid to put it all on the line when they go for something they believe in. This can lead them to be over-dramatic or over-the-top sometimes, but they act from the heart and strive to be as authentic and genuine as possible. They are very generous and attentive towards others and their pride can get wounded if they don't feel their efforts are appreciated, so it's always wise to show gratitude to a proud Leo. They also love to have a good time and when they're having fun they light up the room., 10);
+
+(LID, 5002); (3, App Name, Snapchat, 10); (3, Message, Those born with the Ruby birthstone know how to shine and achieve the objects of their hearts desire! They may move towards what they want in a subtle way, or they may put their heart on their sleeve, but either way, they don't hold back and will reach their goals eventually. Like the bright and passionate Ruby, July people have a zest for life that is contagious. Just as the fiery Ruby enjoys being admired, July people can become fussy if they don't think they are getting the respect they deserve. But at heart, Ruby people are steadfast and loving., 10);
+
+(LID, 5003); (4, App Name, Snapchat, 10); (4, Message, You admire each other's integrity and ambition. You are both very determined but you go about reaching your goals in different ways. One of you may be more cautious and calculated, while the other may be more enthusiastic and bold. You can both learn a lot from each other about different ways to strategize in reaching your dreams and goals. Emotionally you have different temperaments, so be communicative about your needs to avoid misunderstandings., 10);
+
+(LID, 5004); (5, App Name, Snapchat, 10); (5, Message, You and {{#}} have an average Snap Score of 1. You're just getting started!, 10);
+
+(LID, 5023); (1, App Name, Snapchat, 10);
+
+(LID, 5040); (1, App Name, Snapchat, 10);
+
+(LID, 5161); (391, App Name, Google Lens, 10);
+
+(LID, 5162); (392, App Name, Google Lens, 10);
+
+(LID, 5163); (393, App Name, Google Lens, 10);
+
+(LID, 5164); (394, App Name, Google Lens, 10);
+
+(LID, 5165); (395, App Name, Google Lens, 10);
+
+(LID, 5166); (396, App Name, Google Lens, 10);
+
+(LID, 5167); (397, App Name, Google Lens, 10);
+
+(LID, 5168); (398, App Name, Google Lens, 10);
+
+(LID, 5169); (399, App Name, Google Lens, 10);
+
+(LID, 5170); (400, App Name, Google Lens, 10);
+
+(LID, 5171); (401, App Name, Google Lens, 10);
+
+(LID, 5172); (402, App Name, Google Lens, 10);
+
+(LID, 5173); (403, App Name, Google Lens, 10);
+
+(LID, 5174); (404, App Name, Google Lens, 10);
+
+(LID, 5175); (405, App Name, Google Lens, 10);
+
+(LID, 5176); (406, App Name, Google Lens, 10);
+
+(LID, 5177); (407, App Name, Google Lens, 10);
+
+(LID, 5178); (408, App Name, Google Lens, 10);
+
+(LID, 5179); (1, Timestamp, 2021-06-21 00:00:00, 10); (1, Timestamp, 2021-06-21 14:38:25, 9);
+
+(LID, 5180); (357, App Name, Google Lens, 10);
+
+(LID, 5181); (358, App Name, Google Lens, 10);
+
+(LID, 5182); (359, App Name, Google Lens, 10);
+
+(LID, 5183); (360, App Name, Google Lens, 10);
+
+(LID, 5184); (361, App Name, Google Lens, 10);
+
+(LID, 5185); (362, App Name, Google Lens, 10);
+
+(LID, 5186); (363, App Name, Google Lens, 10);
+
+(LID, 5187); (364, App Name, Google Lens, 10);
+
+(LID, 5188); (365, App Name, Google Lens, 10);
+
+(LID, 5189); (366, App Name, Google Lens, 10);
+
+(LID, 5190); (367, App Name, Google Lens, 10);
+
+(LID, 5191); (368, App Name, Google Lens, 10);
+
+(LID, 5192); (369, App Name, Google Lens, 10);
+
+(LID, 5193); (370, App Name, Google Lens, 10);
+
+(LID, 5194); (371, App Name, Google Lens, 10);
+
+(LID, 5195); (372, App Name, Google Lens, 10);
+
+(LID, 5196); (373, App Name, Google Lens, 10);
+
+(LID, 5197); (374, App Name, Google Lens, 10);
+
+(LID, 5198); (375, App Name, Google Lens, 10);
+
+(LID, 5199); (376, App Name, Google Lens, 10);
+
+(LID, 5200); (377, App Name, Google Lens, 10);
+

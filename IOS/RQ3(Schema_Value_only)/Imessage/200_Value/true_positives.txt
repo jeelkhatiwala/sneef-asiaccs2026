@@ -1,0 +1,346 @@
+(LID, 3001); (1, Message, Thank you for being a valued T-Mobile customer! Your confirmation # is : CTMAB1I7M87469 ., 10); (1, App Name, T-Mobile, 10);
+
+(LID, 3002); (2, App Name, T-Mobile, 10);
+
+(LID, 3003); (3, Message, Thank you for calling T-Mobile! Your time and patience was invaluable today., 10); (3, App Name, T-Mobile, 10);
+
+(LID, 3004); (7, Message, Hey, 10);
+
+(LID, 3005); (8, Message, I'm deleting you!!!, 10);
+
+(LID, 3006); (7, Message, Hey, 10);
+
+(LID, 3007); (8, Message, I'm deleting you!!!, 10);
+
+(LID, 3008); (23, Message, Did you get this?, 10);
+
+(LID, 3009); (24, Message, Liked “Did you get this?”, 10);
+
+(LID, 3010); (25, Message, Finally. Glad you’re back, 10);
+
+(LID, 3011); (26, Message, Making quick stop for lunch before we bounce, 10);
+
+(LID, 3012); (27, Message, Lunch?, 10);
+
+(LID, 3013); (28, Message, Oh yeah. I’m East cost right now, 10);
+
+(LID, 3014); (29, Message, Had pizza the other day, 10);
+
+(LID, 3015); (30, Message, That’s amazing., 10);
+
+(LID, 3016); (29, Message, Ok boarded. About to push. Got you something you’ll like. We need to meet. It’s not something you can mail/ship, 10);
+
+(LID, 3017); (30, Message, Oh yea? I have business in MT coming up. I can swing by after I leave Dad’s, 10);
+
+(LID, 3018); (31, App Name, TikTok, 10);
+
+(LID, 3019); (32, Human Name, Beth, 10); (32, App Name, Facebook, 10); (32, Message, 14398 is Beth's Facebook confirmation code, 10);
+
+(LID, 3020); (33, App Name, Snapchat, 10); (33, Message, Snapchat code: 110817. Do not share it or use it elsewhere!, 10);
+
+(LID, 3021); (34, App Name, Snapchat, 10); (34, Username, b\_dutton2021, 10); (34, Message, Add me on Snapchat! Username: b\_dutton2021, 10);
+
+(LID, 3022); (49, Message, \[TikTok] 2477 is your verification code, valid for 5 minutes. To keep your account safe, never forward this code., 10); (49, App Name, TikTok, 10);
+
+(LID, 3023); (50, Message, Hi, 10);
+
+(LID, 3024); (51, Message, Sorry, this service is not available., 10);
+
+(LID, 3025); (52, Message, How’s your week so far?, 10);
+
+(LID, 3026); (53, Message, Let’s do a meet up soon, 10);
+
+(LID, 3027); (55, Message, Going to scout some local area here. We had a good tip and will probably go up through the air to see what we can find, 10);
+
+(LID, 3028); (56, Message, Cool, 10);
+
+(LID, 3031); (63, Message, How was the the flight?, 10);
+
+(LID, 3032); (64, Message, Awesome., 10);
+
+(LID, 3033); (65, Message, Now looking for other things, 10);
+
+(LID, 3036); (68, Message, Any luck? I need to get out of here!, 10);
+
+(LID, 3037); (69, Message, Amazing, 10);
+
+(LID, 3038); (70, Message, We got shot, 10);
+
+(LID, 3039); (71, Message, A shot. First dose COVID-19 vaccination 💉, 10);
+
+(LID, 3040); (72, Message, I partied too hard this week, 10);
+
+(LID, 3041); (73, Message, Headed to MT on sat though. More meetings., 10);
+
+(LID, 3042); (74, Message, Oh that’s cool. I wanna party!!!, 10);
+
+(LID, 3043); (77, Message, What? What the hell marsha?, 10);
+
+(LID, 3044); (78, Message, Did I not teach you better. Don’t tell dad., 10);
+
+(LID, 3045); (79, Message, I’ll see him next week, 10);
+
+(LID, 3046); (80, Message, Just got here 😩, 10);
+
+(LID, 3047); (81, Message, Call me after!, 10);
+
+(LID, 3048); (82, Message, We break for lunch :( talk later, 10);
+
+(LID, 3049); (83, Message, They want to record me on an international informant call. I’ll talk to you after., 10);
+
+(LID, 3050); (84, Message, Emphasized “They want to record me on an international informant call. I’ll talk to you after.”, 10);
+
+(LID, 3051); (85, Message, They are taking me to confront someone, 10);
+
+(LID, 3053); (88, Message, Dallas weather, 10);
+
+(LID, 3054); (89, Message, Reminder: Please refill your plan within the next 3 days to ensure continued T-Mobile service at t-mo.co/refill24 or press 611. Please disregard if you've already paid for next month's service., 10);
+
+(LID, 3055); (90, Message, Damn sis. Nice hair, 10);
+
+(LID, 3058); (94, Message, Ooh. I’ll get an account, 10);
+
+(LID, 3059); (95, Message, Oh. Signal as is service. Haha, 10);
+
+(LID, 3061); (97, Message, Laughed at “Ooh. I’ll get an account ”, 10); (97, Phone Number, +16104572655, 10);
+
+(LID, 3062); (99, Message, Headed out for drinks. Let’s see if I can start a fight, 10); (99, Phone Number, +16104572655, 10);
+
+(LID, 3063); (100, Message, I was so hung over. That text never sent last night, 10); (100, Phone Number, +16104572655, 10);
+
+(LID, 3064); (101, Message, Hmm was about to say seems too early for drinks, 10); (101, Phone Number, +16104572655, 10);
+
+(LID, 3065); (102, Message, I met an interesting guy Kay night. Does business in Cali, 10); (102, Phone Number, +16104572655, 10);
+
+(LID, 3066); (104, Phone Number, +16104572655, 10); (104, Message, Oh I met someone here that also invited me to do business in Cali Going to give me an inside tour next week if I come, 10);
+
+(LID, 3067); (105, Message, Keep me posted. We need a new computer., 10); (105, Phone Number, +16104572655, 10);
+
+(LID, 3068); (106, Phone Number, +16104572655, 10);
+
+(LID, 3069); (107, Message, Wine country so amazing here. We need to be here together, 10); (107, Phone Number, +16104572655, 10);
+
+(LID, 3070); (108, Message, Look what I got here, 10); (108, Phone Number, +16104572655, 10);
+
+(LID, 3071); (109, Message, Sweet! What are your plans with it?, 10); (109, Phone Number, +16104572655, 10);
+
+(LID, 3072); (110, Message, Well since they already put Wa plates on it, I’ll use it for next few days then if we don’t get pulled, probably send it with a courier to Seattle. I can make sure it disappears there :), 10); (110, Phone Number, +16104572655, 10);
+
+(LID, 3073); (113, Phone Number, +16104572655, 10); (113, Message, So, you going to be stingy or let your sis in on this? You know I make friends easily., 10);
+
+(LID, 3074); (114, Message, Fancy friends., 10); (114, Phone Number, +16104572655, 10);
+
+(LID, 3075); (116, Message, Also, we need to talk in a more secure app, 10); (116, Phone Number, +16104572655, 10);
+
+(LID, 3076); (117, Message, Hit me on Signal. They say it is more secured, 10);
+
+(LID, 3077); (118, Message, K, 10);
+
+(LID, 3078); (126, Message, Test, 10);
+
+(LID, 3079); (127, Message, Test, 10);
+
+(LID, 3080); (128, Message, Test?, 10);
+
+(LID, 3081); (129, Message, Hiii, 10);
+
+(LID, 3082); (130, Message, Hey, 10);
+
+(LID, 3083); (132, Human Name, Beth, 10); (132, Human Name, Nigel Brooks Peer, 10);
+
+(LID, 3084); (133, Human Name, Beth, 10);
+
+(LID, 3085); (134, Human Name, Beth, 10); (134, Human Name, Barbara Leckrone, 10); (134, Human Name, Melissa Marie Eklund, 10);
+
+(LID, 3086); (135, Human Name, Beth, 10);
+
+(LID, 3087); (140, Message, Make sure you don’t call my other phone when taking about chickens., 10);
+
+(LID, 3088); (141, Message, 👌🏻, 10);
+
+(LID, 3089); (142, Message, Guess where I am! Excited., 10);
+
+(LID, 3090); (149, Message, Oh yeah?, 10);
+
+(LID, 3091); (150, Message, Interesting..., 10); (150, Phone Number, +16104572655, 10);
+
+(LID, 3092); (151, Phone Number, +16104572655, 10); (151, Message, Give me a call when you have a min, 10);
+
+(LID, 3093); (152, Message, Do you know how to get to my place?, 10); (152, Phone Number, +16104572655, 10);
+
+(LID, 3094); (153, Message, Send me location for our meeting plz, 10); (153, Phone Number, +16104572655, 10);
+
+(LID, 3095); (154, Message, It’s the lofts across the street from Whole Foods in Exton, pa, 10); (154, Phone Number, +16104572655, 10);
+
+(LID, 3096); (155, Message, I’ll buzz you in, 10); (155, Phone Number, +16104572655, 10);
+
+(LID, 3097); (156, Phone Number, +16104572655, 10);
+
+(LID, 3098); (157, Message, Coming from here, 10); (157, Phone Number, +16104572655, 10);
+
+(LID, 3099); (159, Phone Number, +16104572655, 10);
+
+(LID, 3100); (160, Message, Here!?, 10); (160, Phone Number, +16104572655, 10);
+
+(LID, 3101); (161, Phone Number, +16104572655, 10);
+
+(LID, 3102); (163, Message, Sis was good seeing you, don’t forget about Florida it’s urgent. Talk to you in the morning. What did the f0x say?, 10); (163, Phone Number, +16104572655, 10);
+
+(LID, 3103); (164, Message, Fine. Let me know the details. Baby shark will arrive, 10); (164, Phone Number, +16104572655, 10);
+
+(LID, 3104); (165, Phone Number, +16104572655, 10); (165, Message, Yo. You hading to the keys? Try to make it look like fun not just work, 10);
+
+(LID, 3105); (166, Phone Number, +16104572655, 10); (166, Message, You know me. I’ll make it look luxurious, 10);
+
+(LID, 3107); (174, Message, This line is insane for a rental. Who even needs a rental right? 😂, 10);
+
+(LID, 3108); (175, Message, My phone may die. I’ll check in later. Let me know where to find the f0x, 10);
+
+(LID, 3109); (176, Message, Will do. That’s the Key, 10);
+
+(LID, 3110); (187, Message, About to take off, 10);
+
+(LID, 3111); (188, Message, Baby shark!, 10);
+
+(LID, 3113); (190, Message, First one down. One more this am. I’ll send you a pic and a map, 10);
+
+(LID, 3114); (191, Message, Liked “First one down. One more this am. I’ll send you a pic and a map”, 10);
+
+(LID, 3116); (193, Message, Your Google verification code is 637955., 10);
+
+(LID, 3117); (194, Message, I got a google verification code but didn’t need one., 10);
+
+(LID, 3118); (195, Message, Who could be accessing my account?, 10);
+
+(LID, 3119); (196, Message, Oh I tried last night to Connect with a “marketing” google authentication and forgot the pass. In case it was last night and that, 10);
+
+(LID, 3120); (197, Message, It was at 8:52 this morning. Odd., 10);
+
+(LID, 3121); (198, Message, I’ll change my Google password, 10);
+
+(LID, 3122); (199, Message, Yao not me, 10);
+
+(LID, 3126); (203, Message, Sis. You there?, 10);
+
+(LID, 3127); (204, Message, Might got into little trouble 👿, 10);
+
+(LID, 3128); (205, Message, Was wondering if I could borrow some c-notes, 10);
+
+(LID, 3129); (206, Message, I know I know. Just for few days and will make sure you get it back, 10);
+
+(LID, 3130); (207, Message, I never got the first batch but of course. Family first, 10);
+
+(LID, 3131); (208, Message, I’ll transfer, 10);
+
+(LID, 3132); (209, Message, 😍thank you!, 10);
+
+(LID, 3133); (210, Message, Heading hommmmmmmme, 10);
+
+(LID, 3134); (211, Human Name, Théra Mikaïrou, 10); (211, Human Name, Beth, 10);
+
+(LID, 3135); (212, Human Name, Beth, 10);
+
+(LID, 3136); (217, Message, Send 📷 if there’s any hot 🦊, 10);
+
+(LID, 3137); (227, Message, Disliked an image, 10);
+
+(LID, 3138); (228, Message, Trash right?, 10);
+
+(LID, 3139); (229, Message, Yeah they need some better ones, 10);
+
+(LID, 3140); (230, Message, Like muscles 💪, 10);
+
+(LID, 3141); (246, Message, Sis!!!!, 10);
+
+(LID, 3143); (257, Message, Hi B, 10);
+
+(LID, 3144); (258, Message, Hey!, 10);
+
+(LID, 3145); (259, Message, How are you, 10);
+
+(LID, 3146); (260, Message, Been traveling a ton. How are you?, 10);
+
+(LID, 3147); (261, Message, Are you on FB?, 10);
+
+(LID, 3148); (262, Message, No but I can create one if you want me to, 10);
+
+(LID, 3149); (263, Message, Selfie for you, 10);
+
+(LID, 3150); (264, Message, Not necessary. Just curious., 10);
+
+(LID, 3151); (265, Message, Oh ok, 10);
+
+(LID, 3152); (266, Message, How was your trip, 10);
+
+(LID, 3153); (267, Message, You can send me a selfie if you want. Keep it clean 😂, 10);
+
+(LID, 3154); (268, Message, It was good. Just NC and SC, 10);
+
+(LID, 3155); (269, Message, You traveling too much for work or pleasure, 10);
+
+(LID, 3156); (270, Message, Both, 10);
+
+(LID, 3157); (271, Message, Oh that sounds good, 10);
+
+(LID, 3158); (272, Message, Can I get your selfie plewe, 10);
+
+(LID, 3159); (273, Message, Please, 10);
+
+(LID, 3161); (275, Message, Day drinking one day!, 10);
+
+(LID, 3162); (276, Message, Your turn!, 10);
+
+(LID, 3163); (277, Message, Am currently in London for car business am here to buy 600 Nissan cars to start my dealership, my dealership will be opened on 15th next month, 10);
+
+(LID, 3164); (278, Message, In London?, 10);
+
+(LID, 3165); (279, Message, Where is your dealership?, 10);
+
+(LID, 3166); (280, Message, No pic? No fun, 10);
+
+(LID, 3168); (282, Message, Tell me more about you, 10);
+
+(LID, 3169); (283, Message, Are you married ?, 10);
+
+(LID, 3170); (284, Message, Dating. You?, 10);
+
+(LID, 3171); (285, Message, Where is your pic? And how do you get the cars there? 😳, 10);
+
+(LID, 3172); (286, Message, What's your name?, 10);
+
+(LID, 3173); (287, Message, My name is Martin Jackson, 10); (287, Human Name, Martin Jackson, 10);
+
+(LID, 3174); (288, Message, Japanese car maker have their plant here, am buying from here because they gives me great deal, 10);
+
+(LID, 3175); (289, Message, Got it., 10);
+
+(LID, 3176); (290, Message, I sent you pics did you get it ?, 10);
+
+(LID, 3177); (291, Message, Send me a pic. Maybe I'll buy a car. :), 10);
+
+(LID, 3178); (292, Message, Nope., 10);
+
+(LID, 3179); (293, Message, I'm into cars but not the same way as you, 10);
+
+(LID, 3180); (294, Message, Oh ok, 10);
+
+(LID, 3181); (295, Message, You have a dealership ?, 10);
+
+(LID, 3182); (296, Message, Not exactly. I'm into a plethora of cars. I help people find what they need., 10);
+
+(LID, 3183); (297, Message, Sounds good, 10);
+
+(LID, 3184); (298, Message, How long have you been doing that ?, 10);
+
+(LID, 3185); (299, Message, Just this year. My sister got me into it. She lives in Seattle, 10);
+
+(LID, 3186); (300, Message, Oh ok, 10);
+
+(LID, 3187); (301, Message, How old are you ?, 10);
+
+(LID, 3188); (302, Message, 41, 10);
+
+(LID, 3189); (303, Message, You?, 10);
+
+(LID, 3190); (304, Message, My sister is younger and a hipster. 😒, 10);
+
